@@ -3,6 +3,7 @@
 * Why R? Foundation propose to create a panel of presenters to present weekly webinars. 
 * This panel will be drawn from under-represented minorities.
 * In this document the panel shall be called the Funded Presenter Panel.
+* There will be plausibly four or five people on the panel.
 * Appointment to the Funded Presenter Panel shall be made by Why R? foundation. Each appointment must be approved by the R consortium.
 
 
@@ -24,7 +25,7 @@
 * The proposal envisages the production of 20 one-hour webinars as part of this program (i.e. a pilot programme)
 * The project will be considered completed when 20 webinars have been made under the terms of reference.
 * By mutual agreement, Why R? foundation and the R consortium may agree to continue the project, i.e. an increased number of webinars.
-* While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium.
+* While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium.(This will change the budget accordingly.)
 * If possible, we would like to include webinars that have taken place since 3rd September 2020 in this programme. (Constructively this means a payment to Lais Carvalho for her excellent hosting of two webinars)
 
 ####  Duties and Renumeration of the Funded Panel Presenters
@@ -78,6 +79,12 @@ Total  = Eur 4,500
 * The webinars would need to take place at an appropriate time (e.g. 11am UTC).
 * We hope to recuit presenters the region to be presenters. We would also need to appoint and train webinar producers who will be available at appropriate times.
 
+
+####  Why R? in the Americas
+* Why R? notes the strong eco-system of the R communities in the American continents.
+* Why R? will seek to support the growth of these communities, and will be available for future collaborations.
+* For the foreseeable future, the Why R? foundation does not plan run R community events, unless in partnership with a local entity.
+* This does not preclude people from the Americas participating in our current pattern of events (i.e. events scheduled for European and African time zones)
 
 
 
