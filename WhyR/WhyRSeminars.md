@@ -68,3 +68,16 @@
 * Operating Costs for Why R? Foundation = Eur 1,500
 
 Total  = Eur 4,500
+
+
+## Legacy of the Project
+
+#### Why R? Webinars - Asia and Oceania
+* It is our ambition to have a parallel series of webinars for Asia and Oceania.
+* This series would highlight the contribution of the R community in that part of the world.
+* The webinars would need to take place at an appropriate time (e.g. 11am UTC).
+* We hope to recuit presenters the region to be presenters. We would also need to appoint and train webinar producers who will be available at appropriate times.
+
+
+
+
