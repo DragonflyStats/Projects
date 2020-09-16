@@ -23,6 +23,8 @@ A payment for the presenter for each webinar - EUR 150. The duties of the presen
 
 Payments will be made on the basis of professional services. Presenters are responsible for their own tax affairs. Payments will be made to each presenter and travel expenses will not be funded.
 
+Why R? will need some funds for other expenses Graphic Design, Zoom, etc...
+
 
 <!--
 What is going to be needed to deliver this project? 
@@ -35,9 +37,9 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 ## Funding
 Item                                              | Cost (Euro)
 ------------------------------------------------- | ------------- 
-Presenter Stipend (20 x Eur 150 USD)              |  Eur 3,000  
-Operating Costs for Why R? Foundation             |  Eur 1,500   
-Total = Eur 4,500
+Presenter Stipend (20 sessions x 150)             |  3,000  
+Operating Costs for Why R? Foundation             |  1,500   
+Total                                             |  4,500
 
 
 

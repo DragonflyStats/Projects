@@ -22,8 +22,8 @@ Covering the planning phase, this section should provide a relatively detailed p
 
 Weeks 6 - end: 
 
- * Members will be separated into groups to read and summarise material
- * Members may contact book authors or others for clarification if necessary
+ * Regular meetings with R consortium to approve speakers
+ * 
 
 <!--
 Covering the actual delivery of the project this section should provide at least a high-level the implementation. 

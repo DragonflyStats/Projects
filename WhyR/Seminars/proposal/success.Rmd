@@ -5,7 +5,7 @@ Projects should have a definition of done that is measurable, and a thorough und
 
 ## Definition of done
 
-We define success as successful continuation of the Why R? youtube series.
+We define success as successful continuation of the Why R? series.
 <!-- 
 What does success look like? 
 -->
