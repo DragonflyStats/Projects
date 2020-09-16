@@ -1,0 +1,31 @@
+# The proposal
+
+## Overview
+The goal of this project is support the continuation of the Why R? webinar series.
+
+## Detail
+The Why R? foundation proposes to create a panel of presenters to present weekly webinars. This panel will be drawn from under-represented minorities and called the Funded Presenter Panel. It will consist of four or five people appointed by the Why R? foundation, and approved by the R consortium.
+
+The proposal envisages the production of 20 one-hour webinars as part of this programme (i.e. a pilot programme). The project will be considered completed when 20 webinars have been made under the terms of reference. By mutual agreement, Why R? foundation and the R consortium may agree to continue the project, i.e. an increased number of webinars. While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium. (This will change the budget accordingly.) We would like to include webinars that have taken place since 3rd September 2020 in this programme. (Constructively this means a payment to Lais Carvalho for her excellent hosting of two webinars)
+
+The fundamental principle behind this proposal is “Representation Matters”. The visibility of members of under-represented minorities in positions of responsibility and leadership would be encouraging to under-represented minorities to engage in the R community (i.e. giving talks, co-organizing community events etc).
+
+Webinars that take place during the period, but are not presented by a member of the Funded Presenter Panel, shall not be counted as part of agreed number of productions. This situation may arise no member of the Funded Presenter Panel are available on the date of particular recording (e.g. they have been engaged for similar work by other R conferences).
+
+The webinar series will be used to promote the R consortium brand. For the duration of the project, R consortium branding will appear on all webinar productions (including ones that are not presented by members of the Funded Presenter Panel).
+
+Why R? foundation will produce, and promote each webinar, and is responsible for the recruitment of guest speakers.
+
+
+
+
+
+<!--
+Go into more detail about the specifics of the project and it delivers against the problem.
+
+Depending on project type the detail section should include:
+
+ - [ ] Minimum Viable Product
+ - [ ] Architecture
+ - [ ] Assumptions
+-->

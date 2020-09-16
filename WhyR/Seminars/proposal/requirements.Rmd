@@ -1,0 +1,56 @@
+# Requirements
+<!-- 
+An idea of what is required to make the project actually happen
+-->
+
+## People
+
+This work will be completed by the team at Why R that is already in place.
+
+<!--
+Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
+-->
+
+## Processes
+We have a COC that has worked since we started in 2016 and we will continue to use. We anticipate having meetings every 2 months about progress and quarterly ISC meetings.
+
+<!-- 
+What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
+-->
+
+## Tools & Tech & Development
+A payment for the presenter for each webinar - EUR 150. The duties of the presenter are to research the topic and prepare questions for the interview, take part in a test recording (“a sound check”) in advance of the scheduled webinar, present the webinar, introduce the speaker, and afterwards, leading the Questions and Answer session. They will also assist in the promotion of the event on Social Media.
+
+Payments will be made on the basis of professional services. Presenters are responsible for their own tax affairs. Payments will be made to each presenter and travel expenses will not be funded.
+
+Why R? will need some funds for other expenses Graphic Design, Zoom, etc...
+
+
+<!--
+What is going to be needed to deliver this project? 
+
+Will cloud computing be used - if yes are there are necessary components that will be deciding factors between providers?
+
+Are there tools or tech that don't exist that will be produced to facilitate the project?
+-->
+
+## Funding
+Item                                              | Cost (Euro)
+------------------------------------------------- | ------------- 
+Presenter Stipend (20 sessions x 150)             |  3,000  
+Operating Costs for Why R? Foundation             |  1,500   
+Total                                             |  4,500
+
+
+
+<!-- 
+[TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
+
+-->
+
+<!--  ## Summary -->
+
+
+<!--
+A summary of the requirements that contextualises the costs
+-->

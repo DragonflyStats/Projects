@@ -1,0 +1,18 @@
+# The Problem
+
+There are many stories about the history of R and its precursor S. The purpose of this proposal is to understand the differences between S and R by reading, collating, and summarising materials related to this and making it easy for everyone to access. Interviews with people who worked on both languages may help clarify some materials.
+
+There is interest in [the](https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html) [history](https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html) [of](https://statfr.blogspot.com/2018/08/r-generation-story-of-statistical.html) [R](https://mran.microsoft.com/documents/what-is-r), but it is disjointed and difficult for the average R user to locate. We will bring together these resources and make them easily accesible.
+
+<!-- 
+Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!
+
+It is important to cover:
+
+ - [ ] What the problem is
+ - [ ] Who it affects
+ - [ ] Have there been previous attempts to resolve the problem
+ - [ ] Why it should be tackled
+-->
+
+
