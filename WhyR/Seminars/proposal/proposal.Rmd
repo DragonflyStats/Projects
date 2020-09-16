@@ -2,12 +2,16 @@
 
 ## Overview
 
-This project will outline the differences between S and R to the R community.
+The goal of this project is support the continuation of the Why R? webinar series.
 
 ## Detail
-Before any work commences we will develop a code of conduct, find new members, and confirm the ownership of all intellectual property. We would like new members who study the history of computing as guides for this research, since we are coders and statisticians.
+The Why R? foundation proposes to create a panel of presenters to present weekly webinars. This panel will be drawn from under-represented minorities and called the Funded Presenter Panel. It will consist of four or five people appointed by the Why R? foundation, and approved by the R consortium.
 
-Once this is complete, we will seperate into groups to read and summarise relevant material. If any group needs more clarification we may interview some of the original authors for clarification. Once completed, we will make summaries available to the public.
+The proposal envisages the production of 20 one-hour webinars as part of this programme (i.e. a pilot programme). The project will be considered completed when 20 webinars have been made under the terms of reference. By mutual agreement, Why R? foundation and the R consortium may agree to continue the project, i.e. an increased number of webinars. While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium. (This will change the budget accordingly.) We would like to include webinars that have taken place since 3rd September 2020 in this programme. (Constructively this means a payment to Lais Carvalho for her excellent hosting of two webinars)
+
+
+
+
 
 <!--
 Go into more detail about the specifics of the project and it delivers against the problem.

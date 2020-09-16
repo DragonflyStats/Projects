@@ -1,8 +1,10 @@
 # The Problem
 
-There are many stories about the history of R and its precursor S. The purpose of this proposal is to understand the differences between S and R by reading, collating, and summarising materials related to this and making it easy for everyone to access. Interviews with people who worked on both languages may help clarify some materials.
+The Why R? foundation is based in Poland, but has collaborators all across Europe and Africa (This geographic constraint is fundamentally due to similar time zones.) The foundation has run a series of pre-meetings since 2016 and a webinar series since April 2020. There have been 16 webinars to date. The ambition of Why R? is to use proceeds of the conferences and pre-meetings to support R community events around the world. Why R? will seek to build strong sponsor relations to strengten its ability to provide fiscal support.
 
-There is interest in [the](https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html) [history](https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html) [of](https://statfr.blogspot.com/2018/08/r-generation-story-of-statistical.html) [R](https://mran.microsoft.com/documents/what-is-r), but it is disjointed and difficult for the average R user to locate. We will bring together these resources and make them easily accesible.
+Webinars usually take place on Thursday at 6pm UTC, evening time in Europe and Africa. We find that more people watch the recordings that are available online than the live stream. In accordance with best community standards, we try to invite speakers from a broad spectrum of backgrounds, and to highlight the work of RLadies.
+
+
 
 <!-- 
 Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!

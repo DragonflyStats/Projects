@@ -5,8 +5,7 @@ Projects should have a definition of done that is measurable, and a thorough und
 
 ## Definition of done
 
-We define success as having educated the R community about the differences between R and S. 
-
+We define success as successful continuation of the Why R? youtube series.
 <!-- 
 What does success look like? 
 -->
@@ -20,8 +19,10 @@ How will we know when success is achieved, what markers can we use along the way
 -->
 
 ## Future work
+It is our ambition to have a parallel series of webinars for Asia and Oceania. This series would highlight the contribution of the R community in that part of the world. The webinars would need to take place at an appropriate time (e.g. 11am UTC). We hope to recruit presenters from the region. We would also need to appoint and train webinar producers who will be available at appropriate times.
 
-After this work other chapters of this research could include Prior to RCore, initial packages developed, RFoundation, CRAN, and RConsortium. 
+Why R? notes the strong eco-system of the R communities in the American continents. Why R? will seek to support the growth of these communities, and will be available for future collaborations. For the foreseeable future, the Why R? foundation does not plan run R community events, unless in partnership with a local entity. This does not preclude people from the Americas participating in our current pattern of events (i.e. events scheduled for European and African time zones)
+
 
 
 <!-- 
@@ -30,7 +31,7 @@ How could this be extended / developed in the future by yourself and/or the comm
 
 ## Key risks
 
-We are hopeful that the authors of S, R, and the authors of relevant books are willing to speak with us.
+We are hopeful that we can continue to find high quality speakers who have the time to work with us.
 
 <!-- 
 What sort of things could come up that can delay or break the project?

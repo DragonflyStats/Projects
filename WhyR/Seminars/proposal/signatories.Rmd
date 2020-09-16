@@ -7,10 +7,8 @@ An optional section would be for R-Core signatories where changes to R are propo
 
 ## Project team
 
-* [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee 
 * Kevin O'Brien, RForwards community team
-* Ritwik Mitra, RForwards Member
-* [Lorna Maria Aine](https://www.youtube.com/channel/UCrvp8p_ONLjR25hzCz18sWA), AfricaR member, RForwards member
+
 
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
@@ -18,13 +16,8 @@ Who are the people responsible for actually delivering the project if the propos
 
 ## Consulted
 
-* [Thomas Lumley](https://unidirectory.auckland.ac.nz/profile/t-lumley), R Core member
-* [Ross Ihaka](https://www.stat.auckland.ac.nz/~ihaka/), R Core member
-* Samantha Toet, ISC member
-* Joseph Rickert, ISC member
-* [Maelle Salmon](https://masalmon.eu/), rOpenSci, RLadies Global team
-* [Di Cook](http://dicook.org/), useR! 2018 chair
-* Heather Turner, RForwards chairperson
+* [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee 
+
 
 
 

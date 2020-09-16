@@ -2,7 +2,7 @@
 title: "Why R? About "
 author: "gwynn sturdevant"
 date: "14 September 2020"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, eval=TRUE, results='hide', echo=FALSE}
