@@ -1,0 +1,20 @@
+# The proposal
+
+## Overview
+
+This project will outline the differences between S and R to the R community.
+
+## Detail
+Before any work commences we will develop a code of conduct, find new members, and confirm the ownership of all intellectual property. We would like new members who study the history of computing as guides for this research, since we are coders and statisticians.
+
+Once this is complete, we will seperate into groups to read and summarise relevant material. If any group needs more clarification we may interview some of the original authors for clarification. Once completed, we will make summaries available to the public.
+
+<!--
+Go into more detail about the specifics of the project and it delivers against the problem.
+
+Depending on project type the detail section should include:
+
+ - [ ] Minimum Viable Product
+ - [ ] Architecture
+ - [ ] Assumptions
+-->

@@ -1,0 +1,43 @@
+# Success
+<!-- 
+Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
+-->
+
+## Definition of done
+
+We define success as having educated the R community about the differences between R and S. 
+
+<!-- 
+What does success look like? 
+-->
+
+## Measuring success
+
+We will measure this by the outputs that we have made freely available to the R Community. We will summarize information and make it available to all.
+
+<!-- 
+How will we know when success is achieved, what markers can we use along the way 
+-->
+
+## Future work
+
+After this work other chapters of this research could include Prior to RCore, initial packages developed, RFoundation, CRAN, and RConsortium. 
+
+
+<!-- 
+How could this be extended / developed in the future by yourself and/or the community in general?
+-->
+
+## Key risks
+
+We are hopeful that the authors of S, R, and the authors of relevant books are willing to speak with us.
+
+<!-- 
+What sort of things could come up that can delay or break the project?
+
+ - [ ] People
+ - [ ] Processes
+ - [ ] Tooling & Technology
+ - [ ] Costs
+
+-->

@@ -1,0 +1,45 @@
+# Project plan
+
+## Start-up phase
+
+Weeks 1 - 5: 
+
+* Invite new team members via Twitter/LinkedIn
+* Team orientation for all members
+* Code of conduct and a website 
+
+<!--
+Covering the planning phase, this section should provide a relatively detailed plan of how work will start on the project. This section is important because projects need to get up and running quickly.
+
+
+ - [ ] Setting up collaboration platform inc. code for contributors etc.
+ - [ ] Licence decisions
+ - [ ] Reporting framework
+-->
+
+
+## Technical delivery
+
+Weeks 6 - end: 
+
+ * Members will be separated into groups to read and summarise material
+ * Members may contact book authors or others for clarification if necessary
+
+<!--
+Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
+
+Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
+-->
+
+## Other aspects
+
+We will use Twitter and LinkedIn to find new team members, and look carefully for historians that might be interested in guiding us through this process.
+<!--
+Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
+
+ - [ ] Announcement post
+ - [ ] Delivery blog post
+ - [ ] Twitter
+ - [ ] UseR!
+ - [ ] ISC meetings
+-->
