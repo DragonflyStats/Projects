@@ -6,6 +6,7 @@
 "Aontu","12/09/2020",NA,11357
 "Aontu","15/09/2020",10868,11373
 "Aontu","19/09/2020",10992,11440
+"Aontu","22/09/2020",10928,11448
 "Ben Gilroy","12/09/2020",NA,8860
 "Ben Gilroy","15/09/2020",7930,8879
 "Ben Gilroy","19/09/2020",7951,8899
@@ -17,18 +18,21 @@
 "Brid Smith","16/09/2020",14677,15094
 "Brid Smith","19/09/2020",14688,15108
 "Cathal Berry","20/09/2020",2770,3036
+"Catherin Martin","22/09/2020",2954,3134
 "Catherine Martin","19/09/2020",2957,3135
 "Claire Byrne","15/09/2020",1040,1055
 "Claire Byrne","19/09/2020",1040,1055
 "Clare Daly","16/09/2020",21260,22197
 "Clare Daly","21/09/2020",21330,22291
 "Conservative Comeback Ireland","19/09/2020",982,1002
+"Daily Ireland","22/09/2020",30355,32242
 "Danny Healy Rae","12/09/2020",NA,14764
 "Danny Healy Rae","16/09/2020",12849,14791
 "Danny Healy Rae","20/09/2020",12852,14795
 "Dolores Cahill","15/09/2020",5964,7456
 "Dolores Cahill","17/09/2020",6023,7529
 "Dolores Cahill","19/09/2020",6067,7585
+"Dolores Cahill","22/09/2020",6238,7885
 "Donegal Sinn Fein","20/09/2020",11709,11803
 "Eamon Ryan","12/09/2020",NA,7889
 "Eamon Ryan","18/09/2020",7687,7898
@@ -38,6 +42,7 @@
 "Fine Gael","12/09/2020",NA,41348
 "Fine Gael","15/09/2020",40000,41386
 "Fine Gael","19/09/2020",40016,41408
+"Fine Gael","22/09/2020",40016,41417
 "Frankie Daly","20/09/2020",5679,5854
 "Gary Gannon","18/09/2020",3139,3241
 "Gary Gannon","20/09/2020",3139,3242
@@ -45,6 +50,7 @@
 "Grand Torino","15/09/2020",7539,10131
 "Grand Torino","18/09/2020",7808,10439
 "Grand Torino","21/09/2020",7973,10639
+"Grand Torino","22/09/2020",7973,10639
 "Green Party","12/09/2020",NA,17983
 "Green Party","15/09/2020",17259,18026
 "Green Party","18/09/2020",17290,18057
@@ -52,6 +58,7 @@
 "Gript Media","15/09/2020",22717,27885
 "Gript Media","18/09/2020",22751,27952
 "Gript Media","19/09/2020",22273,28002
+"Gript Media","22/09/2020",22836,28225
 "Hazel Chu","15/09/2020",778,828
 "Hazel Chu","19/09/2020",784,836
 "Hazel Chu","20/09/2020",785,837
@@ -61,6 +68,7 @@
 "Holly Cairns","12/09/2020",NA,6339
 "Holly Cairns","15/09/2020",5963,6343
 "Holly Cairns","19/09/2009",5999,6380
+"Holly Cairns","22/09/2020",6030,6415
 "Integrity Ireland","15/09/2020",9664,10045
 "Integrity Ireland","19/09/2020",9665,10046
 "Iona Institute","16/09/2020",7636,7756
@@ -69,6 +77,7 @@
 "Irish Freedom Party","12/09/2020",NA,13848
 "Irish Freedom Party","15/09/2020",13246,13896
 "Irish Freedom Party","19/09/2020",13279,13928
+"Irish Freedom Party","22/09/2020",13294,13943
 "Jennifer Whitmore","20/09/2020",3360,3589
 "Josepha Madigan","20/09/2020",5929,6256
 "Labour Party","12/09/2020",NA,29473
@@ -77,6 +86,7 @@
 "Leo Varadkar","12/09/2020",NA,101169
 "Leo Varadkar","16/09/2020",86957,101197
 "Leo Varadkar","20/09/2020",87426,101609
+"Leo Varadkar","22/09/2020",87282,101676
 "Luke 'Ming' Flanagan","15/09/2020",67433,67796
 "Luke 'Ming' Flanagan","19/09/2020",67409,67775
 "Marian Harkin","12/09/2020",NA,4173
@@ -134,8 +144,10 @@
 "Ronan Mullen","12/09/2020",NA,3614
 "Ronan Mullen","16/09/2020",3575,3614
 "Ronan Mullen","19/09/2020",3573,3612
+"Simon Coveney","22/09/2020",13682,14361
 "Simon Harris","15/09/2020",28808,30084
 "Simon Harris","21/09/2020",28915,30200
+"Simon Harris","22/09/2020",28930,30221
 "Sinn Fein","12/09/2020",NA,246657
 "Sinn Fein","17/09/2020",220017,246736
 "Sinn Fein","20/09/2020",220073,246847
@@ -156,16 +168,4 @@
 "Yellow Vest Ireland","17/09/2020",47582,53284
 "Yellow Vest Ireland","19/09/2020",47621,53331
 "Yellow Vest Ireland","21/09/2020",47724,53426
-Aontu,22/09/2020,10928,11448
-Grand Torino,22/09/2020,7973,10639
-Gript Media,22/09/2020,22836,28225
-Yellow Vest Ireland,22/09/2020,47744,53446
-Daily Ireland,22/09/2020,30355,32242
-Dolores Cahill,22/09/2020,6238,7885
-Irish Freedom Party,22/09/2020,13294,13943
-Holly Cairns,22/09/2020,6030,6415
-Catherin Martin,22/09/2020,2954,3134
-Simon Harris,22/09/2020,28930,30221
-Leo Varadkar,22/09/2020,87282,101676
-Simon Coveney,22/09/2020,13682,14361
-Fine Gael,22/09/2020,40016,41417
+"Yellow Vest Ireland","22/09/2020",47744,53446
