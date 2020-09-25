@@ -1,30 +1,7 @@
 "Name","Date","Likes","Followers"
+"557","",NA,NA
 "Alan Kelly","19/09/2020",2433,2581
 "Alan Kelly","24/09/2020",2437,2587
-Grand Torino,24/09/2020,7974,10645
-Jennifer Whitmore,24/09/2020,3360,3589
-Stephen Donnelly,24/09/2020,9891,10079
-Jack Chambers,24/09/2020,5422,5612
-Mary Fitzpatrick,24/09/2020,2933,2992
-Save Leitrim,24/09/2020,5263,5472
-Save Kerry,24/09/2020,324,346
-NP Wexford,25/09/2020,515,522
-NP Longford,25/09/2020,548,556
-NP Cork,25/09/2020,591,605
-NP Sligo,25/09/2020,686,691
-NP Mayo,25/09/2020,589,596
-Social Democrats,25/09/2020,10480,10671
-Sinn Fein,25/09/2020,220294,247097
-Green Party,25/09/2020,17360,18126
-Labour Party,25/09/2020,29167,29562
-Marie Sherlock,25/09/2020,553,618
-Workers Party,25/09/2020,8858,9151
-Niall McConnell,25/09/2020,4250,4447
-NP Kerry,25/09/2020,536,547
-NP Limerick,25/09,2020,550,557
-Matt Carthy,25/09/2020,30224,31701
-Pádraig Mac Lochlainn,25/09/2020,13695,14043
-Marian Harkin,25/09/2020,4052,4177
 "Anti-Corruption Ireland","18/09/2020",1217,1262
 "Anti-Corruption Ireland","23/09/2020",1236,1281
 "Anti-Globalism Ireland","15/09/2020",507,513
@@ -32,9 +9,6 @@ Marian Harkin,25/09/2020,4052,4177
 "Anti-Globalism Ireland","24/09/2020",513,519
 "Aontu","12/09/2020",NA,11357
 "Aontu","15/09/2020",10868,11373
-Grand Torino,25/09/2020,7981,10651
-Dolores Cahill,25/09/2020,6504,8265
-Maurice Quinlivan,25/09/2020,9752,9837
 "Aontu","19/09/2020",10992,11440
 "Aontu","22/09/2020",10928,11448
 "Aontu","24/09/2020",10946,11462
@@ -76,6 +50,7 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Dolores Cahill","19/09/2020",6067,7585
 "Dolores Cahill","22/09/2020",6238,7885
 "Dolores Cahill","24/09/2020",6349,8016
+"Dolores Cahill","25/09/2020",6504,8265
 "Donegal Sinn Fein","20/09/2020",11709,11803
 "Donegal Sinn Fein","24/09/2020",11708,11802
 "Eamon Ryan","12/09/2020",NA,7889
@@ -99,11 +74,14 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Grand Torino","18/09/2020",7808,10439
 "Grand Torino","21/09/2020",7973,10639
 "Grand Torino","22/09/2020",7973,10639
+"Grand Torino","24/09/2020",7974,10645
+"Grand Torino","25/09/2020",7981,10651
 "Green Party","12/09/2020",NA,17983
 "Green Party","15/09/2020",17259,18026
 "Green Party","18/09/2020",17290,18057
 "Green Party","19/09/2020",17311,18078
 "Green Party","23/09/2020",17355,18120
+"Green Party","25/09/2020",17360,18126
 "Gript Media","15/09/2020",22717,27885
 "Gript Media","18/09/2020",22751,27952
 "Gript Media","19/09/2020",22273,28002
@@ -133,7 +111,9 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Irish Freedom Party","15/09/2020",13246,13896
 "Irish Freedom Party","19/09/2020",13279,13928
 "Irish Freedom Party","22/09/2020",13294,13943
+"Jack Chambers","24/09/2020",5422,5612
 "Jennifer Whitmore","20/09/2020",3360,3589
+"Jennifer Whitmore","24/09/2020",3360,3589
 "Joan Collins","24/09/2020",7371,7484
 "Josepha Madigan","20/09/2020",5929,6256
 "Josepha Madigan","23/09/2020",5932,6261
@@ -141,6 +121,7 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Labour Party","12/09/2020",NA,29473
 "Labour Party","15/09/2020",29121,29498
 "Labour Party","20/09/2020",29127,29512
+"Labour Party","25/09/2020",29167,29562
 "Leo Varadkar","12/09/2020",NA,101169
 "Leo Varadkar","16/09/2020",86957,101197
 "Leo Varadkar","20/09/2020",87426,101609
@@ -153,15 +134,20 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Marian Harkin","12/09/2020",NA,4173
 "Marian Harkin","18/09/2020",4048,4173
 "Marian Harkin","21/09/2020",4049,4174
+"Marian Harkin","25/09/2020",4052,4177
+"Marie Sherlock","25/09/2020",553,618
 "Mark Daly"," 19/09/2020",3324,3401
 "Mark Daly","19/09/2020",3324,3401
 "Mark Daly","24/09/2020",3327,3404
+"Mary Fitzpatrick","24/09/2020",2933,2992
 "Mary Lou McDonald","12/09/2020",NA,160708
 "Mary Lou McDonald","16/09/2020",158329,160769
 "Mary Lou McDonald","19/09/2020",158470,160900
 "Mary Lou McDonald","23/09/2020",158851,161311
 "Matt Carthy","20/09/2020",30167,31643
+"Matt Carthy","25/09/2020",30224,31701
 "Maurice Quinlivan","20/09/2020",9751,9834
+"Maurice Quinlivan","25/09/2020",9752,9837
 "Michael Healy-Rae","16/09/2020",19244,22568
 "Michael Healy-Rae","18/09/2020",19259,22595
 "Michael Healy-Rae","23/09/2020",19282,22622
@@ -185,22 +171,31 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Niall McConnell","18/09/2020",4157,4342
 "Niall McConnell","21/09/2020",4209,4398
 "Niall McConnell","23/09/2020",4222,4413
+"Niall McConnell","25/09/2020",4250,4447
 "NP Cork","15/09/2020",589,603
 "NP Cork","18/09/2020",589,603
 "NP Cork","21/09/2020",589,603
+"NP Cork","25/09/2020",591,605
 "NP Dublin","19/09/2020",1509,1587
 "NP Dublin","23/09/2020",1508,1586
 "NP Galway","19/09/2020",529,544
 "NP Galway","24/09/2020",532,547
 "NP Kerry","20/09/2020",536,547
+"NP Kerry","25/09/2020",536,547
+"NP Limerick","25/09",2020,550
 "NP Longford","23/09/2020",547,555
+"NP Longford","25/09/2020",548,556
 "NP Mayo","19/09/2009",587,594
 "NP Mayo","20/09/2020",587,594
+"NP Mayo","25/09/2020",589,596
 "NP Sligo","20/09/2020",683,688
+"NP Sligo","25/09/2020",686,691
 "NP Westmeath","20/09/2020",535,545
 "NP Westmeath","23/09/2020",540,550
 "NP Wexford","18/09/2020",513,521
 "NP Wexford","21/09/2020",515,523
+"NP Wexford","25/09/2020",515,522
+"Pádraig Mac Lochlainn","25/09/2020",13695,14043
 "Padraig Mac Lochlainn","20/09/2020",13694,14038
 "Paschal Donohoe","24/09/2020",4470,4597
 "Patrick Costello","20/09/2020",723,765
@@ -228,6 +223,8 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Ronan Mullen","16/09/2020",3575,3614
 "Ronan Mullen","19/09/2020",3573,3612
 "Ronan Mullen","24/09/2020",3571,3610
+"Save Kerry","24/09/2020",324,346
+"Save Leitrim","24/09/2020",5263,5472
 "Sean Kelly","24/09/2020",6769,6957
 "Simon Coveney","22/09/2020",13682,14361
 "Simon Harris","15/09/2020",28808,30084
@@ -236,12 +233,15 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Sinn Fein","12/09/2020",NA,246657
 "Sinn Fein","17/09/2020",220017,246736
 "Sinn Fein","20/09/2020",220073,246847
+"Sinn Fein","25/09/2020",220294,247097
 "SIPTU","19/09/2020",17686,18126
 "SIPTU","24/09/2020",17736,18266
 "Social Democrats","12/09/2020",NA,10666
 "Social Democrats","15/09/2020",10480,10670
 "Social Democrats","18/09/2020",10475,10665
 "Social Democrats","20/09/2020",10477,10667
+"Social Democrats","25/09/2020",10480,10671
+"Stephen Donnelly","24/09/2020",9891,10079
 "The Irexiteer","19/09/2020",730,750
 "The Irexiteer","24/09/2020",735,755
 "TheLiberal.ie","15/09/2020",542526,548189
@@ -253,6 +253,7 @@ Maurice Quinlivan,25/09/2020,9752,9837
 "Willie O'Dea","19/09/2020",5565,5695
 "Willie O'Dea","24/09/2020",5562,5692
 "Workers Party","20/09/2020",8860,9152
+"Workers Party","25/09/2020",8858,9151
 "Yellow Vest Ireland","12/09/2020",NA,52616
 "Yellow Vest Ireland","15/09/2020",47402,53091
 "Yellow Vest Ireland","17/09/2020",47582,53284
