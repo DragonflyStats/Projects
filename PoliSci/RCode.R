@@ -9,4 +9,4 @@ Update <- myData %>% arrange(Name,desc(Date)) %>%
           slice(1) %>%
           arrange(Date)
 
-
+write.csv(myData, "Facebook.csv",row.names=FALSE)
