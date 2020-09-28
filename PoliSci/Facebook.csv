@@ -1,8 +1,6 @@
 "Name","Date","Likes","Followers"
 "Alan Kelly","19/09/2020",2433,2581
 "Alan Kelly","24/09/2020",2437,2587
-Luke 'Ming' Flanagan,28/09/2020,67369,67735
-Neasa Hourigan,28/09/2020,673,742
 "Alan Kelly","27/09/2020",2439,2590
 "Anti-Corruption Ireland","18/09/2020",1217,1262
 "Anti-Corruption Ireland","23/09/2020",1236,1281
@@ -11,9 +9,8 @@ Neasa Hourigan,28/09/2020,673,742
 "Anti-Globalism Ireland","15/09/2020",507,513
 "Anti-Globalism Ireland","19/09/2020",511,517
 "Anti-Globalism Ireland","24/09/2020",513,519
+"Anti-Globalism Ireland","28/09/2020",513,519
 "Antifa Watch Ireland","27/09/2020",1179,1217
-Corruption Awareness Ireland,28/09/2020,22664,27403
-Irish Freedom Party,28/09/2020,13444,14095
 "Aontu","12/09/2020",NA,11357
 "Aontu","15/09/2020",10868,11373
 "Aontu","19/09/2020",10992,11440
@@ -25,16 +22,6 @@ Irish Freedom Party,28/09/2020,13444,14095
 "Ben Gilroy","19/09/2020",7951,8899
 "Ben Gilroy","23/09/2020",7970,8918
 "Ben Gilroy","26/09/2020",7984,8932
-Clare Daly,28/09/2020, 21363,22334
-Joan Collins,28/09/2020,7378,7491
-Conservative Comeback Ireland,28/09/2020,979,999
-Josepha Madigan,28/09/2020,5950,6281
-Anti-Globalism Ireland,28/09/2020,513,519
-Danny Healy Rae,28/09/2020,12856,14812
-Claire Byrne,28/09/2020,1040,1055
-Brid Smith,28/09/2020,14776,15187
-Brendan Smith,28/09/2020,3581,3734
-Donegal Sinn Fein,28/09/2020, 11745,11839
 "Ben Scallan","15/09/2020",12705,13452
 "Ben Scallan","18/09/2020",12713,13455
 "Ben Scallan","21/09/2020",12721,13462
@@ -42,6 +29,7 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "Ben Scallan","27/09/2020",12741,13483
 "Brendan Smith","20/09/2020",3580,3730
 "Brendan Smith","24/09/2020",3581,3732
+"Brendan Smith","28/09/2020",3581,3734
 "Brian Leddin","20/09/2020",632,668
 "Brian Leddin","24/09/2020",635,672
 "Brian Leddin","27/09/2020",635,673
@@ -49,6 +37,7 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "Brid Smith","19/09/2020",14688,15108
 "Brid Smith","23/09/2020",14706,15126
 "Brid Smith","24/09/2020",14727,15145
+"Brid Smith","28/09/2020",14776,15187
 "Cathal Berry","20/09/2020",2770,3036
 "Cathal Berry","24/09/2020",2791,3069
 "Cathal Berry","27/09/2020",2795,3077
@@ -59,18 +48,23 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "Claire Byrne","15/09/2020",1040,1055
 "Claire Byrne","19/09/2020",1040,1055
 "Claire Byrne","24/09/2020",1040,1055
+"Claire Byrne","28/09/2020",1040,1055
 "Clare Daly","16/09/2020",21260,22197
 "Clare Daly","21/09/2020",21330,22291
 "Clare Daly","24/09/2020",21348,22316
+"Clare Daly","28/09/2020",21363,22334
 "Conservative Comeback Ireland","19/09/2020",982,1002
 "Conservative Comeback Ireland","24/09/2020",982,1002
+"Conservative Comeback Ireland","28/09/2020",979,999
 "Corruption Awareness Ireland","26/09/2020",22121,26671
+"Corruption Awareness Ireland","28/09/2020",22664,27403
 "Daily Ireland","22/09/2020",30355,32242
 "Daily Ireland","26/09/2020",30378,32268
 "Danny Healy Rae","12/09/2020",NA,14764
 "Danny Healy Rae","16/09/2020",12849,14791
 "Danny Healy Rae","20/09/2020",12852,14795
 "Danny Healy Rae","24/09/2020",12856,14807
+"Danny Healy Rae","28/09/2020",12856,14812
 "Dolores Cahill","15/09/2020",5964,7456
 "Dolores Cahill","17/09/2020",6023,7529
 "Dolores Cahill","19/09/2020",6067,7585
@@ -80,6 +74,7 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "Dolores Cahill","27/09/2020",6803,8705
 "Donegal Sinn Fein","20/09/2020",11709,11803
 "Donegal Sinn Fein","24/09/2020",11708,11802
+"Donegal Sinn Fein","28/09/2020",11745,11839
 "Eamon Ryan","12/09/2020",NA,7889
 "Eamon Ryan","18/09/2020",7687,7898
 "Eamon Ryan","23/09/2020",7696,7907
@@ -157,15 +152,18 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "Irish Freedom Party","22/09/2020",13294,13943
 "Irish Freedom Party","26/09/2020",13417,14064
 "Irish Freedom Party","27/09/2020",13432,14083
+"Irish Freedom Party","28/09/2020",13444,14095
 "Jack Chambers","24/09/2020",5422,5612
 "Jack Chambers","27/09/2020",5429,5619
 "Jennifer Whitmore","20/09/2020",3360,3589
 "Jennifer Whitmore","24/09/2020",3360,3589
 "Jennifer Whitmore","27/09/2020",3368,3600
 "Joan Collins","24/09/2020",7371,7484
+"Joan Collins","28/09/2020",7378,7491
 "Josepha Madigan","20/09/2020",5929,6256
 "Josepha Madigan","23/09/2020",5932,6261
 "Josepha Madigan","24/09/2020",5931,6260
+"Josepha Madigan","28/09/2020",5950,6281
 "Kathleen Funchion","26/09/2020",6777,6977
 "Kerry Sinn Fein","26/09/2020",1722,1821
 "Kieran O'Donnell","27/09/2020",2779,2836
@@ -182,8 +180,11 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "Luke 'Ming' Flanagan","19/09/2020",67409,67775
 "Luke 'Ming' Flanagan","24/09/2020",67385,67753
 "Luke 'Ming' Flanagan","26/09/2020",67376,67743
+"Luke 'Ming' Flanagan","28/09/2020",67369,67735
 "Mairead McGuiness","24/09/2020",11739,12117
+"Mairead McGuinness","28/09/2020",11745,12124
 "Maria Walsh","24/09/2020",12167,12473
+"Maria Walsh","28/09/2020",12164,12471
 "Marian Harkin","12/09/2020",NA,4173
 "Marian Harkin","18/09/2020",4048,4173
 "Marian Harkin","21/09/2020",4049,4174
@@ -225,6 +226,7 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "National Party","27/09/2020",8280,8908
 "Neasa Hourigan","19/09/2020",670,740
 "Neasa Hourigan","24/09/2020",673,742
+"Neasa Hourigan","28/09/2020",673,742
 "Niall Collins","19/09/2020",11753,11938
 "Niall Collins","24/09/2020",11771,11958
 "Niall Collins","26/09/2020",11780,11966
@@ -284,10 +286,6 @@ Donegal Sinn Fein,28/09/2020, 11745,11839
 "People Before Profit","27/09/2020",56365,58570
 "Peter Burke","26/09/2020",4463,4619
 "Reality Ireland","26/09/2020",6994,7044
-Ronan Mullen,28/09/2020,3571,3610
-Maria Walsh,28/09/2020,12164,12471
-Sean Walsh,28/09/2020,6770,6958
-Mairead McGuinness,28/09/2020,11745,12124
 "Richard Boyd Barrett","16/09/2020",13380,14575
 "Richard Boyd Barrett","19/09/2020",13589,14927
 "Richard Boyd Barrett","23/09/2020",13827,15208
@@ -303,11 +301,13 @@ Mairead McGuinness,28/09/2020,11745,12124
 "Ronan Mullen","16/09/2020",3575,3614
 "Ronan Mullen","19/09/2020",3573,3612
 "Ronan Mullen","24/09/2020",3571,3610
+"Ronan Mullen","28/09/2020",3571,3610
 "Save Kerry","24/09/2020",324,346
 "Save Kerry","27/09/2020",324,346
 "Save Leitrim","24/09/2020",5263,5472
 "Save Leitrim","27/09/2020",5270,5480
 "Sean Kelly","24/09/2020",6769,6957
+"Sean Walsh","28/09/2020",6770,6958
 "Simon Coveney","22/09/2020",13682,14361
 "Simon Coveney","26/09/2020",13691,14373
 "Simon Harris","15/09/2020",28808,30084
