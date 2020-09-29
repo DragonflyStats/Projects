@@ -2,35 +2,6 @@
 "Alan Kelly","19/09/2020",2433,2581
 "Alan Kelly","24/09/2020",2437,2587
 "Alan Kelly","27/09/2020",2439,2590
-Luke 'Ming' Flanagan,29/09/2020,67364,67730
-Neasa Hourigan,29/09/2020,673,742
-Tracey O'Mahony,29/09/2020,3992,4141
-Green Party,29/09/2020,17362,18132
-Gript Media,29/09/2020,23035,28568
-Willie O'Dea,29/09/2020,5565,5698
-Antifa Watch Ireland,29/09/2020,1182,1221
-Corruption Awarness Ireland,29/09/2020,22945,27797
-Eamon Ryan,29/09/2020,7702,7915
-Willie O'Dea,29/09/2020,5565,5698
-The Irexiteer,29/09/2020,736,757
-NP Cork,29/09/2020,592,606
-NP Laois,29/09/2020,542,545
-NP Sligo,29/09/2020,686,691
-Marie Sherlock,29/09/2020,553,618
-Maurice Quinlivan,29/09/2020,9750,9834
-Pearse Doherty,29/09/2020,72040,78105
-Marian Harkin,29/09/2020,4055,4180
-Matt Carthy,29/09/2020,30253,31732
-Patrick Costello,29/09/2020,723,766
-Mark Daly,29/09/2020,3334,3411
-NP Kerry,29/09/2020,537,548
-Labour Party,29/09/2020,29179,29754
-Irish Freedom Party,29/09/2020,13471,14123
-Dolores Cahill,29/09/2020,6976,8966
-Stephen Donnelly,29/09/2020,9896,10085
-Social Democrats,29/09/2020,10495,10687
-Roisin Shortall,29/09/2020,2277,2448
-SIPTU,29/09/2020,17755,18285
 "Anti-Corruption Ireland","18/09/2020",1217,1262
 "Anti-Corruption Ireland","23/09/2020",1236,1281
 "Anti-Corruption Ireland","26/09/2020",1739,1896
@@ -40,6 +11,7 @@ SIPTU,29/09/2020,17755,18285
 "Anti-Globalism Ireland","24/09/2020",513,519
 "Anti-Globalism Ireland","28/09/2020",513,519
 "Antifa Watch Ireland","27/09/2020",1179,1217
+"Antifa Watch Ireland","29/09/2020",1182,1221
 "Aontu","12/09/2020",NA,11357
 "Aontu","15/09/2020",10868,11373
 "Aontu","19/09/2020",10992,11440
@@ -87,6 +59,7 @@ SIPTU,29/09/2020,17755,18285
 "Conservative Comeback Ireland","28/09/2020",979,999
 "Corruption Awareness Ireland","26/09/2020",22121,26671
 "Corruption Awareness Ireland","28/09/2020",22664,27403
+"Corruption Awarness Ireland","29/09/2020",22945,27797
 "Daily Ireland","22/09/2020",30355,32242
 "Daily Ireland","26/09/2020",30378,32268
 "Danny Healy Rae","12/09/2020",NA,14764
@@ -101,6 +74,7 @@ SIPTU,29/09/2020,17755,18285
 "Dolores Cahill","24/09/2020",6349,8016
 "Dolores Cahill","25/09/2020",6504,8265
 "Dolores Cahill","27/09/2020",6803,8705
+"Dolores Cahill","29/09/2020",6976,8966
 "Donegal Sinn Fein","20/09/2020",11709,11803
 "Donegal Sinn Fein","24/09/2020",11708,11802
 "Donegal Sinn Fein","28/09/2020",11745,11839
@@ -108,6 +82,7 @@ SIPTU,29/09/2020,17755,18285
 "Eamon Ryan","18/09/2020",7687,7898
 "Eamon Ryan","23/09/2020",7696,7907
 "Eamon Ryan","26/09/2020",7703,7915
+"Eamon Ryan","29/09/2020",7702,7915
 "Eirigi","20/09/2020",29268,29129
 "Eirigi","24/09/2020",29304,29169
 "Eirigi","27/09/2020",29316,29181
@@ -141,12 +116,14 @@ SIPTU,29/09/2020,17755,18285
 "Green Party","19/09/2020",17311,18078
 "Green Party","23/09/2020",17355,18120
 "Green Party","25/09/2020",17360,18126
+"Green Party","29/09/2020",17362,18132
 "Gript Media","15/09/2020",22717,27885
 "Gript Media","18/09/2020",22751,27952
 "Gript Media","19/09/2020",22273,28002
 "Gript Media","22/09/2020",22836,28225
 "Gript Media","24/09/2020",22866,28305
 "Gript Media","26/09/2020",22951,28448
+"Gript Media","29/09/2020",23035,28568
 "Hazel Chu","15/09/2020",778,828
 "Hazel Chu","19/09/2020",784,836
 "Hazel Chu","20/09/2020",785,837
@@ -182,6 +159,7 @@ SIPTU,29/09/2020,17755,18285
 "Irish Freedom Party","26/09/2020",13417,14064
 "Irish Freedom Party","27/09/2020",13432,14083
 "Irish Freedom Party","28/09/2020",13444,14095
+"Irish Freedom Party","29/09/2020",13471,14123
 "Jack Chambers","24/09/2020",5422,5612
 "Jack Chambers","27/09/2020",5429,5619
 "Jennifer Whitmore","20/09/2020",3360,3589
@@ -200,6 +178,7 @@ SIPTU,29/09/2020,17755,18285
 "Labour Party","15/09/2020",29121,29498
 "Labour Party","20/09/2020",29127,29512
 "Labour Party","25/09/2020",29167,29562
+"Labour Party","29/09/2020",29179,29754
 "Leo Varadkar","12/09/2020",NA,101169
 "Leo Varadkar","16/09/2020",86957,101197
 "Leo Varadkar","20/09/2020",87426,101609
@@ -210,6 +189,7 @@ SIPTU,29/09/2020,17755,18285
 "Luke 'Ming' Flanagan","24/09/2020",67385,67753
 "Luke 'Ming' Flanagan","26/09/2020",67376,67743
 "Luke 'Ming' Flanagan","28/09/2020",67369,67735
+"Luke 'Ming' Flanagan","29/09/2020",67364,67730
 "Mairead McGuinness","24/09/2020",11739,12117
 "Mairead McGuinness","28/09/2020",11745,12124
 "Maria Walsh","24/09/2020",12167,12473
@@ -218,9 +198,12 @@ SIPTU,29/09/2020,17755,18285
 "Marian Harkin","18/09/2020",4048,4173
 "Marian Harkin","21/09/2020",4049,4174
 "Marian Harkin","25/09/2020",4052,4177
+"Marian Harkin","29/09/2020",4055,4180
 "Marie Sherlock","25/09/2020",553,618
+"Marie Sherlock","29/09/2020",553,618
 "Mark Daly"," 19/09/2020",3324,3401
 "Mark Daly","24/09/2020",3327,3404
+"Mark Daly","29/09/2020",3334,3411
 "Mary Fitzpatrick","24/09/2020",2933,2992
 "Mary Fitzpatrick","27/09/2020",2934,2994
 "Mary Lou McDonald","12/09/2020",NA,160708
@@ -231,8 +214,10 @@ SIPTU,29/09/2020,17755,18285
 "Mary Lou McDonald","27/09/2020",159041,161491
 "Matt Carthy","20/09/2020",30167,31643
 "Matt Carthy","25/09/2020",30224,31701
+"Matt Carthy","29/09/2020",30253,31732
 "Maurice Quinlivan","20/09/2020",9751,9834
 "Maurice Quinlivan","25/09/2020",9752,9837
+"Maurice Quinlivan","29/09/2020",9750,9834
 "Michael Healy-Rae","16/09/2020",19244,22568
 "Michael Healy-Rae","18/09/2020",19259,22595
 "Michael Healy-Rae","23/09/2020",19282,22622
@@ -256,6 +241,7 @@ SIPTU,29/09/2020,17755,18285
 "Neasa Hourigan","19/09/2020",670,740
 "Neasa Hourigan","24/09/2020",673,742
 "Neasa Hourigan","28/09/2020",673,742
+"Neasa Hourigan","29/09/2020",673,742
 "Niall Collins","19/09/2020",11753,11938
 "Niall Collins","24/09/2020",11771,11958
 "Niall Collins","26/09/2020",11780,11966
@@ -270,6 +256,7 @@ SIPTU,29/09/2020,17755,18285
 "NP Cork","21/09/2020",589,603
 "NP Cork","25/09/2020",591,605
 "NP Cork","27/09/2020",592,606
+"NP Cork","29/09/2020",592,606
 "NP Dublin","19/09/2020",1509,1587
 "NP Dublin","23/09/2020",1508,1586
 "NP Dublin","26/09/2020",1509,1587
@@ -278,6 +265,8 @@ SIPTU,29/09/2020,17755,18285
 "NP Galway","26/09/2020",533,548
 "NP Kerry","20/09/2020",536,547
 "NP Kerry","25/09/2020",536,547
+"NP Kerry","29/09/2020",537,548
+"NP Laois","29/09/2020",542,545
 "NP Limerick","25/09/2020",550,557
 "NP Longford","23/09/2020",547,555
 "NP Longford","25/09/2020",548,556
@@ -286,6 +275,7 @@ SIPTU,29/09/2020,17755,18285
 "NP Mayo","25/09/2020",589,596
 "NP Sligo","20/09/2020",683,688
 "NP Sligo","25/09/2020",686,691
+"NP Sligo","29/09/2020",686,691
 "NP Westmeath","20/09/2020",535,545
 "NP Westmeath","23/09/2020",540,550
 "NP Westmeath","26/09/2020",541,551
@@ -298,6 +288,7 @@ SIPTU,29/09/2020,17755,18285
 "Paschal Donohoe","27/09/2020",4475,4602
 "Patrick Costello","20/09/2020",723,765
 "Patrick Costello","24/09/2020",724,766
+"Patrick Costello","29/09/2020",723,766
 "Paul Murphy","20/09/2020",43957,49297
 "Paul Murphy","26/09/2020",44449,49836
 "Peadar Toibin","12/09/2020",NA,11251
@@ -308,6 +299,7 @@ SIPTU,29/09/2020,17755,18285
 "Pearse Doherty","20/09/2020",71689,77709
 "Pearse Doherty","23/09/2020",71756,77787
 "Pearse Doherty","24/09/2020",71770,77802
+"Pearse Doherty","29/09/2020",72040,78105
 "People Before Profit","12/09/2020",NA,58327
 "People Before Profit","15/09/2020",56159,58363
 "People Before Profit","19/09/2020",56625,58475
@@ -326,6 +318,7 @@ SIPTU,29/09/2020,17755,18285
 "Robert Troy","26/09/2020",4626,4865
 "Roisin Shortall","20/09/2020",2152,2299
 "Roisin Shortall","26/09/2020",2225,2381
+"Roisin Shortall","29/09/2020",2277,2448
 "Ronan Mullen","12/09/2020",NA,3614
 "Ronan Mullen","16/09/2020",3575,3614
 "Ronan Mullen","19/09/2020",3573,3612
@@ -350,14 +343,18 @@ SIPTU,29/09/2020,17755,18285
 "Sinn Fein Dun Laoghaire","26/09/2020",1418,1446
 "SIPTU","19/09/2020",17686,18126
 "SIPTU","24/09/2020",17736,18266
+"SIPTU","29/09/2020",17755,18285
 "Social Democrats","12/09/2020",NA,10666
 "Social Democrats","15/09/2020",10480,10670
 "Social Democrats","18/09/2020",10475,10665
 "Social Democrats","20/09/2020",10477,10667
 "Social Democrats","25/09/2020",10480,10671
+"Social Democrats","29/09/2020",10495,10687
 "Stephen Donnelly","24/09/2020",9891,10079
+"Stephen Donnelly","29/09/2020",9896,10085
 "The Irexiteer","19/09/2020",730,750
 "The Irexiteer","24/09/2020",735,755
+"The Irexiteer","29/09/2020",736,757
 "TheLiberal.ie","15/09/2020",542526,548189
 "TheLiberal.ie","19/09/2020",542777,548481
 "TheLiberal.ie","24/09/2020",542827,548544
@@ -365,8 +362,10 @@ SIPTU,29/09/2020,17755,18285
 "Tracey O'Mahony","17/09/2020",3806,3938
 "Tracey O'Mahony","19/09/2020",3826,3960
 "Tracey O'Mahony","24/09/2020",3891,4033
+"Tracey O'Mahony","29/09/2020",3992,4141
 "Willie O'Dea","19/09/2020",5565,5695
 "Willie O'Dea","24/09/2020",5562,5692
+"Willie O'Dea","29/09/2020",5565,5698
 "Workers Party","20/09/2020",8860,9152
 "Workers Party","25/09/2020",8858,9151
 "Yellow Vest Ireland","12/09/2020",NA,52616
