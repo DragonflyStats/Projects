@@ -2,28 +2,6 @@
 "Alan Kelly","19/09/2020",2433,2581
 "Alan Kelly","24/09/2020",2437,2587
 "Alan Kelly","27/09/2020",2439,2590
-Yellow Vest Ireland,29/09/2020,47914,53604
-Gript Media,29/09/2020,23042,28573
-Verona Murphy,29/09/2020,9134,9497
-Sinn Fein,30/09/2020,220521,247341
-Niall McConnell,30/09/2020,4271,4472
-NP Dublin,30/09/2020,1510,1588
-Cathal Berry,30/09/2020,2798,3080
-Grand Torino,29/09/2020,8108,10812
-Dolores Cahill,30/09/2020,7061,9084
-Irish Freedom Party,30/09/2020,13479,14131
-Corruption Awareness Ireland,30/09/2020,23184,28094
-Holly Cairns,30/09/2020,6083,6471
-Workers Party,30/09/2020,8867,9161
-Ben Gilroy,30/09/2020,8007,8955
-Integrity Ireland,30/09/2020,9932,10420
-NP Wexford,30/09/2020,514,521
-NP Mayo,30/09/2020,588,595
-Mary Lou McDonald,30/09/2020,159086,161533
-NP Sligo,30/09/2020,686,691
-NP Limerick,30/09/2020,551,558
-NP Longford,30/09/2020,550,55
-NP Westmeath,30/09/2020,543,553
 "Anti-Corruption Ireland","18/09/2020",1217,1262
 "Anti-Corruption Ireland","23/09/2020",1236,1281
 "Anti-Corruption Ireland","26/09/2020",1739,1896
@@ -45,6 +23,7 @@ NP Westmeath,30/09/2020,543,553
 "Ben Gilroy","19/09/2020",7951,8899
 "Ben Gilroy","23/09/2020",7970,8918
 "Ben Gilroy","26/09/2020",7984,8932
+"Ben Gilroy","30/09/2020",8007,8955
 "Ben Scallan","15/09/2020",12705,13452
 "Ben Scallan","18/09/2020",12713,13455
 "Ben Scallan","21/09/2020",12721,13462
@@ -64,6 +43,7 @@ NP Westmeath,30/09/2020,543,553
 "Cathal Berry","20/09/2020",2770,3036
 "Cathal Berry","24/09/2020",2791,3069
 "Cathal Berry","27/09/2020",2795,3077
+"Cathal Berry","30/09/2020",2798,3080
 "Catherine Martin","19/09/2020",2957,3135
 "Catherine Martin","22/09/2020",2954,3134
 "Catherine Martin","26/09/2020",2960,3145
@@ -81,6 +61,7 @@ NP Westmeath,30/09/2020,543,553
 "Conservative Comeback Ireland","28/09/2020",979,999
 "Corruption Awareness Ireland","26/09/2020",22121,26671
 "Corruption Awareness Ireland","28/09/2020",22664,27403
+"Corruption Awareness Ireland","30/09/2020",23184,28094
 "Corruption Awarness Ireland","29/09/2020",22945,27797
 "Daily Ireland","22/09/2020",30355,32242
 "Daily Ireland","26/09/2020",30378,32268
@@ -97,6 +78,7 @@ NP Westmeath,30/09/2020,543,553
 "Dolores Cahill","25/09/2020",6504,8265
 "Dolores Cahill","27/09/2020",6803,8705
 "Dolores Cahill","29/09/2020",6976,8966
+"Dolores Cahill","30/09/2020",7061,9084
 "Donegal Sinn Fein","20/09/2020",11709,11803
 "Donegal Sinn Fein","24/09/2020",11708,11802
 "Donegal Sinn Fein","28/09/2020",11745,11839
@@ -132,6 +114,7 @@ NP Westmeath,30/09/2020,543,553
 "Grand Torino","24/09/2020",7974,10645
 "Grand Torino","25/09/2020",7981,10651
 "Grand Torino","27/09/2020",7996,10669
+"Grand Torino","29/09/2020",8108,10812
 "Green Party","12/09/2020",NA,17983
 "Green Party","15/09/2020",17259,18026
 "Green Party","18/09/2020",17290,18057
@@ -145,6 +128,7 @@ NP Westmeath,30/09/2020,543,553
 "Gript Media","22/09/2020",22836,28225
 "Gript Media","24/09/2020",22866,28305
 "Gript Media","26/09/2020",22951,28448
+"Gript Media","29/09/2020",23042,28573
 "Gript Media","29/09/2020",23035,28568
 "Hazel Chu","15/09/2020",778,828
 "Hazel Chu","19/09/2020",784,836
@@ -162,10 +146,12 @@ NP Westmeath,30/09/2020,543,553
 "Holly Cairns","19/09/2009",5999,6380
 "Holly Cairns","22/09/2020",6030,6415
 "Holly Cairns","26/09/2020",6074,6463
+"Holly Cairns","30/09/2020",6083,6471
 "Integrity Ireland","15/09/2020",9664,10045
 "Integrity Ireland","19/09/2020",9665,10046
 "Integrity Ireland","23/09/2020",9905,10390
 "Integrity Ireland","26/09/2020",9923,10413
+"Integrity Ireland","30/09/2020",9932,10420
 "Iona Institute","16/09/2020",7636,7756
 "Iona Institute","20/09/2020",7638,7760
 "Iona Institute","24/09/2020",7634,7756
@@ -182,6 +168,7 @@ NP Westmeath,30/09/2020,543,553
 "Irish Freedom Party","27/09/2020",13432,14083
 "Irish Freedom Party","28/09/2020",13444,14095
 "Irish Freedom Party","29/09/2020",13471,14123
+"Irish Freedom Party","30/09/2020",13479,14131
 "Jack Chambers","24/09/2020",5422,5612
 "Jack Chambers","27/09/2020",5429,5619
 "Jennifer Whitmore","20/09/2020",3360,3589
@@ -234,6 +221,7 @@ NP Westmeath,30/09/2020,543,553
 "Mary Lou McDonald","23/09/2020",158851,161311
 "Mary Lou McDonald","26/09/2020",159022,161476
 "Mary Lou McDonald","27/09/2020",159041,161491
+"Mary Lou McDonald","30/09/2020",159086,161533
 "Matt Carthy","20/09/2020",30167,31643
 "Matt Carthy","25/09/2020",30224,31701
 "Matt Carthy","29/09/2020",30253,31732
@@ -273,6 +261,7 @@ NP Westmeath,30/09/2020,543,553
 "Niall McConnell","23/09/2020",4222,4413
 "Niall McConnell","25/09/2020",4250,4447
 "Niall McConnell","27/09/2020",4268,4468
+"Niall McConnell","30/09/2020",4271,4472
 "NP Cork","15/09/2020",589,603
 "NP Cork","18/09/2020",589,603
 "NP Cork","21/09/2020",589,603
@@ -282,6 +271,7 @@ NP Westmeath,30/09/2020,543,553
 "NP Dublin","19/09/2020",1509,1587
 "NP Dublin","23/09/2020",1508,1586
 "NP Dublin","26/09/2020",1509,1587
+"NP Dublin","30/09/2020",1510,1588
 "NP Galway","19/09/2020",529,544
 "NP Galway","24/09/2020",532,547
 "NP Galway","26/09/2020",533,548
@@ -290,20 +280,26 @@ NP Westmeath,30/09/2020,543,553
 "NP Kerry","29/09/2020",537,548
 "NP Laois","29/09/2020",542,545
 "NP Limerick","25/09/2020",550,557
+"NP Limerick","30/09/2020",551,558
 "NP Longford","23/09/2020",547,555
 "NP Longford","25/09/2020",548,556
+"NP Longford","30/09/2020",550,55
 "NP Mayo","19/09/2009",587,594
 "NP Mayo","20/09/2020",587,594
 "NP Mayo","25/09/2020",589,596
+"NP Mayo","30/09/2020",588,595
 "NP Sligo","20/09/2020",683,688
 "NP Sligo","25/09/2020",686,691
 "NP Sligo","29/09/2020",686,691
+"NP Sligo","30/09/2020",686,691
 "NP Westmeath","20/09/2020",535,545
 "NP Westmeath","23/09/2020",540,550
 "NP Westmeath","26/09/2020",541,551
+"NP Westmeath","30/09/2020",543,553
 "NP Wexford","18/09/2020",513,521
 "NP Wexford","21/09/2020",515,523
 "NP Wexford","25/09/2020",515,522
+"NP Wexford","30/09/2020",514,521
 "Padraig Mac Lochlainn","20/09/2020",13694,14038
 "Padraig Mac Lochlainn","25/09/2020",13695,14043
 "Paschal Donohoe","24/09/2020",4470,4597
@@ -362,6 +358,7 @@ NP Westmeath,30/09/2020,543,553
 "Sinn Fein","17/09/2020",220017,246736
 "Sinn Fein","20/09/2020",220073,246847
 "Sinn Fein","25/09/2020",220294,247097
+"Sinn Fein","30/09/2020",220521,247341
 "Sinn Fein Dun Laoghaire","26/09/2020",1418,1446
 "SIPTU","19/09/2020",17686,18126
 "SIPTU","24/09/2020",17736,18266
@@ -385,11 +382,13 @@ NP Westmeath,30/09/2020,543,553
 "Tracey O'Mahony","19/09/2020",3826,3960
 "Tracey O'Mahony","24/09/2020",3891,4033
 "Tracey O'Mahony","29/09/2020",3992,4141
+"Verona Murphy","29/09/2020",9134,9497
 "Willie O'Dea","19/09/2020",5565,5695
 "Willie O'Dea","24/09/2020",5562,5692
 "Willie O'Dea","29/09/2020",5565,5698
 "Workers Party","20/09/2020",8860,9152
 "Workers Party","25/09/2020",8858,9151
+"Workers Party","30/09/2020",8867,9161
 "Yellow Vest Ireland","12/09/2020",NA,52616
 "Yellow Vest Ireland","15/09/2020",47402,53091
 "Yellow Vest Ireland","17/09/2020",47582,53284
@@ -399,3 +398,4 @@ NP Westmeath,30/09/2020,543,553
 "Yellow Vest Ireland","24/09/2020",47821,53514
 "Yellow Vest Ireland","26/09/2020",47867,53556
 "Yellow Vest Ireland","27/09/2020",47875,53559
+"Yellow Vest Ireland","29/09/2020",47914,53604
