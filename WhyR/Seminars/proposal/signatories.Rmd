@@ -27,7 +27,7 @@ The Why R? Foundation management board is
 * Marcin Kosinski (Project Leader)
 * Michal Burdukiewicz (Project Officer)
 * Kevin O'Brien (Project Officer)
-* Lais Carvalho (Presenter & Research)
+* Laís Carvalho (Presenter & Research)
 * Ahmadou Dicko (Presenter & Research)
 
 <!-- 
@@ -36,8 +36,8 @@ Who are the people responsible for actually delivering the project if the propos
 
 ## Consulted
 
-* [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee 
-* [Lais Carvalho](https://www.laiscarvalho.com/) ,Member of Python Ireland, Volunteer at PyjamasConf and EuroPython
+* [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee
+* [Lais Carvalho](https://www.laiscarvalho.com/), Member of Python Ireland, Volunteer at PyjamasConf and EuroPython
 * Joseph Rickert, Chair of the R Consortium
 
 <!-- 

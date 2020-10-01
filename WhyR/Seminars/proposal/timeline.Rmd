@@ -10,7 +10,7 @@ October 2020 - December 2020:
 
 January 2021 - June 2021 
 
-* Regular meetings with R consortium representatves to monitor progress and discuss list of invited speakers
+* Regular meetings with R consortium representatives to monitor progress and discuss list of invited speakers
 * Remainder of webinars under funding
  
 <!--
@@ -35,7 +35,7 @@ Including target dates is really important as you need to be committed and the I
 
 ## Other aspects
 
-We will continue to use Twitter and youtube to increase attendance at events.
+We will continue to use Twitter and Youtube to increase attendance to the events.
 <!--
 Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
 
