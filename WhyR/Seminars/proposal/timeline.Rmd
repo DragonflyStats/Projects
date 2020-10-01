@@ -2,12 +2,17 @@
 
 ## Start-up phase
 
-Weeks 1 - 5: 
+October 2020 - December 2020: 
 
-* Invite new team members via Twitter/LinkedIn
+* Invite new team members 
 * Team orientation for all members
-* Code of conduct and a website 
+* First series of webinars under funding
 
+January 2021 - June 2021 
+
+* Regular meetings with R consortium representatves to monitor progress and discuss list of invited speakers
+* Remainder of webinars under funding
+ 
 <!--
 Covering the planning phase, this section should provide a relatively detailed plan of how work will start on the project. This section is important because projects need to get up and running quickly.
 
@@ -20,10 +25,7 @@ Covering the planning phase, this section should provide a relatively detailed p
 
 ## Technical delivery
 
-Weeks 6 - end: 
 
- * Regular meetings with R consortium to approve speakers
- * 
 
 <!--
 Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
