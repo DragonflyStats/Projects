@@ -54,7 +54,7 @@ Contributions from Novice R users will be sought. Technical content will not be 
 #### Techical Details
 
 * Sets of videos will be released periodlically as a "season"
-* Each season of the series will be contain about 10-12 videos.
+* Each season of the series will contain about 10-12 videos.
 * The videos will be approximately 15 minutes long.
 * The videos will be recorded asynchronously (i.e. not livestreamed).
 
@@ -85,7 +85,7 @@ Since the launch of webinar series in April 2020, the Youtube channel has attrac
 
 ## Legacy
 
-By creating these videos, we hope that R commmunity members from all around the world will be motivated to develop full length talks, with technical content, for future R conferences all around the world.
+By creating these videos, we hope that R community members from all around the world will be motivated to develop full length talks, with technical content, for future R conferences all around the world.
 
 Why R? and R Consortium would consolidate their positions as strong global brands. The webinar series will be used to promote the R consortium brand. For the duration of the project, R consortium branding will appear on all webinar productions (including ones that are not presented by members of the Funded Presenter Panel).
 
