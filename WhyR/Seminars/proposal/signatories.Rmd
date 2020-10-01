@@ -5,8 +5,22 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
-## Project team
+The applicant is the Why R? Foundation, which is incorporated under Polish law. 
+The postal address is 
 
+FUNDACJA WHY R? / WHY R? Foundation
+ul. Krasnobrodzka 2/190, 
+03-214 Warszawa, 
+Poland
+
+The Why R? Foundation management board is 
+
+* Kosiński Marcin Piotr (chairman),
+* Bartosz Sękiewicz (vice-chairman),
+* Agnieszka Borsuk-De Moor (vice-chairman),
+* Burdukiewicz Michał Jan (amanuensis).
+
+## Seminar Series Project team
 * Marcin Kosiński (Foundation Project Leader)
 * Michał Burdukiewicz (Scientific Programme Officer)
 * Klaudia Korniluk (Design Manager)
@@ -21,10 +35,10 @@ Who are the people responsible for actually delivering the project if the propos
 
 * [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee 
 * [Lais Carvalho](https://www.laiscarvalho.com/) ,Member of Python Ireland, Volunteer at PyjamasConf and EuroPython
-* Ola Petrykiewicz (Marketing Expert)
-* Olgun Aydin (Sponsorship Coordinator)
-* Michał Maj (Community Manager)
-* Emil Buszyło (Web Designer)
+* Ola Petrykiewicz (Why R? Foundation Marketing Expert)
+* Olgun Aydin (Why R? Foundation Sponsorship Coordinator)
+* Michał Maj (Why R? Foundation Community Manager)
+* Emil Buszyło (Why R? Foundation Web Designer)
 
 
 
