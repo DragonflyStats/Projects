@@ -1,19 +1,4 @@
 "Name","Date","Likes","Followers"
-Charlie McConalogue,2020-10-01,8827,8930
-Padraig Mac Lochlainn,2020-10-01,13713,14063
-Donegal Sinn Fein,2020-10-01,11744,11839
-Pippa Hackett,2020-10-01,1262,1331
-Green Party,2020-10-01,17360,18131
-Roderic O'Gorman,2020-10-01,2524,2621
-Daily Ireland,2020-10-01,30383,32275
-Catherine Martin,2020-10-01,2965,3150
-Fine Gael,2020-10-01,40148,41573
-Gary Gannon,2020-10-01,3147,3252
-Frankie Daly,2020-10-01,5690,5864
-Heather Humphreys,2020-10-01,5806,6151
-Kathleen Funchion,2020-10-01,6787,6987
-Kerry Sinn Fein,2020-10-01,1725,1824
-Niall Collins,2020-10-01,11783,11968
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
@@ -64,7 +49,9 @@ Niall Collins,2020-10-01,11783,11968
 "Catherine Martin",2020-09-19,2957,3135
 "Catherine Martin",2020-09-22,2954,3134
 "Catherine Martin",2020-09-26,2960,3145
+"Catherine Martin",2020-10-01,2965,3150
 "Charlie McConalogue",2020-09-26,8818,8917
+"Charlie McConalogue",2020-10-01,8827,8930
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -83,6 +70,7 @@ Niall Collins,2020-10-01,11783,11968
 "Corruption Awarness Ireland",2020-09-29,22945,27797
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
+"Daily Ireland",2020-10-01,30383,32275
 "Danny Healy Rae",2020-09-12,NA,14764
 "Danny Healy Rae",2020-09-16,12849,14791
 "Danny Healy Rae",2020-09-20,12852,14795
@@ -101,6 +89,7 @@ Niall Collins,2020-10-01,11783,11968
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
+"Donegal Sinn Fein",2020-10-01,11744,11839
 "Eamon Ryan",2020-09-12,NA,7889
 "Eamon Ryan",2020-09-18,7687,7898
 "Eamon Ryan",2020-09-23,7696,7907
@@ -119,11 +108,14 @@ Niall Collins,2020-10-01,11783,11968
 "Fine Gael",2020-09-19,40016,41408
 "Fine Gael",2020-09-22,40016,41417
 "Fine Gael",2020-09-26,40045,41450
+"Fine Gael",2020-10-01,40148,41573
 "Frankie Daly",2020-09-20,5679,5854
 "Frankie Daly",2020-09-26,5689,5864
+"Frankie Daly",2020-10-01,5690,5864
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
 "Gary Gannon",2020-09-26,3148,3253
+"Gary Gannon",2020-10-01,3147,3252
 "Gerry Adams",2020-09-20,67022,68174
 "Gerry Adams",2020-09-24,67270,68244
 "Gerry Adams",2020-09-27,67266,68241
@@ -143,6 +135,7 @@ Niall Collins,2020-10-01,11783,11968
 "Green Party",2020-09-23,17355,18120
 "Green Party",2020-09-25,17360,18126
 "Green Party",2020-09-29,17362,18132
+"Green Party",2020-10-01,17360,18131
 "Gript Media",2020-09-15,22717,27885
 "Gript Media",2020-09-18,22751,27952
 "Gript Media",2020-09-19,22273,28002
@@ -158,6 +151,7 @@ Niall Collins,2020-10-01,11783,11968
 "Hazel Chu",2020-09-27,789,841
 "Heather Humphreys",2020-09-20,5798,6139
 "Heather Humphreys",2020-09-26,5802,6146
+"Heather Humphreys",2020-10-01,5806,6151
 "Helen McEntee",2020-09-15,9513,9987
 "Helen McEntee",2020-09-20,9529,10005
 "Helen McEntee",2020-09-24,9554,10032
@@ -203,7 +197,9 @@ Niall Collins,2020-10-01,11783,11968
 "Josepha Madigan",2020-09-24,5931,6260
 "Josepha Madigan",2020-09-28,5950,6281
 "Kathleen Funchion",2020-09-26,6777,6977
+"Kathleen Funchion",2020-10-01,6787,6987
 "Kerry Sinn Fein",2020-09-26,1722,1821
+"Kerry Sinn Fein",2020-10-01,1725,1824
 "Kieran O'Donnell",2020-09-27,2779,2836
 "Labour Party",2020-09-12,NA,29473
 "Labour Party",2020-09-15,29121,29498
@@ -279,6 +275,7 @@ Niall Collins,2020-10-01,11783,11968
 "Niall Collins",2020-09-19,11753,11938
 "Niall Collins",2020-09-24,11771,11958
 "Niall Collins",2020-09-26,11780,11966
+"Niall Collins",2020-10-01,11783,11968
 "Niall McConnell",2020-09-15,3827,3994
 "Niall McConnell",2020-09-18,4157,4342
 "Niall McConnell",2020-09-21,4209,4398
@@ -326,6 +323,7 @@ Niall Collins,2020-10-01,11783,11968
 "NP Wexford",2020-09-30,514,521
 "Padraig Mac Lochlainn",2020-09-20,13694,14038
 "Padraig Mac Lochlainn",2020-09-25,13695,14043
+"Padraig Mac Lochlainn",2020-10-01,13713,14063
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Patrick Costello",2020-09-20,723,765
@@ -349,6 +347,7 @@ Niall Collins,2020-10-01,11783,11968
 "People Before Profit",2020-09-24,56337,58542
 "People Before Profit",2020-09-27,56365,58570
 "Peter Burke",2020-09-26,4463,4619
+"Pippa Hackett",2020-10-01,1262,1331
 "Reality Ireland",2020-09-26,6994,7044
 "Richard Boyd Barrett",2020-09-16,13380,14575
 "Richard Boyd Barrett",2020-09-19,13589,14927
@@ -359,6 +358,7 @@ Niall Collins,2020-10-01,11783,11968
 "Robert Troy",2020-09-18,4622,4856
 "Robert Troy",2020-09-21,4623,4862
 "Robert Troy",2020-09-26,4626,4865
+"Roderic O'Gorman",2020-10-01,2524,2621
 "Roisin Shortall",2020-09-20,2152,2299
 "Roisin Shortall",2020-09-26,2225,2381
 "Roisin Shortall",2020-09-29,2277,2448
