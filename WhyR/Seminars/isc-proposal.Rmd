@@ -21,12 +21,13 @@ knitr::opts_knit$set(warning = FALSE, message= FALSE)
 
 
 
-```{r autodoc, child='proposal/timeline.Rmd', eval=TRUE}
-```
+
 
 ```{r autodoc, child='proposal/requirements.Rmd', eval=TRUE}
 ```
 
+```{r autodoc, child='proposal/timeline.Rmd', eval=TRUE}
+```
 
 ```{r autodoc, child='proposal/success.Rmd', eval=TRUE}
 ```

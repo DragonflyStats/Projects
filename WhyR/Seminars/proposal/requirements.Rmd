@@ -18,11 +18,11 @@ We have a COC that has worked since we started in 2016 and we will continue to u
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
 
-## Project Requirements
+## Payments
 
-The duties of the presenter are to research the topic and prepare questions for the interview, take part in a test recording (i.e. a sound check) in advance of the scheduled webinar, present the webinar, introduce the speaker, and afterwards, leading the Questions and Answer session. They will also manage the promotion of the event on Social Media. They will create visual identities for use on Social media.
-
-Payments will be made on the basis of professional services. Presenters are responsible for their own tax affairs. Payments will be made to each presenter and travel expenses will not be funded.
+Payments will be processed by the Why R? Foundation, but can be processed by the R consortium if preferable.
+Payments will be made on the basis of professional services. Presenters are responsible for their own tax affairs. 
+Payments will be made to each presenter and travel expenses will not be funded.
 
 <!--
 What is going to be needed to deliver this project? 
@@ -35,9 +35,9 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 ## Funding
 Item                                              | Cost (Euro)
 ------------------------------------------------- | ------------- 
-Presenter Stipend (expected cost of 30 sessions)  |  5,000  
-                                                  |
-Total                                             |  5,000
+Component 1 Stipends (30 Webinars)  |  5,100  
+Component 2 Stipends (40 videos  )  |  3,200 
+Total                                             |  8,300
 
 
 
