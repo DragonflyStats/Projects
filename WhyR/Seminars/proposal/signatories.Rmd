@@ -18,9 +18,9 @@ Poland
 
 The Why R? Foundation management board is 
 
-* Marcin Piotr Kosinski (chairman),
-* Bartosz Sakiewicz (vice-chairman),
-* Agnieszka Borsuk-De Moor (vice-chairman),
+* Marcin Piotr Kosinski (chair),
+* Bartosz Sakiewicz (vice-chair),
+* Agnieszka Borsuk-De Moor (vice-chair),
 * Michal Jan Burdukiewicz (amanuensis).
 
 ## Seminar Series Project team
@@ -37,8 +37,9 @@ Who are the people responsible for actually delivering the project if the propos
 ## Consulted
 
 * [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee 
-* [Lais Carvalho](https://www.laiscarvalho.com/) ,Member of Python Ireland, Volunteer at PyjamasConf and EuroPython
-* Joseph Rickert, Chair of the R Consortium
+* [Lais Carvalho](https://www.laiscarvalho.com/), Member of Python Ireland, Volunteer at PyjamasConf and EuroPython
+* Joseph Rickert, Chair of the R Consortium.
+* Additionally please note the many R commununity members who have given webinars since April 2020.
 
 <!-- 
 * Ola Petrykiewicz (Why R? Foundation Marketing Expert)

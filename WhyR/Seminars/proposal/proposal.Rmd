@@ -2,8 +2,9 @@
 
 ## Overview
 The goal of this project is 
-1. to support the continuation of the Why R? webinar series,
-2. to create a parallel series of video logs of R community members around the world.
+
+ 1. to support the continuation of the Why R? webinar series, 
+ 2. to create a parallel series of video logs of R community members around the world.
 
 ## Component 1: The Why R? webinar series
 
@@ -11,14 +12,9 @@ The Why R? foundation proposes to create a panel of presenters to present weekly
 
 The proposal envisages the production of 30 one-hour webinars as part of this programme (i.e. a pilot programme). The project will be considered completed when 30 webinars have been made under the terms of reference. 
 
-The content of the webinars will focus on the R programming language. For diversity of topics, the intersection of R and other technologies can be included. Similarly, professional issues likely to be faced by a large number of R users can be included in the programme. The complete subject list of webinar titles should align with reasonable expectations of content for an R conference.
+The content of the webinars will focus on the R programming language. For diversity of topics, the intersection of R and other technologies can be included. Similarly, professional issues likely to be faced by a large number of R users can be included in the programme. The complete subject list of webinar titles should align with reasonable expectations of content for an R conference. 
 
-#### Duties of the Presenters
-
-The duties of the presenter are to research the topic and prepare questions for the interview, take part in a test recording (i.e. a sound check) in advance of the scheduled webinar, present the webinar, introduce the speaker, and afterwards, leading the Questions and Answer session. They will also manage the promotion of the event on Social Media. They will create visual identities for use on Social media. (The Funded Presented Panel will also be responsible for the implementation of Component 2.)
-
-While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium.  
-The fundamental principle behind this proposal is ``Representation Matters". The visibility of members of under-represented minorities in positions of responsibility and leadership would be encouraging to under-represented minorities to engage in the R community (i.e. giving talks, co-organizing community events etc).
+The Why R? Foundation will aim to provide a platform for a broad spectrum of speaker from a wide range of backgrounds, subject areas and geographic locations. The list of invited speakers would comprise a mix of established speakers who already have are well-known in the R community, and lesser-known speakers who do not often appear in R community events. Scheduling is influenced by speaker availability and the amount of advance notice. Established speakers are able to provide talks at short notice. The capability to maintain a programe over a long term would allow us to recruit speakers who would need a lot of preparation time, particularly if it is their first talk.
 
 
 
@@ -44,7 +40,7 @@ Webinars that take place during the period, but are not presented by a member of
 
 ##  Component 2: The Why R? World Video Blog Series
 
-This component is the creation of a series of short videos featuring R community members from around the world. These videos would be available on the Youtube Channel.
+This component is the creation of a series of short videos featuring R community members from around the world. These videos would be available on the Why R? Youtube Channel.
 
 
 #### Curatorial Policy
@@ -53,7 +49,7 @@ In contrast to component 1 (e.g. Why R? Webinars) the ``Why R? World" series wou
 
 These interviews would explore the lived experience of being an R user (i.e. the featured guest or guests) in various locations around the world. The curatorial policy shall favour a broad spectrums of locations from all continents of the world, and a broad series of subjects areas, particularly regions not typically represented in the R community. 
 
-Contributions from Novice R users will be sought. Technical content will not be typically featured, but would not be refused. In a limited number of cases, the guest may not be an R user, if the content aligns with the curatorial direction of the overall ``Why R? World" project.
+Contributions from Novice R users will be sought. Technical content will not be typically featured, but would not be refused. People in outlying locations will be particularly favoured for selection. In a limited number of cases, the guest may not be an R user, if the content aligns with the curatorial direction of the overall ``Why R? World" project.
 
 #### Techical Details
 
@@ -65,29 +61,39 @@ Contributions from Novice R users will be sought. Technical content will not be 
 
 #### Duties of the Presenters
 
-The duties of the presenter are very similar to Component 1, i.e. to research the topic and prepare questions for the interview, take part in a test recording (i.e. a sound check) and edit the recordings. They will also manage the promotion of the event on Social Media. They will create visual identities for use on Social media. 
+For component 1, the duties of the presenter are to research the topic and prepare questions for the interview, take part in a test recording (i.e. a sound check) in advance of the scheduled webinar, present the webinar, introduce the speaker, and afterwards, leading the Questions and Answer session. They will also manage the promotion of the event on Social Media. They will create visual identities for use on Social media. While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium. 
 
-#### Legacy
+For component 2, the duties of the presenter are very similar to Component 1, i.e. to research the topic and prepare questions for the interview, take part in a test recording (i.e. a sound check) and edit the recordings.
 
-By creating these videos, we hope that R commmunity members from all around the world will be motivated to develop full length talks, with technical content, for future R conferences all around the world.
+The presenters will assist the promotion of the event on Social Media, and create visual identities for use on Social media. 
+
+The fundamental principle behind this proposal is ``Representation Matters". The visibility of members of under-represented minorities in positions of responsibility and leadership would be encouraging to under-represented minorities to engage in the R community (i.e. giving talks, co-organizing community events etc).
+
+Why R? Foundation members will provide assistance to the funded presenters on an ongoing basis, but will not be financially rewarded.
 
 
 
-## Desemination of Work
 
-All recordings will be freely available on the Why R? Youtube channel. Why R? foundation will produce, and promote each webinar, and is responsible for the recruitment of guest speakers.
+## Dissemination of Work
+
+All recordings will be freely available on the Why R? Youtube channel. Why R? foundation will produce, and promote each webinar, and is responsible for the recruitment of guest speakers. Why R? will actively promote the events in advance, and advertise the recorded content.
+
 Since the launch of webinar series in April 2020, the Youtube channel has attracted 3,170 Subscribers with 43,184 views.
 (These figures are based both on the Webinar Series and recordings from the Why R? virtual conference which took place in September 2020.)
 
 
 
-The webinar series will be used to promote the R consortium brand. For the duration of the project, R consortium branding will appear on all webinar productions (including ones that are not presented by members of the Funded Presenter Panel).
+## Legacy
+
+By creating these videos, we hope that R commmunity members from all around the world will be motivated to develop full length talks, with technical content, for future R conferences all around the world.
+
+Why R? and R Consortium would consolidate their positions as strong global brands. The webinar series will be used to promote the R consortium brand. For the duration of the project, R consortium branding will appear on all webinar productions (including ones that are not presented by members of the Funded Presenter Panel).
 
 
 
 
 
-Why R? and R Consortium would consolidate their positions as strong global brands.
+
 
 
 

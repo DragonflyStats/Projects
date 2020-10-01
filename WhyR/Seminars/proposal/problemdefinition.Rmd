@@ -1,10 +1,12 @@
 # The Problem
 
-The Why R? foundation is based in Poland, but has collaborators all across Europe and Africa (This geographic constraint is fundamentally due to similar time zones.) The foundation has run a series of pre-meetings since 2016 and a webinar series since April 2020. There have been 16 webinars to date. The ambition of Why R? is to use proceeds of conferences and pre-meetings to support R community events around the world. Why R? will seek to build strong corporate relations to strengthen its ability to provide fiscal support by giving grants to the R community.
+The Why R? foundation organizes the annual Why R? Conferences, as well as a series of R community meetups, hackathons and the 2020 R Webinars. The Why R? foundation is based in Poland, but has collaborators all across Europe and Africa (This geographic constraint is fundamentally due to similar time zones.) The foundation has run a series of pre-meetings since 2016 and a webinar series since April 2020. There have been 16 webinars to date. 
+
+The ambition of Why R? is to use proceeds of conferences and pre-meetings to support R community events around the world. Why R? will seek to build strong corporate relations to strengthen its ability to provide fiscal support by giving grants to the R community.
 
 Webinars usually take place on Thursday at 6pm UTC, evening time in Europe and Africa. We find that more people watch the recordings that are available online than the live stream. In accordance with best community standards, we try to invite speakers from a broad spectrum of backgrounds, and to highlight the work of RLadies.
 
-So far the webinar series has relied on volunteers who maintain the series in the free time. To sustain the series, the Why R? foundation would benefit greatly by additional personnel and resources. If funding is available, this would enable the Why R? foundation to recruit and pay additional team members. Management of the funding will align with the committment to diversity and inclusion held both by the Why R? Foundation and the R Consortium.
+So far the webinar series has relied on volunteers who maintain the webinar programme in the free time. To sustain the programme further, the Why R? foundation would benefit greatly by additional personnel and resources. Additional funding would enable the Why R? foundation to recruit and pay additional team members. Management of the funding will align with the committment to diversity and inclusion held both by the Why R? Foundation and the R Consortium.
 
 
 <!-- 
