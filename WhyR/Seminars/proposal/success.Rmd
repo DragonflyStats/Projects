@@ -23,7 +23,7 @@ How will we know when success is achieved, what markers can we use along the way
 ## Future work
 If successful, the Why R? Foundation will seek to continue the webinar series beyond the duration of the project.
 
-Why R? notes the strong eco-system of the R communities in the American continents. Why R? will seek to support the growth of these communities, and will be available for future collaborations. For the foreseeable future, the Why R? foundation does not plan run R community events, unless in partnership with a local entity. This does not preclude people from the Americas participating in our current pattern of events (i.e. events scheduled for European and African time zones)
+Why R? notes the strong eco-system of the R communities in the American continents. Why R? will seek to support the growth of these communities, and will be available for future collaborations. For the foreseeable future, the Why R? foundation does not plan run R community events, unless in partnership with a local entity. This does not preclude people from the Americas participating in our current pattern of events (i.e. events scheduled for European and African time zones).
 
 
 

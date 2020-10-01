@@ -58,7 +58,7 @@ Contributions from Novice R users will be sought. Technical content will not be 
 #### Techical Details
 
 * Sets of videos will be released periodlically as a "season"
-* Each season of the series will be contain about 10-12 videos.
+* Each season of the series will contain about 10-12 videos.
 * The videos will be approximately 15 minutes long.
 * The videos will be recorded asynchronously (i.e. not livestreamed).
 
@@ -69,7 +69,7 @@ The duties of the presenter are very similar to Component 1, i.e. to research th
 
 #### Legacy
 
-By creating these videos, we hope that R commmunity members from all around the world will be motivated to develop full length talks, with technical content, for future R conferences all around the world.
+By creating these videos, we hope that R community members from all around the world will be motivated to develop full length talks, with technical content, for future R conferences all around the world.
 
 
 
