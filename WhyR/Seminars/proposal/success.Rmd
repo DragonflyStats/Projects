@@ -3,14 +3,15 @@
 Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
 -->
 
-## Definition of done
+## Definition of Success
 
-We define success as successful continuation of the Why R? series.
+We define success as successful continuation of the Why R? webinar series, with contributions from R users from a broad diversity of specicialities, backgrounds and geographic locations. Additionally we foresee stronger relationships with corporate partners, and enter into sponsorship agreements. This will sustain Why R? foundations ability to provide financial support to the broader R community.
 <!-- 
 What does success look like? 
 -->
 
 ## Measuring success
+In the first instance, Success would be defined as the completion of agreed number of webinars, with each webinar receiving 500 views on average within 28 days of the initial livestream.
 
 We will measure this by the outputs that we have made freely available to the R Community. We will summarize information and make it available to all.
 
@@ -31,7 +32,7 @@ How could this be extended / developed in the future by yourself and/or the comm
 
 ## Key risks
 
-We are hopeful that we can continue to find high quality speakers who have the time to work with us.
+We are hopeful that we can continue to find high quality speakers from a broad diversity of specicialities, backgrounds and geographic locations, who have the time to work with us.
 
 <!-- 
 What sort of things could come up that can delay or break the project?
