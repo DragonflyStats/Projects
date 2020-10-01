@@ -7,7 +7,10 @@ An optional section would be for R-Core signatories where changes to R are propo
 
 ## Project team
 
-* Kevin O'Brien, RForwards community team
+* Marcin Kosiński (Foundation Project Leader)
+* Michał Burdukiewicz (Scientific Programme Officer)
+* Klaudia Korniluk (Design Manager)
+* Kevin O'Brien (Community Manager)
 
 
 <!-- 
@@ -17,6 +20,11 @@ Who are the people responsible for actually delivering the project if the propos
 ## Consulted
 
 * [gwynn sturdevant](https://www.nzgwynn.com/), RForwards member, RConsortium DI-WG member, RLadies DC organizer, useR! 2020 Diversity committee 
+* [Lais Carvalho](https://www.laiscarvalho.com/) ,Member of Python Ireland, Volunteer at PyjamasConf and EuroPython
+* Ola Petrykiewicz (Marketing Expert)
+* Olgun Aydin (Sponsorship Coordinator)
+* Michał Maj (Community Manager)
+* Emil Buszyło (Web Designer)
 
 
 
