@@ -4,14 +4,18 @@
 
 October 2020 - December 2020: 
 
-* Invite new team members 
-* Team orientation for all members
-* First series of webinars under funding
+* Invite new team members. 
+* Team orientation for all members.
+* First series of webinars that use funding.
+* Recording of first set of Why R? World Videos.
 
 January 2021 - June 2021 
 
-* Regular meetings with R consortium representatives to monitor progress and discuss list of invited speakers
-* Remainder of webinars under funding
+* Regular meetings with R consortium representatives to monitor progress and discuss list of invited speakers.
+* Production of the Remaining programme of webinars that use funding.
+* Recording and release of remaining series of Why R? World Videos.
+
+
  
 <!--
 Covering the planning phase, this section should provide a relatively detailed plan of how work will start on the project. This section is important because projects need to get up and running quickly.
@@ -23,19 +27,13 @@ Covering the planning phase, this section should provide a relatively detailed p
 -->
 
 
-## Technical delivery
-
-
-
 <!--
 Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
 
-## Other aspects
 
-We will continue to use Twitter and Youtube to increase attendance to the events.
 <!--
 Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
 

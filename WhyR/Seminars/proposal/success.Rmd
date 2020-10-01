@@ -5,23 +5,24 @@ Projects should have a definition of done that is measurable, and a thorough und
 
 ## Definition of Success
 
-We define success as successful continuation of the Why R? webinar series, with contributions from R users from a broad diversity of specicialities, backgrounds and geographic locations. Additionally we foresee stronger relationships with corporate partners, and enter into sponsorship agreements. This will sustain Why R? foundations ability to provide financial support to the broader R community.
+We define success as successful continuation of the Why R? webinar series, with contributions from R users from a broad diversity of specicialities, backgrounds and geographic locations.
+
+Additionally we foresee stronger relationships with corporate partners, and enter into sponsorship agreements. This will sustain Why R? foundations ability to provide financial support to the broader R community.
+
 <!-- 
 What does success look like? 
 -->
 
 ## Measuring success
-In the first instance, Success would be defined as the completion of agreed number of webinars, with each webinar receiving 500 views on average within 28 days of the initial livestream.
+In the first instance, Success would be defined as the completion of agreed number of webinars, with each webinar receiving 500 views on average within 28 days of the initial livestream. The processes are very transparent in nature and ongoing performance will be clearly visible on the Youtube Channel to all members of the R community.
 
-We will measure this by the outputs that we have made freely available to the R Community. 
-We will summarize information and make it available to all.
 
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 
 ## Future work
-If successful, the Why R? Foundation will seek to continue the webinar series beyond the duration of the project.
+If successful, the Why R? Foundation will seek to continue the webinar series beyond the duration of the project. The project will be a continuation of what is described in this document. Additionally the Why R? foundation would like to resume the Why R? pre-meetings series (i.e. in person events) when the opportunity to do so will arise again.
 
 Why R? notes the strong eco-system of the R communities in the American continents. Why R? will seek to support the growth of these communities, and will be available for future collaborations. For the foreseeable future, the Why R? foundation does not plan run R community events, unless in partnership with a local entity. This does not preclude people from the Americas participating in our current pattern of events (i.e. events scheduled for European and African time zones).
 

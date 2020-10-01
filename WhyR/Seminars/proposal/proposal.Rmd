@@ -14,9 +14,9 @@ The proposal envisages the production of 30 one-hour webinars as part of this pr
 
 The content of the webinars will focus on the R programming language. For diversity of topics, the intersection of R and other technologies can be included. Similarly, professional issues likely to be faced by a large number of R users can be included in the programme. The complete subject list of webinar titles should align with reasonable expectations of content for an R conference. 
 
-The Why R? Foundation will aim to provide a platform for a broad spectrum of speaker from a wide range of backgrounds, subject areas and geographic locations. The list of invited speakers would comprise a mix of established speakers who already have are well-known in the R community, and lesser-known speakers who do not often appear in R community events. Scheduling is influenced by speaker availability and the amount of advance notice. Established speakers are able to provide talks at short notice. The capability to maintain a programe over a long term would allow us to recruit speakers who would need a lot of preparation time, particularly if it is their first talk.
+The Why R? Foundation will aim to provide a platform for a broad spectrum of speaker from a wide range of backgrounds, subject areas and geographic locations. We hope to schedule more R users from the Global South (i.e. Africa and Asia).
 
-
+The list of invited speakers would comprise a mix of established speakers who already have are well-known in the R community, and lesser-known speakers who do not often appear in R community events. All speakers are at the same level of billing. Scheduling is influenced by speaker availability and the amount of advance notice needed by the speaker. Established speakers are able to provide talks at short notice. The capability to maintain a programe over a long term would allow us to recruit speakers who would need a lot of preparation time, particularly if it is their first talk. 
 
 #### Webinars scheduled for Asia and Oceania
 
@@ -59,7 +59,7 @@ Contributions from Novice R users will be sought. Technical content will not be 
 * The videos will be recorded asynchronously (i.e. not livestreamed).
 
 
-#### Duties of the Presenters
+## Duties of the Funded Presenters
 
 For component 1, the duties of the presenter are to research the topic and prepare questions for the interview, take part in a test recording (i.e. a sound check) in advance of the scheduled webinar, present the webinar, introduce the speaker, and afterwards, leading the Questions and Answer session. They will also manage the promotion of the event on Social Media. They will create visual identities for use on Social media. While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium. 
 
@@ -81,7 +81,9 @@ All recordings will be freely available on the Why R? Youtube channel. Why R? fo
 Since the launch of webinar series in April 2020, the Youtube channel has attracted 3,170 Subscribers with 43,184 views.
 (These figures are based both on the Webinar Series and recordings from the Why R? virtual conference which took place in September 2020.)
 
+## Promotion of the Webinars.
 
+The Why R? Foundation will continue to use Socia media platforms (e.g. LinkedIn and Twitter) and Youtube to increase attendance to the events. The Why R? Foundation has developed a very strong social media presence in 2020.
 
 ## Legacy
 

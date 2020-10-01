@@ -1,6 +1,8 @@
 # The Problem
 
-The Why R? foundation organizes the annual Why R? Conferences, as well as a series of R community meetups, hackathons and the 2020 R Webinars. The Why R? foundation is based in Poland, but has collaborators all across Europe and Africa (This geographic constraint is fundamentally due to similar time zones.) The foundation has run a series of pre-meetings since 2016 and a webinar series since April 2020. There have been 16 webinars to date. 
+The Why R? foundation organizes the annual Why R? Conferences, as well as a series of R community meetups, hackathons and the 2020 R Webinars. The Why R? foundation is based in Poland, but has collaborators all across Europe and Africa. This geographic constraint is fundamentally due to aligning time zones. 
+
+The foundation has run a series of pre-meetings since 2016 and a webinar series since April 2020. There have been 16 webinars to date, with 4 more scheduled for October 2020. 
 
 The ambition of Why R? is to use proceeds of conferences and pre-meetings to support R community events around the world. Why R? will seek to build strong corporate relations to strengthen its ability to provide fiscal support by giving grants to the R community.
 
