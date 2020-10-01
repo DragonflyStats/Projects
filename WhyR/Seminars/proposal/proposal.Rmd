@@ -4,18 +4,41 @@
 The goal of this project is support the continuation of the Why R? webinar series.
 
 ## Detail
-The Why R? foundation proposes to create a panel of presenters to present weekly webinars. This panel will be drawn from under-represented minorities and called the Funded Presenter Panel. It will consist of four or five people appointed by the Why R? foundation, and approved by the R consortium.
+The Why R? foundation proposes to create a panel of presenters to present weekly webinars. This panel will be drawn from under-represented minorities and called the Funded Presenter Panel. It will consist of two or three people appointed by the Why R? foundation, and approved by the R consortium.
 
-The proposal envisages the production of 20 one-hour webinars as part of this programme (i.e. a pilot programme). The project will be considered completed when 20 webinars have been made under the terms of reference. By mutual agreement, Why R? foundation and the R consortium may agree to continue the project, i.e. an increased number of webinars. While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium. (This will change the budget accordingly.) We would like to include webinars that have taken place since 3rd September 2020 in this programme. (Constructively this means a payment to Lais Carvalho for her excellent hosting of two webinars)
+The proposal envisages the production of 30 one-hour webinars as part of this programme (i.e. a pilot programme). The project will be considered completed when 30 webinars have been made under the terms of reference. 
 
-The fundamental principle behind this proposal is “Representation Matters”. The visibility of members of under-represented minorities in positions of responsibility and leadership would be encouraging to under-represented minorities to engage in the R community (i.e. giving talks, co-organizing community events etc).
+The content of the webinars will focus on the R programming language. For diversity of topics, the intersection of R and other technologies can be included. Similarly, professional issues likely to be faced by a large number of R users can be included in the programme. The complete subject list of webinar titles should align with reasonable expectations of content for an R conference.
+
+By mutual agreement, Why R? foundation and the R consortium may agree to continue the project, i.e. an increased number of webinars. While this proposal envisages one presenter per webinar, we will agree to have two presenters, if preferred by the R consortium. (This will change the budget accordingly.)  
+
+The fundamental principle behind this proposal is ``Representation Matters". The visibility of members of under-represented minorities in positions of responsibility and leadership would be encouraging to under-represented minorities to engage in the R community (i.e. giving talks, co-organizing community events etc).
+
+#### Webinars scheduled for Asia and Oceania
+
+In addition to the main slot on Thursday 6pm UTC, it is our ambition to have a limited run of webinars scheduled for a time suitable for Asia and Oceania. 
+This series would highlight the contribution of the R community in that part of the world.
+The webinars would need to take place at an appropriate time (e.g. Tuesday 11am UTC). Constructively this means that there will periods with two scheduled Why R? webinars per week. A reasonable expectation is 8-10 webinars for the Asia/Ocean time zone, but it is contingent on speaker availability.
+
+#### Webinars in other languages.
+
+All of the webinars have been conducted in Englis. Subject to the availability of speakers, we will explore a limited of run of webinars in French and Portuguese. The Why R? webinar team has team members fluent in both languages.
+
+#### Desemination of Work
+
+Why R? foundation will produce, and promote each webinar, and is responsible for the recruitment of guest speakers.
+All recordings will be freely available on the Why R? Youtube channel.
+Since the launch of webinar series in April 2020, the Youtube channel has attracted 3,170 Subscribers with 43,184 views.
+(These figures are based both on the Webinar Series and recordings from the Why R? virtual conference which took place in September 2020.)
+
+
+
+
+#### Other Considerations 
 
 Webinars that take place during the period, but are not presented by a member of the Funded Presenter Panel, shall not be counted as part of agreed number of productions. This situation may arise no member of the Funded Presenter Panel are available on the date of particular recording (e.g. they have been engaged for similar work by other R conferences).
 
 The webinar series will be used to promote the R consortium brand. For the duration of the project, R consortium branding will appear on all webinar productions (including ones that are not presented by members of the Funded Presenter Panel).
-
-Why R? foundation will produce, and promote each webinar, and is responsible for the recruitment of guest speakers.
-
 
 
 

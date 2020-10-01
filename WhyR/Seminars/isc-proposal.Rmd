@@ -1,8 +1,8 @@
 ---
-title: "Why R? About "
+title: "Why R? Webinars"
 author: "Why R? Foundation"
 date: "01 October 2020"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, eval=TRUE, results='hide', echo=FALSE}
@@ -12,17 +12,21 @@ knitr::opts_knit$set(warning = FALSE, message= FALSE)
 ```{r autodoc, child='proposal/signatories.Rmd', eval=TRUE}
 ```
 
+
 ```{r autodoc, child='proposal/problemdefinition.Rmd', eval=TRUE}
 ```
 
 ```{r autodoc, child='proposal/proposal.Rmd', eval=TRUE}
 ```
 
+
+
 ```{r autodoc, child='proposal/timeline.Rmd', eval=TRUE}
 ```
 
 ```{r autodoc, child='proposal/requirements.Rmd', eval=TRUE}
 ```
+
 
 ```{r autodoc, child='proposal/success.Rmd', eval=TRUE}
 ```
