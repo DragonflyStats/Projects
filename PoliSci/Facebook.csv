@@ -2,27 +2,7 @@
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
-Sean Kelly,2020-10-01,6771,6959
-Save Leitrim,2020-10-01,5271,5480
-Brian Leddin,2020-10-02,633,673
-Elisa O'Donovan,2020-10-02,1345,1443
-Alan Kelly,2020-10-02,2447,2602
-Mary Lou McDonald,2020-10-02,159240,161684
-Holly Cairns,2020-10-02,6087,6475
-Dolores Cahill,2020-10-02,7223,9309
-Irish Freedom Party,2020-10-02,13505,14158
-Corruption Awareness Ireland,2020-10-02,23511,28541
-Simon Coveney,2020-10-01,13697,14380
-Lynn Boylan,2020-10-01,3190,3281
-Liadh Ni Riada,2020-10-01,8532,8620
-Norma Foley,2020-10-01,5841,6362
-Deirdre Clune,2020-10-01,4508,4543
-Catherine Murphy,2020-10-01,10080,9889
-Jack Chambers,2020-10-01,5431,5621
-Niall Collins,2020-10-01,11783,11968
-Patrick O'Donovan,2020-10-01,5177,5389
-Josepha Madigan,2020-10-01,5985,6320
-Paschal Donohoe,2020-10-01,4481,4608
+"Alan Kelly",2020-10-02,2447,2602
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -58,6 +38,7 @@ Paschal Donohoe,2020-10-01,4481,4608
 "Brian Leddin",2020-09-20,632,668
 "Brian Leddin",2020-09-24,635,672
 "Brian Leddin",2020-09-27,635,673
+"Brian Leddin",2020-10-02,633,673
 "Brid Smith",2020-09-16,14677,15094
 "Brid Smith",2020-09-19,14688,15108
 "Brid Smith",2020-09-23,14706,15126
@@ -67,10 +48,12 @@ Paschal Donohoe,2020-10-01,4481,4608
 "Cathal Berry",2020-09-24,2791,3069
 "Cathal Berry",2020-09-27,2795,3077
 "Cathal Berry",2020-09-30,2798,3080
+"Cathal Berry",2020-10-02,2803,3085
 "Catherine Martin",2020-09-19,2957,3135
 "Catherine Martin",2020-09-22,2954,3134
 "Catherine Martin",2020-09-26,2960,3145
 "Catherine Martin",2020-10-01,2965,3150
+"Catherine Murphy",2020-10-01,10080,9889
 "Charlie McConalogue",2020-09-26,8818,8917
 "Charlie McConalogue",2020-10-01,8827,8930
 "Claire Byrne",2020-09-15,1040,1055
@@ -88,6 +71,7 @@ Paschal Donohoe,2020-10-01,4481,4608
 "Corruption Awareness Ireland",2020-09-28,22664,27403
 "Corruption Awareness Ireland",2020-09-30,23184,28094
 "Corruption Awareness Ireland",2020-10-01,23374,28357
+"Corruption Awareness Ireland",2020-10-02,23511,28541
 "Corruption Awarness Ireland",2020-09-29,22945,27797
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
@@ -97,6 +81,7 @@ Paschal Donohoe,2020-10-01,4481,4608
 "Danny Healy Rae",2020-09-20,12852,14795
 "Danny Healy Rae",2020-09-24,12856,14807
 "Danny Healy Rae",2020-09-28,12856,14812
+"Deirdre Clune",2020-10-01,4508,4543
 "Dolores Cahill",2020-09-15,5964,7456
 "Dolores Cahill",2020-09-17,6023,7529
 "Dolores Cahill",2020-09-19,6067,7585
@@ -105,13 +90,9 @@ Paschal Donohoe,2020-10-01,4481,4608
 "Dolores Cahill",2020-09-25,6504,8265
 "Dolores Cahill",2020-09-27,6803,8705
 "Dolores Cahill",2020-09-29,6976,8966
-Cathal Berry,2020-10-02,2803,3085
-Fianna Fail,2020-10-02,40550,41800
-Fine Gael,2020-10-02,40155,41582
-Leo Varadkar,2020-10-02,88858,103992
-Simon Harris,2020-10-02,29179,30481
 "Dolores Cahill",2020-09-30,7061,9084
 "Dolores Cahill",2020-10-01,7165,9216
+"Dolores Cahill",2020-10-02,7223,9309
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -125,16 +106,19 @@ Simon Harris,2020-10-02,29179,30481
 "Eirigi",2020-09-24,29304,29169
 "Eirigi",2020-09-27,29316,29181
 "Eirigi",2020-10-01,29347,29218
+"Elisa O'Donovan",2020-10-02,1345,1443
 "Fianna Fail",2020-09-12,NA,41665
 "Fianna Fail",2020-09-19,40461,41682
 "Fianna Fail",2020-09-23,40504,41742
 "Fianna Fail",2020-09-27,40533,41773
+"Fianna Fail",2020-10-02,40550,41800
 "Fine Gael",2020-09-12,NA,41348
 "Fine Gael",2020-09-15,40000,41386
 "Fine Gael",2020-09-19,40016,41408
 "Fine Gael",2020-09-22,40016,41417
 "Fine Gael",2020-09-26,40045,41450
 "Fine Gael",2020-10-01,40148,41573
+"Fine Gael",2020-10-02,40155,41582
 "Frankie Daly",2020-09-20,5679,5854
 "Frankie Daly",2020-09-26,5689,5864
 "Frankie Daly",2020-10-01,5690,5864
@@ -188,6 +172,7 @@ Simon Harris,2020-10-02,29179,30481
 "Holly Cairns",2020-09-22,6030,6415
 "Holly Cairns",2020-09-26,6074,6463
 "Holly Cairns",2020-09-30,6083,6471
+"Holly Cairns",2020-10-02,6087,6475
 "Integrity Ireland",2020-09-15,9664,10045
 "Integrity Ireland",2020-09-19,9665,10046
 "Integrity Ireland",2020-09-23,9905,10390
@@ -211,8 +196,10 @@ Simon Harris,2020-10-02,29179,30481
 "Irish Freedom Party",2020-09-29,13471,14123
 "Irish Freedom Party",2020-09-30,13479,14131
 "Irish Freedom Party",2020-10-01,13492,14144
+"Irish Freedom Party",2020-10-02,13505,14158
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
+"Jack Chambers",2020-10-01,5431,5621
 "Jennifer Whitmore",2020-09-20,3360,3589
 "Jennifer Whitmore",2020-09-24,3360,3589
 "Jennifer Whitmore",2020-09-27,3368,3600
@@ -222,6 +209,7 @@ Simon Harris,2020-10-02,29179,30481
 "Josepha Madigan",2020-09-23,5932,6261
 "Josepha Madigan",2020-09-24,5931,6260
 "Josepha Madigan",2020-09-28,5950,6281
+"Josepha Madigan",2020-10-01,5985,6320
 "Kathleen Funchion",2020-09-26,6777,6977
 "Kathleen Funchion",2020-10-01,6787,6987
 "Kerry Sinn Fein",2020-09-26,1722,1821
@@ -238,12 +226,15 @@ Simon Harris,2020-10-02,29179,30481
 "Leo Varadkar",2020-09-22,87282,101676
 "Leo Varadkar",2020-09-26,87317,101734
 "Leo Varadkar",2020-10-01,88723,103737
+"Leo Varadkar",2020-10-02,88858,103992
+"Liadh Ni Riada",2020-10-01,8532,8620
 "Luke 'Ming' Flanagan",2020-09-15,67433,67796
 "Luke 'Ming' Flanagan",2020-09-19,67409,67775
 "Luke 'Ming' Flanagan",2020-09-24,67385,67753
 "Luke 'Ming' Flanagan",2020-09-26,67376,67743
 "Luke 'Ming' Flanagan",2020-09-28,67369,67735
 "Luke 'Ming' Flanagan",2020-09-29,67364,67730
+"Lynn Boylan",2020-10-01,3190,3281
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Maria Walsh",2020-09-24,12167,12473
@@ -267,6 +258,7 @@ Simon Harris,2020-10-02,29179,30481
 "Mary Lou McDonald",2020-09-26,159022,161476
 "Mary Lou McDonald",2020-09-27,159041,161491
 "Mary Lou McDonald",2020-09-30,159086,161533
+"Mary Lou McDonald",2020-10-02,159240,161684
 "Matt Carthy",2020-09-20,30167,31643
 "Matt Carthy",2020-09-25,30224,31701
 "Matt Carthy",2020-09-29,30253,31732
@@ -309,6 +301,7 @@ Simon Harris,2020-10-02,29179,30481
 "Niall McConnell",2020-09-25,4250,4447
 "Niall McConnell",2020-09-27,4268,4468
 "Niall McConnell",2020-09-30,4271,4472
+"Norma Foley",2020-10-01,5841,6362
 "NP Cork",2020-09-15,589,603
 "NP Cork",2020-09-18,589,603
 "NP Cork",2020-09-21,589,603
@@ -352,9 +345,11 @@ Simon Harris,2020-10-02,29179,30481
 "Padraig Mac Lochlainn",2020-10-01,13713,14063
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
+"Paschal Donohoe",2020-10-01,4481,4608
 "Patrick Costello",2020-09-20,723,765
 "Patrick Costello",2020-09-24,724,766
 "Patrick Costello",2020-09-29,723,766
+"Patrick O'Donovan",2020-10-01,5177,5389
 "Paul Murphy",2020-09-20,43957,49297
 "Paul Murphy",2020-09-26,44449,49836
 "Peadar Toibin",2020-09-12,NA,11251
@@ -397,14 +392,18 @@ Simon Harris,2020-10-02,29179,30481
 "Save Kerry",2020-09-27,324,346
 "Save Leitrim",2020-09-24,5263,5472
 "Save Leitrim",2020-09-27,5270,5480
+"Save Leitrim",2020-10-01,5271,5480
 "Sean Kelly",2020-09-24,6769,6957
 "Sean Kelly",2020-09-28,6770,6958
+"Sean Kelly",2020-10-01,6771,6959
 "Simon Coveney",2020-09-22,13682,14361
 "Simon Coveney",2020-09-26,13691,14373
+"Simon Coveney",2020-10-01,13697,14380
 "Simon Harris",2020-09-15,28808,30084
 "Simon Harris",2020-09-21,28915,30200
 "Simon Harris",2020-09-22,28930,30221
 "Simon Harris",2020-09-26,29002,30296
+"Simon Harris",2020-10-02,29179,30481
 "Sinn Fein",2020-09-12,NA,246657
 "Sinn Fein",2020-09-17,220017,246736
 "Sinn Fein",2020-09-20,220073,246847
