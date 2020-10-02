@@ -3,42 +3,11 @@
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
-Luke 'Ming' Flanagan,2020-10-02,67349,67715
-Conservative Comeback Ireland,2020-10-02,980,1000
-Richard Boyd Barrett,2020-10-02,13943,15340
-Richard Bruton,2020-10-02,4659,4807
-Gript Media,2020-10-02,23139,28710
-Yellow Vest Ireland,2020-10-02,48059,53776
-NP Kerry,2020-10-02,541,553
-NP Cork,2020-10-02,592,606
-Ireland Says No,2020-10-02,74225,72889
-Niall McConnell,2020-10-02,4305,4509
-Tracey O'Mahony,2020-10-02,4063,4214
-Neil O'Mahony,2020-10-02,7354,7475
-Iona Institute,2020-10-02,7644,7769
-Ireland for Trump,2020-10-02,749,758
-Irexit ,2020-10-02, 746, 760
-Jennifer Whitmore,2020-10-02,3381,3614
-Kieran O'Donnell,2020-10-02,2790,2848
-Mary Fitzpatrick,2020-10-02,2937,2997
-Michael Healy-Rae ,2020-10-02,19319,22665
-Mick Wallace,2020-10-02, 29678,31320
-National Party,2020-10-02,8275,8905
-People Before Profit,2020-10-02,56502,58706
-NP Galway,2020-10-02,534,549
-Paul Murphy,2020-10-02,44564,50080
-Peter Burke,2020-10-02,4466,4624
-Robert Troy,2020-10-02,4630,4871
-Anti-Corruption Ireland,2020-10-02,1819,2006
-Reality Ireland,2020-10-02,7002,7052
-Sinn Fein Dun Laoghaire,2020-10-02,1428,1456
-Gerry Adams,2020-10-02,67611,68763
-Hazel Chu,2020-10-02,794,848
-Helen McEntee,2020-10-02,9571,10047
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
 "Anti-Corruption Ireland",2020-09-27,1243,1288
+"Anti-Corruption Ireland",2020-10-02,1819,2006
 "Anti-Globalism Ireland",2020-09-15,507,513
 "Anti-Globalism Ireland",2020-09-19,511,517
 "Anti-Globalism Ireland",2020-09-24,513,519
@@ -99,6 +68,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Conservative Comeback Ireland",2020-09-19,982,1002
 "Conservative Comeback Ireland",2020-09-24,982,1002
 "Conservative Comeback Ireland",2020-09-28,979,999
+"Conservative Comeback Ireland",2020-10-02,980,1000
 "Corruption Awareness Ireland",2020-09-26,22121,26671
 "Corruption Awareness Ireland",2020-09-28,22664,27403
 "Corruption Awareness Ireland",2020-09-30,23184,28094
@@ -161,6 +131,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Gerry Adams",2020-09-20,67022,68174
 "Gerry Adams",2020-09-24,67270,68244
 "Gerry Adams",2020-09-27,67266,68241
+"Gerry Adams",2020-10-02,67611,68763
 "Grand Torino",2020-09-15,7539,10131
 "Grand Torino",2020-09-18,7808,10439
 "Grand Torino",2020-09-21,7973,10639
@@ -186,11 +157,13 @@ Helen McEntee,2020-10-02,9571,10047
 "Gript Media",2020-09-26,22951,28448
 "Gript Media",2020-09-29,23035,28568
 "Gript Media",2020-09-29,23042,28573
+"Gript Media",2020-10-02,23139,28710
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
 "Hazel Chu",2020-09-24,788,839
 "Hazel Chu",2020-09-27,789,841
+"Hazel Chu",2020-10-02,794,848
 "Heather Humphreys",2020-09-20,5798,6139
 "Heather Humphreys",2020-09-26,5802,6146
 "Heather Humphreys",2020-10-01,5806,6151
@@ -198,6 +171,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Helen McEntee",2020-09-20,9529,10005
 "Helen McEntee",2020-09-24,9554,10032
 "Helen McEntee",2020-09-27,9569,10046
+"Helen McEntee",2020-10-02,9571,10047
 "Holly Cairns",2020-09-12,NA,6339
 "Holly Cairns",2020-09-15,5963,6343
 "Holly Cairns",2020-09-19,5999,6380
@@ -214,10 +188,14 @@ Helen McEntee,2020-10-02,9571,10047
 "Iona Institute",2020-09-20,7638,7760
 "Iona Institute",2020-09-24,7634,7756
 "Iona Institute",2020-09-27,7638,7761
+"Iona Institute",2020-10-02,7644,7769
 "Ireland for Trump",2020-09-27,744,752
+"Ireland for Trump",2020-10-02,749,758
+"Ireland Says No",2020-10-02,74225,72889
 "Irexit",2020-09-19,731,745
 "Irexit",2020-09-23,735,750
 "Irexit",2020-09-27,738,753
+"Irexit",2020-10-02,746,760
 "Irish Freedom Party",2020-09-12,NA,13848
 "Irish Freedom Party",2020-09-15,13246,13896
 "Irish Freedom Party",2020-09-19,13279,13928
@@ -235,6 +213,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Jennifer Whitmore",2020-09-20,3360,3589
 "Jennifer Whitmore",2020-09-24,3360,3589
 "Jennifer Whitmore",2020-09-27,3368,3600
+"Jennifer Whitmore",2020-10-02,3381,3614
 "Joan Collins",2020-09-24,7371,7484
 "Joan Collins",2020-09-28,7378,7491
 "Josepha Madigan",2020-09-20,5929,6256
@@ -247,6 +226,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Kerry Sinn Fein",2020-09-26,1722,1821
 "Kerry Sinn Fein",2020-10-01,1725,1824
 "Kieran O'Donnell",2020-09-27,2779,2836
+"Kieran O'Donnell",2020-10-02,2790,2848
 "Labour Party",2020-09-12,NA,29473
 "Labour Party",2020-09-15,29121,29498
 "Labour Party",2020-09-20,29127,29512
@@ -266,6 +246,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Luke 'Ming' Flanagan",2020-09-26,67376,67743
 "Luke 'Ming' Flanagan",2020-09-28,67369,67735
 "Luke 'Ming' Flanagan",2020-09-29,67364,67730
+"Luke 'Ming' Flanagan",2020-10-02,67349,67715
 "Lynn Boylan",2020-10-01,3190,3281
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
@@ -283,6 +264,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Mark Daly",2020-09-29,3334,3411
 "Mary Fitzpatrick",2020-09-24,2933,2992
 "Mary Fitzpatrick",2020-09-27,2934,2994
+"Mary Fitzpatrick",2020-10-02,2937,2997
 "Mary Lou McDonald",2020-09-12,NA,160708
 "Mary Lou McDonald",2020-09-16,158329,160769
 "Mary Lou McDonald",2020-09-19,158470,160900
@@ -301,6 +283,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Michael Healy-Rae",2020-09-18,19259,22595
 "Michael Healy-Rae",2020-09-23,19282,22622
 "Michael Healy-Rae",2020-09-27,19301,22645
+"Michael Healy-Rae",2020-10-02,19319,22665
 "Michael Martin",2020-09-12,NA,22872
 "Michael Martin",2020-09-15,22585,22891
 "Michael Martin",2020-09-19,22658,22975
@@ -313,15 +296,18 @@ Helen McEntee,2020-10-02,9571,10047
 "Mick Wallace",2020-09-19,29657,31278
 "Mick Wallace",2020-09-24,29667,31302
 "Mick Wallace",2020-09-27,29679,31319
+"Mick Wallace",2020-10-02,29678,31320
 "National Party",2020-09-12,NA,8884
 "National Party",2020-09-15,8265,8895
 "National Party",2020-09-19,8278,8904
 "National Party",2020-09-24,8284,8911
 "National Party",2020-09-27,8280,8908
+"National Party",2020-10-02,8275,8905
 "Neasa Hourigan",2020-09-19,670,740
 "Neasa Hourigan",2020-09-24,673,742
 "Neasa Hourigan",2020-09-28,673,742
 "Neasa Hourigan",2020-09-29,673,742
+"Neil O'Mahony",2020-10-02,7354,7475
 "Niall Collins",2020-09-19,11753,11938
 "Niall Collins",2020-09-24,11771,11958
 "Niall Collins",2020-09-26,11780,11966
@@ -333,6 +319,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Niall McConnell",2020-09-25,4250,4447
 "Niall McConnell",2020-09-27,4268,4468
 "Niall McConnell",2020-09-30,4271,4472
+"Niall McConnell",2020-10-02,4305,4509
 "Norma Foley",2020-10-01,5841,6362
 "NP Cork",2020-09-15,589,603
 "NP Cork",2020-09-18,589,603
@@ -340,6 +327,7 @@ Helen McEntee,2020-10-02,9571,10047
 "NP Cork",2020-09-25,591,605
 "NP Cork",2020-09-27,592,606
 "NP Cork",2020-09-29,592,606
+"NP Cork",2020-10-02,592,606
 "NP Dublin",2020-09-19,1509,1587
 "NP Dublin",2020-09-23,1508,1586
 "NP Dublin",2020-09-26,1509,1587
@@ -347,9 +335,11 @@ Helen McEntee,2020-10-02,9571,10047
 "NP Galway",2020-09-19,529,544
 "NP Galway",2020-09-24,532,547
 "NP Galway",2020-09-26,533,548
+"NP Galway",2020-10-02,534,549
 "NP Kerry",2020-09-20,536,547
 "NP Kerry",2020-09-25,536,547
 "NP Kerry",2020-09-29,537,548
+"NP Kerry",2020-10-02,541,553
 "NP Laois",2020-09-29,542,545
 "NP Limerick",2020-09-25,550,557
 "NP Limerick",2020-09-30,551,558
@@ -384,6 +374,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Patrick O'Donovan",2020-10-01,5177,5389
 "Paul Murphy",2020-09-20,43957,49297
 "Paul Murphy",2020-09-26,44449,49836
+"Paul Murphy",2020-10-02,44564,50080
 "Peadar Toibin",2020-09-12,NA,11251
 "Peadar Toibin",2020-09-15,10957,11253
 "Peadar Toibin",2020-09-19,10969,11266
@@ -399,18 +390,24 @@ Helen McEntee,2020-10-02,9571,10047
 "People Before Profit",2020-09-19,56625,58475
 "People Before Profit",2020-09-24,56337,58542
 "People Before Profit",2020-09-27,56365,58570
+"People Before Profit",2020-10-02,56502,58706
 "Peter Burke",2020-09-26,4463,4619
+"Peter Burke",2020-10-02,4466,4624
 "Pippa Hackett",2020-10-01,1262,1331
 "Reality Ireland",2020-09-26,6994,7044
+"Reality Ireland",2020-10-02,7002,7052
 "Richard Boyd Barrett",2020-09-16,13380,14575
 "Richard Boyd Barrett",2020-09-19,13589,14927
 "Richard Boyd Barrett",2020-09-23,13827,15208
 "Richard Boyd Barrett",2020-09-24,13844,15231
 "Richard Boyd Barrett",2020-09-27,13886,15270
+"Richard Boyd Barrett",2020-10-02,13943,15340
 "Richard Bruton",2020-09-27,4661,4811
+"Richard Bruton",2020-10-02,4659,4807
 "Robert Troy",2020-09-18,4622,4856
 "Robert Troy",2020-09-21,4623,4862
 "Robert Troy",2020-09-26,4626,4865
+"Robert Troy",2020-10-02,4630,4871
 "Roderic O'Gorman",2020-10-01,2524,2621
 "Roisin Shortall",2020-09-20,2152,2299
 "Roisin Shortall",2020-09-26,2225,2381
@@ -442,6 +439,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Sinn Fein",2020-09-25,220294,247097
 "Sinn Fein",2020-09-30,220521,247341
 "Sinn Fein Dun Laoghaire",2020-09-26,1418,1446
+"Sinn Fein Dun Laoghaire",2020-10-02,1428,1456
 "SIPTU",2020-09-19,17686,18126
 "SIPTU",2020-09-24,17736,18266
 "SIPTU",2020-09-29,17755,18285
@@ -464,6 +462,7 @@ Helen McEntee,2020-10-02,9571,10047
 "Tracey O'Mahony",2020-09-19,3826,3960
 "Tracey O'Mahony",2020-09-24,3891,4033
 "Tracey O'Mahony",2020-09-29,3992,4141
+"Tracey O'Mahony",2020-10-02,4063,4214
 "Verona Murphy",2020-09-29,9134,9497
 "Willie O'Dea",2020-09-19,5565,5695
 "Willie O'Dea",2020-09-24,5562,5692
@@ -481,3 +480,4 @@ Helen McEntee,2020-10-02,9571,10047
 "Yellow Vest Ireland",2020-09-26,47867,53556
 "Yellow Vest Ireland",2020-09-27,47875,53559
 "Yellow Vest Ireland",2020-09-29,47914,53604
+"Yellow Vest Ireland",2020-10-02,48059,53776
