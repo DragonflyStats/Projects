@@ -1,31 +1,8 @@
 "Name","Date","Likes","Followers"
 "Alan Kelly",2020-09-19,2433,2581
-Ronan Mullen,2020-10-03,3572,3611
-Marian Harkin,2020-10-03,4054,4180
-Eamon O Cuiv,2020-10-03,8180,8273
-Mark Daly,2020-10-03,3334,3411
-Denis Naughten,2020-10-03,9744,10085
-Maurice Quinlivan,2020-10-03,9769,9856
-Verona Murphy,2020-10-03,9183,9548
 "Alan Kelly",2020-09-24,2437,2587
-NP Laois,2020-10-03,543,546
-Maria Walsh,2020-10-03,12167,12474
-Grand Torino,2020-10-03,8133,10851
-Aontu,2020-10-03,11029,11547
-Peadar Toibin,2020-10-03,11095,11404
-Gript Media,2020-10-03,23288,28949
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
-Niall McConnell,2020-10-03,4307,4511
-Leo Varadkar,2020-10-03,88953,104197
-Micheal Martin,2020-10-03,22913,23249
-Fine Gael,2020-10-03,40164,41592
-Fianna Fail,2020-10-03,40556,41809
-Green Party,2020-10-03,17363,18134
-Eamon Ryan,2020-10-03,7702,7915
-Social Democrats,2020-10-03,10513,10706
-Roisin Shortall,2020-10-03,2283,2454
-Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -45,6 +22,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Aontu",2020-09-24,10946,11462
 "Aontu",2020-09-27,10970,11484
 "Aontu",2020-10-01,11003,11518
+"Aontu",2020-10-03,11029,11547
 "Ben Gilroy",2020-09-12,NA,8860
 "Ben Gilroy",2020-09-15,7930,8879
 "Ben Gilroy",2020-09-19,7951,8899
@@ -114,6 +92,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Danny Healy Rae",2020-09-24,12856,14807
 "Danny Healy Rae",2020-09-28,12856,14812
 "Deirdre Clune",2020-10-01,4508,4543
+"Denis Naughten",2020-10-03,9744,10085
 "Dolores Cahill",2020-09-15,5964,7456
 "Dolores Cahill",2020-09-17,6023,7529
 "Dolores Cahill",2020-09-19,6067,7585
@@ -130,11 +109,13 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
 "Donegal Sinn Fein",2020-10-01,11744,11839
+"Eamon O Cuiv",2020-10-03,8180,8273
 "Eamon Ryan",2020-09-12,NA,7889
 "Eamon Ryan",2020-09-18,7687,7898
 "Eamon Ryan",2020-09-23,7696,7907
 "Eamon Ryan",2020-09-26,7703,7915
 "Eamon Ryan",2020-09-29,7702,7915
+"Eamon Ryan",2020-10-03,7702,7915
 "Eirigi",2020-09-20,29268,29129
 "Eirigi",2020-09-24,29304,29169
 "Eirigi",2020-09-27,29316,29181
@@ -145,6 +126,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Fianna Fail",2020-09-23,40504,41742
 "Fianna Fail",2020-09-27,40533,41773
 "Fianna Fail",2020-10-02,40550,41800
+"Fianna Fail",2020-10-03,40556,41809
 "Fine Gael",2020-09-12,NA,41348
 "Fine Gael",2020-09-15,40000,41386
 "Fine Gael",2020-09-19,40016,41408
@@ -152,6 +134,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Fine Gael",2020-09-26,40045,41450
 "Fine Gael",2020-10-01,40148,41573
 "Fine Gael",2020-10-02,40155,41582
+"Fine Gael",2020-10-03,40164,41592
 "Frankie Daly",2020-09-20,5679,5854
 "Frankie Daly",2020-09-26,5689,5864
 "Frankie Daly",2020-10-01,5690,5864
@@ -173,6 +156,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Grand Torino",2020-09-27,7996,10669
 "Grand Torino",2020-09-29,8108,10812
 "Grand Torino",2020-10-01,8118,10828
+"Grand Torino",2020-10-03,8133,10851
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -181,6 +165,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Green Party",2020-09-25,17360,18126
 "Green Party",2020-09-29,17362,18132
 "Green Party",2020-10-01,17360,18131
+"Green Party",2020-10-03,17363,18134
 "Gript Media",2020-09-15,22717,27885
 "Gript Media",2020-09-18,22751,27952
 "Gript Media",2020-09-19,22273,28002
@@ -190,6 +175,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Gript Media",2020-09-29,23035,28568
 "Gript Media",2020-09-29,23042,28573
 "Gript Media",2020-10-02,23139,28710
+"Gript Media",2020-10-03,23288,28949
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -276,6 +262,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Leo Varadkar",2020-09-26,87317,101734
 "Leo Varadkar",2020-10-01,88723,103737
 "Leo Varadkar",2020-10-02,88858,103992
+"Leo Varadkar",2020-10-03,88953,104197
 "Liadh Ni Riada",2020-10-01,8532,8620
 "Luke 'Ming' Flanagan",2020-09-15,67433,67796
 "Luke 'Ming' Flanagan",2020-09-19,67409,67775
@@ -291,16 +278,19 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Mairead McGuinness",2020-10-03,11776,12158
 "Maria Walsh",2020-09-24,12167,12473
 "Maria Walsh",2020-09-28,12164,12471
+"Maria Walsh",2020-10-03,12167,12474
 "Marian Harkin",2020-09-12,NA,4173
 "Marian Harkin",2020-09-18,4048,4173
 "Marian Harkin",2020-09-21,4049,4174
 "Marian Harkin",2020-09-25,4052,4177
 "Marian Harkin",2020-09-29,4055,4180
+"Marian Harkin",2020-10-03,4054,4180
 "Marie Sherlock",2020-09-25,553,618
 "Marie Sherlock",2020-09-29,553,618
 "Mark Daly",2020-09-19,3324,3401
 "Mark Daly",2020-09-24,3327,3404
 "Mark Daly",2020-09-29,3334,3411
+"Mark Daly",2020-10-03,3334,3411
 "Mary Fitzpatrick",2020-09-24,2933,2992
 "Mary Fitzpatrick",2020-09-27,2934,2994
 "Mary Fitzpatrick",2020-10-02,2937,2997
@@ -319,6 +309,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Maurice Quinlivan",2020-09-20,9751,9834
 "Maurice Quinlivan",2020-09-25,9752,9837
 "Maurice Quinlivan",2020-09-29,9750,9834
+"Maurice Quinlivan",2020-10-03,9769,9856
 "Michael Healy-Rae",2020-09-16,19244,22568
 "Michael Healy-Rae",2020-09-18,19259,22595
 "Michael Healy-Rae",2020-09-23,19282,22622
@@ -331,6 +322,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Michael Martin",2020-09-27,22819,23145
 "Michael Martin",2020-09-27,22817,23144
 "Michael Martin",2020-10-01,22872,23202
+"Micheal Martin",2020-10-03,22913,23249
 "Mick Wallace",2020-09-12,NA,31265
 "Mick Wallace",2020-09-16,29658,31280
 "Mick Wallace",2020-09-19,29657,31278
@@ -361,6 +353,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Niall McConnell",2020-09-27,4268,4468
 "Niall McConnell",2020-09-30,4271,4472
 "Niall McConnell",2020-10-02,4305,4509
+"Niall McConnell",2020-10-03,4307,4511
 "Norma Foley",2020-10-01,5841,6362
 "NP Cork",2020-09-15,589,603
 "NP Cork",2020-09-18,589,603
@@ -382,6 +375,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "NP Kerry",2020-09-29,537,548
 "NP Kerry",2020-10-02,541,553
 "NP Laois",2020-09-29,542,545
+"NP Laois",2020-10-03,543,546
 "NP Limerick",2020-09-25,550,557
 "NP Limerick",2020-09-30,551,558
 "NP Longford",2020-09-23,547,555
@@ -422,6 +416,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Peadar Toibin",2020-09-24,10975,11277
 "Peadar Toibin",2020-09-27,11020,11327
 "Peadar Toibin",2020-10-01,11088,11396
+"Peadar Toibin",2020-10-03,11095,11404
 "Pearse Doherty",2020-09-20,71689,77709
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
@@ -455,11 +450,13 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Roisin Shortall",2020-09-20,2152,2299
 "Roisin Shortall",2020-09-26,2225,2381
 "Roisin Shortall",2020-09-29,2277,2448
+"Roisin Shortall",2020-10-03,2283,2454
 "Ronan Mullen",2020-09-12,NA,3614
 "Ronan Mullen",2020-09-16,3575,3614
 "Ronan Mullen",2020-09-19,3573,3612
 "Ronan Mullen",2020-09-24,3571,3610
 "Ronan Mullen",2020-09-28,3571,3610
+"Ronan Mullen",2020-10-03,3572,3611
 "Save Kerry",2020-09-24,324,346
 "Save Kerry",2020-09-27,324,346
 "Save Kerry",2020-10-02,323,345
@@ -485,6 +482,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Sinn Fein",2020-09-30,220521,247341
 "Sinn Fein Dun Laoghaire",2020-09-26,1418,1446
 "Sinn Fein Dun Laoghaire",2020-10-02,1428,1456
+"Sinn Fein Dun Laoghaire",2020-10-03,1434,1463
 "SIPTU",2020-09-19,17686,18126
 "SIPTU",2020-09-24,17736,18266
 "SIPTU",2020-09-29,17755,18285
@@ -494,6 +492,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Social Democrats",2020-09-20,10477,10667
 "Social Democrats",2020-09-25,10480,10671
 "Social Democrats",2020-09-29,10495,10687
+"Social Democrats",2020-10-03,10513,10706
 "Stephen Donnelly",2020-09-24,9891,10079
 "Stephen Donnelly",2020-09-29,9896,10085
 "Stephen Donnelly",2020-10-03,9907,10097
@@ -511,6 +510,7 @@ Sinn Fein Dun Laoghaire,2020-10-03,1434,1463
 "Tracey O'Mahony",2020-09-29,3992,4141
 "Tracey O'Mahony",2020-10-02,4063,4214
 "Verona Murphy",2020-09-29,9134,9497
+"Verona Murphy",2020-10-03,9183,9548
 "Willie O'Dea",2020-09-19,5565,5695
 "Willie O'Dea",2020-09-24,5562,5692
 "Willie O'Dea",2020-09-29,5565,5698
