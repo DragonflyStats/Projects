@@ -3,31 +3,6 @@
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
-Corruption Awareness Ireland,2020-10-02,23554,28597
-Ben Scallan,2020-10-03,12774,13518
-Luke 'Ming' Flanagan,2020-10-03,67345,67709
-Mick Wallace,2020-10-03,29675,31317
-Clare Daly,2020-10-03,21379,22346
-Joan Collins,2020-10-03,7382,7495
-Brid Smith,2020-10-03,14789,15213
-Richard Boyd Barrett,2020-10-03,13957,15358
-Pearse Doherty,2020-10-03,72167,78241
-Gerry Adams,2020-10-03,67693,68847
-Mary Lou McDonald,2020-10-03,159250,161699
-Dolores Cahill,2020-10-03,7302,9419
-Irish Freedom Party,2020-10-03,13510,14162
-Yellow Vest Ireland,2020-10-03,48079,53801
-Corruption Awareness Ireland,2020-10-03,23615,28685
-Ben Gilroy,2020-10-03,8008,8955
-Integrity Ireland,2020-10-03,9934,10421
-Jennifer Whitmore,2020-10-03,3401,3635
-Stephen Donnelly,2020-10-03,9907,10097
-Simon Harris,2020-10-03,29221,30529
-Helen Mc Entee,2020-10-03,9586,10062
-Mairead McGuinness,2020-10-03,11776,12158
-Antifa Watch Ireland,2020-10-02,1204,1243
-Save Kerry,2020-10-02,323,345
-TheLiberal.ie,2020-10-02,542667,548388
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -39,6 +14,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Anti-Globalism Ireland",2020-09-28,513,519
 "Antifa Watch Ireland",2020-09-27,1179,1217
 "Antifa Watch Ireland",2020-09-29,1182,1221
+"Antifa Watch Ireland",2020-10-02,1204,1243
 "Aontu",2020-09-12,NA,11357
 "Aontu",2020-09-15,10868,11373
 "Aontu",2020-09-19,10992,11440
@@ -52,12 +28,14 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Ben Gilroy",2020-09-23,7970,8918
 "Ben Gilroy",2020-09-26,7984,8932
 "Ben Gilroy",2020-09-30,8007,8955
+"Ben Gilroy",2020-10-03,8008,8955
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
 "Ben Scallan",2020-09-21,12721,13462
 "Ben Scallan",2020-09-24,12724,13465
 "Ben Scallan",2020-09-27,12741,13483
 "Ben Scallan",2020-10-01,12768,13510
+"Ben Scallan",2020-10-03,12774,13518
 "Brendan Smith",2020-09-20,3580,3730
 "Brendan Smith",2020-09-24,3581,3732
 "Brendan Smith",2020-09-28,3581,3734
@@ -70,6 +48,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Brid Smith",2020-09-23,14706,15126
 "Brid Smith",2020-09-24,14727,15145
 "Brid Smith",2020-09-28,14776,15187
+"Brid Smith",2020-10-03,14789,15213
 "Cathal Berry",2020-09-20,2770,3036
 "Cathal Berry",2020-09-24,2791,3069
 "Cathal Berry",2020-09-27,2795,3077
@@ -90,16 +69,19 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Clare Daly",2020-09-21,21330,22291
 "Clare Daly",2020-09-24,21348,22316
 "Clare Daly",2020-09-28,21363,22334
+"Clare Daly",2020-10-03,21379,22346
 "Conservative Comeback Ireland",2020-09-19,982,1002
 "Conservative Comeback Ireland",2020-09-24,982,1002
 "Conservative Comeback Ireland",2020-09-28,979,999
 "Conservative Comeback Ireland",2020-10-02,980,1000
 "Corruption Awareness Ireland",2020-09-26,22121,26671
 "Corruption Awareness Ireland",2020-09-28,22664,27403
+"Corruption Awareness Ireland",2020-09-29,22945,27797
 "Corruption Awareness Ireland",2020-09-30,23184,28094
 "Corruption Awareness Ireland",2020-10-01,23374,28357
+"Corruption Awareness Ireland",2020-10-02,23554,28597
 "Corruption Awareness Ireland",2020-10-02,23511,28541
-"Corruption Awarness Ireland",2020-09-29,22945,27797
+"Corruption Awareness Ireland",2020-10-03,23615,28685
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -120,6 +102,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Dolores Cahill",2020-09-30,7061,9084
 "Dolores Cahill",2020-10-01,7165,9216
 "Dolores Cahill",2020-10-02,7223,9309
+"Dolores Cahill",2020-10-03,7302,9419
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -157,6 +140,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Gerry Adams",2020-09-24,67270,68244
 "Gerry Adams",2020-09-27,67266,68241
 "Gerry Adams",2020-10-02,67611,68763
+"Gerry Adams",2020-10-03,67693,68847
 "Grand Torino",2020-09-15,7539,10131
 "Grand Torino",2020-09-18,7808,10439
 "Grand Torino",2020-09-21,7973,10639
@@ -192,6 +176,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Heather Humphreys",2020-09-20,5798,6139
 "Heather Humphreys",2020-09-26,5802,6146
 "Heather Humphreys",2020-10-01,5806,6151
+"Helen Mc Entee",2020-10-03,9586,10062
 "Helen McEntee",2020-09-15,9513,9987
 "Helen McEntee",2020-09-20,9529,10005
 "Helen McEntee",2020-09-24,9554,10032
@@ -209,6 +194,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Integrity Ireland",2020-09-23,9905,10390
 "Integrity Ireland",2020-09-26,9923,10413
 "Integrity Ireland",2020-09-30,9932,10420
+"Integrity Ireland",2020-10-03,9934,10421
 "Iona Institute",2020-09-16,7636,7756
 "Iona Institute",2020-09-20,7638,7760
 "Iona Institute",2020-09-24,7634,7756
@@ -232,6 +218,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Irish Freedom Party",2020-09-30,13479,14131
 "Irish Freedom Party",2020-10-01,13492,14144
 "Irish Freedom Party",2020-10-02,13505,14158
+"Irish Freedom Party",2020-10-03,13510,14162
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
 "Jack Chambers",2020-10-01,5431,5621
@@ -239,8 +226,10 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Jennifer Whitmore",2020-09-24,3360,3589
 "Jennifer Whitmore",2020-09-27,3368,3600
 "Jennifer Whitmore",2020-10-02,3381,3614
+"Jennifer Whitmore",2020-10-03,3401,3635
 "Joan Collins",2020-09-24,7371,7484
 "Joan Collins",2020-09-28,7378,7491
+"Joan Collins",2020-10-03,7382,7495
 "Josepha Madigan",2020-09-20,5929,6256
 "Josepha Madigan",2020-09-23,5932,6261
 "Josepha Madigan",2020-09-24,5931,6260
@@ -272,9 +261,11 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Luke 'Ming' Flanagan",2020-09-28,67369,67735
 "Luke 'Ming' Flanagan",2020-09-29,67364,67730
 "Luke 'Ming' Flanagan",2020-10-02,67349,67715
+"Luke 'Ming' Flanagan",2020-10-03,67345,67709
 "Lynn Boylan",2020-10-01,3190,3281
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
+"Mairead McGuinness",2020-10-03,11776,12158
 "Maria Walsh",2020-09-24,12167,12473
 "Maria Walsh",2020-09-28,12164,12471
 "Marian Harkin",2020-09-12,NA,4173
@@ -298,6 +289,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Mary Lou McDonald",2020-09-27,159041,161491
 "Mary Lou McDonald",2020-09-30,159086,161533
 "Mary Lou McDonald",2020-10-02,159240,161684
+"Mary Lou McDonald",2020-10-03,159250,161699
 "Matt Carthy",2020-09-20,30167,31643
 "Matt Carthy",2020-09-25,30224,31701
 "Matt Carthy",2020-09-29,30253,31732
@@ -322,6 +314,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Mick Wallace",2020-09-24,29667,31302
 "Mick Wallace",2020-09-27,29679,31319
 "Mick Wallace",2020-10-02,29678,31320
+"Mick Wallace",2020-10-03,29675,31317
 "National Party",2020-09-12,NA,8884
 "National Party",2020-09-15,8265,8895
 "National Party",2020-09-19,8278,8904
@@ -410,6 +403,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
 "Pearse Doherty",2020-09-29,72040,78105
+"Pearse Doherty",2020-10-03,72167,78241
 "People Before Profit",2020-09-12,NA,58327
 "People Before Profit",2020-09-15,56159,58363
 "People Before Profit",2020-09-19,56625,58475
@@ -427,6 +421,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Richard Boyd Barrett",2020-09-24,13844,15231
 "Richard Boyd Barrett",2020-09-27,13886,15270
 "Richard Boyd Barrett",2020-10-02,13943,15340
+"Richard Boyd Barrett",2020-10-03,13957,15358
 "Richard Bruton",2020-09-27,4661,4811
 "Richard Bruton",2020-10-02,4659,4807
 "Robert Troy",2020-09-18,4622,4856
@@ -444,6 +439,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Ronan Mullen",2020-09-28,3571,3610
 "Save Kerry",2020-09-24,324,346
 "Save Kerry",2020-09-27,324,346
+"Save Kerry",2020-10-02,323,345
 "Save Leitrim",2020-09-24,5263,5472
 "Save Leitrim",2020-09-27,5270,5480
 "Save Leitrim",2020-10-01,5271,5480
@@ -458,6 +454,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Simon Harris",2020-09-22,28930,30221
 "Simon Harris",2020-09-26,29002,30296
 "Simon Harris",2020-10-02,29179,30481
+"Simon Harris",2020-10-03,29221,30529
 "Sinn Fein",2020-09-12,NA,246657
 "Sinn Fein",2020-09-17,220017,246736
 "Sinn Fein",2020-09-20,220073,246847
@@ -476,6 +473,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Social Democrats",2020-09-29,10495,10687
 "Stephen Donnelly",2020-09-24,9891,10079
 "Stephen Donnelly",2020-09-29,9896,10085
+"Stephen Donnelly",2020-10-03,9907,10097
 "The Irexiteer",2020-09-19,730,750
 "The Irexiteer",2020-09-24,735,755
 "The Irexiteer",2020-09-29,736,757
@@ -483,6 +481,7 @@ TheLiberal.ie,2020-10-02,542667,548388
 "TheLiberal.ie",2020-09-19,542777,548481
 "TheLiberal.ie",2020-09-24,542827,548544
 "TheLiberal.ie",2020-09-27,542774,548499
+"TheLiberal.ie",2020-10-02,542667,548388
 "Tracey O'Mahony",2020-09-17,3806,3938
 "Tracey O'Mahony",2020-09-19,3826,3960
 "Tracey O'Mahony",2020-09-24,3891,4033
@@ -506,3 +505,4 @@ TheLiberal.ie,2020-10-02,542667,548388
 "Yellow Vest Ireland",2020-09-27,47875,53559
 "Yellow Vest Ireland",2020-09-29,47914,53604
 "Yellow Vest Ireland",2020-10-02,48059,53776
+"Yellow Vest Ireland",2020-10-03,48079,53801
