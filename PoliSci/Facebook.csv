@@ -4,19 +4,6 @@
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
-Dolores Cahill,2020-10-06,7527,9717
-Niall McConnell,2020-10-06,4572,4799
-Corruption Awareness Ireland,2020-10-06,23931,29105
-Irish Freedom Party,2020-10-06,13569,14220
-Ben Scallan,2020-10-06,12796,13543
-Irexit,2020-10-06,749,764
-Gript Media,2020-10-06,23434,29176
-Tracey O'Mahony,2020-10-06,4213,4371
-Grand Torino,2020-10-06,8181,10912
-Ben Gilroy,2020-10-06,8020,8967
-Aontu,2020-10-06,11092,11613
-Mattie McGrath,2020-10-06,4636,4744
-Dannie Healy-Rae,2020-10-06,12891,14869
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -41,6 +28,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Aontu",2020-09-27,10970,11484
 "Aontu",2020-10-01,11003,11518
 "Aontu",2020-10-03,11029,11547
+"Aontu",2020-10-06,11092,11613
 "Ben Gilroy",2020-09-12,NA,8860
 "Ben Gilroy",2020-09-15,7930,8879
 "Ben Gilroy",2020-09-19,7951,8899
@@ -48,6 +36,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Ben Gilroy",2020-09-26,7984,8932
 "Ben Gilroy",2020-09-30,8007,8955
 "Ben Gilroy",2020-10-03,8008,8955
+"Ben Gilroy",2020-10-06,8020,8967
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
 "Ben Scallan",2020-09-21,12721,13462
@@ -55,6 +44,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Ben Scallan",2020-09-27,12741,13483
 "Ben Scallan",2020-10-01,12768,13510
 "Ben Scallan",2020-10-03,12774,13518
+"Ben Scallan",2020-10-06,12796,13543
 "Brendan Smith",2020-09-20,3580,3730
 "Brendan Smith",2020-09-24,3581,3732
 "Brendan Smith",2020-09-28,3581,3734
@@ -109,10 +99,12 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Corruption Awareness Ireland",2020-10-03,23615,28685
 "Corruption Awareness Ireland",2020-10-03,23669,28763
 "Corruption Awareness Ireland",2020-10-05,23856,29008
+"Corruption Awareness Ireland",2020-10-06,23931,29105
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
 "Daily Ireland",2020-10-06,30385,32279
+"Dannie Healy-Rae",2020-10-06,12891,14869
 "Danny Healy Rae",2020-09-12,NA,14764
 "Danny Healy Rae",2020-09-16,12849,14791
 "Danny Healy Rae",2020-09-20,12852,14795
@@ -138,6 +130,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Dolores Cahill",2020-10-04,7363,9508
 "Dolores Cahill",2020-10-04,7391,9545
 "Dolores Cahill",2020-10-05,7468,9646
+"Dolores Cahill",2020-10-06,7527,9717
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -195,6 +188,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Grand Torino",2020-09-29,8108,10812
 "Grand Torino",2020-10-01,8118,10828
 "Grand Torino",2020-10-03,8133,10851
+"Grand Torino",2020-10-06,8181,10912
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -217,6 +211,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Gript Media",2020-10-03,23317,28995
 "Gript Media",2020-10-03,23288,28949
 "Gript Media",2020-10-05,23379,29094
+"Gript Media",2020-10-06,23434,29176
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -264,6 +259,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Irexit",2020-09-27,738,753
 "Irexit",2020-10-02,746,760
 "Irexit",2020-10-03,747,761
+"Irexit",2020-10-06,749,764
 "Irish Freedom Party",2020-09-12,NA,13848
 "Irish Freedom Party",2020-09-15,13246,13896
 "Irish Freedom Party",2020-09-19,13279,13928
@@ -278,6 +274,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Irish Freedom Party",2020-10-03,13510,14162
 "Irish Freedom Party",2020-10-03,13519,14171
 "Irish Freedom Party",2020-10-05,13559,14211
+"Irish Freedom Party",2020-10-06,13569,14220
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
 "Jack Chambers",2020-10-01,5431,5621
@@ -370,6 +367,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Matt Carthy",2020-09-25,30224,31701
 "Matt Carthy",2020-09-29,30253,31732
 "Matt Carthy",2020-10-04,30266,31743
+"Mattie McGrath",2020-10-06,4636,4744
 "Maurice Quinlivan",2020-09-20,9751,9834
 "Maurice Quinlivan",2020-09-25,9752,9837
 "Maurice Quinlivan",2020-09-29,9750,9834
@@ -424,6 +422,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Niall McConnell",2020-10-03,4321,4528
 "Niall McConnell",2020-10-04,4368,4581
 "Niall McConnell",2020-10-05,4501,4723
+"Niall McConnell",2020-10-06,4572,4799
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "NP Cork",2020-09-15,589,603
@@ -606,6 +605,7 @@ Dannie Healy-Rae,2020-10-06,12891,14869
 "Tracey O'Mahony",2020-09-24,3891,4033
 "Tracey O'Mahony",2020-09-29,3992,4141
 "Tracey O'Mahony",2020-10-02,4063,4214
+"Tracey O'Mahony",2020-10-06,4213,4371
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
 "Violet-Anne Wynne",2020-10-04,2784,2906
