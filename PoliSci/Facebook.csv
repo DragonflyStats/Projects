@@ -1,43 +1,11 @@
 "Name","Date","Likes","Followers"
 "Aengus O Snodaigh",2020-10-04,8563,8699
+"Aengus O Snodaigh",2020-10-08,8576,8718
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
 "Alan Kelly",2020-10-08,2461,2618
-Danny Healy Rae,2020-10-08,12926,14911
-Gino Kenny,2020-10-08,9378,9679
-Ronan Mullen,2020-10-08,3578,3618
-Anti-Globalism Ireland,2020-10-08,519,525
-Imelda Munster,2020-10-08,4298,4400
-Richard Boyd Barrett,2020-10-08,14021,15419  
-Mick Wallace,2020-10-08,29672,31316
-Stephen Donnelly,2020-10-08, 9927,10120 
-Aengus O Snodaigh,2020-10-08, 8576,8718
-Catherine Martin,2020-10-08,2976,3164
-Micheal Martin,2020-10-08,23003,23346
-Verona Murphy,2020-10-08,9331,9702
-Aodhan O Riordain,2020-10-08,18925,19393
-Brendan Smith,2020-10-08,3582,3738
-Robert Troy,2020-10-08,4637,4881
-Charlie McConalogue,2020-10-08,8838,8950
-Matt Carthy,2020-10-08,30298,31774
-Pearse Doherty,2020-10-08,72239,78317
-Mary Lou McDonald,2020-10-08,159803,162241
-Roisin Shortall,2020-10-08,2301,2472
-Social Democrats,2020-10-08,10515,10709
-Brian Leddin,2020-10-08,636,678
-Kieran O'Donnell,2020-10-08,2805,2864
-Frankie Daly,2020-10-08,5732,5906
-Maurice Quinlivan,2020-10-08,9805,9895
-Dolores Cahill,2020-10-08,7673,9883
-Irish Freedom Party,2020-10-08,13591,14244
-Corruption Awareness Ireland,2020-10-08,24107,29324
-Ben Gilroy,2020-10-08,8031,8977
-Integrity Ireland,2020-10-08,9938,10427
-Yellow Vest Ireland,2020-10-08,48579,54378
-Grand Torino,2020-10-08,8211,10939
-Gript Media,2020-10-08,23456,29204
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -49,12 +17,14 @@ Gript Media,2020-10-08,23456,29204
 "Anti-Globalism Ireland",2020-09-19,511,517
 "Anti-Globalism Ireland",2020-09-24,513,519
 "Anti-Globalism Ireland",2020-09-28,513,519
+"Anti-Globalism Ireland",2020-10-04,519,525
 "Anti-Globalism Ireland",2020-10-04,515,521
 "Antifa Watch Ireland",2020-09-27,1179,1217
 "Antifa Watch Ireland",2020-09-29,1182,1221
 "Antifa Watch Ireland",2020-10-02,1204,1243
 "Antifa Watch Ireland",2020-10-05,1211,1251
 "Aodhan O Riordain",2020-10-04,18924,19389
+"Aodhan O Riordain",2020-10-08,18925,19393
 "Aontu",2020-09-12,NA,11357
 "Aontu",2020-09-15,10868,11373
 "Aontu",2020-09-19,10992,11440
@@ -73,6 +43,7 @@ Gript Media,2020-10-08,23456,29204
 "Ben Gilroy",2020-09-30,8007,8955
 "Ben Gilroy",2020-10-03,8008,8955
 "Ben Gilroy",2020-10-06,8020,8967
+"Ben Gilroy",2020-10-08,8031,8977
 "Ben Gilroy",2020-10-08,8097,8974
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
@@ -87,11 +58,13 @@ Gript Media,2020-10-08,23456,29204
 "Brendan Smith",2020-09-24,3581,3732
 "Brendan Smith",2020-09-28,3581,3734
 "Brendan Smith",2020-10-04,3583,3738
+"Brendan Smith",2020-10-08,3582,3738
 "Brian Leddin",2020-09-20,632,668
 "Brian Leddin",2020-09-24,635,672
 "Brian Leddin",2020-09-27,635,673
 "Brian Leddin",2020-10-02,633,673
 "Brian Leddin",2020-10-07,634,676
+"Brian Leddin",2020-10-08,636,678
 "Brid Smith",2020-09-16,14677,15094
 "Brid Smith",2020-09-19,14688,15108
 "Brid Smith",2020-09-23,14706,15126
@@ -110,11 +83,13 @@ Gript Media,2020-10-08,23456,29204
 "Catherine Martin",2020-09-26,2960,3145
 "Catherine Martin",2020-10-01,2965,3150
 "Catherine Martin",2020-10-04,2969,3154
+"Catherine Martin",2020-10-08,2976,3164
 "Catherine Murphy",2020-10-01,10080,9889
 "Catherine Murphy",2020-10-06,10080,9889
 "Charlie McConalogue",2020-09-26,8818,8917
 "Charlie McConalogue",2020-10-01,8827,8930
 "Charlie McConalogue",2020-10-05,8832,8941
+"Charlie McConalogue",2020-10-08,8838,8950
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -146,6 +121,7 @@ Gript Media,2020-10-08,23456,29204
 "Corruption Awareness Ireland",2020-10-05,23856,29008
 "Corruption Awareness Ireland",2020-10-06,23931,29105
 "Corruption Awareness Ireland",2020-10-07,24007,29189
+"Corruption Awareness Ireland",2020-10-08,24107,29324
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -157,6 +133,7 @@ Gript Media,2020-10-08,23456,29204
 "Danny Healy Rae",2020-09-24,12856,14807
 "Danny Healy Rae",2020-09-28,12856,14812
 "Danny Healy Rae",2020-10-04,12873,14848
+"Danny Healy Rae",2020-10-08,12926,14911
 "Deirdre Clune",2020-10-01,4508,4543
 "Deirdre Clune",2020-10-05,4509,4544
 "Denis Naughten",2020-10-03,9744,10085
@@ -179,6 +156,7 @@ Gript Media,2020-10-08,23456,29204
 "Dolores Cahill",2020-10-05,7468,9646
 "Dolores Cahill",2020-10-06,7527,9717
 "Dolores Cahill",2020-10-07,7570,9772
+"Dolores Cahill",2020-10-08,7673,9883
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -221,6 +199,7 @@ Gript Media,2020-10-08,23456,29204
 "Frankie Daly",2020-10-01,5690,5864
 "Frankie Daly",2020-10-06,5719,5892
 "Frankie Daly",2020-10-07,5731,5904
+"Frankie Daly",2020-10-08,5732,5906
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
 "Gary Gannon",2020-09-26,3148,3253
@@ -233,6 +212,7 @@ Gript Media,2020-10-08,23456,29204
 "Gerry Adams",2020-10-03,67693,68847
 "Gerry Adams",2020-10-08,68007,69169
 "Gino Kenny",2020-10-04,9365,9666
+"Gino Kenny",2020-10-08,9378,9679
 "Grand Torino",2020-09-15,7539,10131
 "Grand Torino",2020-09-18,7808,10439
 "Grand Torino",2020-09-21,7973,10639
@@ -244,6 +224,7 @@ Gript Media,2020-10-08,23456,29204
 "Grand Torino",2020-10-01,8118,10828
 "Grand Torino",2020-10-03,8133,10851
 "Grand Torino",2020-10-06,8181,10912
+"Grand Torino",2020-10-08,8211,10939
 "Grand Torino",2020-10-08,8205,10935
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
@@ -256,7 +237,6 @@ Gript Media,2020-10-08,23456,29204
 "Green Party",2020-10-03,17363,18134
 "Green Party",2020-10-07,17372,18142
 "Green Party",2020-10-08,17372,18142
-"Gript Media",2020-10-04,23340,29032
 "Gript Media",2020-09-15,22717,27885
 "Gript Media",2020-09-18,22751,27952
 "Gript Media",2020-09-19,22273,28002
@@ -268,9 +248,11 @@ Gript Media,2020-10-08,23456,29204
 "Gript Media",2020-10-02,23139,28710
 "Gript Media",2020-10-03,23317,28995
 "Gript Media",2020-10-03,23288,28949
+"Gript Media",2020-10-04,23340,29032
 "Gript Media",2020-10-05,23379,29094
 "Gript Media",2020-10-06,23434,29176
 "Gript Media",2020-10-07,23440,29181
+"Gript Media",2020-10-08,23456,29204
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -299,12 +281,14 @@ Gript Media,2020-10-08,23456,29204
 "Holly Cairns",2020-10-02,6087,6475
 "Holly Cairns",2020-10-06,6094,6482
 "Imelda Munster",2020-10-04,4297,4399
+"Imelda Munster",2020-10-08,4298,4400
 "Integrity Ireland",2020-09-15,9664,10045
 "Integrity Ireland",2020-09-19,9665,10046
 "Integrity Ireland",2020-09-23,9905,10390
 "Integrity Ireland",2020-09-26,9923,10413
 "Integrity Ireland",2020-09-30,9932,10420
 "Integrity Ireland",2020-10-03,9934,10421
+"Integrity Ireland",2020-10-08,9938,10427
 "Integrity Ireland",2020-10-08,9936,10425
 "Iona Institute",2020-09-16,7636,7756
 "Iona Institute",2020-09-20,7638,7760
@@ -340,6 +324,7 @@ Gript Media,2020-10-08,23456,29204
 "Irish Freedom Party",2020-10-05,13559,14211
 "Irish Freedom Party",2020-10-06,13569,14220
 "Irish Freedom Party",2020-10-07,13574,14226
+"Irish Freedom Party",2020-10-08,13591,14244
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
 "Jack Chambers",2020-10-01,5431,5621
@@ -370,6 +355,7 @@ Gript Media,2020-10-08,23456,29204
 "Kieran O'Donnell",2020-09-27,2779,2836
 "Kieran O'Donnell",2020-10-02,2790,2848
 "Kieran O'Donnell",2020-10-07,2799,2857
+"Kieran O'Donnell",2020-10-08,2805,2864
 "Labour Party",2020-09-12,NA,29473
 "Labour Party",2020-09-15,29121,29498
 "Labour Party",2020-09-20,29127,29512
@@ -438,16 +424,19 @@ Gript Media,2020-10-08,23456,29204
 "Mary Lou McDonald",2020-09-30,159086,161533
 "Mary Lou McDonald",2020-10-02,159240,161684
 "Mary Lou McDonald",2020-10-03,159250,161699
+"Mary Lou McDonald",2020-10-08,159803,162241
 "Matt Carthy",2020-09-20,30167,31643
 "Matt Carthy",2020-09-25,30224,31701
 "Matt Carthy",2020-09-29,30253,31732
 "Matt Carthy",2020-10-04,30266,31743
+"Matt Carthy",2020-10-08,30298,31774
 "Mattie McGrath",2020-10-06,4636,4744
 "Maurice Quinlivan",2020-09-20,9751,9834
 "Maurice Quinlivan",2020-09-25,9752,9837
 "Maurice Quinlivan",2020-09-29,9750,9834
 "Maurice Quinlivan",2020-10-03,9769,9856
 "Maurice Quinlivan",2020-10-07,9799,9889
+"Maurice Quinlivan",2020-10-08,9805,9895
 "Michael Healy-Rae",2020-09-16,19244,22568
 "Michael Healy-Rae",2020-09-18,19259,22595
 "Michael Healy-Rae",2020-09-23,19282,22622
@@ -463,6 +452,7 @@ Gript Media,2020-10-08,23456,29204
 "Michael Martin",2020-10-01,22872,23202
 "Michael Martin",2020-10-06,22967,23308
 "Micheal Martin",2020-10-03,22913,23249
+"Micheal Martin",2020-10-08,23003,23346
 "Mick Wallace",2020-09-12,NA,31265
 "Mick Wallace",2020-09-16,29658,31280
 "Mick Wallace",2020-09-19,29657,31278
@@ -470,6 +460,7 @@ Gript Media,2020-10-08,23456,29204
 "Mick Wallace",2020-09-27,29679,31319
 "Mick Wallace",2020-10-02,29678,31320
 "Mick Wallace",2020-10-03,29675,31317
+"Mick Wallace",2020-10-08,29672,31316
 "National Party",2020-09-12,NA,8884
 "National Party",2020-09-15,8265,8895
 "National Party",2020-09-19,8278,8904
@@ -594,6 +585,7 @@ Gript Media,2020-10-08,23456,29204
 "Pearse Doherty",2020-09-29,72040,78105
 "Pearse Doherty",2020-10-03,72167,78241
 "Pearse Doherty",2020-10-05,72202,78279
+"Pearse Doherty",2020-10-08,72239,78317
 "People Before Profit",2020-09-12,NA,58327
 "People Before Profit",2020-09-15,56159,58363
 "People Before Profit",2020-09-19,56625,58475
@@ -617,6 +609,7 @@ Gript Media,2020-10-08,23456,29204
 "Richard Boyd Barrett",2020-09-27,13886,15270
 "Richard Boyd Barrett",2020-10-02,13943,15340
 "Richard Boyd Barrett",2020-10-03,13957,15358
+"Richard Boyd Barrett",2020-10-08,14021,15419
 "Richard Bruton",2020-09-27,4661,4811
 "Richard Bruton",2020-10-02,4659,4807
 "Richard Bruton",2020-10-08,4662,4811
@@ -624,6 +617,7 @@ Gript Media,2020-10-08,23456,29204
 "Robert Troy",2020-09-21,4623,4862
 "Robert Troy",2020-09-26,4626,4865
 "Robert Troy",2020-10-02,4630,4871
+"Robert Troy",2020-10-08,4637,4881
 "Robert Troy",2020-10-08,4636,4880
 "Roderic O'Gorman",2020-10-01,2524,2621
 "Roderic O'Gorman",2020-10-07,2532,2630
@@ -632,12 +626,14 @@ Gript Media,2020-10-08,23456,29204
 "Roisin Shortall",2020-09-29,2277,2448
 "Roisin Shortall",2020-10-03,2283,2454
 "Roisin Shortall",2020-10-06,2291,2461
+"Roisin Shortall",2020-10-08,2301,2472
 "Ronan Mullen",2020-09-12,NA,3614
 "Ronan Mullen",2020-09-16,3575,3614
 "Ronan Mullen",2020-09-19,3573,3612
 "Ronan Mullen",2020-09-24,3571,3610
 "Ronan Mullen",2020-09-28,3571,3610
 "Ronan Mullen",2020-10-03,3572,3611
+"Ronan Mullen",2020-10-08,3578,3618
 "Saoirse McHugh",2020-10-07,5285,5408
 "Save Kerry",2020-09-24,324,346
 "Save Kerry",2020-09-27,324,346
@@ -685,11 +681,13 @@ Gript Media,2020-10-08,23456,29204
 "Social Democrats",2020-09-29,10495,10687
 "Social Democrats",2020-10-03,10513,10706
 "Social Democrats",2020-10-06,10516,10709
+"Social Democrats",2020-10-08,10515,10709
 "Social Democrats",2020-10-08,10513,10706
 "Sorca Clarke",2020-10-04,3537,3681
 "Stephen Donnelly",2020-09-24,9891,10079
 "Stephen Donnelly",2020-09-29,9896,10085
 "Stephen Donnelly",2020-10-03,9907,10097
+"Stephen Donnelly",2020-10-08,9927,10120
 "The Irexiteer",2020-09-19,730,750
 "The Irexiteer",2020-09-24,735,755
 "The Irexiteer",2020-09-29,736,757
@@ -711,6 +709,7 @@ Gript Media,2020-10-08,23456,29204
 "Tracey O'Mahony",2020-10-07,4262,4222
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
+"Verona Murphy",2020-10-08,9331,9702
 "Violet-Anne Wynne",2020-10-04,2784,2906
 "Willie O'Dea",2020-09-19,5565,5695
 "Willie O'Dea",2020-09-24,5562,5692
@@ -737,3 +736,4 @@ Gript Media,2020-10-08,23456,29204
 "Yellow Vest Ireland",2020-10-04,48204,53989
 "Yellow Vest Ireland",2020-10-05,48328,54127
 "Yellow Vest Ireland",2020-10-07,48431,54241
+"Yellow Vest Ireland",2020-10-08,48579,54378
