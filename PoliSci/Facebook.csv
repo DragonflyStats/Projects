@@ -3,69 +3,9 @@
 "Aengus O Snodaigh",2020-10-09,8576,8718
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
-Willie O'Dea,2020-10-10,5579,5714
-Niall Collins,2020-10-10,11799,11992
-Patrick O'Donovan,2020-10-10,5187,5404
-Jennifer Whitmore,2020-10-10,3458,3693
-Stephen Donnelly,2020-10-10,9934,10128
-Simon Harris,2020-10-10,29426,30758
-Simon Coveney,2020-10-10,13714,14397
-Deirdre Clune,2020-10-10,4513,4549
-Sean Kelly,2020-10-10,6775,6962
-Maria Walsh,2020-10-10,12167,12474
-Barry Ward,2020-10-10,2332,2353
-Mary Mitchell O'Connor,2020-10-10,3165,3233
-Brian Hayes,2020-10-10,4019,4075
-Richard Bruton,2020-10-10,4666,4814
-Fine Gael,2020-10-10,40232,41673
-Fianna Fail,2020-10-10,40656,41919
-Sinn Fein,2020-10-10,220656,247435
-Luke 'Ming' Flanagan,2020-10-10,67321,67684
-Clare Daly,2020-10-10,22531,23772
-Paul Murphy,2020-10-10,44768,50318
-Brid Smith,2020-10-10,14802,15228
-Richard Boyd Barrett,2020-10-10,14033,15431
-NP Dublin,2020-10-10,1550,1634
-NP Limerick,2020-10-10,551,558
-Violet-Anne Wynne,2020-10-10,2792,2917
-Antifa Watch Ireland,2020-10-10,1218,1259
-Eirigi,2020-10-10,29422,29296
-Direct Democracy Ireland,2020-10-10,22434,21308
-Ireland Says No,2020-10-10,74461,73157
-NP Longford,2020-10-10,548,556
-NP Westmeath,2020-10-10,543,553
-People Before Profit,2020-10-10,56737,58936
-Pippa Hackett,2020-10-10,1273,1344
-Rebel Politico,2020-10-10,2677,2803
-Pearse Doherty,2020-10-10,72298,78380
-Gerry Adams,2020-10-10,68315,69494
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
 "Alan Kelly",2020-10-08,2461,2618
-Dolores Cahill,2020-10-09,7712,9929
-Irish Inquiry,2020-10-09,3562,5048
-Tracey O'Mahony,2020-10-09,4347,4509
-Neil O'Mahony,2020-10-09,7349,7469
-Gript Media,2020-10-09,23457,29212
-Grand Torino,2020-10-09,8221,10951
-Irish Freedom Party,2020-10-09,13596,14250
-Corruption Awareness Ireland,2020-10-09,24174,29419
-Ben Gilroy,2020-10-09,8037,8983
-Yellow Vest Ireland,2020-10-09,48628,54426
-Yellow Vest Ireland Clare,2020-10-09,644,668
-Yellow Vest Ireland Kilkenny,2020-10-09,870,944
-Yellow Vest Ireland Cavan,2020-10-09,704,724
-Yellow Vest Ireland Roscommon,2020-10-09,784,795
-Yellow Vest Ireland Longford,2020-10-09,959,984
-Yellow Vest Balbriggan,2020-10-09,900,908
-Yellow Vest Ireland Laois,2020-10-09,597,611
-Yellow Vest Ireland Westmeath,2020-10-09,2515,2610
-Yellow Vest Ireland Wexford,2020-10-09,3683,4172
-Yellow Vest Ireland Sligo,2020-10-09,875,910
-Yellow Vest Ireland Carlow,2020-10-09,1192,1234
-Yellow Vest Ireland Waterford,2020-10-09,861,889
-Yellow Vest Ireland Cork,2020-10-09,1183,1247
-Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -77,12 +17,13 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Anti-Globalism Ireland",2020-09-19,511,517
 "Anti-Globalism Ireland",2020-09-24,513,519
 "Anti-Globalism Ireland",2020-09-28,513,519
-"Anti-Globalism Ireland",2020-10-09,519,525
 "Anti-Globalism Ireland",2020-10-04,515,521
+"Anti-Globalism Ireland",2020-10-09,519,525
 "Antifa Watch Ireland",2020-09-27,1179,1217
 "Antifa Watch Ireland",2020-09-29,1182,1221
 "Antifa Watch Ireland",2020-10-02,1204,1243
 "Antifa Watch Ireland",2020-10-05,1211,1251
+"Antifa Watch Ireland",2020-10-10,1218,1259
 "Aodhan O Riordain",2020-10-04,18924,19389
 "Aodhan O Riordain",2020-10-09,18925,19393
 "Aontu",2020-09-12,NA,11357
@@ -95,6 +36,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Aontu",2020-10-03,11029,11547
 "Aontu",2020-10-06,11092,11613
 "Aontu",2020-10-07,11099,11620
+"Barry Ward",2020-10-10,2332,2353
 "Ben Gilroy",2020-09-12,NA,8860
 "Ben Gilroy",2020-09-15,7930,8879
 "Ben Gilroy",2020-09-19,7951,8899
@@ -105,6 +47,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Ben Gilroy",2020-10-06,8020,8967
 "Ben Gilroy",2020-10-08,8031,8977
 "Ben Gilroy",2020-10-08,8097,8974
+"Ben Gilroy",2020-10-09,8037,8983
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
 "Ben Scallan",2020-09-21,12721,13462
@@ -119,6 +62,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Brendan Smith",2020-09-28,3581,3734
 "Brendan Smith",2020-10-04,3583,3738
 "Brendan Smith",2020-10-09,3582,3738
+"Brian Hayes",2020-10-10,4019,4075
 "Brian Leddin",2020-09-20,632,668
 "Brian Leddin",2020-09-24,635,672
 "Brian Leddin",2020-09-27,635,673
@@ -132,6 +76,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Brid Smith",2020-09-28,14776,15187
 "Brid Smith",2020-10-03,14789,15213
 "Brid Smith",2020-10-08,14797,15221
+"Brid Smith",2020-10-10,14802,15228
 "Cathal Berry",2020-09-20,2770,3036
 "Cathal Berry",2020-09-24,2791,3069
 "Cathal Berry",2020-09-27,2795,3077
@@ -162,6 +107,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Clare Daly",2020-09-28,21363,22334
 "Clare Daly",2020-10-03,21379,22346
 "Clare Daly",2020-10-08,22125,23260
+"Clare Daly",2020-10-10,22531,23772
 "Connolly Youth Movement",2020-10-05,9354,9819
 "Connolly Youth Movement",2020-10-08,9367,9835
 "Conservative Comeback Ireland",2020-09-19,982,1002
@@ -182,6 +128,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Corruption Awareness Ireland",2020-10-06,23931,29105
 "Corruption Awareness Ireland",2020-10-07,24007,29189
 "Corruption Awareness Ireland",2020-10-08,24107,29324
+"Corruption Awareness Ireland",2020-10-09,24174,29419
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -196,8 +143,10 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Danny Healy Rae",2020-10-09,12926,14911
 "Deirdre Clune",2020-10-01,4508,4543
 "Deirdre Clune",2020-10-05,4509,4544
+"Deirdre Clune",2020-10-10,4513,4549
 "Denis Naughten",2020-10-03,9744,10085
 "Denis Naughten",2020-10-08,9759,10104
+"Direct Democracy Ireland",2020-10-10,22434,21308
 "Dolores Cahill",2020-09-15,5964,7456
 "Dolores Cahill",2020-09-17,6023,7529
 "Dolores Cahill",2020-09-19,6067,7585
@@ -217,6 +166,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Dolores Cahill",2020-10-06,7527,9717
 "Dolores Cahill",2020-10-07,7570,9772
 "Dolores Cahill",2020-10-08,7673,9883
+"Dolores Cahill",2020-10-09,7712,9929
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -236,6 +186,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Eirigi",2020-09-27,29316,29181
 "Eirigi",2020-10-01,29347,29218
 "Eirigi",2020-10-05,29403,29277
+"Eirigi",2020-10-10,29422,29296
 "Elisa O'Donovan",2020-10-02,1345,1443
 "Elisa O'Donovan",2020-10-08,1347,1448
 "Fianna Fail",2020-09-12,NA,41665
@@ -245,6 +196,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Fianna Fail",2020-10-02,40550,41800
 "Fianna Fail",2020-10-03,40556,41809
 "Fianna Fail",2020-10-08,40625,41886
+"Fianna Fail",2020-10-10,40656,41919
 "Fine Gael",2020-09-12,NA,41348
 "Fine Gael",2020-09-15,40000,41386
 "Fine Gael",2020-09-19,40016,41408
@@ -254,6 +206,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Fine Gael",2020-10-02,40155,41582
 "Fine Gael",2020-10-03,40164,41592
 "Fine Gael",2020-10-08,40215,41618
+"Fine Gael",2020-10-10,40232,41673
 "Frankie Daly",2020-09-20,5679,5854
 "Frankie Daly",2020-09-26,5689,5864
 "Frankie Daly",2020-10-01,5690,5864
@@ -271,6 +224,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Gerry Adams",2020-10-02,67611,68763
 "Gerry Adams",2020-10-03,67693,68847
 "Gerry Adams",2020-10-08,68007,69169
+"Gerry Adams",2020-10-10,68315,69494
 "Gino Kenny",2020-10-04,9365,9666
 "Gino Kenny",2020-10-09,9378,9679
 "Grand Torino",2020-09-15,7539,10131
@@ -286,6 +240,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Grand Torino",2020-10-06,8181,10912
 "Grand Torino",2020-10-08,8211,10939
 "Grand Torino",2020-10-08,8205,10935
+"Grand Torino",2020-10-09,8221,10951
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -313,6 +268,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Gript Media",2020-10-06,23434,29176
 "Gript Media",2020-10-07,23440,29181
 "Gript Media",2020-10-08,23456,29204
+"Gript Media",2020-10-09,23457,29212
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -324,13 +280,13 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Heather Humphreys",2020-09-26,5802,6146
 "Heather Humphreys",2020-10-01,5806,6151
 "Heather Humphreys",2020-10-06,5847,6196
-"Helen McEntee",2020-10-03,9586,10062
-"Helen McEntee",2020-10-08,9630,10108
 "Helen McEntee",2020-09-15,9513,9987
 "Helen McEntee",2020-09-20,9529,10005
 "Helen McEntee",2020-09-24,9554,10032
 "Helen McEntee",2020-09-27,9569,10046
 "Helen McEntee",2020-10-02,9571,10047
+"Helen McEntee",2020-10-03,9586,10062
+"Helen McEntee",2020-10-08,9630,10108
 "Helen McEntee",2020-10-08,9630,10108
 "Holly Cairns",2020-09-12,NA,6339
 "Holly Cairns",2020-09-15,5963,6343
@@ -362,6 +318,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Ireland for Trump",2020-10-07,761,770
 "Ireland Says No",2020-10-02,74225,72889
 "Ireland Says No",2020-10-05,74267,72954
+"Ireland Says No",2020-10-10,74461,73157
 "Irexit",2020-09-19,731,745
 "Irexit",2020-09-23,735,750
 "Irexit",2020-09-27,738,753
@@ -385,6 +342,8 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Irish Freedom Party",2020-10-06,13569,14220
 "Irish Freedom Party",2020-10-07,13574,14226
 "Irish Freedom Party",2020-10-08,13591,14244
+"Irish Freedom Party",2020-10-09,13596,14250
+"Irish Inquiry",2020-10-09,3562,5048
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
 "Jack Chambers",2020-10-01,5431,5621
@@ -395,6 +354,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Jennifer Whitmore",2020-10-02,3381,3614
 "Jennifer Whitmore",2020-10-03,3401,3635
 "Jennifer Whitmore",2020-10-06,3409,3643
+"Jennifer Whitmore",2020-10-10,3458,3693
 "Joan Collins",2020-09-24,7371,7484
 "Joan Collins",2020-09-28,7378,7491
 "Joan Collins",2020-10-03,7382,7495
@@ -446,6 +406,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Luke 'Ming' Flanagan",2020-10-05,67342,67707
 "Luke 'Ming' Flanagan",2020-10-05,67341,67707
 "Luke 'Ming' Flanagan",2020-10-08,67329,67693
+"Luke 'Ming' Flanagan",2020-10-10,67321,67684
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
 "Mairead McGuinness",2020-09-24,11739,12117
@@ -456,6 +417,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Maria Walsh",2020-09-28,12164,12471
 "Maria Walsh",2020-10-03,12167,12474
 "Maria Walsh",2020-10-08,12168,12475
+"Maria Walsh",2020-10-10,12167,12474
 "Marian Harkin",2020-09-12,NA,4173
 "Marian Harkin",2020-09-18,4048,4173
 "Marian Harkin",2020-09-21,4049,4174
@@ -485,6 +447,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Mary Lou McDonald",2020-10-02,159240,161684
 "Mary Lou McDonald",2020-10-03,159250,161699
 "Mary Lou McDonald",2020-10-09,159803,162241
+"Mary Mitchell O'Connor",2020-10-10,3165,3233
 "Matt Carthy",2020-09-20,30167,31643
 "Matt Carthy",2020-09-25,30224,31701
 "Matt Carthy",2020-09-29,30253,31732
@@ -535,11 +498,13 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Neasa Hourigan",2020-10-04,676,746
 "Neil O'Mahony",2020-10-02,7354,7475
 "Neil O'Mahony",2020-10-08,7349,7470
+"Neil O'Mahony",2020-10-09,7349,7469
 "Niall Collins",2020-09-19,11753,11938
 "Niall Collins",2020-09-24,11771,11958
 "Niall Collins",2020-09-26,11780,11966
 "Niall Collins",2020-10-01,11783,11968
 "Niall Collins",2020-10-06,11787,11976
+"Niall Collins",2020-10-10,11799,11992
 "Niall McConnell",2020-09-15,3827,3994
 "Niall McConnell",2020-09-18,4157,4342
 "Niall McConnell",2020-09-21,4209,4398
@@ -570,6 +535,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "NP Dublin",2020-09-26,1509,1587
 "NP Dublin",2020-09-30,1510,1588
 "NP Dublin",2020-10-04,1511,1591
+"NP Dublin",2020-10-10,1550,1634
 "NP Galway",2020-09-19,529,544
 "NP Galway",2020-09-24,532,547
 "NP Galway",2020-09-26,533,548
@@ -586,11 +552,13 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "NP Limerick",2020-09-25,550,557
 "NP Limerick",2020-09-30,551,558
 "NP Limerick",2020-10-04,550,557
+"NP Limerick",2020-10-10,551,558
 "NP Longford",2020-09-23,547,555
 "NP Longford",2020-09-25,548,556
 "NP Longford",2020-09-30,550,55
 "NP Longford",2020-10-04,546,556
 "NP Longford",2020-10-05,548,556
+"NP Longford",2020-10-10,548,556
 "NP Mayo",2020-09-19,587,594
 "NP Mayo",2020-09-20,587,594
 "NP Mayo",2020-09-25,589,596
@@ -607,6 +575,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "NP Westmeath",2020-09-26,541,551
 "NP Westmeath",2020-09-30,543,553
 "NP Westmeath",2020-10-05,541,551
+"NP Westmeath",2020-10-10,543,553
 "NP Wexford",2020-09-18,513,521
 "NP Wexford",2020-09-21,515,523
 "NP Wexford",2020-09-25,515,522
@@ -627,10 +596,12 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Patrick Costello",2020-10-04,726,768
 "Patrick O'Donovan",2020-10-01,5177,5389
 "Patrick O'Donovan",2020-10-08,5185,5402
+"Patrick O'Donovan",2020-10-10,5187,5404
 "Paul Murphy",2020-09-20,43957,49297
 "Paul Murphy",2020-09-26,44449,49836
 "Paul Murphy",2020-10-02,44564,50080
 "Paul Murphy",2020-10-08,44708,50244
+"Paul Murphy",2020-10-10,44768,50318
 "Peadar Toibin",2020-09-12,NA,11251
 "Peadar Toibin",2020-09-15,10957,11253
 "Peadar Toibin",2020-09-19,10969,11266
@@ -646,6 +617,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Pearse Doherty",2020-10-03,72167,78241
 "Pearse Doherty",2020-10-05,72202,78279
 "Pearse Doherty",2020-10-09,72239,78317
+"Pearse Doherty",2020-10-10,72298,78380
 "People Before Profit",2020-09-12,NA,58327
 "People Before Profit",2020-09-15,56159,58363
 "People Before Profit",2020-09-19,56625,58475
@@ -653,15 +625,18 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "People Before Profit",2020-09-27,56365,58570
 "People Before Profit",2020-10-02,56502,58706
 "People Before Profit",2020-10-05,56572,58780
+"People Before Profit",2020-10-10,56737,58936
 "Peter Burke",2020-09-26,4463,4619
 "Peter Burke",2020-10-02,4466,4624
 "Peter Burke",2020-10-08,4472,4631
 "Pippa Hackett",2020-10-01,1262,1331
 "Pippa Hackett",2020-10-05,1268,1338
+"Pippa Hackett",2020-10-10,1273,1344
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
 "Rebel Politico",2020-10-05,2635,2762
+"Rebel Politico",2020-10-10,2677,2803
 "Richard Boyd Barrett",2020-09-16,13380,14575
 "Richard Boyd Barrett",2020-09-19,13589,14927
 "Richard Boyd Barrett",2020-09-23,13827,15208
@@ -670,9 +645,11 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Richard Boyd Barrett",2020-10-02,13943,15340
 "Richard Boyd Barrett",2020-10-03,13957,15358
 "Richard Boyd Barrett",2020-10-09,14021,15419
+"Richard Boyd Barrett",2020-10-10,14033,15431
 "Richard Bruton",2020-09-27,4661,4811
 "Richard Bruton",2020-10-02,4659,4807
 "Richard Bruton",2020-10-08,4662,4811
+"Richard Bruton",2020-10-10,4666,4814
 "Robert Troy",2020-09-18,4622,4856
 "Robert Troy",2020-09-21,4623,4862
 "Robert Troy",2020-09-26,4626,4865
@@ -707,10 +684,12 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Sean Kelly",2020-09-28,6770,6958
 "Sean Kelly",2020-10-01,6771,6959
 "Sean Kelly",2020-10-05,6772,6960
+"Sean Kelly",2020-10-10,6775,6962
 "Simon Coveney",2020-09-22,13682,14361
 "Simon Coveney",2020-09-26,13691,14373
 "Simon Coveney",2020-10-01,13697,14380
 "Simon Coveney",2020-10-07,13705,14388
+"Simon Coveney",2020-10-10,13714,14397
 "Simon Harris",2020-09-15,28808,30084
 "Simon Harris",2020-09-21,28915,30200
 "Simon Harris",2020-09-22,28930,30221
@@ -718,6 +697,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Simon Harris",2020-10-02,29179,30481
 "Simon Harris",2020-10-03,29221,30529
 "Simon Harris",2020-10-07,29369,30698
+"Simon Harris",2020-10-10,29426,30758
 "Sinn Fein",2020-09-12,NA,246657
 "Sinn Fein",2020-09-17,220017,246736
 "Sinn Fein",2020-09-20,220073,246847
@@ -725,6 +705,7 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Sinn Fein",2020-09-30,220521,247341
 "Sinn Fein",2020-10-05,220582,247403
 "Sinn Fein",2020-10-08,220648,247445
+"Sinn Fein",2020-10-10,220656,247435
 "Sinn Fein Dun Laoghaire",2020-09-26,1418,1446
 "Sinn Fein Dun Laoghaire",2020-10-02,1428,1456
 "Sinn Fein Dun Laoghaire",2020-10-03,1434,1463
@@ -741,13 +722,14 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Social Democrats",2020-09-29,10495,10687
 "Social Democrats",2020-10-03,10513,10706
 "Social Democrats",2020-10-06,10516,10709
-"Social Democrats",2020-10-09,10515,10709
 "Social Democrats",2020-10-08,10513,10706
+"Social Democrats",2020-10-09,10515,10709
 "Sorca Clarke",2020-10-04,3537,3681
 "Stephen Donnelly",2020-09-24,9891,10079
 "Stephen Donnelly",2020-09-29,9896,10085
 "Stephen Donnelly",2020-10-03,9907,10097
 "Stephen Donnelly",2020-10-09,9927,10120
+"Stephen Donnelly",2020-10-10,9934,10128
 "The Irexiteer",2020-09-19,730,750
 "The Irexiteer",2020-09-24,735,755
 "The Irexiteer",2020-09-29,736,757
@@ -767,19 +749,23 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Tracey O'Mahony",2020-10-02,4063,4214
 "Tracey O'Mahony",2020-10-06,4213,4371
 "Tracey O'Mahony",2020-10-07,4262,4222
+"Tracey O'Mahony",2020-10-09,4347,4509
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
 "Verona Murphy",2020-10-09,9331,9702
 "Violet-Anne Wynne",2020-10-04,2784,2906
+"Violet-Anne Wynne",2020-10-10,2792,2917
 "Willie O'Dea",2020-09-19,5565,5695
 "Willie O'Dea",2020-09-24,5562,5692
 "Willie O'Dea",2020-09-29,5565,5698
 "Willie O'Dea",2020-10-04,5563,5696
+"Willie O'Dea",2020-10-10,5579,5714
 "Workers Party",2020-09-20,8860,9152
 "Workers Party",2020-09-25,8858,9151
 "Workers Party",2020-09-30,8867,9161
 "Workers Party",2020-10-05,8872,9170
 "Workers Party",2020-10-08,8871,9169
+"Yellow Vest Balbriggan",2020-10-09,900,908
 "Yellow Vest Ireland",2020-09-12,NA,52616
 "Yellow Vest Ireland",2020-09-15,47402,53091
 "Yellow Vest Ireland",2020-09-17,47582,53284
@@ -797,3 +783,17 @@ Yellow Vest Ireland Galway,2020-10-09,2591,2864
 "Yellow Vest Ireland",2020-10-05,48328,54127
 "Yellow Vest Ireland",2020-10-07,48431,54241
 "Yellow Vest Ireland",2020-10-08,48579,54378
+"Yellow Vest Ireland",2020-10-09,48628,54426
+"Yellow Vest Ireland Carlow",2020-10-09,1192,1234
+"Yellow Vest Ireland Cavan",2020-10-09,704,724
+"Yellow Vest Ireland Clare",2020-10-09,644,668
+"Yellow Vest Ireland Cork",2020-10-09,1183,1247
+"Yellow Vest Ireland Galway",2020-10-09,2591,2864
+"Yellow Vest Ireland Kilkenny",2020-10-09,870,944
+"Yellow Vest Ireland Laois",2020-10-09,597,611
+"Yellow Vest Ireland Longford",2020-10-09,959,984
+"Yellow Vest Ireland Roscommon",2020-10-09,784,795
+"Yellow Vest Ireland Sligo",2020-10-09,875,910
+"Yellow Vest Ireland Waterford",2020-10-09,861,889
+"Yellow Vest Ireland Westmeath",2020-10-09,2515,2610
+"Yellow Vest Ireland Wexford",2020-10-09,3683,4172
