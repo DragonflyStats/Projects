@@ -8,28 +8,6 @@
 "Alan Kelly",2020-10-08,2461,2618
 "Alan Kelly",2020-10-11,2464,2622
 "Annie Hoey",2020-10-11,1252,1358
-Norma Foley,2020-10-12,5866,6394
-Hazel Chu,2020-10-12,806,862
-Cathal Berry,2020-10-12,2815,3096
-Roderic O'Gorman,2020-10-12,2540,2638
-Denis Naughten,2020-10-12,9819,10164
-Integrity Ireland,2020-10-12,9949,10436
-Joan Collins,2020-10-12,7395,7507
-Labour Party,2020-10-12,29208,29603
-Mairead McGuinness,2020-10-12,11828,12214
-Marian Harkin,2020-10-12,4053,4178
-NP Wexford,2020-10-12,522,529
-NP Kerry,2020-10-12,539,551
-NP Sligo,2020-10-12,697,702
-Kathleen Funchion,2020-10-12,6843,7046
-Kerry Sinn Fein,2020-10-12,1728,1828
-Liadh Ni Riada,2020-10-12,8526,8616
-Lynn Boylan,2020-10-12,3198,3289
-Michael Martin,2020-10-12,23025,23372
-Padraig Mac Lochlainn,2020-10-12,13865,14224
-Paschal Donohoe,2020-10-12,4504,4632
-Sinn Fein Dun Laoghaire,2020-10-12,1449,1479
-Claire Byrne,2020-10-12,1040,1055
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -112,6 +90,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Cathal Berry",2020-09-30,2798,3080
 "Cathal Berry",2020-10-02,2803,3085
 "Cathal Berry",2020-10-08,2814,3095
+"Cathal Berry",2020-10-12,2815,3096
 "Catherine Martin",2020-09-19,2957,3135
 "Catherine Martin",2020-09-22,2954,3134
 "Catherine Martin",2020-09-26,2960,3145
@@ -125,13 +104,14 @@ Claire Byrne,2020-10-12,1040,1055
 "Charlie McConalogue",2020-10-01,8827,8930
 "Charlie McConalogue",2020-10-05,8832,8941
 "Charlie McConalogue",2020-10-09,8838,8950
-"Ciar√°n Cuffe",2020-10-11,2067,2122
+"Ciar·n Cuffe",2020-10-11,2067,2122
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
 "Claire Byrne",2020-09-28,1040,1055
 "Claire Byrne",2020-10-04,1039,1054
 "Claire Byrne",2020-10-07,1040,1055
+"Claire Byrne",2020-10-12,1040,1055
 "Clare Daly",2020-09-16,21260,22197
 "Clare Daly",2020-09-21,21330,22291
 "Clare Daly",2020-09-24,21348,22316
@@ -181,6 +161,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Deirdre Clune",2020-10-10,4513,4549
 "Denis Naughten",2020-10-03,9744,10085
 "Denis Naughten",2020-10-08,9759,10104
+"Denis Naughten",2020-10-12,9819,10164
 "Direct Democracy Ireland",2020-10-10,22434,21308
 "Dolores Cahill",2020-09-15,5964,7456
 "Dolores Cahill",2020-09-17,6023,7529
@@ -324,6 +305,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Hazel Chu",2020-09-27,789,841
 "Hazel Chu",2020-10-02,794,848
 "Hazel Chu",2020-10-07,800,856
+"Hazel Chu",2020-10-12,806,862
 "Heather Humphreys",2020-09-20,5798,6139
 "Heather Humphreys",2020-09-26,5802,6146
 "Heather Humphreys",2020-10-01,5806,6151
@@ -355,6 +337,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Integrity Ireland",2020-10-03,9934,10421
 "Integrity Ireland",2020-10-08,9938,10427
 "Integrity Ireland",2020-10-08,9936,10425
+"Integrity Ireland",2020-10-12,9949,10436
 "Iona Institute",2020-09-16,7636,7756
 "Iona Institute",2020-09-20,7638,7760
 "Iona Institute",2020-09-24,7634,7756
@@ -416,6 +399,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Joan Collins",2020-09-28,7378,7491
 "Joan Collins",2020-10-03,7382,7495
 "Joan Collins",2020-10-08,7388,7500
+"Joan Collins",2020-10-12,7395,7507
 "Joe McHugh",2020-10-05,6715,7009
 "Joe McHugh",2020-10-11,6735,7033
 "Josepha Madigan",2020-09-20,5929,6256
@@ -428,9 +412,11 @@ Claire Byrne,2020-10-12,1040,1055
 "Kathleen Funchion",2020-09-26,6777,6977
 "Kathleen Funchion",2020-10-01,6787,6987
 "Kathleen Funchion",2020-10-06,6808,7010
+"Kathleen Funchion",2020-10-12,6843,7046
 "Kerry Sinn Fein",2020-09-26,1722,1821
 "Kerry Sinn Fein",2020-10-01,1725,1824
 "Kerry Sinn Fein",2020-10-06,1727,1827
+"Kerry Sinn Fein",2020-10-12,1728,1828
 "Kieran O'Donnell",2020-09-27,2779,2836
 "Kieran O'Donnell",2020-10-02,2790,2848
 "Kieran O'Donnell",2020-10-07,2799,2857
@@ -442,6 +428,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Labour Party",2020-09-29,29179,29754
 "Labour Party",2020-10-04,29195,29594
 "Labour Party",2020-10-08,29197,29593
+"Labour Party",2020-10-12,29208,29603
 "Leo Varadkar",2020-09-12,NA,101169
 "Leo Varadkar",2020-09-16,86957,101197
 "Leo Varadkar",2020-09-20,87426,101609
@@ -454,6 +441,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Leo Varadkar",2020-10-11,89435,105091
 "Liadh Ni Riada",2020-10-01,8532,8620
 "Liadh Ni Riada",2020-10-06,8529,8619
+"Liadh Ni Riada",2020-10-12,8526,8616
 "Lucinda Creighton",2020-10-04,4869,4800
 "Luke 'Ming' Flanagan",2020-09-15,67433,67796
 "Luke 'Ming' Flanagan",2020-09-19,67409,67775
@@ -469,10 +457,12 @@ Claire Byrne,2020-10-12,1040,1055
 "Luke 'Ming' Flanagan",2020-10-10,67321,67684
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
+"Lynn Boylan",2020-10-12,3198,3289
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
 "Mairead McGuinness",2020-10-08,11818,12202
+"Mairead McGuinness",2020-10-12,11828,12214
 "Maria Walsh",2020-09-24,12167,12473
 "Maria Walsh",2020-09-28,12164,12471
 "Maria Walsh",2020-10-03,12167,12474
@@ -485,6 +475,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Marian Harkin",2020-09-29,4055,4180
 "Marian Harkin",2020-10-03,4054,4180
 "Marian Harkin",2020-10-08,4053,4179
+"Marian Harkin",2020-10-12,4053,4178
 "Marie Sherlock",2020-09-25,553,618
 "Marie Sherlock",2020-09-29,553,618
 "Marie Sherlock",2020-10-04,557,622
@@ -537,6 +528,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Michael Martin",2020-09-27,22817,23144
 "Michael Martin",2020-10-01,22872,23202
 "Michael Martin",2020-10-06,22967,23308
+"Michael Martin",2020-10-12,23025,23372
 "Micheal Martin",2020-10-03,22913,23249
 "Micheal Martin",2020-10-09,23003,23346
 "Mick Wallace",2020-09-12,NA,31265
@@ -588,6 +580,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Niall McConnell",2020-10-11,4752,4986
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
+"Norma Foley",2020-10-12,5866,6394
 "NP Cork",2020-09-15,589,603
 "NP Cork",2020-09-18,589,603
 "NP Cork",2020-09-21,589,603
@@ -614,6 +607,7 @@ Claire Byrne,2020-10-12,1040,1055
 "NP Kerry",2020-09-29,537,548
 "NP Kerry",2020-10-02,541,553
 "NP Kerry",2020-10-07,540,550
+"NP Kerry",2020-10-12,539,551
 "NP Laois",2020-09-29,542,545
 "NP Laois",2020-10-03,543,546
 "NP Laois",2020-10-07,542,545
@@ -641,6 +635,7 @@ Claire Byrne,2020-10-12,1040,1055
 "NP Sligo",2020-10-06,690,695
 "NP Sligo",2020-10-07,692,697
 "NP Sligo",2020-10-10,696,701
+"NP Sligo",2020-10-12,697,702
 "NP Westmeath",2020-09-20,535,545
 "NP Westmeath",2020-09-23,540,550
 "NP Westmeath",2020-09-26,541,551
@@ -652,16 +647,19 @@ Claire Byrne,2020-10-12,1040,1055
 "NP Wexford",2020-09-25,515,522
 "NP Wexford",2020-09-30,514,521
 "NP Wexford",2020-10-06,518,525
+"NP Wexford",2020-10-12,522,529
 "Ossian Smyth",2020-10-04,710,769
 "Ossian Smyth",2020-10-11,712,772
 "Padraig Mac Lochlainn",2020-09-20,13694,14038
 "Padraig Mac Lochlainn",2020-09-25,13695,14043
 "Padraig Mac Lochlainn",2020-10-01,13713,14063
 "Padraig Mac Lochlainn",2020-10-06,13725,14078
+"Padraig Mac Lochlainn",2020-10-12,13865,14224
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Paschal Donohoe",2020-10-01,4481,4608
 "Paschal Donohoe",2020-10-06,4486,4613
+"Paschal Donohoe",2020-10-12,4504,4632
 "Patrick Costello",2020-09-20,723,765
 "Patrick Costello",2020-09-24,724,766
 "Patrick Costello",2020-09-29,723,766
@@ -733,6 +731,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Robert Troy",2020-10-09,4636,4880
 "Roderic O'Gorman",2020-10-01,2524,2621
 "Roderic O'Gorman",2020-10-07,2532,2630
+"Roderic O'Gorman",2020-10-12,2540,2638
 "Roisin Shortall",2020-09-20,2152,2299
 "Roisin Shortall",2020-09-26,2225,2381
 "Roisin Shortall",2020-09-29,2277,2448
@@ -785,6 +784,7 @@ Claire Byrne,2020-10-12,1040,1055
 "Sinn Fein Dun Laoghaire",2020-10-02,1428,1456
 "Sinn Fein Dun Laoghaire",2020-10-03,1434,1463
 "Sinn Fein Dun Laoghaire",2020-10-06,1442,1472
+"Sinn Fein Dun Laoghaire",2020-10-12,1449,1479
 "SIPTU",2020-09-19,17686,18126
 "SIPTU",2020-09-24,17736,18266
 "SIPTU",2020-09-29,17755,18285
