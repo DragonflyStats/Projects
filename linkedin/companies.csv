@@ -1,143 +1,143 @@
 "Company","Date","Followers"
-"Accenture",2020-10-05,5931198
-"Alfred P. Sloan Foundation",2020-10-05,1592
-"Anaconda",2020-10-08,19344
-"Anaconda",2020-10-08,19338
-"Anaconda",2020-10-10,19364
-"Anaconda",2020-10-11,19375
-"Anaconda",2020-10-12,19389
-"R-Ladies",2020-10-13,3151
-"R Consortium",2020-10-13,45
-"R Foundation",2020-10-13,283
-Data Science Academy,2020-10-13,140451
-Towards Data Science,2020-10-13,251530
-"Black Girls CODE",2020-10-06,19816
-"Coursera",2020-10-07,657271
-"Coursera",2020-10-09,660720
-"Coursera",2020-10-10,661978
-"Data Science Central",2020-10-06,187780
-"Data Science Dojo",2020-10-12,51933
-"DataBricks",2020-10-11,168140
-"Datacamp",2020-10-05,178112
-"DataCamp",2020-10-06,178223
-"DataCamp",2020-10-07,178437
-"DataCamp",2020-10-08,178792
-"DataCamp",2020-10-08,178647
-"DataCamp",2020-10-09,178994
-"DataCamp",2020-10-10,179137
-"DataCamp",2020-10-11,179280
-"DataCamp",2020-10-12,179541
-"DataKind",2020-10-08,10631
-"dataquest.io",2020-10-09,33686
-"DataRobot",2020-10-09,63823
-"DataRobot",2020-10-11,63889
-"Deloitte",2020-10-05,5370228
-"Ernst & Young",2020-10-05,93931
-"ERUM",2020-10-10,773
-"Europython",2020-10-07,180
-"EuroPython Society",2020-10-07,351
-"GSK",2020-10-05,2444463
-"H20.ai",2020-10-11,75350
-"H2O.ai",2020-10-08,75167
-"Institute of Mathematics and its Applications",2020-10-05,19838
-"Julia Computing",2020-10-05,3765
-"Julia Computing",2020-10-05,3769
-"Julia Computing",2020-10-07,3779
-"Julia Computing",2020-10-08,3790
-"Julia Computing",2020-10-09,3793
-"Julia Computing",2020-10-10,3803
-"Julia Computing",2020-10-11,3809
-"Julia Computing",2020-10-12,3818
-"Julia Language",2020-10-05,847
-"Julia Language",2020-10-10,879
-"Julia Language",2020-10-11,885
-"JuliaCon",2020-10-05,1431
-"JuliaCon",2020-10-10,1435
-"JuliaCon 2020",2020-10-12,1437
-"Jumping Rivers",2020-10-05,372
-"Kaggle",2020-10-06,252791
-"Kaggle",2020-10-07,252944
-"KNIME",2020-10-09,13109
-"Lander Analytics",2020-10-07,246
-"Mango Solution",2020-10-05,3249
-"McKinsey & Company",2020-10-05,3572193
-"McKinsey & Company",2020-10-12,3585573
-"McKinsey Analytics",2020-10-05,103374
-"McKinsey Analytics",2020-10-07,103455
-"McKinsey Analytics",2020-10-12,103797
-"NumFOCUS",2020-10-05,1585
-"NumFOCUS",2020-10-09,1588
-"Open Data Science Conference",2020-10-12,84991
-"Open Data Science Conference (ODSC)",2020-10-06,84385
-"Open Data Science Conference (ODSC)",2020-10-07,84500
-"Oracle",2020-10-06,5960475
-"Oracle Cloud",2020-10-06,81110
-"Oracle University",2020-10-06,34747
-"Plotly",2020-10-08,6326
-"Pluralsight",2020-10-07,103400
-"ProCogia",2020-10-07,3351
-"ProCogia",2020-10-08,3361
-"ProCogia",2020-10-09,3363
-"ProCogia",2020-10-10,3367
-"ProCogica",2020-10-08,3355
-"Project Jupyter",2020-10-08,5348
-"Python Ireland",2020-10-07,637
-"Python posts you might have missed!",2020-10-06,413
-"Python Software Foundation",2020-10-05,66750
-"Python Software Foundation",2020-10-10,66985
-"R-Ladies",2020-10-05,3114
-"R-Ladies",2020-10-10,3136
-"R Consortium",2020-10-10,45
-"R Foundation",2020-10-06,271
-"R Foundation",2020-10-12,281
-"R posts you might have missed!",2020-10-06,3519
-"R posts you might have missed!",2020-10-12,3593
-"RapidMiner",2020-10-09,11814
-"Red Hat",2020-10-06,822451
-"Red Hat Partners",2020-10-06,29645
-"Roche",2020-10-05,1994623
-"Royal Statistical Society",2020-10-05,5589
-"Royal Statistical Society",2020-10-10,5610
-"Royal Statistical Society",2020-10-12,5624
-"RSS Data Science Section",2020-10-06,588
-"RSS Data Science Section",2020-10-10,588
-"Rstudio",2020-10-05,59891
-"Rstudio",2020-10-06,59892
-"Rstudio",2020-10-08,59960
-"RStudio",2020-10-07,59905
-"RStudio",2020-10-08,59942
-"RStudio",2020-10-09,60004
-"RStudio",2020-10-09,60030
-"RStudio",2020-10-11,60049
-"RStudio",2020-10-12,60078
-"SAS",2020-10-06,686941
-"SAS Partners",2020-10-06,6766
-"Tableau Software",2020-10-06,556477
-"Tableau Software - Events and Webinars",2020-10-06,24527
-"Towards Data Science",2020-10-06,248000
-"Towards Data Science",2020-10-07,248701
-"Udemy",2020-10-07,440820
-"Udemy",2020-10-09,442859
-"User! Conference",2020-10-12,244
-"UseR! Conference",2020-10-05,205
-"UseR! Conference",2020-10-06,213
-"UseR! Conference",2020-10-09,230
-"Why R?",2020-10-09,2044
-"Why R?",2020-10-10,2054
-"Why R?",2020-10-12,2068
-"WiMLDS",2020-10-06,6723
-"Women Who Code",2020-10-06,60304
-Predictive Analytics Lab,2020-10-13,889
-Accenture,2020-10-13,5954070
-Alfred P. Sloan Foundation,2020-10-13,1597
-Royal Statistical Society,2020-10-13,London 5625 
-Oracle,2020-10-13,5984980
-Black Girls CODE,2020-10-13,19922 
-Mango Solution,2020-10-13,3258
-Jumping Rivers,2020-10-13,372
-Roche,2020-10-13,2007499 
-Oracle Cloud,2020-10-13,81602
-Oracle University,2020-10-13,34870 
-Data Science Central,2020-10-13,189430
-Deloitte,2020-10-13,5452316
-Deloitte Insights,2020-10-13,76154
+"Accenture",2020-10-05,"5931198"
+"Accenture",2020-10-13,"5954070"
+"Alfred P. Sloan Foundation",2020-10-05,"1592"
+"Alfred P. Sloan Foundation",2020-10-13,"1597"
+"Anaconda",2020-10-08,"19344"
+"Anaconda",2020-10-08,"19338"
+"Anaconda",2020-10-10,"19364"
+"Anaconda",2020-10-11,"19375"
+"Anaconda",2020-10-12,"19389"
+"Black Girls CODE",2020-10-06,"19816"
+"Black Girls CODE",2020-10-13,"19922"
+"Coursera",2020-10-07,"657271"
+"Coursera",2020-10-09,"660720"
+"Coursera",2020-10-10,"661978"
+"Data Science Academy",2020-10-13,"140451"
+"Data Science Central",2020-10-06,"187780"
+"Data Science Central",2020-10-13,"189430"
+"Data Science Dojo",2020-10-12,"51933"
+"DataBricks",2020-10-11,"168140"
+"Datacamp",2020-10-05,"178112"
+"DataCamp",2020-10-06,"178223"
+"DataCamp",2020-10-07,"178437"
+"DataCamp",2020-10-08,"178792"
+"DataCamp",2020-10-08,"178647"
+"DataCamp",2020-10-09,"178994"
+"DataCamp",2020-10-10,"179137"
+"DataCamp",2020-10-11,"179280"
+"DataCamp",2020-10-12,"179541"
+"DataKind",2020-10-08,"10631"
+"dataquest.io",2020-10-09,"33686"
+"DataRobot",2020-10-09,"63823"
+"DataRobot",2020-10-11,"63889"
+"Deloitte",2020-10-05,"5370228"
+"Deloitte",2020-10-13,"5452316"
+"Deloitte Insights",2020-10-13,"76154"
+"Ernst & Young",2020-10-05,"93931"
+"ERUM",2020-10-10,"773"
+"Europython",2020-10-07,"180"
+"EuroPython Society",2020-10-07,"351"
+"GSK",2020-10-05,"2444463"
+"H20.ai",2020-10-11,"75350"
+"H2O.ai",2020-10-08,"75167"
+"Institute of Mathematics and its Applications",2020-10-05,"19838"
+"Julia Computing",2020-10-05,"3765"
+"Julia Computing",2020-10-05,"3769"
+"Julia Computing",2020-10-07,"3779"
+"Julia Computing",2020-10-08,"3790"
+"Julia Computing",2020-10-09,"3793"
+"Julia Computing",2020-10-10,"3803"
+"Julia Computing",2020-10-11,"3809"
+"Julia Computing",2020-10-12,"3818"
+"Julia Language",2020-10-05,"847"
+"Julia Language",2020-10-10,"879"
+"Julia Language",2020-10-11,"885"
+"JuliaCon",2020-10-05,"1431"
+"JuliaCon",2020-10-10,"1435"
+"JuliaCon 2020",2020-10-12,"1437"
+"Jumping Rivers",2020-10-05,"372"
+"Jumping Rivers",2020-10-13,"372"
+"Kaggle",2020-10-06,"252791"
+"Kaggle",2020-10-07,"252944"
+"KNIME",2020-10-09,"13109"
+"Lander Analytics",2020-10-07,"246"
+"Mango Solution",2020-10-05,"3249"
+"Mango Solution",2020-10-13,"3258"
+"McKinsey & Company",2020-10-05,"3572193"
+"McKinsey & Company",2020-10-12,"3585573"
+"McKinsey Analytics",2020-10-05,"103374"
+"McKinsey Analytics",2020-10-07,"103455"
+"McKinsey Analytics",2020-10-12,"103797"
+"NumFOCUS",2020-10-05,"1585"
+"NumFOCUS",2020-10-09,"1588"
+"Open Data Science Conference",2020-10-12,"84991"
+"Open Data Science Conference (ODSC)",2020-10-06,"84385"
+"Open Data Science Conference (ODSC)",2020-10-07,"84500"
+"Oracle",2020-10-06,"5960475"
+"Oracle",2020-10-13,"5984980"
+"Oracle Cloud",2020-10-06,"81110"
+"Oracle Cloud",2020-10-13,"81602"
+"Oracle University",2020-10-06,"34747"
+"Oracle University",2020-10-13,"34870"
+"Plotly",2020-10-08,"6326"
+"Pluralsight",2020-10-07,"103400"
+"Predictive Analytics Lab",2020-10-13,"889"
+"ProCogia",2020-10-07,"3351"
+"ProCogia",2020-10-08,"3361"
+"ProCogia",2020-10-09,"3363"
+"ProCogia",2020-10-10,"3367"
+"ProCogica",2020-10-08,"3355"
+"Project Jupyter",2020-10-08,"5348"
+"Python Ireland",2020-10-07,"637"
+"Python posts you might have missed!",2020-10-06,"413"
+"Python Software Foundation",2020-10-05,"66750"
+"Python Software Foundation",2020-10-10,"66985"
+"R-Ladies",2020-10-05,"3114"
+"R-Ladies",2020-10-10,"3136"
+"R-Ladies",2020-10-13,"3151"
+"R Consortium",2020-10-10,"45"
+"R Consortium",2020-10-13,"45"
+"R Foundation",2020-10-06,"271"
+"R Foundation",2020-10-12,"281"
+"R Foundation",2020-10-13,"283"
+"R posts you might have missed!",2020-10-06,"3519"
+"R posts you might have missed!",2020-10-12,"3593"
+"RapidMiner",2020-10-09,"11814"
+"Red Hat",2020-10-06,"822451"
+"Red Hat Partners",2020-10-06,"29645"
+"Roche",2020-10-05,"1994623"
+"Roche",2020-10-13,"2007499"
+"Royal Statistical Society",2020-10-05,"5589"
+"Royal Statistical Society",2020-10-10,"5610"
+"Royal Statistical Society",2020-10-12,"5624"
+"Royal Statistical Society",2020-10-13,"London 5625"
+"RSS Data Science Section",2020-10-06,"588"
+"RSS Data Science Section",2020-10-10,"588"
+"Rstudio",2020-10-05,"59891"
+"Rstudio",2020-10-06,"59892"
+"Rstudio",2020-10-08,"59960"
+"RStudio",2020-10-07,"59905"
+"RStudio",2020-10-08,"59942"
+"RStudio",2020-10-09,"60004"
+"RStudio",2020-10-09,"60030"
+"RStudio",2020-10-11,"60049"
+"RStudio",2020-10-12,"60078"
+"SAS",2020-10-06,"686941"
+"SAS Partners",2020-10-06,"6766"
+"Tableau Software",2020-10-06,"556477"
+"Tableau Software - Events and Webinars",2020-10-06,"24527"
+"Towards Data Science",2020-10-06,"248000"
+"Towards Data Science",2020-10-07,"248701"
+"Towards Data Science",2020-10-13,"251530"
+"Udemy",2020-10-07,"440820"
+"Udemy",2020-10-09,"442859"
+"User! Conference",2020-10-12,"244"
+"UseR! Conference",2020-10-05,"205"
+"UseR! Conference",2020-10-06,"213"
+"UseR! Conference",2020-10-09,"230"
+"Why R?",2020-10-09,"2044"
+"Why R?",2020-10-10,"2054"
+"Why R?",2020-10-12,"2068"
+"WiMLDS",2020-10-06,"6723"
+"Women Who Code",2020-10-06,"60304"
