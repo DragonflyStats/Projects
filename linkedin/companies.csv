@@ -1,6 +1,15 @@
 "Company","Date","Followers"
 "Accenture",2020-10-05,"5931198"
 "Accenture",2020-10-13,"5954070"
+Kaggle,2020-10-13,254057
+Lander Analytics,2020-10-13,248
+Pluralsight,2020-10-13,103704
+DataKind,2020-10-13,10672
+Project Jupyter,2020-10-13,5373
+dataquest.io,2020-10-13,33723
+KNIME,2020-10-13,13194
+RapidMiner,2020-10-13,11837
+Udemy,2020-10-13,446021
 "Alfred P. Sloan Foundation",2020-10-05,"1592"
 "Alfred P. Sloan Foundation",2020-10-13,"1597"
 "Anaconda",2020-10-08,"19344"
@@ -69,7 +78,7 @@ Accenture The Dock,2020-10-13,5511
 "Julia Language",2020-10-11,"885"
 "JuliaCon",2020-10-05,"1431"
 "JuliaCon",2020-10-10,"1435"
-"JuliaCon 2020",2020-10-12,"1437"
+"JuliaCon",2020-10-12,"1437"
 "Jumping Rivers",2020-10-05,"372"
 "Jumping Rivers",2020-10-13,"372"
 "Kaggle",2020-10-06,"252791"
@@ -128,9 +137,9 @@ Accenture The Dock,2020-10-13,5511
 "Royal Statistical Society",2020-10-13,"5625"
 "RSS Data Science Section",2020-10-06,"588"
 "RSS Data Science Section",2020-10-10,"588"
-"Rstudio",2020-10-05,"59891"
-"Rstudio",2020-10-06,"59892"
-"Rstudio",2020-10-08,"59960"
+"RStudio",2020-10-05,"59891"
+"RStudio",2020-10-06,"59892"
+"RStudio",2020-10-08,"59960"
 "RStudio",2020-10-07,"59905"
 "RStudio",2020-10-08,"59942"
 "RStudio",2020-10-09,"60004"
