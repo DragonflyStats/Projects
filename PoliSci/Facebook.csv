@@ -2,19 +2,6 @@
 "Aengus O Snodaigh",2020-10-04,8563,8699
 "Aengus O Snodaigh",2020-10-09,8576,8718
 "Aengus O Snodaigh",2020-10-13,8583,8726
-Dolores Cahill,2020-10-14,7979,10265
-Irish Freedom Party,2020-10-14,13675,14330
-Tracey O'Mahony,2020-10-14,4496,4660
-The Irish Inquiry,2020-10-14,3683,5204
-Support to Dr Martin Feeley,2020-10-14,989,1200
-Corruption Awareness Ireland,2020-10-14,24611,29990
-Yellow Vest Ireland Offaly,2020-10-14,265,277
-Yellow Vest Ireland Mayo,2020-10-14,1793,1878
-Gript Media,2020-10-14,23574,29339
-Rebel Politico,2020-10-14,2704,2831
-Luke 'Ming' Flanagan,2020-10-14,67304,67667
-Mary Lou McDonald,2020-10-14,160145,162575
-Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
@@ -129,7 +116,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Charlie McConalogue",2020-10-09,8838,8950
 "Charlie McConalogue",2020-10-14,8846,8964
 "Ciaran Cuffe",2020-10-13,2068,2124
-"Ciar√°n Cuffe",2020-10-11,2067,2122
+"Ciar·n Cuffe",2020-10-11,2067,2122
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -171,6 +158,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Corruption Awareness Ireland",2020-10-11,24439,29756
 "Corruption Awareness Ireland",2020-10-12,24519,29857
 "Corruption Awareness Ireland",2020-10-13,24750,29926
+"Corruption Awareness Ireland",2020-10-14,24611,29990
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -217,6 +205,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Dolores Cahill",2020-10-11,7840,10090
 "Dolores Cahill",2020-10-12,7891,10153
 "Dolores Cahill",2020-10-13,7939,10211
+"Dolores Cahill",2020-10-14,7979,10265
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -339,6 +328,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Gript Media",2020-10-09,23457,29212
 "Gript Media",2020-10-10,23464,29222
 "Gript Media",2020-10-13,23495,29258
+"Gript Media",2020-10-14,23574,29339
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -427,6 +417,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Irish Freedom Party",2020-10-11,13618,14262
 "Irish Freedom Party",2020-10-12,13624,14278
 "Irish Freedom Party",2020-10-13,13646,14300
+"Irish Freedom Party",2020-10-14,13675,14330
 "Irish Inquiry",2020-10-09,3562,5048
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
@@ -502,6 +493,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Luke 'Ming' Flanagan",2020-10-08,67329,67693
 "Luke 'Ming' Flanagan",2020-10-10,67321,67684
 "Luke 'Ming' Flanagan",2020-10-12,67312,67675
+"Luke 'Ming' Flanagan",2020-10-14,67304,67667
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
 "Lynn Boylan",2020-10-12,3198,3289
@@ -549,6 +541,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Mary Lou McDonald",2020-10-02,159240,161684
 "Mary Lou McDonald",2020-10-03,159250,161699
 "Mary Lou McDonald",2020-10-09,159803,162241
+"Mary Lou McDonald",2020-10-14,160145,162575
 "Mary Mitchell O'Connor",2020-10-10,3165,3233
 "Mary Seery Kearney",2020-10-13,402,449
 "Matt Carthy",2020-09-20,30167,31643
@@ -775,6 +768,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Rebel Politico",2020-10-05,2635,2762
 "Rebel Politico",2020-10-10,2677,2803
 "Rebel Politico",2020-10-13,2690,2816
+"Rebel Politico",2020-10-14,2704,2831
 "Regina Doherty",2020-10-13,9428,9682
 "Richard Boyd Barrett",2020-09-16,13380,14575
 "Richard Boyd Barrett",2020-09-19,13589,14927
@@ -882,11 +876,13 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Stephen Donnelly",2020-10-03,9907,10097
 "Stephen Donnelly",2020-10-09,9927,10120
 "Stephen Donnelly",2020-10-10,9934,10128
+"Support to Dr Martin Feeley",2020-10-14,989,1200
 "The Irexiteer",2020-09-19,730,750
 "The Irexiteer",2020-09-24,735,755
 "The Irexiteer",2020-09-29,736,757
 "The Irexiteer",2020-10-04,748,768
 "The Irexiteer",2020-10-07,757,778
+"The Irish Inquiry",2020-10-14,3683,5204
 "TheLiberal.ie",2020-09-15,542526,548189
 "TheLiberal.ie",2020-09-19,542777,548481
 "TheLiberal.ie",2020-09-24,542827,548544
@@ -905,6 +901,7 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Tracey O'Mahony",2020-10-07,4262,4222
 "Tracey O'Mahony",2020-10-09,4347,4509
 "Tracey O'Mahony",2020-10-11,4417,4579
+"Tracey O'Mahony",2020-10-14,4496,4660
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
 "Verona Murphy",2020-10-09,9331,9702
@@ -966,14 +963,17 @@ Yellow Vest Ireland Limerick,2020-10-14,684,700
 "Yellow Vest Ireland Laois",2020-10-09,597,611
 "Yellow Vest Ireland Laois",2020-10-13,594,608
 "Yellow Vest Ireland Laois",2020-10-13,656,680
+"Yellow Vest Ireland Limerick",2020-10-14,684,700
 "Yellow Vest Ireland Longford",2020-10-09,959,984
 "Yellow Vest Ireland Longford",2020-10-12,959,984
 "Yellow Vest Ireland Louth",2020-10-10,1127,1168
 "Yellow Vest Ireland Mayo",2020-10-10,1792,1877
+"Yellow Vest Ireland Mayo",2020-10-14,1793,1878
 "Yellow Vest Ireland Meath",2020-10-10,789,813
 "Yellow Vest Ireland Meath",2020-10-12,792,817
 "Yellow Vest Ireland Monaghan",2020-10-10,829,851
 "Yellow Vest Ireland Monaghan",2020-10-12,831,853
+"Yellow Vest Ireland Offaly",2020-10-14,265,277
 "Yellow Vest Ireland Roscommon",2020-10-09,784,795
 "Yellow Vest Ireland Sligo",2020-10-09,875,910
 "Yellow Vest Ireland Sligo",2020-10-12,876,911
