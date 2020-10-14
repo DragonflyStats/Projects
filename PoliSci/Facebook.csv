@@ -9,35 +9,6 @@
 "Alan Kelly",2020-10-08,2461,2618
 "Alan Kelly",2020-10-11,2464,2622
 "Annie Hoey",2020-10-11,1252,1358
-Ronan Mullen,2020-10-13,3579,3619
-Conservative Comeback Ireland,2020-10-14,995,1015
-Eamon O Cuiv,2020-10-14,8186,8279
-Elisa O'Donovan,2020-10-14,1349,1452
-Mark Daly,2020-10-14,3331,3409
-Mary Fitzpatrick,2020-10-14,2945,3006
-Michael Healy-Rae,2020-10-14,20114,23574
-Peter Burke,2020-10-14,4477,4639
-Charlie McConalogue,2020-10-14,8846,8964
-Danny Healy Rae,2020-10-14,12951,14955
-Frankie Daly,2020-10-14,5731,5903
-Gino Kenny,2020-10-14,9381,9682
-Dolores Cahill,2020-10-13,7939,10211
-Irish Freedom Party,2020-10-13,13646,14300
-Corruption Awareness Ireland,2020-10-13,24750,29926
-Gript Media,2020-10-13,23495,29258
-Grand Torino,2020-10-13,8279,11019
-Niall McConnell,2020-10-13,4796,5040
-Ben Scallan,2020-10-13,12857,13604
-Yellow Vest Ireland,2020-10-13,48864,54671 
-Social Democrats,2020-10-13,10517,10714
-Yellow Vest Balbriggan,2020-10-13,899,907
-Yellow Vest Ireland Cavan,2020-10-13,708,729
-Yellow Vest Ireland Cork,2020-10-13,1185,1249
-Yellow Vest Ireland Galway,2020-10-13,2591,2864
-Yellow Vest Ireland Laois,2020-10-13,594,608
-Yellow Vest Ireland Laois,2020-10-13,656,680
-Mairead Farrell,2020-10-13,11354,11734
-Sinn Fein Ireland,2020-10-13,220670,247447
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
 "Anti-Corruption Ireland",2020-09-26,1739,1896
@@ -98,6 +69,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Ben Scallan",2020-10-07,12809,13558
 "Ben Scallan",2020-10-10,12832,13578
 "Ben Scallan",2020-10-11,12831,13576
+"Ben Scallan",2020-10-13,12857,13604
 "Brendan Smith",2020-09-20,3580,3730
 "Brendan Smith",2020-09-24,3581,3732
 "Brendan Smith",2020-09-28,3581,3734
@@ -142,8 +114,9 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Charlie McConalogue",2020-10-01,8827,8930
 "Charlie McConalogue",2020-10-05,8832,8941
 "Charlie McConalogue",2020-10-09,8838,8950
+"Charlie McConalogue",2020-10-14,8846,8964
 "Ciaran Cuffe",2020-10-13,2068,2124
-"Ciar√°n Cuffe",2020-10-11,2067,2122
+"Ciar·n Cuffe",2020-10-11,2067,2122
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -166,6 +139,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Conservative Comeback Ireland",2020-09-28,979,999
 "Conservative Comeback Ireland",2020-10-02,980,1000
 "Conservative Comeback Ireland",2020-10-08,982,1002
+"Conservative Comeback Ireland",2020-10-14,995,1015
 "Corruption Awareness Ireland",2020-09-26,22121,26671
 "Corruption Awareness Ireland",2020-09-28,22664,27403
 "Corruption Awareness Ireland",2020-09-29,22945,27797
@@ -183,6 +157,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Corruption Awareness Ireland",2020-10-10,24359,29649
 "Corruption Awareness Ireland",2020-10-11,24439,29756
 "Corruption Awareness Ireland",2020-10-12,24519,29857
+"Corruption Awareness Ireland",2020-10-13,24750,29926
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -197,6 +172,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Danny Healy Rae",2020-09-28,12856,14812
 "Danny Healy Rae",2020-10-04,12873,14848
 "Danny Healy Rae",2020-10-09,12926,14911
+"Danny Healy Rae",2020-10-14,12951,14955
 "Deirdre Clune",2020-10-01,4508,4543
 "Deirdre Clune",2020-10-05,4509,4544
 "Deirdre Clune",2020-10-10,4513,4549
@@ -227,6 +203,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Dolores Cahill",2020-10-10,7797,10037
 "Dolores Cahill",2020-10-11,7840,10090
 "Dolores Cahill",2020-10-12,7891,10153
+"Dolores Cahill",2020-10-13,7939,10211
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -235,6 +212,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Donegal Sinn Fein",2020-10-11,11769,11864
 "Eamon O Cuiv",2020-10-03,8180,8273
 "Eamon O Cuiv",2020-10-08,8184,8276
+"Eamon O Cuiv",2020-10-14,8186,8279
 "Eamon Ryan",2020-09-12,NA,7889
 "Eamon Ryan",2020-09-18,7687,7898
 "Eamon Ryan",2020-09-23,7696,7907
@@ -252,6 +230,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Eirigi",2020-10-10,29422,29296
 "Elisa O'Donovan",2020-10-02,1345,1443
 "Elisa O'Donovan",2020-10-08,1347,1448
+"Elisa O'Donovan",2020-10-14,1349,1452
 "Elisha McCallion",2020-10-11,4032,4254
 "Erin McGreehan",2020-10-13,1164,1255
 "Fianna Fail",2020-09-12,NA,41665
@@ -280,6 +259,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Frankie Daly",2020-10-06,5719,5892
 "Frankie Daly",2020-10-07,5731,5904
 "Frankie Daly",2020-10-09,5732,5906
+"Frankie Daly",2020-10-14,5731,5903
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
 "Gary Gannon",2020-09-26,3148,3253
@@ -296,6 +276,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Gerry Adams",2020-10-10,68315,69494
 "Gino Kenny",2020-10-04,9365,9666
 "Gino Kenny",2020-10-09,9378,9679
+"Gino Kenny",2020-10-14,9381,9682
 "Grand Torino",2020-09-15,7539,10131
 "Grand Torino",2020-09-18,7808,10439
 "Grand Torino",2020-09-21,7973,10639
@@ -313,6 +294,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Grand Torino",2020-10-10,8244,10983
 "Grand Torino",2020-10-11,8252,10990
 "Grand Torino",2020-10-12,8265,11003
+"Grand Torino",2020-10-13,8279,11019
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -343,6 +325,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Gript Media",2020-10-08,23456,29204
 "Gript Media",2020-10-09,23457,29212
 "Gript Media",2020-10-10,23464,29222
+"Gript Media",2020-10-13,23495,29258
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -430,6 +413,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Irish Freedom Party",2020-10-10,13613,14268
 "Irish Freedom Party",2020-10-11,13618,14262
 "Irish Freedom Party",2020-10-12,13624,14278
+"Irish Freedom Party",2020-10-13,13646,14300
 "Irish Inquiry",2020-10-09,3562,5048
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
@@ -508,6 +492,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
 "Lynn Boylan",2020-10-12,3198,3289
+"Mairead Farrell",2020-10-13,11354,11734
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
@@ -535,10 +520,12 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Mark Daly",2020-09-29,3334,3411
 "Mark Daly",2020-10-03,3334,3411
 "Mark Daly",2020-10-08,3329,3407
+"Mark Daly",2020-10-14,3331,3409
 "Mary Fitzpatrick",2020-09-24,2933,2992
 "Mary Fitzpatrick",2020-09-27,2934,2994
 "Mary Fitzpatrick",2020-10-02,2937,2997
 "Mary Fitzpatrick",2020-10-08,2940,3000
+"Mary Fitzpatrick",2020-10-14,2945,3006
 "Mary Lou McDonald",2020-09-12,NA,160708
 "Mary Lou McDonald",2020-09-16,158329,160769
 "Mary Lou McDonald",2020-09-19,158470,160900
@@ -570,6 +557,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Michael Healy-Rae",2020-09-27,19301,22645
 "Michael Healy-Rae",2020-10-02,19319,22665
 "Michael Healy-Rae",2020-10-08,19848,23265
+"Michael Healy-Rae",2020-10-14,20114,23574
 "Michael Lowry",2020-10-11,11773,12309
 "Michael Martin",2020-09-12,NA,22872
 "Michael Martin",2020-09-15,22585,22891
@@ -631,6 +619,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Niall McConnell",2020-10-10,4734,4970
 "Niall McConnell",2020-10-11,4752,4986
 "Niall McConnell",2020-10-12,4762,5003
+"Niall McConnell",2020-10-13,4796,5040
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "Norma Foley",2020-10-12,5866,6394
@@ -760,6 +749,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Peter Burke",2020-09-26,4463,4619
 "Peter Burke",2020-10-02,4466,4624
 "Peter Burke",2020-10-08,4472,4631
+"Peter Burke",2020-10-14,4477,4639
 "Pippa Hackett",2020-10-01,1262,1331
 "Pippa Hackett",2020-10-05,1268,1338
 "Pippa Hackett",2020-10-10,1273,1344
@@ -811,6 +801,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Ronan Mullen",2020-09-28,3571,3610
 "Ronan Mullen",2020-10-03,3572,3611
 "Ronan Mullen",2020-10-09,3578,3618
+"Ronan Mullen",2020-10-13,3579,3619
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-13,5296,5420
 "Save Kerry",2020-09-24,324,346
@@ -854,6 +845,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Sinn Fein Dun Laoghaire",2020-10-03,1434,1463
 "Sinn Fein Dun Laoghaire",2020-10-06,1442,1472
 "Sinn Fein Dun Laoghaire",2020-10-12,1449,1479
+"Sinn Fein Ireland",2020-10-13,220670,247447
 "SIPTU",2020-09-19,17686,18126
 "SIPTU",2020-09-24,17736,18266
 "SIPTU",2020-09-29,17755,18285
@@ -869,6 +861,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Social Democrats",2020-10-06,10516,10709
 "Social Democrats",2020-10-08,10513,10706
 "Social Democrats",2020-10-09,10515,10709
+"Social Democrats",2020-10-13,10517,10714
 "Sorca Clarke",2020-10-04,3537,3681
 "Sorca Clarke",2020-10-11,3550,3694
 "Stephen Donnelly",2020-09-24,9891,10079
@@ -919,6 +912,7 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Workers Party",2020-10-08,8871,9169
 "Workers Party",2020-10-13,8875,9173
 "Yellow Vest Balbriggan",2020-10-09,900,908
+"Yellow Vest Balbriggan",2020-10-13,899,907
 "Yellow Vest Ireland",2020-09-12,NA,52616
 "Yellow Vest Ireland",2020-09-15,47402,53091
 "Yellow Vest Ireland",2020-09-17,47582,53284
@@ -939,20 +933,26 @@ Sinn Fein Ireland,2020-10-13,220670,247447
 "Yellow Vest Ireland",2020-10-09,48628,54426
 "Yellow Vest Ireland",2020-10-11,48771,54580
 "Yellow Vest Ireland",2020-10-12,48799,54609
+"Yellow Vest Ireland",2020-10-13,48864,54671
 "Yellow Vest Ireland Armagh",2020-10-10,709,723
 "Yellow Vest Ireland Armagh",2020-10-12,708,722
 "Yellow Vest Ireland Carlow",2020-10-09,1192,1234
 "Yellow Vest Ireland Carlow",2020-10-12,1193,1235
 "Yellow Vest Ireland Cavan",2020-10-09,704,724
+"Yellow Vest Ireland Cavan",2020-10-13,708,729
 "Yellow Vest Ireland Clare",2020-10-09,644,668
 "Yellow Vest Ireland Clare",2020-10-12,650,674
 "Yellow Vest Ireland Cork",2020-10-09,1183,1247
+"Yellow Vest Ireland Cork",2020-10-13,1185,1249
 "Yellow Vest Ireland Derry",2020-10-10,736,760
 "Yellow Vest Ireland Galway",2020-10-09,2591,2864
+"Yellow Vest Ireland Galway",2020-10-13,2591,2864
 "Yellow Vest Ireland Kerry",2020-10-10,649,661
 "Yellow Vest Ireland Kilkenny",2020-10-09,870,944
 "Yellow Vest Ireland Kilkenny",2020-10-10,871,945
 "Yellow Vest Ireland Laois",2020-10-09,597,611
+"Yellow Vest Ireland Laois",2020-10-13,594,608
+"Yellow Vest Ireland Laois",2020-10-13,656,680
 "Yellow Vest Ireland Longford",2020-10-09,959,984
 "Yellow Vest Ireland Longford",2020-10-12,959,984
 "Yellow Vest Ireland Louth",2020-10-10,1127,1168
