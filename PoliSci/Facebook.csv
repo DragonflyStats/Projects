@@ -4,47 +4,11 @@
 "Aengus O Snodaigh",2020-10-13,8583,8726
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
-Sinn Fein,2020-10-16,220743,247502
-Willie O'Dea,2020-10-16,5587,5723
-Luke 'Ming' Flanagan,2020-10-16,67290,67653
-Yellow Vest Ireland Louth,2020-10-16,1139,1178
-Yellow Vest Ireland Wicklow,2020-10-16,963,1036
-Dolores Cahill,2020-10-15,8046,10350
-Fine Gael,2020-10-16,40297,41750
-Gerry Adams,2020-10-16,68630,69182
-Jennifer Whitmore,2020-10-16,3464,3701
-Niall Collins,2020-10-16,11819,12015
-Mary Mitchell O'Connor,2020-10-16,3168,3236
-Maria Walsh,2020-10-16,12168,12474
-NP Limerick,2020-10-16,550,557
-NP Sligo,2020-10-16,700,706
-Patrick O'Donovan,2020-10-16,5191,5409
-National Party,2020-10-16,8343,8980
-NP Longford,2020-10-16,547,555
-NP Westmeath,2020-10-16,539,549
-NP Dublin,2020-10-16,1564,1648
-Ireland Says No,2020-10-16,74813,73522
-NP Laois,2020-10-16,547,551
-Paul Murphy,2020-10-16,44837,50373
-NP Mayo,2020-10-16,587,595
-Yellow Vest Ireland Kerry,2020-10-16,647,659
-Yellow Vest Ireland Longford,2020-10-16,959,984
-Yellow Vest Ireland Down,2020-10-16,509,521
-Yellow Vest Ireland Derry,2020-10-16,729,753
-Yellow Vest Ireland Clare,2020-10-16,660,683
-Yellow Vest Ireland Kilkenny,2020-10-16,879,953
-Irish Freedom Party,2020-10-15,13717,14376
-Grand Torino,2020-10-15,8293,11037
-Yellow Vest Ireland Sligo,2020-10-15,876,910
-Niall McConnell,2020-10-15,4892,5145
-Aontu,2020-10-15,11121,11649
-Becky Kealy Aontu,2020-10-15,2772,2860
-Anna Daly Aontu,2020-10-15,421,446 
-Aontu Laois,2020-10-15,410,430
 "Alan Kelly",2020-09-27,2439,2590
 "Alan Kelly",2020-10-02,2447,2602
 "Alan Kelly",2020-10-08,2461,2618
 "Alan Kelly",2020-10-11,2464,2622
+"Anna Daly Aontu",2020-10-15,421,446
 "Annie Hoey",2020-10-11,1252,1358
 "Anti-Corruption Ireland",2020-09-18,1217,1262
 "Anti-Corruption Ireland",2020-09-23,1236,1281
@@ -84,9 +48,12 @@ Aontu Laois,2020-10-15,410,430
 "Aontu",2020-10-06,11092,11613
 "Aontu",2020-10-07,11099,11620
 "Aontu",2020-10-10,11108,11636
+"Aontu",2020-10-15,11121,11649
 "Aontu",2020-10-15,11118,11646
+"Aontu Laois",2020-10-15,410,430
 "Barry Ward",2020-10-10,2332,2353
 "Barry Ward",2020-10-15,2333,2354
+"Becky Kealy Aontu",2020-10-15,2772,2860
 "Ben Gilroy",2020-09-12,NA,8860
 "Ben Gilroy",2020-09-15,7930,8879
 "Ben Gilroy",2020-09-19,7951,8899
@@ -159,7 +126,7 @@ Aontu Laois,2020-10-15,410,430
 "Charlie McConalogue",2020-10-09,8838,8950
 "Charlie McConalogue",2020-10-14,8846,8964
 "Ciaran Cuffe",2020-10-13,2068,2124
-"Ciar√°n Cuffe",2020-10-11,2067,2122
+"Ciar·n Cuffe",2020-10-11,2067,2122
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -252,6 +219,7 @@ Aontu Laois,2020-10-15,410,430
 "Dolores Cahill",2020-10-12,7891,10153
 "Dolores Cahill",2020-10-13,7939,10211
 "Dolores Cahill",2020-10-14,7979,10265
+"Dolores Cahill",2020-10-15,8046,10350
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -301,6 +269,7 @@ Aontu Laois,2020-10-15,410,430
 "Fine Gael",2020-10-03,40164,41592
 "Fine Gael",2020-10-08,40215,41618
 "Fine Gael",2020-10-10,40232,41673
+"Fine Gael",2020-10-16,40297,41750
 "Fintan Warfield",2020-10-11,3989,4066
 "Fiona O'Loughlin",2020-10-11,8588,8710
 "Frankie Daly",2020-09-20,5679,5854
@@ -325,6 +294,7 @@ Aontu Laois,2020-10-15,410,430
 "Gerry Adams",2020-10-03,67693,68847
 "Gerry Adams",2020-10-08,68007,69169
 "Gerry Adams",2020-10-10,68315,69494
+"Gerry Adams",2020-10-16,68630,69182
 "Gino Kenny",2020-10-04,9365,9666
 "Gino Kenny",2020-10-09,9378,9679
 "Gino Kenny",2020-10-14,9381,9682
@@ -346,6 +316,7 @@ Aontu Laois,2020-10-15,410,430
 "Grand Torino",2020-10-11,8252,10990
 "Grand Torino",2020-10-12,8265,11003
 "Grand Torino",2020-10-13,8279,11019
+"Grand Torino",2020-10-15,8293,11037
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -437,6 +408,7 @@ Aontu Laois,2020-10-15,410,430
 "Ireland Says No",2020-10-02,74225,72889
 "Ireland Says No",2020-10-05,74267,72954
 "Ireland Says No",2020-10-10,74461,73157
+"Ireland Says No",2020-10-16,74813,73522
 "Irexit",2020-09-19,731,745
 "Irexit",2020-09-23,735,750
 "Irexit",2020-09-27,738,753
@@ -468,6 +440,7 @@ Aontu Laois,2020-10-15,410,430
 "Irish Freedom Party",2020-10-12,13624,14278
 "Irish Freedom Party",2020-10-13,13646,14300
 "Irish Freedom Party",2020-10-14,13675,14330
+"Irish Freedom Party",2020-10-15,13717,14376
 "Irish Inquiry",2020-10-09,3562,5048
 "Irish Inquiry",2020-10-14,3683,5204
 "Jack Chambers",2020-09-24,5422,5612
@@ -483,6 +456,7 @@ Aontu Laois,2020-10-15,410,430
 "Jennifer Whitmore",2020-10-03,3401,3635
 "Jennifer Whitmore",2020-10-06,3409,3643
 "Jennifer Whitmore",2020-10-10,3458,3693
+"Jennifer Whitmore",2020-10-16,3464,3701
 "Joan Collins",2020-09-24,7371,7484
 "Joan Collins",2020-09-28,7378,7491
 "Joan Collins",2020-10-03,7382,7495
@@ -547,6 +521,7 @@ Aontu Laois,2020-10-15,410,430
 "Luke 'Ming' Flanagan",2020-10-10,67321,67684
 "Luke 'Ming' Flanagan",2020-10-12,67312,67675
 "Luke 'Ming' Flanagan",2020-10-14,67304,67667
+"Luke 'Ming' Flanagan",2020-10-16,67290,67653
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
 "Lynn Boylan",2020-10-12,3198,3289
@@ -561,6 +536,7 @@ Aontu Laois,2020-10-15,410,430
 "Maria Walsh",2020-10-03,12167,12474
 "Maria Walsh",2020-10-08,12168,12475
 "Maria Walsh",2020-10-10,12167,12474
+"Maria Walsh",2020-10-16,12168,12474
 "Marian Harkin",2020-09-12,NA,4173
 "Marian Harkin",2020-09-18,4048,4173
 "Marian Harkin",2020-09-21,4049,4174
@@ -596,6 +572,7 @@ Aontu Laois,2020-10-15,410,430
 "Mary Lou McDonald",2020-10-09,159803,162241
 "Mary Lou McDonald",2020-10-14,160145,162575
 "Mary Mitchell O'Connor",2020-10-10,3165,3233
+"Mary Mitchell O'Connor",2020-10-16,3168,3236
 "Mary Seery Kearney",2020-10-13,402,449
 "Matt Carthy",2020-09-20,30167,31643
 "Matt Carthy",2020-09-25,30224,31701
@@ -649,6 +626,7 @@ Aontu Laois,2020-10-15,410,430
 "National Party",2020-10-02,8275,8905
 "National Party",2020-10-07,8285,8914
 "National Party",2020-10-10,8313,8948
+"National Party",2020-10-16,8343,8980
 "Neasa Hourigan",2020-09-19,670,740
 "Neasa Hourigan",2020-09-24,673,742
 "Neasa Hourigan",2020-09-28,673,742
@@ -665,6 +643,7 @@ Aontu Laois,2020-10-15,410,430
 "Niall Collins",2020-10-01,11783,11968
 "Niall Collins",2020-10-06,11787,11976
 "Niall Collins",2020-10-10,11799,11992
+"Niall Collins",2020-10-16,11819,12015
 "Niall McConnell",2020-09-15,3827,3994
 "Niall McConnell",2020-09-18,4157,4342
 "Niall McConnell",2020-09-21,4209,4398
@@ -683,6 +662,7 @@ Aontu Laois,2020-10-15,410,430
 "Niall McConnell",2020-10-11,4752,4986
 "Niall McConnell",2020-10-12,4762,5003
 "Niall McConnell",2020-10-13,4796,5040
+"Niall McConnell",2020-10-15,4892,5145
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "Norma Foley",2020-10-12,5866,6394
@@ -702,6 +682,7 @@ Aontu Laois,2020-10-15,410,430
 "NP Dublin",2020-09-30,1510,1588
 "NP Dublin",2020-10-04,1511,1591
 "NP Dublin",2020-10-10,1550,1634
+"NP Dublin",2020-10-16,1564,1648
 "NP Galway",2020-09-19,529,544
 "NP Galway",2020-09-24,532,547
 "NP Galway",2020-09-26,533,548
@@ -718,16 +699,19 @@ Aontu Laois,2020-10-15,410,430
 "NP Laois",2020-10-03,543,546
 "NP Laois",2020-10-07,542,545
 "NP Laois",2020-10-10,543,546
+"NP Laois",2020-10-16,547,551
 "NP Limerick",2020-09-25,550,557
 "NP Limerick",2020-09-30,551,558
 "NP Limerick",2020-10-04,550,557
 "NP Limerick",2020-10-10,551,558
+"NP Limerick",2020-10-16,550,557
 "NP Longford",2020-09-23,547,555
 "NP Longford",2020-09-25,548,556
 "NP Longford",2020-09-30,550,55
 "NP Longford",2020-10-04,546,556
 "NP Longford",2020-10-05,548,556
 "NP Longford",2020-10-10,548,556
+"NP Longford",2020-10-16,547,555
 "NP Louth",2020-10-13,527,534
 "NP Mayo",2020-09-19,587,594
 "NP Mayo",2020-09-20,587,594
@@ -735,6 +719,7 @@ Aontu Laois,2020-10-15,410,430
 "NP Mayo",2020-09-30,588,595
 "NP Mayo",2020-10-06,587,594
 "NP Mayo",2020-10-10,589,597
+"NP Mayo",2020-10-16,587,595
 "NP Sligo",2020-09-20,683,688
 "NP Sligo",2020-09-25,686,691
 "NP Sligo",2020-09-29,686,691
@@ -744,12 +729,14 @@ Aontu Laois,2020-10-15,410,430
 "NP Sligo",2020-10-10,696,701
 "NP Sligo",2020-10-12,697,702
 "NP Sligo",2020-10-13,695,700
+"NP Sligo",2020-10-16,700,706
 "NP Westmeath",2020-09-20,535,545
 "NP Westmeath",2020-09-23,540,550
 "NP Westmeath",2020-09-26,541,551
 "NP Westmeath",2020-09-30,543,553
 "NP Westmeath",2020-10-05,541,551
 "NP Westmeath",2020-10-10,543,553
+"NP Westmeath",2020-10-16,539,549
 "NP Wexford",2020-09-18,513,521
 "NP Wexford",2020-09-21,515,523
 "NP Wexford",2020-09-25,515,522
@@ -777,11 +764,13 @@ Aontu Laois,2020-10-15,410,430
 "Patrick O'Donovan",2020-10-01,5177,5389
 "Patrick O'Donovan",2020-10-08,5185,5402
 "Patrick O'Donovan",2020-10-10,5187,5404
+"Patrick O'Donovan",2020-10-16,5191,5409
 "Paul Murphy",2020-09-20,43957,49297
 "Paul Murphy",2020-09-26,44449,49836
 "Paul Murphy",2020-10-02,44564,50080
 "Paul Murphy",2020-10-08,44708,50244
 "Paul Murphy",2020-10-10,44768,50318
+"Paul Murphy",2020-10-16,44837,50373
 "Peadar Toibin",2020-09-12,NA,11251
 "Peadar Toibin",2020-09-15,10957,11253
 "Peadar Toibin",2020-09-19,10969,11266
@@ -907,6 +896,7 @@ Aontu Laois,2020-10-15,410,430
 "Sinn Fein",2020-10-05,220582,247403
 "Sinn Fein",2020-10-08,220648,247445
 "Sinn Fein",2020-10-10,220656,247435
+"Sinn Fein",2020-10-16,220743,247502
 "Sinn Fein Dun Laoghaire",2020-09-26,1418,1446
 "Sinn Fein Dun Laoghaire",2020-10-02,1428,1456
 "Sinn Fein Dun Laoghaire",2020-10-03,1434,1463
@@ -975,6 +965,7 @@ Aontu Laois,2020-10-15,410,430
 "Willie O'Dea",2020-09-29,5565,5698
 "Willie O'Dea",2020-10-04,5563,5696
 "Willie O'Dea",2020-10-10,5579,5714
+"Willie O'Dea",2020-10-16,5587,5723
 "Workers Party",2020-09-20,8860,9152
 "Workers Party",2020-09-25,8858,9151
 "Workers Party",2020-09-30,8867,9161
@@ -1012,21 +1003,28 @@ Aontu Laois,2020-10-15,410,430
 "Yellow Vest Ireland Cavan",2020-10-13,708,729
 "Yellow Vest Ireland Clare",2020-10-09,644,668
 "Yellow Vest Ireland Clare",2020-10-12,650,674
+"Yellow Vest Ireland Clare",2020-10-16,660,683
 "Yellow Vest Ireland Cork",2020-10-09,1183,1247
 "Yellow Vest Ireland Cork",2020-10-13,1185,1249
 "Yellow Vest Ireland Derry",2020-10-10,736,760
+"Yellow Vest Ireland Derry",2020-10-16,729,753
+"Yellow Vest Ireland Down",2020-10-16,509,521
 "Yellow Vest Ireland Galway",2020-10-09,2591,2864
 "Yellow Vest Ireland Galway",2020-10-13,2591,2864
 "Yellow Vest Ireland Kerry",2020-10-10,649,661
+"Yellow Vest Ireland Kerry",2020-10-16,647,659
 "Yellow Vest Ireland Kilkenny",2020-10-09,870,944
 "Yellow Vest Ireland Kilkenny",2020-10-10,871,945
+"Yellow Vest Ireland Kilkenny",2020-10-16,879,953
 "Yellow Vest Ireland Laois",2020-10-09,597,611
 "Yellow Vest Ireland Laois",2020-10-13,594,608
 "Yellow Vest Ireland Laois",2020-10-13,656,680
 "Yellow Vest Ireland Limerick",2020-10-14,684,700
 "Yellow Vest Ireland Longford",2020-10-09,959,984
 "Yellow Vest Ireland Longford",2020-10-12,959,984
+"Yellow Vest Ireland Longford",2020-10-16,959,984
 "Yellow Vest Ireland Louth",2020-10-10,1127,1168
+"Yellow Vest Ireland Louth",2020-10-16,1139,1178
 "Yellow Vest Ireland Mayo",2020-10-10,1792,1877
 "Yellow Vest Ireland Mayo",2020-10-14,1793,1878
 "Yellow Vest Ireland Meath",2020-10-10,789,813
@@ -1038,6 +1036,7 @@ Aontu Laois,2020-10-15,410,430
 "Yellow Vest Ireland Roscommon",2020-10-15,786,798
 "Yellow Vest Ireland Sligo",2020-10-09,875,910
 "Yellow Vest Ireland Sligo",2020-10-12,876,911
+"Yellow Vest Ireland Sligo",2020-10-15,876,910
 "Yellow Vest Ireland Tyrone",2020-10-12,545,553
 "Yellow Vest Ireland Waterford",2020-10-09,861,889
 "Yellow Vest Ireland Waterford",2020-10-12,862,889
@@ -1046,3 +1045,4 @@ Aontu Laois,2020-10-15,410,430
 "Yellow Vest Ireland Wexford",2020-10-09,3683,4172
 "Yellow Vest Ireland Wexford",2020-10-12,3686,4176
 "Yellow Vest Ireland Wicklow",2020-10-10,953,1028
+"Yellow Vest Ireland Wicklow",2020-10-16,963,1036
