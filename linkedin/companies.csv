@@ -1,74 +1,20 @@
 "Company","Date","Followers"
 "(WiMLDS) Women in Machine Learning & Data Science	",2020-10-20,"	6822"
 "365 Data Science",2020-10-15,"35444"
-Vanta Analytics	,2020-10-20,	20
-R4DS Online Learning Community	,2020-10-20,	39
-PIRO Technologies	,2020-10-20,	89
-Mango Solutions,2020-10-20,3273
-Data Science Council of America,2020-10-20,45117 
-Ursa Labs,2020-10-20,403
-Accenture,2020-10-20,5979542
-Accenture Technology,2020-10-20,100894  
-Data Science Dojo,2020-10-20,52321 
-Datakind,2020-10-20,10733 
-CSO Ireland,2020-10-20,4830  
-FutureLearn,2020-10-20,69472
-365 Data Science,2020-10-20,35758  
-Krisolis,2020-10-20,605 
-RSS Data Science Section,2020-10-20,591
-LearnDataScience,2020-10-20,32211 
-PRMIA - Professional Risk Managers International Association,2020-10-20,12624    
-Roche,2020-10-20,2018785 
-WydziaÅ‚ Matematyki i Nauk Informacyjnych Politechniki Warszawskiej	,2020-10-20,	98
-Finbingo.com	,2020-10-20,	100
-MI2DataLab	,2020-10-20,	129
-Talino Venture Labs	,2020-10-20,	165
-DataSeries	,2020-10-20,	201
-Comunidad R Hispano	,2020-10-20,	216
-R!Studio	,2020-10-20,	241
-Liberty Corporate Finance	,2020-10-20,	242
-The R Foundation for Statistical Computing	,2020-10-20,	300
-R-Ladies Tunis	,2020-10-20,	359
-87%	,2020-10-20,	408
-Python posts you might have missed!	,2020-10-20,	453
-LeÅ›niewski Borkiewicz & Partners	,2020-10-20,	486
-SecretarÃ­a de EconomÃ­a y Trabajo	,2020-10-20,	670
-diwo	,2020-10-20,	848
-ESA BIC Hessen & Baden-Wurttemberg	,2020-10-20,	885
-The Julia Language	,2020-10-20,	956
-Ramon Aboitiz Foundation Inc. (RAFI)	,2020-10-20,	996
-Woolcock Institute of Medical Research	,2020-10-20,	1100
-Why R?,2020-10-20,	2094
-Environment and Energy Leader	,2020-10-20,	2534
-R-Ladies	,2020-10-20,	3174
-R posts you might have missed!	,2020-10-20,	3713
-TiSmart	,2020-10-20,	4781
-Plotly	,2020-10-20,	6401
-Business Science	,2020-10-20,	7907
-Data Science by DataScientist.ca	,2020-10-20,	16211
-Visualitics	,2020-10-20,	19526
-SQLBI	,2020-10-20,	20907
-ING Poland	,2020-10-20,	23239
-storytelling with data	,2020-10-20,	40115
-Lemonade	,2020-10-20,	51185
-Data Science Dojo	,2020-10-20,	52315
-RStudio PBC	,2020-10-20,	60355
-Data Visualization Society	,2020-10-20,	63859
-Data Science Academy	,2020-10-20,	142400
-Kaggle	,2020-10-20,	255768
-Slack	,2020-10-20,	467940
-Stack Overflow	,2020-10-20,	552025
-McKinsey & Company	,2020-10-20,	3600683
+"365 Data Science",2020-10-20,"35758"
 "3radical",2020-10-16,"2219"
 "3radical	",2020-10-20,"	2220"
+"87%	",2020-10-20,"	408"
 "Abramat",2020-10-16,"620"
 "Abramat	",2020-10-20,"	622"
 "Accenture",2020-10-05,"5931198"
 "Accenture",2020-10-13,"5954070"
 "Accenture",2020-10-15,"5961772"
 "Accenture",2020-10-16,"5967348"
+"Accenture",2020-10-20,"5979542"
 "Accenture Technology",2020-10-13,"100123"
 "Accenture Technology",2020-10-15,"100351"
+"Accenture Technology",2020-10-20,"100894"
 "Accenture The Dock",2020-10-13,"5511"
 "Accenture The Dock",2020-10-16,"5522"
 "African Centre for Data Science & Analytics Ltd.",2020-10-16,"140"
@@ -90,8 +36,8 @@ McKinsey & Company	,2020-10-20,	3600683
 "Anaconda",2020-10-17,"19486"
 "Anaconda Inc.	",2020-10-20,"	19522"
 "Analytics Institute of Ireland",2020-10-17,"4407"
-"AndalucÃ­a Agrotech DIH",2020-10-16,"223"
-"AndalucÃ­a Agrotech DIH",2020-10-18,"223"
+"Andalucía Agrotech DIH",2020-10-16,"223"
+"Andalucía Agrotech DIH",2020-10-18,"223"
 "Apache Software Foundation",2020-10-14,"43937"
 "Apache Software Foundation",2020-10-19,"44020"
 "Appsilon",2020-10-16,"1182"
@@ -119,6 +65,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Business International",2020-10-16,"4580"
 "Business International",2020-10-18,"4583"
 "Business Science",2020-10-16,"7897"
+"Business Science	",2020-10-20,"	7907"
 "Cegedim e-business",2020-10-16,"1961"
 "Cheng International Co Limited",2020-10-16,"145"
 "Cheng International Co Limited	",2020-10-20,"	145"
@@ -129,6 +76,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Cognitect",2020-10-16,"2593"
 "Cognitect	",2020-10-20,"	2598"
 "Comunidad R Hispano	",2020-10-19,"	216"
+"Comunidad R Hispano	",2020-10-20,"	216"
 "Confluence",2020-10-16,"5338"
 "Conning",2020-10-14,"11215"
 "Conning",2020-10-19,"11222"
@@ -144,24 +92,31 @@ McKinsey & Company	,2020-10-20,	3600683
 "Croatan Institute",2020-10-16,"861"
 "Croatan Institute	",2020-10-20,"	879"
 "CSO Ireland",2020-10-15,"4818"
+"CSO Ireland",2020-10-20,"4830"
 "CSR Europe",2020-10-16,"10755"
 "Data Science Academy",2020-10-13,"140451"
 "Data Science Academy",2020-10-16,"141567"
 "Data Science Academy",2020-10-16,"141466"
 "Data Science Academy	",2020-10-19,"	142158"
+"Data Science Academy	",2020-10-20,"	142400"
 "Data Science by DataScientist.ca",2020-10-16,"16113"
 "Data Science by DataScientist.ca	",2020-10-19,"	16181"
+"Data Science by DataScientist.ca	",2020-10-20,"	16211"
 "Data Science Central",2020-10-06,"187780"
 "Data Science Central",2020-10-13,"189430"
 "Data Science Central",2020-10-16,"190243"
 "Data Science Council of America",2020-10-15,"44996"
+"Data Science Council of America",2020-10-20,"45117"
 "Data Science Dojo",2020-10-12,"51933"
 "Data Science Dojo",2020-10-15,"52095"
+"Data Science Dojo",2020-10-20,"52321"
+"Data Science Dojo	",2020-10-20,"	52315"
 "Data Science Milan",2020-10-16,"597"
 "Data Science Milan",2020-10-18,"597"
 "Data Visualization Society",2020-10-15,"63552"
 "Data Visualization Society",2020-10-16,"63638"
 "Data Visualization Society	",2020-10-19,"	63790"
+"Data Visualization Society	",2020-10-20,"	63859"
 "Databricks",2020-10-16,"169700"
 "DataBricks",2020-10-11,"168140"
 "DataBricks",2020-10-13,"168642"
@@ -186,6 +141,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Dataiku",2020-10-16,"55439"
 "Dataiku",2020-10-18,"55481"
 "Datakind",2020-10-15,"10694"
+"Datakind",2020-10-20,"10733"
 "DataKind",2020-10-08,"10631"
 "DataKind",2020-10-13,"10672"
 "DataKind",2020-10-16,"10699"
@@ -199,6 +155,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "DataRobot",2020-10-14,"64059"
 "DataRobot",2020-10-19,"64728"
 "DataSeries	",2020-10-19,"	201"
+"DataSeries	",2020-10-20,"	201"
 "dataviz.boutique GmbH",2020-10-16,"41"
 "Deloitte",2020-10-05,"5370228"
 "Deloitte",2020-10-13,"5452316"
@@ -207,6 +164,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Deloitte Insights",2020-10-16,"76271"
 "diwo",2020-10-16,"848"
 "diwo	",2020-10-19,"	848"
+"diwo	",2020-10-20,"	848"
 "Dnet - a social enterprise	",2020-10-20,"	2929"
 "Dnet a social enterprise",2020-10-16,"2927"
 "Domino Data Lab",2020-10-16,"8204"
@@ -226,11 +184,13 @@ McKinsey & Company	,2020-10-20,	3600683
 "en world group	",2020-10-20,"	80019"
 "Enigen IT Lutech Group",2020-10-16,"2943"
 "Environment + Energy Leader	",2020-10-19,"	2531"
+"Environment and Energy Leader	",2020-10-20,"	2534"
 "Ernst & Young",2020-10-05,"93931"
 "Ernst & Young",2020-10-13,"4540555"
 "Ernst & Young",2020-10-19,"4585283"
 "ERUM",2020-10-10,"773"
 "ERUM",2020-10-19,"773"
+"ESA BIC Hessen & Baden-Wurttemberg	",2020-10-20,"	885"
 "European R Users Meeting",2020-10-16,"773"
 "Europython",2020-10-07,"180"
 "Europython",2020-10-13,"181"
@@ -245,12 +205,14 @@ McKinsey & Company	,2020-10-20,	3600683
 "Exegetic Analytics",2020-10-16,"172"
 "Exegetic Analytics	",2020-10-20,"	172"
 "Femme in STEM",2020-10-16,"298"
+"Finbingo.com	",2020-10-20,"	100"
 "First Consulting",2020-10-16,"7124"
 "First Consulting	",2020-10-20,"	7132"
 "Freelance PHP & Python & Node.js developers",2020-10-16,"5219"
 "FRS Recruitment",2020-10-14,"36751"
 "FRS Recruitment",2020-10-19,"36951"
 "FutureLearn",2020-10-15,"68797"
+"FutureLearn",2020-10-20,"69472"
 "GCE Solutions Inc.",2020-10-16,"5435"
 "GCE Solutions Inc.",2020-10-18,"5435"
 "Genesis Analytics",2020-10-19,"10001"
@@ -261,7 +223,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Global Knowledge UK&I",2020-10-16,"2137"
 "goDutch",2020-10-16,"1071"
 "goDutch	",2020-10-20,"	1091"
-"Graduate Management Admission Councilâ„¢ (GMACâ„¢)",2020-10-16,"7279"
+"Graduate Management Admission Council™ (GMAC™)",2020-10-16,"7279"
 "GSK",2020-10-05,"2444463"
 "GSK",2020-10-13,"2456591"
 "GSK",2020-10-19,"2466899"
@@ -279,6 +241,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "INESC Technology and ScienceAssociate Laboratory	",2020-10-20,"	12255"
 "ING Poland",2020-10-16,"23178"
 "ING Poland	",2020-10-19,"	23221"
+"ING Poland	",2020-10-20,"	23239"
 "InsideSherpa",2020-10-16,"35879"
 "InsideSherpa	",2020-10-20,"	35969"
 "Instacart	",2020-10-20,"	69228"
@@ -338,6 +301,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Kaggle",2020-10-16,"254887"
 "Kaggle",2020-10-16,"254887"
 "Kaggle	",2020-10-19,"	255497"
+"Kaggle	",2020-10-20,"	255768"
 "Kaggle	",2020-10-20,"	255763"
 "Kiwibank",2020-10-16,"21811"
 "Kiwibank	",2020-10-20,"	21833"
@@ -348,6 +312,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Kode",2020-10-18,"894"
 "Konrad Adenauer Stiftung",2020-10-16,"12367"
 "Krisolis",2020-10-14,"594"
+"Krisolis",2020-10-20,"605"
 "Ladies Who Tech",2020-10-16,"1942"
 "Ladies Who Tech",2020-10-18,"1946"
 "Lander Analytics",2020-10-07,"246"
@@ -356,9 +321,13 @@ McKinsey & Company	,2020-10-20,	3600683
 "LeafLabs",2020-10-16,"211"
 "LeafLabs	",2020-10-20,"	211"
 "LearnDataScience",2020-10-15,"32043"
+"LearnDataScience",2020-10-20,"32211"
 "Lemonade",2020-10-16,"51044"
+"Lemonade	",2020-10-20,"	51185"
 "Lesniewski Borkiewicz & Partners",2020-10-16,"486"
 "Lesniewski Borkiewicz & Partners	",2020-10-19,"	486"
+"Lesniewski Borkiewicz & Partners	",2020-10-20,"	486"
+"Liberty Corporate Finance	",2020-10-20,"	242"
 "LinkedIn",2020-10-16,"13332157"
 "Linux	",2020-10-20,"	9750"
 "Logi Analytics",2020-10-19,"16636"
@@ -369,17 +338,20 @@ McKinsey & Company	,2020-10-20,	3600683
 "Mango Solution",2020-10-19,"3272"
 "Mango Solutions",2020-10-14,"3260"
 "Mango Solutions",2020-10-18,"3270"
+"Mango Solutions",2020-10-20,"3273"
 "McKinsey & Company",2020-10-05,"3572193"
 "McKinsey & Company",2020-10-12,"3585573"
 "McKinsey & Company",2020-10-16,"3594546"
 "McKinsey & Company",2020-10-16,"3593919"
 "McKinsey & Company	",2020-10-19,"	3598850"
+"McKinsey & Company	",2020-10-20,"	3600683"
 "McKinsey Analytics",2020-10-05,"103374"
 "McKinsey Analytics",2020-10-07,"103455"
 "McKinsey Analytics",2020-10-12,"103797"
 "McKinsey Analytics",2020-10-16,"104184"
 "MI2DataLab",2020-10-16,"126"
 "MI2DataLab	",2020-10-19,"	128"
+"MI2DataLab	",2020-10-20,"	129"
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2020-10-16,"20269"
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2020-10-18,"20318"
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)	",2020-10-20,"	20379"
@@ -435,6 +407,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Persistent Systems	",2020-10-20,"	229404"
 "Pirelli",2020-10-16,"499184"
 "PIRO Technologies",2020-10-16,"89"
+"PIRO Technologies	",2020-10-20,"	89"
 "Plotly",2020-10-08,"6326"
 "Plotly",2020-10-13,"6349"
 "Plotly",2020-10-14,"6364"
@@ -442,6 +415,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Plotly",2020-10-18,"6394"
 "Plotly",2020-10-19,"6400"
 "Plotly	",2020-10-19,"	6399"
+"Plotly	",2020-10-20,"	6401"
 "Pluralsight",2020-10-07,"103400"
 "Pluralsight",2020-10-13,"103704"
 "Pluralsight",2020-10-16,"103922"
@@ -455,6 +429,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Predictive Analytics Lab",2020-10-16,"900"
 "Predictive Analytics Lab",2020-10-16,"900"
 "PRMIA - Professional Risk Managers International Association",2020-10-14,"12600"
+"PRMIA - Professional Risk Managers International Association",2020-10-20,"12624"
 "ProCogia",2020-10-07,"3351"
 "ProCogia",2020-10-08,"3361"
 "ProCogia",2020-10-08,"3355"
@@ -510,6 +485,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Python posts you might have missed!",2020-10-06,"413"
 "Python posts you might have missed!",2020-10-13,"433"
 "Python posts you might have missed!",2020-10-16,"445"
+"Python posts you might have missed!	",2020-10-20,"	453"
 "Python Predictions",2020-10-18,"7101"
 "Python Software Foundation",2020-10-05,"66750"
 "Python Software Foundation",2020-10-10,"66985"
@@ -539,7 +515,9 @@ McKinsey & Company	,2020-10-20,	3600683
 "R-Ladies Belo Horizonte	",2020-10-20,"	1437"
 "R-Ladies Charlottesville",2020-10-18,"5"
 "R-Ladies Tunis",2020-10-16,"336"
+"R-Ladies Tunis	",2020-10-20,"	359"
 "R-Ladies	",2020-10-19,"	3170"
+"R-Ladies	",2020-10-20,"	3174"
 "R-Ladies	",2020-10-20,"	3174"
 "r-programming.org",2020-10-16,"2198"
 "R-TRAINER",2020-10-16,"36"
@@ -557,13 +535,17 @@ McKinsey & Company	,2020-10-20,	3600683
 "R posts you might have missed!",2020-10-16,"3662"
 "R posts you might have missed!",2020-10-18,"3684"
 "R posts you might have missed!	",2020-10-19,"	3702"
+"R posts you might have missed!	",2020-10-20,"	3713"
 "R Users Leeds",2020-10-16,"51"
 "R Users Leeds",2020-10-18,"51"
 "R!Studio",2020-10-16,"239"
+"R!Studio	",2020-10-20,"	241"
 "R4DS Online Learning Community",2020-10-16,"38"
 "R4DS Online Learning Community	",2020-10-19,"	39"
+"R4DS Online Learning Community	",2020-10-20,"	39"
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-16,"995"
 "Ramon Aboitiz Foundation Inc. (RAFI)	",2020-10-19,"	996"
+"Ramon Aboitiz Foundation Inc. (RAFI)	",2020-10-20,"	996"
 "RapidMiner",2020-10-09,"11814"
 "RapidMiner",2020-10-13,"11837"
 "RapidMiner",2020-10-19,"11882"
@@ -582,6 +564,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "RladiesMilan",2020-10-18,"342"
 "Roche",2020-10-05,"1994623"
 "Roche",2020-10-13,"2007499"
+"Roche",2020-10-20,"2018785"
 "Rosslyn David Recruitment",2020-10-16,"1327"
 "Rosslyn David Recruitment	",2020-10-20,"	1330"
 "Royal Statistical Society",2020-10-05,"5589"
@@ -593,6 +576,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "RSS Data Science Section",2020-10-06,"588"
 "RSS Data Science Section",2020-10-10,"588"
 "RSS Data Science Section",2020-10-14,"590"
+"RSS Data Science Section",2020-10-20,"591"
 "Rstudio",2020-10-16,"60208"
 "RStudio",2020-10-05,"59891"
 "RStudio",2020-10-06,"59892"
@@ -610,6 +594,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "RStudio",2020-10-17,"60274"
 "RStudio",2020-10-19,"	60319"
 "RStudio PBC",2020-10-18,"60286"
+"RStudio PBC	",2020-10-20,"	60355"
 "Rust Programming Language",2020-10-14,"1476"
 "Sacrebleu LLC",2020-10-16,"433"
 "Sandia National Laboratories",2020-10-16,"70922"
@@ -621,7 +606,8 @@ McKinsey & Company	,2020-10-20,	3600683
 "SAS Partners",2020-10-06,"6766"
 "SAS Partners",2020-10-13,"6774"
 "SAS Partners",2020-10-18,"6784"
-"SecretarÃ­a de EconomÃ­a y Trabajo",2020-10-16,"665"
+"Secretaría de Economía y Trabajo",2020-10-16,"665"
+"Secretaría de Economía y Trabajo	",2020-10-20,"	670"
 "She'sTech",2020-10-16,"1404"
 "She'sTech",2020-10-18,"1411"
 "Siemens Digital Industries Software",2020-10-16,"171649"
@@ -629,13 +615,17 @@ McKinsey & Company	,2020-10-20,	3600683
 "Simbi Foundation",2020-10-16,"253"
 "Slack",2020-10-16,"463987"
 "Slack	",2020-10-19,"	466719"
+"Slack	",2020-10-20,"	467940"
 "SnapLogic",2020-10-19,"9935"
 "SQLBI",2020-10-16,"20863"
+"SQLBI	",2020-10-20,"	20907"
 "Stack Overflow",2020-10-16,"550254"
 "Stack Overflow	",2020-10-19,"	551528"
+"Stack Overflow	",2020-10-20,"	552025"
 "storytelling with data",2020-10-15,"39653"
 "storytelling with data",2020-10-16,"39773"
 "storytelling with data	",2020-10-19,"	39979"
+"storytelling with data	",2020-10-20,"	40115"
 "Style Theory",2020-10-16,"19585"
 "Style Theory	",2020-10-20,"	19579"
 "SuperDataScience",2020-10-16,"54199"
@@ -651,20 +641,24 @@ McKinsey & Company	,2020-10-20,	3600683
 "Tableau Software - Events and Webinars",2020-10-13,"24803"
 "Tableau Software - Events and Webinars",2020-10-19,"25000"
 "Talino Venture Labs",2020-10-16,"163"
+"Talino Venture Labs	",2020-10-20,"	165"
 "Teach to Machines",2020-10-16,"705"
 "The Deltic Group",2020-10-16,"9203"
 "The Julia Language",2020-10-18,"944"
+"The Julia Language	",2020-10-20,"	956"
 "The Julia Language	",2020-10-20,"	956"
 "The Public Economist",2020-10-16,"1250"
 "The Python Quants GmbH",2020-10-16,"997"
 "The R Foundation for Statistical Computing",2020-10-16,"293"
 "The R Foundation for Statistical Computing	",2020-10-19,"	297"
+"The R Foundation for Statistical Computing	",2020-10-20,"	300"
 "The Unlimited",2020-10-16,"31839"
 "The Unlimited	",2020-10-20,"	31862"
 "ThinkR (FR)",2020-10-16,"322"
 "ThinkR (FR)",2020-10-18,"325"
 "TiSmart",2020-10-16,"4764"
 "TiSmart	",2020-10-19,"	4779"
+"TiSmart	",2020-10-20,"	4781"
 "Towards AI",2020-10-18,"117300"
 "Towards Data Science",2020-10-06,"248000"
 "Towards Data Science",2020-10-07,"248701"
@@ -676,8 +670,8 @@ McKinsey & Company	,2020-10-20,	3600683
 "Towards Data Science	",2020-10-20,"	254553"
 "UBI Banca",2020-10-16,"103287"
 "UCD Careers Network",2020-10-16,"3010"
-"UCD Netsoc â€“ UCD's Internet and Computer Science Society",2020-10-16,"184"
-"UCD Netsoc â€“ UCD's Internet and Computer Science Society",2020-10-18,"188"
+"UCD Netsoc – UCD's Internet and Computer Science Society",2020-10-16,"184"
+"UCD Netsoc – UCD's Internet and Computer Science Society",2020-10-18,"188"
 "Udemy",2020-10-07,"440820"
 "Udemy",2020-10-09,"442859"
 "Udemy",2020-10-13,"446021"
@@ -687,6 +681,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Unique Identification Authority of India (UIDAI)",2020-10-16,"7461"
 "Unique Identification Authority of India (UIDAI)	",2020-10-20,"	7532"
 "Ursa Labs",2020-10-14,"402"
+"Ursa Labs",2020-10-20,"403"
 "UseR! Conference",2020-10-05,"205"
 "UseR! Conference",2020-10-06,"213"
 "UseR! Conference",2020-10-09,"230"
@@ -696,11 +691,13 @@ McKinsey & Company	,2020-10-20,	3600683
 "UseR! Conference",2020-10-17,"252"
 "Vanta Analytics",2020-10-16,"20"
 "Vanta Analytics	",2020-10-19,"	20"
+"Vanta Analytics	",2020-10-20,"	20"
 "Vexanium",2020-10-16,"1974"
 "Viaduct",2020-10-16,"276"
 "Visualitics",2020-10-15,"19347"
 "Visualitics",2020-10-16,"19399"
 "Visualitics	",2020-10-19,"	19479"
+"Visualitics	",2020-10-20,"	19526"
 "WGSN",2020-10-16,"188142"
 "WGSN	",2020-10-20,"	188444		"
 "Why R?",2020-10-09,"2044"
@@ -709,6 +706,7 @@ McKinsey & Company	,2020-10-20,	3600683
 "Why R?",2020-10-13,"2070"
 "Why R?",2020-10-16,"2078"
 "Why R?",2020-10-16,"2079"
+"Why R?",2020-10-20,"	2094"
 "Why R?	",2020-10-19,"	2089"
 "WiMLDS",2020-10-06,"6723"
 "WiMLDS",2020-10-13,"6785"
@@ -731,8 +729,10 @@ McKinsey & Company	,2020-10-20,	3600683
 "Women Who Code	",2020-10-20,"	61513"
 "Woolcock Institute of Medical Research",2020-10-16,"1096"
 "Woolcock Institute of Medical Research	",2020-10-19,"	1099"
+"Woolcock Institute of Medical Research	",2020-10-20,"	1100"
 "WSP in Africa",2020-10-16,"11188"
 "WSP in Africa	",2020-10-20,"	11209"
 "Wydzial Matematyki i Nauk Informacyjnych Politechniki Warszawskiej",2020-10-16,"96"
 "Wydzial Matematyki i Nauk Informacyjnych Politechniki Warszawskiej	",2020-10-19,"	98"
+"Wydzial Matematyki i Nauk Informacyjnych Politechniki Warszawskiej	",2020-10-20,"	98"
 "Zindi",2020-10-19,"5021"
