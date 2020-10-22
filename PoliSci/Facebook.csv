@@ -6,18 +6,6 @@
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
-Dolores Cahill,2020-10-22,8680,11132 
-Niall McConnell,2020-10-22,5366,5799
-Grand Torino,2020-10-22,8382,11141
-Holly Cairns,2020-10-22,6230,6624
-Verona Murphy,2020-10-22,9695,10089
-Michael McNamara,2020-10-22,10268,12139
-Support to Dr Martin Feeley,2020-10-22,1148,1363
-Gript Media,2020-10-22,23732,29533
-Precious Life,2020-10-22,28302,28248
-Yellow Vest Ireland Tipperary,2020-10-22,732,757
-Yellow Vest Ireland Clare,2020-10-22,685,708
-Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Alan Kelly",2020-10-02,2447,2602
 "Alan Kelly",2020-10-08,2461,2618
 "Alan Kelly",2020-10-11,2464,2622
@@ -285,6 +273,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Dolores Cahill",2020-10-19,8397,10769
 "Dolores Cahill",2020-10-20,8484,10884
 "Dolores Cahill",2020-10-21,8577,10997
+"Dolores Cahill",2020-10-22,8680,11132
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -406,6 +395,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Grand Torino",2020-10-17,8299,11046
 "Grand Torino",2020-10-18,8301,11049
 "Grand Torino",2020-10-21,8362,11121
+"Grand Torino",2020-10-22,8382,11141
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -442,6 +432,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Gript Media",2020-10-14,23574,29339
 "Gript Media",2020-10-16,23666,29447
 "Gript Media",2020-10-19,23705,29501
+"Gript Media",2020-10-22,23732,29533
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -480,6 +471,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Holly Cairns",2020-10-06,6094,6482
 "Holly Cairns",2020-10-13,6150,6541
 "Holly Cairns",2020-10-17,6180,6573
+"Holly Cairns",2020-10-22,6230,6624
 "Imelda Munster",2020-10-04,4297,4399
 "Imelda Munster",2020-10-09,4298,4400
 "Imelda Munster",2020-10-15,4298,4401
@@ -764,6 +756,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Michael Martin",2020-10-19,23083,23424
 "Michael McNamara",2020-10-16,8670,10284
 "Michael McNamara",2020-10-21,9654,11365
+"Michael McNamara",2020-10-22,10268,12139
 "Micheal Martin",2020-10-03,22913,23249
 "Micheal Martin",2020-10-09,23003,23346
 "Micheal Martin",2020-10-15,23050,23397
@@ -833,6 +826,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Niall McConnell",2020-10-18,4938,5198
 "Niall McConnell",2020-10-20,5205,5585
 "Niall McConnell",2020-10-21,5302,5711
+"Niall McConnell",2020-10-22,5366,5799
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "Norma Foley",2020-10-12,5866,6394
@@ -1004,6 +998,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Pippa Hackett",2020-10-10,1273,1344
 "Pippa Hackett",2020-10-13,1274,1346
 "Pippa Hackett",2020-10-19,1290,1363
+"Precious Life",2020-10-22,28302,28248
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
@@ -1152,6 +1147,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Support to Dr Martin Feeley",2020-10-16,1040,1254
 "Support to Dr Martin Feeley",2020-10-18,1067,1282
 "Support to Dr Martin Feeley",2020-10-21,1118,1334
+"Support to Dr Martin Feeley",2020-10-22,1148,1363
 "The Irexiteer",2020-09-19,730,750
 "The Irexiteer",2020-09-24,735,755
 "The Irexiteer",2020-09-29,736,757
@@ -1190,6 +1186,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Verona Murphy",2020-10-18,9591,9979
 "Verona Murphy",2020-10-21,9678,10072
 "Verona Murphy",2020-10-21,9677,10070
+"Verona Murphy",2020-10-22,9695,10089
 "Vincent P. Martin",2020-10-13,764,835
 "Vincent P. Martin",2020-10-20,764,838
 "Violet-Anne Wynne",2020-10-04,2784,2906
@@ -1241,6 +1238,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Yellow Vest Ireland Armagh",2020-10-12,708,722
 "Yellow Vest Ireland Armagh",2020-10-19,708,720
 "Yellow Vest Ireland Armagh",2020-10-21,710,723
+"Yellow Vest Ireland Armagh",2020-10-22,709,722
 "Yellow Vest Ireland Carlow",2020-10-09,1192,1234
 "Yellow Vest Ireland Carlow",2020-10-12,1193,1235
 "Yellow Vest Ireland Carlow",2020-10-19,1194,1236
@@ -1251,6 +1249,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Yellow Vest Ireland Clare",2020-10-12,650,674
 "Yellow Vest Ireland Clare",2020-10-16,660,683
 "Yellow Vest Ireland Clare",2020-10-20,675,698
+"Yellow Vest Ireland Clare",2020-10-22,685,708
 "Yellow Vest Ireland Cork",2020-10-09,1183,1247
 "Yellow Vest Ireland Cork",2020-10-13,1185,1249
 "Yellow Vest Ireland Cork",2020-10-17,1189,1252
@@ -1303,6 +1302,7 @@ Yellow Vest Ireland Armagh,2020-10-22,709,722
 "Yellow Vest Ireland Sligo",2020-10-12,876,911
 "Yellow Vest Ireland Sligo",2020-10-15,876,910
 "Yellow Vest Ireland Sligo",2020-10-20,877,911
+"Yellow Vest Ireland Tipperary",2020-10-22,732,757
 "Yellow Vest Ireland Tyrone",2020-10-12,545,553
 "Yellow Vest Ireland Tyrone",2020-10-19,549,557
 "Yellow Vest Ireland Waterford",2020-10-09,861,889
