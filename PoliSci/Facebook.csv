@@ -6,43 +6,8 @@
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
-Niall McConnell,2020-10-23,5483,5974 
-TheLiberal.ie,2020-10-23,543745,549782
-Grand Torino,2020-10-23,8398,11157
-Freedom Watch Ireland,2020-10-23,743,767
-Irexit,2020-10-23,773,791
-The Irexiteer,2020-10-23,763,787
-Verona Murphy,2020-10-23,9701,10097
-Mattie McGrath,2020-10-23,4714,4823
-Roderic O'Gorman,2020-10-23,2577,2686
-Dolores Cahill,2020-10-23,8775,11236
-Yellow Vest Ireland Kilkenny,2020-10-23,948,1021
-Yellow Vest Ireland Wexford,2020-10-23,3682,4171
-Yellow Vest Ireland Waterford,2020-10-23,882,909
-Yellow Vest Ireland Cork,2020-10-23,1200,1263
-Yellow Vest Ireland Galway,2020-10-23,2594,2865
 "Alan Kelly",2020-10-02,2447,2602
 "Alan Kelly",2020-10-08,2461,2618
-Mairead McGuinness,2020-10-23,11834,12235
-Dannie Healy-Rae,2020-10-23,13041,15110
-Fintan Warfield,2020-10-23,3989, 4066
-Christopher O'Sullivan,2020-10-23,3584,3811
-Simon Coveney,2020-10-23,13747,14439
-Yellow Vest Ireland Cork,2020-10-23,1200,1263
-Leo Varadkar,2020-10-23,89791,105582
-Yellow Vest Ireland Mayo,2020-10-23,1798,1882
-Elisha McCallion,2020-10-23,4034,4259
-Ben Gilroy,2020-10-23,8118,9065
-Ciaran Cuffe,2020-10-23,2077,2135
-Daily Ireland,2020-10-23,30379,32272
-Richard Bruton,2020-10-23,4670,4817
-Donegal Sinn Fein,2020-10-23,11786,11881
-Stephen Donnelly,2020-10-23,9981,10189
-Eamon Ryan,2020-10-23,7736,7955
-Anti-Corruption Ireland,2020-10-23,2240,2660
-Catherine Murphy,2020-10-23,10066,9874
-Sean Kelly,2020-10-23,6992,7211
-Simon Harris,2020-10-23,30629,32358
 "Alan Kelly",2020-10-11,2464,2622
 "Alan Kelly",2020-10-17,2476,2637
 "Alan Kelly",2020-10-22,2488,2652
@@ -60,6 +25,7 @@ Simon Harris,2020-10-23,30629,32358
 "Anti-Corruption Ireland",2020-10-07,1257,1304
 "Anti-Corruption Ireland",2020-10-11,1269,1319
 "Anti-Corruption Ireland",2020-10-17,2050,2358
+"Anti-Corruption Ireland",2020-10-23,2240,2660
 "Anti-Globalism Ireland",2020-09-15,507,513
 "Anti-Globalism Ireland",2020-09-19,511,517
 "Anti-Globalism Ireland",2020-09-24,513,519
@@ -116,6 +82,7 @@ Simon Harris,2020-10-23,30629,32358
 "Ben Gilroy",2020-10-09,8037,8983
 "Ben Gilroy",2020-10-13,8058,9004
 "Ben Gilroy",2020-10-17,8075,9020
+"Ben Gilroy",2020-10-23,8118,9065
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
 "Ben Scallan",2020-09-21,12721,13462
@@ -184,6 +151,7 @@ Simon Harris,2020-10-23,30629,32358
 "Catherine Murphy",2020-10-06,10080,9889
 "Catherine Murphy",2020-10-11,10076,9885
 "Catherine Murphy",2020-10-17,10068,9877
+"Catherine Murphy",2020-10-23,10066,9874
 "Charlie McConalogue",2020-09-26,8818,8917
 "Charlie McConalogue",2020-10-01,8827,8930
 "Charlie McConalogue",2020-10-05,8832,8941
@@ -191,9 +159,11 @@ Simon Harris,2020-10-23,30629,32358
 "Charlie McConalogue",2020-10-14,8846,8964
 "Charlie McConalogue",2020-10-20,8867,8990
 "Christopher O'Sullivan",2020-10-17,3550,3773
+"Christopher O'Sullivan",2020-10-23,3584,3811
 "Ciaran Cuffe",2020-10-11,2067,2122
 "Ciaran Cuffe",2020-10-13,2068,2124
 "Ciaran Cuffe",2020-10-17,2071,2128
+"Ciaran Cuffe",2020-10-23,2077,2135
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -246,16 +216,18 @@ Simon Harris,2020-10-23,30629,32358
 "Corruption Awareness Ireland",2020-10-19,27031,34112
 "Corruption Awareness Ireland",2020-10-20,27239,34489
 "Corruption Awareness Ireland",2020-10-21,27414,34719
-Corruption Awareness Ireland,2020-10-22,28051,35636
+"Corruption Awareness Ireland",2020-10-22,28051,35636
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
 "Daily Ireland",2020-10-06,30385,32279
 "Daily Ireland",2020-10-11,30381,32279
 "Daily Ireland",2020-10-17,30380,32275
+"Daily Ireland",2020-10-23,30379,32272
 "Dannie Healy-Rae",2020-10-06,12891,14869
 "Dannie Healy-Rae",2020-10-11,12936,14926
 "Dannie Healy-Rae",2020-10-17,12982,15003
+"Dannie Healy-Rae",2020-10-23,13041,15110
 "Danny Healy Rae",2020-09-12,NA,14764
 "Danny Healy Rae",2020-09-16,12849,14791
 "Danny Healy Rae",2020-09-20,12852,14795
@@ -310,6 +282,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Dolores Cahill",2020-10-20,8484,10884
 "Dolores Cahill",2020-10-21,8577,10997
 "Dolores Cahill",2020-10-22,8680,11132
+"Dolores Cahill",2020-10-23,8775,11236
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -317,6 +290,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Donegal Sinn Fein",2020-10-06,11750,11846
 "Donegal Sinn Fein",2020-10-11,11769,11864
 "Donegal Sinn Fein",2020-10-17,11773,11868
+"Donegal Sinn Fein",2020-10-23,11786,11881
 "Dublin Republicans Against Fascism",2020-10-22,977,1032
 "Eamon O Cuiv",2020-10-03,8180,8273
 "Eamon O Cuiv",2020-10-08,8184,8276
@@ -331,6 +305,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Eamon Ryan",2020-10-07,7711,7927
 "Eamon Ryan",2020-10-11,7721,7937
 "Eamon Ryan",2020-10-17,7726,7945
+"Eamon Ryan",2020-10-23,7736,7955
 "Eileen Flynn",2020-10-13,2014,2132
 "Eileen Flynn",2020-10-19,2040,2162
 "Eirigi",2020-09-20,29268,29129
@@ -347,6 +322,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Elisa O'Donovan",2020-10-20,1350,1453
 "Elisha McCallion",2020-10-11,4032,4254
 "Elisha McCallion",2020-10-17,4034,4257
+"Elisha McCallion",2020-10-23,4034,4259
 "Erin McGreehan",2020-10-13,1164,1255
 "Erin McGreehan",2020-10-19,1217,1310
 "Fianna Fail",2020-09-12,NA,41665
@@ -373,6 +349,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Fine Gael",2020-10-20,40299,41764
 "Fintan Warfield",2020-10-11,3989,4066
 "Fintan Warfield",2020-10-17,3989,4066
+"Fintan Warfield",2020-10-23,3989,4066
 "Fiona O'Loughlin",2020-10-11,8588,8710
 "Fiona O'Loughlin",2020-10-18,8591,8715
 "Frankie Daly",2020-09-20,5679,5854
@@ -385,6 +362,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Frankie Daly",2020-10-20,5751,5924
 "Freedom Watch Ireland",2020-10-15,735,758
 "Freedom Watch Ireland",2020-10-20,738,761
+"Freedom Watch Ireland",2020-10-23,743,767
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
 "Gary Gannon",2020-09-26,3148,3253
@@ -432,6 +410,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Grand Torino",2020-10-18,8301,11049
 "Grand Torino",2020-10-21,8362,11121
 "Grand Torino",2020-10-22,8382,11141
+"Grand Torino",2020-10-23,8398,11157
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -553,6 +532,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Irexit",2020-10-11,750,765
 "Irexit",2020-10-16,763,779
 "Irexit",2020-10-21,769,786
+"Irexit",2020-10-23,773,791
 "Irish Freedom Party",2020-09-12,NA,13848
 "Irish Freedom Party",2020-09-15,13246,13896
 "Irish Freedom Party",2020-09-19,13279,13928
@@ -663,6 +643,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Leo Varadkar",2020-10-16,89651,105374
 "Leo Varadkar",2020-10-17,89659,105386
 "Leo Varadkar",2020-10-17,89680,105413
+"Leo Varadkar",2020-10-23,89791,105582
 "Liadh Ni Riada",2020-10-01,8532,8620
 "Liadh Ni Riada",2020-10-06,8529,8619
 "Liadh Ni Riada",2020-10-12,8526,8616
@@ -698,6 +679,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Mairead McGuinness",2020-10-08,11818,12202
 "Mairead McGuinness",2020-10-12,11828,12214
 "Mairead McGuinness",2020-10-17,11834,12224
+"Mairead McGuinness",2020-10-23,11834,12235
 "Maria Walsh",2020-09-24,12167,12473
 "Maria Walsh",2020-09-28,12164,12471
 "Maria Walsh",2020-10-03,12167,12474
@@ -761,6 +743,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Mattie McGrath",2020-10-11,4653,4762
 "Mattie McGrath",2020-10-16,4657,4766
 "Mattie McGrath",2020-10-21,4682,4791
+"Mattie McGrath",2020-10-23,4714,4823
 "Maurice Quinlivan",2020-09-20,9751,9834
 "Maurice Quinlivan",2020-09-25,9752,9837
 "Maurice Quinlivan",2020-09-29,9750,9834
@@ -863,6 +846,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Niall McConnell",2020-10-20,5205,5585
 "Niall McConnell",2020-10-21,5302,5711
 "Niall McConnell",2020-10-22,5366,5799
+"Niall McConnell",2020-10-23,5483,5974
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "Norma Foley",2020-10-12,5866,6394
@@ -1066,6 +1050,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Richard Bruton",2020-10-08,4662,4811
 "Richard Bruton",2020-10-10,4666,4814
 "Richard Bruton",2020-10-17,4667,4815
+"Richard Bruton",2020-10-23,4670,4817
 "Robert Troy",2020-09-18,4622,4856
 "Robert Troy",2020-09-21,4623,4862
 "Robert Troy",2020-09-26,4626,4865
@@ -1078,6 +1063,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Roderic O'Gorman",2020-10-07,2532,2630
 "Roderic O'Gorman",2020-10-12,2540,2638
 "Roderic O'Gorman",2020-10-19,2562,2668
+"Roderic O'Gorman",2020-10-23,2577,2686
 "Roisin Garvey",2020-10-13,1169,1248
 "Roisin Garvey",2020-10-13,1169,1248
 "Roisin Garvey",2020-10-19,1174,1252
@@ -1119,12 +1105,14 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Sean Kelly",2020-10-05,6772,6960
 "Sean Kelly",2020-10-10,6775,6962
 "Sean Kelly",2020-10-17,6772,6959
+"Sean Kelly",2020-10-23,6992,7211
 "Simon Coveney",2020-09-22,13682,14361
 "Simon Coveney",2020-09-26,13691,14373
 "Simon Coveney",2020-10-01,13697,14380
 "Simon Coveney",2020-10-07,13705,14388
 "Simon Coveney",2020-10-10,13714,14397
 "Simon Coveney",2020-10-17,13733,14418
+"Simon Coveney",2020-10-23,13747,14439
 "Simon Harris",2020-09-15,28808,30084
 "Simon Harris",2020-09-21,28915,30200
 "Simon Harris",2020-09-22,28930,30221
@@ -1134,6 +1122,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Simon Harris",2020-10-07,29369,30698
 "Simon Harris",2020-10-10,29426,30758
 "Simon Harris",2020-10-17,30339,32015
+"Simon Harris",2020-10-23,30629,32358
 "Sinn Fein",2020-09-12,NA,246657
 "Sinn Fein",2020-09-17,220017,246736
 "Sinn Fein",2020-09-20,220073,246847
@@ -1179,6 +1168,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Stephen Donnelly",2020-10-09,9927,10120
 "Stephen Donnelly",2020-10-10,9934,10128
 "Stephen Donnelly",2020-10-17,9958,10156
+"Stephen Donnelly",2020-10-23,9981,10189
 "Support to Dr Martin Feeley",2020-10-14,989,1200
 "Support to Dr Martin Feeley",2020-10-16,1040,1254
 "Support to Dr Martin Feeley",2020-10-18,1067,1282
@@ -1191,6 +1181,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "The Irexiteer",2020-10-07,757,778
 "The Irexiteer",2020-10-15,758,779
 "The Irexiteer",2020-10-20,762,785
+"The Irexiteer",2020-10-23,763,787
 "TheLiberal.ie",2020-09-15,542526,548189
 "TheLiberal.ie",2020-09-19,542777,548481
 "TheLiberal.ie",2020-09-24,542827,548544
@@ -1199,6 +1190,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "TheLiberal.ie",2020-10-08,542631,548395
 "TheLiberal.ie",2020-10-13,542502,548233
 "TheLiberal.ie",2020-10-20,542279,548015
+"TheLiberal.ie",2020-10-23,543745,549782
 "Thomas Pringle",2020-10-04,5135,5261
 "Thomas Pringle",2020-10-11,5172,5300
 "Thomas Pringle",2020-10-18,5187,5316
@@ -1223,6 +1215,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Verona Murphy",2020-10-21,9678,10072
 "Verona Murphy",2020-10-21,9677,10070
 "Verona Murphy",2020-10-22,9695,10089
+"Verona Murphy",2020-10-23,9701,10097
 "Vincent P. Martin",2020-10-13,764,835
 "Vincent P. Martin",2020-10-20,764,838
 "Violet-Anne Wynne",2020-10-04,2784,2906
@@ -1289,6 +1282,8 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Yellow Vest Ireland Cork",2020-10-09,1183,1247
 "Yellow Vest Ireland Cork",2020-10-13,1185,1249
 "Yellow Vest Ireland Cork",2020-10-17,1189,1252
+"Yellow Vest Ireland Cork",2020-10-23,1200,1263
+"Yellow Vest Ireland Cork",2020-10-23,1200,1263
 "Yellow Vest Ireland Derry",2020-10-10,736,760
 "Yellow Vest Ireland Derry",2020-10-16,729,753
 "Yellow Vest Ireland Derry",2020-10-20,728,752
@@ -1297,6 +1292,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Yellow Vest Ireland Galway",2020-10-09,2591,2864
 "Yellow Vest Ireland Galway",2020-10-13,2591,2864
 "Yellow Vest Ireland Galway",2020-10-20,2591,2864
+"Yellow Vest Ireland Galway",2020-10-23,2594,2865
 "Yellow Vest Ireland Kerry",2020-10-10,649,661
 "Yellow Vest Ireland Kerry",2020-10-16,647,659
 "Yellow Vest Ireland Kerry",2020-10-20,647,659
@@ -1304,6 +1300,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Yellow Vest Ireland Kilkenny",2020-10-10,871,945
 "Yellow Vest Ireland Kilkenny",2020-10-16,879,953
 "Yellow Vest Ireland Kilkenny",2020-10-20,920,993
+"Yellow Vest Ireland Kilkenny",2020-10-23,948,1021
 "Yellow Vest Ireland Laois",2020-10-09,597,611
 "Yellow Vest Ireland Laois",2020-10-13,594,608
 "Yellow Vest Ireland Laois",2020-10-13,656,680
@@ -1322,6 +1319,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Yellow Vest Ireland Mayo",2020-10-10,1792,1877
 "Yellow Vest Ireland Mayo",2020-10-14,1793,1878
 "Yellow Vest Ireland Mayo",2020-10-17,1793,1878
+"Yellow Vest Ireland Mayo",2020-10-23,1798,1882
 "Yellow Vest Ireland Meath",2020-10-10,789,813
 "Yellow Vest Ireland Meath",2020-10-12,792,817
 "Yellow Vest Ireland Meath",2020-10-19,812,837
@@ -1344,6 +1342,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Yellow Vest Ireland Waterford",2020-10-09,861,889
 "Yellow Vest Ireland Waterford",2020-10-12,862,889
 "Yellow Vest Ireland Waterford",2020-10-19,864,891
+"Yellow Vest Ireland Waterford",2020-10-23,882,909
 "Yellow Vest Ireland Westmeath",2020-10-09,2515,2610
 "Yellow Vest Ireland Westmeath",2020-10-12,2512,2607
 "Yellow Vest Ireland Westmeath",2020-10-19,2530,2624
@@ -1351,6 +1350,7 @@ Corruption Awareness Ireland,2020-10-22,28051,35636
 "Yellow Vest Ireland Wexford",2020-10-12,3686,4176
 "Yellow Vest Ireland Wexford",2020-10-17,3684,4173
 "Yellow Vest Ireland Wexford",2020-10-21,3684,4173
+"Yellow Vest Ireland Wexford",2020-10-23,3682,4171
 "Yellow Vest Ireland Wicklow",2020-10-10,953,1028
 "Yellow Vest Ireland Wicklow",2020-10-16,963,1036
 "Yellow Vest Ireland Wicklow",2020-10-20,963,1037
