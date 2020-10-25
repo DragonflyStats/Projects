@@ -4,13 +4,6 @@
 "Aengus O Snodaigh",2020-10-13,8583,8726
 "Aengus O Snodaigh",2020-10-19,8586,8733
 "Aengus O Snodaigh",2020-10-24,8594,8744
-Dolores Cahill,2020-10-25,8899,11393
-Yellow Vest Ireland,2020-10-25,50142,56087
-Corruption Awareness Ireland,2020-10-25,30063,38787
-Michael McNamara,2020-10-25,11696,14005
-Support to Dr Martin Feeley,2020-10-25,1218,1435
-Niall McConnell,2020-10-25,5751,6394
-Save Leitrim,2020-10-25,5277,5487
 "Alan Kelly",2020-09-19,2433,2581
 "Alan Kelly",2020-09-24,2437,2587
 "Alan Kelly",2020-09-27,2439,2590
@@ -75,10 +68,7 @@ Save Leitrim,2020-10-25,5277,5487
 "Aontu",2020-10-20,11149,11675
 "Aontu Laois",2020-10-15,410,430
 "Aontu Laois",2020-10-20,417,437
-Aontu Limerick,2020-10-25,1425,1457
-Cathal Crowe,2020-10-25,4664,4936
-Tracey O'Mahony,2020-10-25,5072,5279
-Irish Freedom Party,2020-10-25,14035,14716
+"Aontu Limerick",2020-10-25,1425,1457
 "Barry Andrews",2020-10-25,1430,1464
 "Barry Ward",2020-10-10,2332,2353
 "Barry Ward",2020-10-15,2333,2354
@@ -160,6 +150,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Cathal Berry",2020-10-24,2833,3119
 "Cathal Byrne",2020-10-18,3184,3314
 "Cathal Byrne",2020-10-24,3239,3370
+"Cathal Crowe",2020-10-25,4664,4936
 "Catherine Martin",2020-09-19,2957,3135
 "Catherine Martin",2020-09-22,2954,3134
 "Catherine Martin",2020-09-26,2960,3145
@@ -243,6 +234,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Corruption Awareness Ireland",2020-10-21,27414,34719
 "Corruption Awareness Ireland",2020-10-22,28051,35636
 "Corruption Awareness Ireland",2020-10-24,29722,38079
+"Corruption Awareness Ireland",2020-10-25,30063,38787
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -311,6 +303,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Dolores Cahill",2020-10-22,8680,11132
 "Dolores Cahill",2020-10-23,8775,11236
 "Dolores Cahill",2020-10-24,8837,11315
+"Dolores Cahill",2020-10-25,8899,11393
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -606,6 +599,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Irish Freedom Party",2020-10-19,13814,14483
 "Irish Freedom Party",2020-10-20,13838,14508
 "Irish Freedom Party",2020-10-21,13856,14527
+"Irish Freedom Party",2020-10-25,14035,14716
 "Irish Freedom Party",2020-10-25,13956,14636
 "Irish Inquiry",2020-10-09,3562,5048
 "Irish Inquiry",2020-10-14,3683,5204
@@ -839,6 +833,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Michael McNamara",2020-10-21,9654,11365
 "Michael McNamara",2020-10-22,10268,12139
 "Michael McNamara",2020-10-24,11440,13658
+"Michael McNamara",2020-10-25,11696,14005
 "Micheal Martin",2020-10-03,22913,23249
 "Micheal Martin",2020-10-09,23003,23346
 "Micheal Martin",2020-10-15,23050,23397
@@ -912,6 +907,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Niall McConnell",2020-10-22,5366,5799
 "Niall McConnell",2020-10-23,5483,5974
 "Niall McConnell",2020-10-24,5644,6209
+"Niall McConnell",2020-10-25,5751,6394
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "Norma Foley",2020-10-12,5866,6394
@@ -1183,6 +1179,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Save Leitrim",2020-10-08,5273,5483
 "Save Leitrim",2020-10-13,5273,5483
 "Save Leitrim",2020-10-20,5273,5483
+"Save Leitrim",2020-10-25,5277,5487
 "Sean Kelly",2020-09-24,6769,6957
 "Sean Kelly",2020-09-28,6770,6958
 "Sean Kelly",2020-10-01,6771,6959
@@ -1265,6 +1262,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Support to Dr Martin Feeley",2020-10-21,1118,1334
 "Support to Dr Martin Feeley",2020-10-22,1148,1363
 "Support to Dr Martin Feeley",2020-10-24,1205,1420
+"Support to Dr Martin Feeley",2020-10-25,1218,1435
 "The Irexiteer",2020-09-19,730,750
 "The Irexiteer",2020-09-24,735,755
 "The Irexiteer",2020-09-29,736,757
@@ -1300,6 +1298,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Tracey O'Mahony",2020-10-17,4638,4810
 "Tracey O'Mahony",2020-10-19,4746,4934
 "Tracey O'Mahony",2020-10-24,5016,5219
+"Tracey O'Mahony",2020-10-25,5072,5279
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
 "Verona Murphy",2020-10-09,9331,9702
@@ -1358,6 +1357,7 @@ Irish Freedom Party,2020-10-25,14035,14716
 "Yellow Vest Ireland",2020-10-17,49230,55025
 "Yellow Vest Ireland",2020-10-20,49524,55353
 "Yellow Vest Ireland",2020-10-22,49710,55566
+"Yellow Vest Ireland",2020-10-25,50142,56087
 "Yellow Vest Ireland Armagh",2020-10-10,709,723
 "Yellow Vest Ireland Armagh",2020-10-12,708,722
 "Yellow Vest Ireland Armagh",2020-10-19,708,720
