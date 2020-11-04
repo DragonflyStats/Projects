@@ -1,18 +1,20 @@
 "Number","Name","Link","Group1","Group2","Website","Text","Finished"
-151,Exponential Distribution Worked Example 7,.....,.....,....,....,....,....
-150,Exponential Distribution Worked Example 6,.....,.....,....,....,....,....
-149,Exponential Distribution Worked Example 4,.....,.....,....,....,....,....
-148,Exponential Distribution Worked Example 5,.....,.....,....,....,....,....
+153,Exponential Distribution Worked Example 10,"https://studio.youtube.com/video/PLRM8J7T-HQ/edit","Probability Distributions","Exponential",....,....,....
+152,Standard Errors for Inference Procedures for Single Sample Proportions,"https://studio.youtube.com/video/HsGYqjlQJhM/edit",Inference Procedures,Confidence Intervals,....,....,....
+151,Exponential Distribution Worked Example 7,"https://studio.youtube.com/video/PLpaMVcuCz0/edit","Probability Distributions","Exponential",....,....,....
+150,Exponential Distribution Worked Example 6,.....,"Probability Distributions","Exponential",....,....,....
+149,Exponential Distribution Worked Example 4,.....,"Probability Distributions","Exponential",....,....,....
+148,Exponential Distribution Worked Example 5,"https://studio.youtube.com/video/ZCTmBGGdYLM/","Probability Distributions","Exponential",....,....,....
 147,Hypothesis Test For Difference In Means (Small Samples): Worked Example,.....,.....,....,....,....,....
 146,Hypothesis test of the mean of a small sample: Worked example,.....,.....,....,....,....,....
-145,Conditional Probability: Worked Example (Faulty Resistors),.....,.....,....,....,....,....
-144,Conditional Probability: Worked Example,.....,.....,....,....,....,....
+145,Conditional Probability: Worked Example (Faulty Resistors),.....,Probability,"Conditional Probability",....,....,....
+144,Conditional Probability: Worked Example,.....,Probability,"Conditional Probability",....,....,....
 143,Normal Distribution Worked Example (The Long Jumper),.....,.....,....,....,....,....
 142,Dixon Q-Test For Outliers (Introduction to Hypothesis Testing),.....,.....,....,....,....,....
-141,"Survival Analysis : Nelson Aalen Estimates","...","...","...","...","...","..."
-140,"Survival Analysis :  Kaplan Meier Estimates (Lightbulb Example)","...","...","...","...","...","..."
-139,"Survival Models:  Cox Regression Models","...","...","...","...","...","..."
-138,"Survival Analysis: Tutorial Question on Maximum Likelihood Estimates","...","...","...","...","...","..."
+141,"Survival Analysis : Nelson Aalen Estimates","...","Survival Analysis","...","...","...","..."
+140,"Survival Analysis :  Kaplan Meier Estimates (Lightbulb Example)","...","Survival Analysis","...","...","...","..."
+139,"Survival Models:  Cox Regression Models","...","Survival Analysis","...","...","...","..."
+138,"Survival Analysis: Tutorial Question on Maximum Likelihood Estimates","...","Survival Analysis","...","...","...","..."
 137,"Gamma Distribution: Summations of Gamma Random Variables","""https://studio.youtube.com/video/YmCZVldzBYc/edit"" -Gamma Distribution: Summations of Gamma Random Variables","Probability Distributions","Gamma","","",""
 136,"Gamma Distributions  - Relationship with the  Chi Square Distribution (Worked Example)","""https://studio.youtube.com/video/ApP4tecHPTY/edit"" -Gamma Distributions - Relationship with the Chi Square Distribution (Worked Example)","Probability Distributions","Gamma","","",""
 135,"Gamma Distribution: Cumulant Generating Function","""https://studio.youtube.com/video/zgR496RKmMA/edit"" -Gamma Distribution: Cumulant Generating Function","Probability Distributions","Gamma","WEBSITE","TEXT","FINISHED"
@@ -27,7 +29,7 @@
 126,"Sampling Distributions for Sample Variances (Chi-square distribution)","""https://studio.youtube.com/video/IP-utpvJ0Fw/edit"" -Sampling Distributions for Sample Variances (Chi-square distribution)","...","...","","",""
 125,"Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)","""https://studio.youtube.com/video/UPstIv-FX8E/edit"" -Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)","...","...","","",""
 124,"Conditional Probability  - Worked Example (Workplace Accidents)","""https://studio.youtube.com/video/FpS8UzBeyZ0/edit""","Probability","Conditional Probability","","",""
-123,"Probability Generating Functions - Worked Example","""https://studio.youtube.com/video/XeH6mcpKgSg/edit"" -Probability Generating Functions - Worked Example","...","...","","",""
+123,"Probability Generating Functions - Worked Example","https://studio.youtube.com/video/XeH6mcpKgSg/edit","...","...","","",""
 122,"Confidence Intervals - Worked Example","""https://studio.youtube.com/video/TvXgJTXZPT4/edit"" -Confidence Intervals - Worked Example","Inference","Confidence Intervals","","",""
 121,"Exponential Distribution - Worked Example (with Binomial Distribution)","""https://studio.youtube.com/video/4eJLAXt7ZCE/edit"" -Exponential Distribution - Worked Example (with Binomial Distribution)","...","...","","",""
 120,"Width of Confidence Intervals - Worked Example","""https://studio.youtube.com/video/xhjl3Xkjm_Q/edit"" -Width of Confidence Intervals - Worked Example","...","...","","",""
@@ -41,31 +43,31 @@
 112,"Binomial Distribution - Worked Example","https://studio.youtube.com/video/UVtEAF2Yilo/edit","Probability Distributions","Binomial","","",""
 111,"Counting Problems - Worked Example","""https://studio.youtube.com/video/Z7RHQTulw9k/edit"" -Counting Problems - Worked Example","...","...","","",""
 110,"Normal Approximation of the Binomial Distribution - Worked Example","""https://studio.youtube.com/video/olxga5ArlSs/edit""","Probability Distributions","Approximation","WEBSITE","TEXT","FINISHED"
-109,"Difference of Normal Random Variables - Worked Example","""https://studio.youtube.com/video/JPQN-VNEeek/edit"" -Difference of Normal Random Variables - Worked Example","...","...","","",""
+109,"Difference of Normal Random Variables - Worked Example","https://studio.youtube.com/video/JPQN-VNEeek/edit","Probability Distributions","...","","",""
 108,"Joint Distribution of Random Variables  - Health Science Example","""https://studio.youtube.com/video/M6iKFS8FaLg/edit"" -Joint Distribution of Random Variables - Health Science Example","...","...","WEBSITE","TEXT","FINISHED"
 107,"Central Limit Theorem & Normal Distribution - Worked Example","""https://studio.youtube.com/video/NPaRc10SwHw/edit"" -Central Limit Theorem &amp; Normal Distribution - Worked Example","...","...","","",""
 106,"Continuous Random Variables - Conditional Probability Worked Example","""https://studio.youtube.com/video/uaYXtM0lHRY/edit"" -Continuous Random Variables - Conditional Probability Worked Example","Random Variables","Continuous Random Variables","WEBSITE","TEXT","FINISHED"
 105,"Binomial Distribution - Worked Example (Claims Distribution as a Discrete Random Variable)","""https://studio.youtube.com/video/AT_XDqGfKAc/edit"" -Binomial Distribution - Worked Example ( Claims Distribution as a Discrete Random Variable)","Probability Distributions","Binomial","","",""
 104,"Dixon Q Test for Outliers - Worked Example","""https://studio.youtube.com/video/oz1SO-96ByQ/edit"" -Dixon Q Test for Outliers - Worked Example","Inference","Outliers","","",""
-103,"Dixon Q Test for Outliers","""https://studio.youtube.com/video/CS_Qgx-IX-8/edit"" -Dixon Q Test for Outliers","...","...","","",""
+103,"Dixon Q Test for Outliers","https://studio.youtube.com/video/CS_Qgx-IX-8/edit","...","...","","",""
 102,"Mixed Probability Distributions","""https://studio.youtube.com/video/24PPecNK7NI/edit"" -Mixed Probability Distributions","...","...","WEBSITE","TEXT","FINISHED"
-101,"Conditional Probability -Disease Detection Worked Example","""https://studio.youtube.com/video/qZ53wmnPvr4/edit"" -Conditional Probability -Disease Detection Worked Example","Probability","Conditional Probability","","",""
+101,"Conditional Probability -Disease Detection Worked Example","https://studio.youtube.com/video/qZ53wmnPvr4/edit","Probability","Conditional Probability","","",""
 100,"Exponential Random Variables   - Distribution of the Minima","https://studio.youtube.com/video/HbKGfxMsX5U/edit","...","...","","",""
-99,"Median of A Random Variable","""https://studio.youtube.com/video/nWEQlEqjLeQ/edit"" -Median of A Random Variable","...","...","","",""
+99,"Median of A Random Variable","https://studio.youtube.com/video/nWEQlEqjLeQ/edit","...","...","","",""
 98,"Random Variables - Mixed Probability Distributions","""https://studio.youtube.com/video/rJGWcfBD-EI/edit"" -Random Variables - Mixed Probability Distributions","...","...","","",""
 97,"Random Variables: Cumulative Distributions Functions of Maxima and Minima","""https://studio.youtube.com/video/aceFFyJCT4k/edit"" -Random Variables: Cumulative Distributions Functions of Maxima and Minima","...","...","","",""
 96,"Normal Approximation of the Binomial Distribution - Worked Example","""https://studio.youtube.com/video/F_xpB6DOFoI/edit"" -Normal Approximation of the Binomial Distribution - Worked Example","Probability Distributions","Approximation","","",""
 95,"Combinations of Normal Random Variables - Worked Example","""https://studio.youtube.com/video/8GduowZed24/edit"" -Combinations of Normal Random Variables - Worked Example","...","...","","",""
 94,"Simulation of Random Numbers - Checking Validity","https://studio.youtube.com/video/MfbM21osnvw/edit","...","...","","",""
 93,"Hypergeometric Distribution - Worked Example","https://studio.youtube.com/video/ay-Y_SUslP8/edit","...","...","","",""
-92,"Lognormal Distribution - Worked Example","""https://studio.youtube.com/video/OAuLfxP6uuM/edit"" -Lognormal Distribution - Worked Example","...","...","WEBSITE","TEXT","FINISHED"
-91,"Lognormal Distribution - Worked Example","""https://studio.youtube.com/video/fCpnksxKPEY/edit"" -Lognormal Distribution - Worked Example","...","...","WEBSITE","TEXT","FINISHED"
-90,"Binomial Distribution - Worked Example","""https://studio.youtube.com/video/dRNSiG2Hzfo/edit"" -Binomial Distribution - Worked Example","Probability Distributions","Binomial","","",""
+92,"Lognormal Distribution - Worked Example","https://studio.youtube.com/video/OAuLfxP6uuM/edit","...","...","WEBSITE","TEXT","FINISHED"
+91,"Lognormal Distribution - Worked Example","https://studio.youtube.com/video/fCpnksxKPEY/edit","...","...","WEBSITE","TEXT","FINISHED"
+90,"Binomial Distribution - Worked Example","https://studio.youtube.com/video/dRNSiG2Hzfo/edit","Probability Distributions","Binomial","","",""
 89,"Conditional Probability - Worked Example","","Probability","Conditional Probability","","",""
-88,"Probability - Independent Events (Packs of Cards Example)","""https://studio.youtube.com/video/wUdQxLWuqWo/edit"" -Conditional Probability - Worked Example  Probability - Independent Events (Packs of Cards Example)","...","...","WEBSITE","TEXT","FINISHED"
-87,"Counting Problems - Random Selection of Defective Bulbs","""https://studio.youtube.com/video/WTRbqDWK72o/edit"" -Counting Problems - Random Selection of Defective Bulbs","...","...","","",""
+88,"Probability - Independent Events (Packs of Cards Example)","https://studio.youtube.com/video/wUdQxLWuqWo/edit","Probability","...","WEBSITE","TEXT","FINISHED"
+87,"Counting Problems - Random Selection of Defective Bulbs","https://studio.youtube.com/video/WTRbqDWK72o/edit","Probability","Counting Problems","","",""
 86,"Sample Variance Ratios & The F Distribution","https://studio.youtube.com/video/TF5VLv7Djtw/edit","...","...","","",""
-85,"Conditional Probability Worked Example","""https://studio.youtube.com/video/bYhL91gDqEM/edit"" -Conditional Probability Worked Example","Probability","Conditional Probability","","",""
+85,"Conditional Probability Worked Example","https://studio.youtube.com/video/bYhL91gDqEM/edit","Probability","Conditional Probability","","",""
 84,"Probability - Worked Example (Actuarial Job Offer Example)","""https://studio.youtube.com/video/3meIYXJBA2o/edit"" -Probability - Worked Example (Actuarial Job Offer Example)","...","...","","",""
 83,"Rules of Probability - Mutually Exclusive and Independent Events","""https://studio.youtube.com/video/g666XEXVpL0/edit"" -Rules of Probability - Mutually Exclusive and Independent Events","...","...","","",""
 82,"Random Number Simulation -  Simulation of Binomial Random Variable","""https://studio.youtube.com/video/Aqz3hY5ssPM/edit"" -Random Number Simulation - Simulation of Binomial Random Variable","...","...","WEBSITE","TEXT","FINISHED"
@@ -83,7 +85,7 @@
 70,"Normal Approximation of the Binomial Distribution","https://studio.youtube.com/video/-LNQylZnjW4/edit","Probability Distributions","Approximation","","",""
 69,"Negative Binomial Distribution","""https://studio.youtube.com/video/P1-FtKFbrtU/edit"" -Negative Binomial Distribution","...","...","WEBSITE","TEXT","FINISHED"
 68,"Moment Generating Functions","""https://studio.youtube.com/video/MC_fQpdmOsU/edit"" -Moment Generating Functions","...","...","","",""
-67,"Properties of Random Variables (Law of Total Variance)","""https://studio.youtube.com/video/I-2iuiWwg8g/edit"" -Properties of Random Variables (Law of Total Variance)","...","...","","",""
+67,"Properties of Random Variables (Law of Total Variance)","https://studio.youtube.com/video/I-2iuiWwg8g/edit","...","...","","",""
 66,"Gamma Random Variables - Normal Approximation","https://studio.youtube.com/video/dh8gpsM7HpM/edit","...","...","","",""
 65,"Expected Value of Sample Variance","""https://studio.youtube.com/video/droO8NykzY8/edit"" -Expected Value of Sample Variance","Inference","...","","",""
 64,"Confidence Intervals for Poisson Random Variables","https://studio.youtube.com/video/mRQgWDoHCXg/edit","Inference","Confidence Intervals","WEBSITE","TEXT","FINISHED"
@@ -102,13 +104,13 @@
 51,"Cumulant Generating Functions","https://studio.youtube.com/video/_x3tv15tHgE/edit","...","...","WEBSITE","TEXT","FINISHED"
 50,"Conditional Probability Worked Exampe (Newpaper Competition Part A)","""https://studio.youtube.com/video/0DTm_7fF2pE/edit"" -Conditional Probability Worked Exampe (Newpaper Competition Part A)","Probability","Conditional Probability","","",""
 49,"Conditional Probability Worked Example - Newspaper Competition (Part B)","""https://studio.youtube.com/video/O7oQPhFt07w/edit"" -Conditional Probability Worked Example - Newspaper Competition (Part B)","...","...","","",""
-48,"Counting Problems  -   Birds Legs","""https://studio.youtube.com/video/o2W64UlLKPE/edit"" -Counting Problems - Birds Legs","...","...","","",""
+48,"Counting Problems - Birds Legs","""https://studio.youtube.com/video/o2W64UlLKPE/edit"" -Counting Problems - Birds Legs","...","...","","",""
 47,"Compound Poisson Distribution","https://studio.youtube.com/video/xo6HyZtlx9Y/edit","Probability Distributions","Compund","","",""
-46,"Compound Poisson Distribution - Worked Example","""https://studio.youtube.com/video/xcR6kfGi1vI/edit"" -Compound Poisson Distribution - Worked Example","Probability Distributions","Compund","","",""
+46,"Compound Poisson Distribution - Worked Example","https://studio.youtube.com/video/xcR6kfGi1vI/edit","Probability Distributions","Compund","","",""
 45,"Binomial Distribution - Probability and Moment Generating Functions","https://studio.youtube.com/video/3HvDczHuj4Y/edit","Probability Distributions","Binomial","","",""
-44,"Normal Distribution  - Worked Example Part B","https://studio.youtube.com/video/YidXgNUxSw4/edit","Probability Distributions","Normal","","",""
-43,"Linear Regression -Part B","""https://studio.youtube.com/video/URzJiQP9E3c/edit"" -Linear Regression Part B","...","...","","",""
-42,"Normal Distribution  - Worked Example (Part A)","""https://studio.youtube.com/video/bIh0bdymY78/edit"" -Normal Distribution - Worked Example (Part A)","Probability Distributions","Normal","","",""
+44,"Normal Distribution - Worked Example Part B","https://studio.youtube.com/video/YidXgNUxSw4/edit","Probability Distributions","Normal","","",""
+43,"Linear Regression - Part B","""https://studio.youtube.com/video/URzJiQP9E3c/edit"" -Linear Regression Part B","...","...","","",""
+42,"Normal Distribution  - Worked Example (Part A)","https://studio.youtube.com/video/bIh0bdymY78/edit","Probability Distributions","Normal","","",""
 41,"Confidence Intervals for Proportions","https://studio.youtube.com/video/oj9oo6aIVG4/edit","Inference","Confidence Intervals","","",""
 40,"Spearman Rank correlation (no tied ranks)","https://studio.youtube.com/video/q-W39HC8F6M/edit","...","...","","",""
 39,"Probability Question  - Ace of Diamonds","https://studio.youtube.com/video/jH0YFR15w3c/edit","...","...","","",""
@@ -116,7 +118,7 @@
 37,"Computing the Z score","https://studio.youtube.com/video/HJ4DR79XRa8/edit","...","...","","",""
 36,"Two Sample Proportion Hypothesis Test","https://studio.youtube.com/video/d97sSFMXSLQ/edit","...","...","","",""
 35,"Working With Small Samples","""https://studio.youtube.com/video/5DY3j8nw5sg/edit"" -Working With Small Samples","...","...","","",""
-34,"Confidence Interval for Single Sample Proportion","""https://studio.youtube.com/video/tz3Kyp7yUSQ/edit"" -Confidence Interval for Single Sample Proportion","Inference","Confidence Intervals","","",""
+34,"Confidence Interval for Single Sample Proportion","https://studio.youtube.com/video/tz3Kyp7yUSQ/edit","Inference","Confidence Intervals","","",""
 33,"Hypothesis Testing For Proportions","""https://studio.youtube.com/video/fzIRjiSoW2o/edit"" -Hypothesis Testing For Proportions","...","...","","",""
 32,"Computing Sample Variance","""https://studio.youtube.com/video/5F0jSp1bOEU/edit"" -Computing Sample Variance","...","...","","",""
 31,"Contingency Tables","""https://studio.youtube.com/video/LyEyrwP00-I/edit"" -Contingency Tables","...","...","","",""
