@@ -4,80 +4,6 @@
 "Aengus O Snodaigh",2020-10-13,8583,8726
 "Aengus O Snodaigh",2020-10-19,8586,8733
 "Aengus O Snodaigh",2020-10-24,8594,8744
-Dolores Cahill,2020-11-07,9476,12275
-Corruption Awareness Ireland,2020-11-07,31976,41185
-Niall McConnell,2020-11-07,6841,8208
-Fiona O'Loughlin,2020-11-07,8609,8744
-Liadh Ni Riada,2020-11-07,8522,8613
-Sorca Clarke,2020-11-08,3606,3755
-Richard Boyd Barrett,2020-11-08,15449,17153
-Ronan Mullen,2020-11-08,3583,3623
-Iona Institute,2020-11-08,7686,7823
-Robert Troy,2020-11-08,4696,4958
-Cathal Berry,2020-11-09,2850,3136
-Ireland for Trump,2020-11-09,1191,1329
-Irexit,2020-11-09,787,807
-Workers Party,2020-11-09,8942,9242
-Sarah Kiely,2020-11-09,2089,2253
-Aontu Laois,2020-11-09,437,465
-Aontu Mayo,2020-11-09,449,475
-Aontu Cork,2020-11-09,1940,2024
-Anna Daly Aontu,2020-11-09,431,458
-Vincent P. Martin,2020-11-09,768,844
-Green Party,2020-11-09,17354,18121
-Eamon Ryan,2020-11-09,7746,7966 
-Micheal Martin,2020-11-09,23447,23823
-Fine Gael,2020-11-09,40419,41907 
-Aontu Limerick,2020-11-09,551,580
-Yellow Vest Ireland Laois,2020-11-09,604,618
-Yellow Vest Ireland Clare,2020-11-09,726,750
-Yellow Vest Ireland Tipperary,2020-11-09,752,777
-Yellow Vest Ireland Offaly,2020-11-09,268,279
-Yellow Vest Ireland Westmeath,2020-11-09,2648,2741
-Norma Foley,2020-11-09,5971,6524
-Maurice Quinlivan,2020-11-09,9978,10085
-Mick Wallace,2020-11-08,29707,31361
-Luke 'Ming' Flanagan,2020-11-08,67177,67544
-Dolores Cahill,2020-11-08,9507,12336
-Yellow Vest Ireland Cavan,2020-11-08,739,761
-Yellow Vest Ireland Monaghan,2020-11-08,851,874
-Freedom Watch Ireland,2020-11-08,743,767
-Becky Kealy Aontu,2020-11-08,2793,2886
-Thomas Pringle,2020-11-08,5350,5490
-Frankie Daly,2020-11-08,5759,5936
-Elisa O'Donovan,2020-11-08,1353,1459
-Kerry Sinn Fein,2020-11-08,1729,1829
-Clare Daly,2020-11-08,23327,24725
-Fianna Fail,2020-11-08,40813,42107
-Cathal Byrne,2020-11-08,3310,3452
-Ben Gilroy,2020-11-08,8218,9162
-Catherine Martin,2020-11-08,3023,3235
-Sinn Fein Dun Laoghaire,2020-11-08,1475,1508
-Mary Seery Kearney,2020-11-08,421,473
-Kathleen Funchion,2020-11-08,7025,7238
-Social Democrats,2020-11-08,10539,10739
-Gary Gannon,2020-11-08,3196,3302
-Hildegarde Naughton,2020-11-08,2973,3054
-Ossian Smyth,2020-11-07,729,792
-Michael Healy-Rae,2020-11-07,21887,26096
-Denis Naughten,2020-11-07,9967,10361
-People Before Profit,2020-11-07,57303,59513
-Saoirse McHugh,2020-11-07,5303,5428
-The Irexiteer,2020-11-07,771,796
-Cathal Crowe,2020-11-07,4694,4976
-Limerick Greens,2020-11-07,757,784
-Patrick Costello,2020-11-07,733,775
-Claire Byrne,2020-11-07,1038,1055
-NP Mayo,2020-11-07,583,591
-Verona Murphy,2020-11-07,9932,10354
-James Browne,2020-11-07,6527,6712
-Paul Kehoe,2020-11-07,7318,7398
-Ireland for Trump,2020-11-07,1189,1327
-NP Sligo,2020-11-07,729,738
-NP Carlow,2020-11-07,526,533
-NP Longford,2020-11-07,563,573
-NP Galway,2020-11-07,538,559
-NP Wexford,2020-11-07,527,535
 "Aengus O Snodaigh",2020-10-29,8595,8745
 "Aengus O Snodaigh",2020-11-04,8602,8755
 "AFA Ireland",2020-10-26,17057,17738
@@ -196,6 +122,7 @@ NP Wexford,2020-11-07,527,535
 "Becky Kealy Aontu",2020-10-20,2782,2871
 "Becky Kealy Aontu",2020-10-26,2788,2878
 "Becky Kealy Aontu",2020-11-02,2786,2878
+"Becky Kealy Aontu",2020-11-08,2793,2886
 "Ben Gilroy",2020-09-12,NA,8860
 "Ben Gilroy",2020-09-15,7930,8879
 "Ben Gilroy",2020-09-19,7951,8899
@@ -212,6 +139,7 @@ NP Wexford,2020-11-07,527,535
 "Ben Gilroy",2020-10-23,8118,9065
 "Ben Gilroy",2020-10-29,8177,9122
 "Ben Gilroy",2020-11-01,8189,9135
+"Ben Gilroy",2020-11-08,8218,9162
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
 "Ben Scallan",2020-09-21,12721,13462
@@ -291,8 +219,10 @@ NP Wexford,2020-11-07,527,535
 "Cathal Byrne",2020-10-18,3184,3314
 "Cathal Byrne",2020-10-24,3239,3370
 "Cathal Byrne",2020-11-02,3295,3435
+"Cathal Byrne",2020-11-08,3310,3452
 "Cathal Crowe",2020-10-25,4664,4936
 "Cathal Crowe",2020-11-01,4682,4962
+"Cathal Crowe",2020-11-07,4694,4976
 "Catherine Martin",2020-09-19,2957,3135
 "Catherine Martin",2020-09-22,2954,3134
 "Catherine Martin",2020-09-26,2960,3145
@@ -304,6 +234,7 @@ NP Wexford,2020-11-07,527,535
 "Catherine Martin",2020-10-25,3005,3207
 "Catherine Martin",2020-11-02,3018,3226
 "Catherine Martin",2020-11-02,3018,3226
+"Catherine Martin",2020-11-08,3023,3235
 "Catherine Murphy",2020-10-01,10080,9889
 "Catherine Murphy",2020-10-06,10080,9889
 "Catherine Murphy",2020-10-11,10076,9885
@@ -339,6 +270,7 @@ NP Wexford,2020-11-07,527,535
 "Claire Byrne",2020-10-18,1041,1056
 "Claire Byrne",2020-10-24,1039,1055
 "Claire Byrne",2020-11-01,1039,1056
+"Claire Byrne",2020-11-07,1038,1055
 "Clare Daly",2020-09-16,21260,22197
 "Clare Daly",2020-09-21,21330,22291
 "Clare Daly",2020-09-24,21348,22316
@@ -351,6 +283,7 @@ NP Wexford,2020-11-07,527,535
 "Clare Daly",2020-10-24,23250,246262
 "Clare Daly",2020-11-01,23313,24705
 "Clare Daly",2020-11-01,23314,24710
+"Clare Daly",2020-11-08,23327,24725
 "Clare Fine Gael",2020-10-30,917,932
 "Clare Fine Gael",2020-11-04,917,932
 "Connolly Youth Movement",2020-10-05,9354,9819
@@ -406,6 +339,7 @@ NP Wexford,2020-11-07,527,535
 "Corruption Awareness Ireland",2020-11-03,31534,40642
 "Corruption Awareness Ireland",2020-11-04,31647,40768
 "Corruption Awareness Ireland",2020-11-06,31963,41165
+"Corruption Awareness Ireland",2020-11-07,31976,41185
 "Daily Ireland",2020-09-22,30355,32242
 "Daily Ireland",2020-09-26,30378,32268
 "Daily Ireland",2020-10-01,30383,32275
@@ -445,6 +379,7 @@ NP Wexford,2020-11-07,527,535
 "Denis Naughten",2020-10-18,9826,10177
 "Denis Naughten",2020-10-24,9852,10215
 "Denis Naughten",2020-11-01,9960,10346
+"Denis Naughten",2020-11-07,9967,10361
 "Direct Democracy Ireland",2020-10-10,22434,21308
 "Direct Democracy Ireland",2020-10-15,9650,9435
 "Direct Democracy Ireland",2020-10-20,9648,9433
@@ -497,6 +432,8 @@ NP Wexford,2020-11-07,527,535
 "Dolores Cahill",2020-11-04,9343,12021
 "Dolores Cahill",2020-11-05,9406,12138
 "Dolores Cahill",2020-11-06,9442,12208
+"Dolores Cahill",2020-11-07,9476,12275
+"Dolores Cahill",2020-11-08,9507,12336
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -558,6 +495,7 @@ NP Wexford,2020-11-07,527,535
 "Elisa O'Donovan",2020-10-25,1354,1458
 "Elisa O'Donovan",2020-11-02,1354,1459
 "Elisa O'Donovan",2020-11-02,1354,1459
+"Elisa O'Donovan",2020-11-08,1353,1459
 "Elisha McCallion",2020-10-11,4032,4254
 "Elisha McCallion",2020-10-17,4034,4257
 "Elisha McCallion",2020-10-23,4034,4259
@@ -582,6 +520,7 @@ NP Wexford,2020-11-07,527,535
 "Fianna Fail",2020-10-25,40799,42090
 "Fianna Fail",2020-11-02,40812,42102
 "Fianna Fail",2020-11-02,40812,42102
+"Fianna Fail",2020-11-08,40813,42107
 "Fine Gael",2020-09-12,NA,41348
 "Fine Gael",2020-09-15,40000,41386
 "Fine Gael",2020-09-19,40016,41408
@@ -608,6 +547,7 @@ NP Wexford,2020-11-07,527,535
 "Fiona O'Loughlin",2020-10-18,8591,8715
 "Fiona O'Loughlin",2020-10-24,8591,8722
 "Fiona O'Loughlin",2020-11-01,8607,8742
+"Fiona O'Loughlin",2020-11-07,8609,8744
 "Frankie Daly",2020-09-20,5679,5854
 "Frankie Daly",2020-09-26,5689,5864
 "Frankie Daly",2020-10-01,5690,5864
@@ -618,11 +558,13 @@ NP Wexford,2020-11-07,527,535
 "Frankie Daly",2020-10-20,5751,5924
 "Frankie Daly",2020-10-25,5755,5929
 "Frankie Daly",2020-11-02,5759,5933
+"Frankie Daly",2020-11-08,5759,5936
 "Freedom Watch Ireland",2020-10-15,735,758
 "Freedom Watch Ireland",2020-10-20,738,761
 "Freedom Watch Ireland",2020-10-23,743,767
 "Freedom Watch Ireland",2020-10-27,744,768
 "Freedom Watch Ireland",2020-11-02,744,768
+"Freedom Watch Ireland",2020-11-08,743,767
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
 "Gary Gannon",2020-09-26,3148,3253
@@ -632,6 +574,7 @@ NP Wexford,2020-11-07,527,535
 "Gary Gannon",2020-10-18,3172,3278
 "Gary Gannon",2020-10-24,3186,3292
 "Gary Gannon",2020-11-01,3195,3301
+"Gary Gannon",2020-11-08,3196,3302
 "Gerard Craughwell",2020-10-11,1313,1336
 "Gerard Craughwell",2020-10-16,1313,1336
 "Gerard Craughwell",2020-10-21,1316,1340
@@ -766,6 +709,7 @@ NP Wexford,2020-11-07,527,535
 "Hildegarde Naughton",2020-10-19,2967,3049
 "Hildegarde Naughton",2020-10-25,2970,3052
 "Hildegarde Naughton",2020-11-02,2973,3054
+"Hildegarde Naughton",2020-11-08,2973,3054
 "Holly Cairns",2020-09-12,NA,6339
 "Holly Cairns",2020-09-15,5963,6343
 "Holly Cairns",2020-09-19,5999,6380
@@ -809,6 +753,7 @@ NP Wexford,2020-11-07,527,535
 "Iona Institute",2020-10-25,7682,7814
 "Iona Institute",2020-10-31,7683,7820
 "Iona Institute",2020-11-06,7687,7826
+"Iona Institute",2020-11-08,7686,7823
 "Ireland for Trump",2020-09-27,744,752
 "Ireland for Trump",2020-10-02,749,758
 "Ireland for Trump",2020-10-04,751,760
@@ -821,6 +766,7 @@ NP Wexford,2020-11-07,527,535
 "Ireland for Trump",2020-11-01,840,857
 "Ireland for Trump",2020-11-02,1004,1079
 "Ireland for Trump",2020-11-04,1163,1299
+"Ireland for Trump",2020-11-07,1189,1327
 "Ireland Says No",2020-10-02,74225,72889
 "Ireland Says No",2020-10-05,74267,72954
 "Ireland Says No",2020-10-10,74461,73157
@@ -907,6 +853,7 @@ NP Wexford,2020-11-07,527,535
 "Jackie Cahill",2020-10-21,8591,8760
 "Jackie Cahill",2020-10-27,8605,8777
 "Jackie Cahill",2020-11-04,8627,8799
+"James Browne",2020-11-07,6527,6712
 "Jennifer Whitmore",2020-09-20,3360,3589
 "Jennifer Whitmore",2020-09-24,3360,3589
 "Jennifer Whitmore",2020-09-27,3368,3600
@@ -953,6 +900,7 @@ NP Wexford,2020-11-07,527,535
 "Kathleen Funchion",2020-10-25,6960,7167
 "Kathleen Funchion",2020-11-02,6980,7188
 "Kathleen Funchion",2020-11-02,6980,7188
+"Kathleen Funchion",2020-11-08,7025,7238
 "Kerry Sinn Fein",2020-09-26,1722,1821
 "Kerry Sinn Fein",2020-10-01,1725,1824
 "Kerry Sinn Fein",2020-10-06,1727,1827
@@ -961,6 +909,7 @@ NP Wexford,2020-11-07,527,535
 "Kerry Sinn Fein",2020-10-25,1731,1831
 "Kerry Sinn Fein",2020-11-02,1728,1828
 "Kerry Sinn Fein",2020-11-02,1728,1828
+"Kerry Sinn Fein",2020-11-08,1729,1829
 "Kieran O'Donnell",2020-09-27,2779,2836
 "Kieran O'Donnell",2020-10-02,2790,2848
 "Kieran O'Donnell",2020-10-07,2799,2857
@@ -1006,8 +955,10 @@ NP Wexford,2020-11-07,527,535
 "Liadh Ni Riada",2020-10-19,8529,8619
 "Liadh Ni Riada",2020-10-25,8528,8619
 "Liadh Ni Riada",2020-11-01,8525,8616
+"Liadh Ni Riada",2020-11-07,8522,8613
 "Limerick Greens",2020-10-25,757,784
 "Limerick Greens",2020-11-01,757,784
+"Limerick Greens",2020-11-07,757,784
 "Lucinda Creighton",2020-10-04,4869,4800
 "Lucinda Creighton",2020-10-15,4867,4798
 "Lucinda Creighton",2020-10-21,4865,4795
@@ -1035,6 +986,7 @@ NP Wexford,2020-11-07,527,535
 "Luke 'Ming' Flanagan",2020-11-01,67219,67585
 "Luke 'Ming' Flanagan",2020-11-02,67212,67576
 "Luke 'Ming' Flanagan",2020-11-04,67196,67565
+"Luke 'Ming' Flanagan",2020-11-08,67177,67544
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
 "Lynn Boylan",2020-10-12,3198,3289
@@ -1131,6 +1083,7 @@ NP Wexford,2020-11-07,527,535
 "Mary Seery Kearney",2020-10-19,405,455
 "Mary Seery Kearney",2020-10-25,411,461
 "Mary Seery Kearney",2020-11-02,417,467
+"Mary Seery Kearney",2020-11-08,421,473
 "Matt Carthy",2020-09-20,30167,31643
 "Matt Carthy",2020-09-25,30224,31701
 "Matt Carthy",2020-09-29,30253,31732
@@ -1168,6 +1121,7 @@ NP Wexford,2020-11-07,527,535
 "Michael Healy-Rae",2020-10-18,20484,24153
 "Michael Healy-Rae",2020-10-24,20925,24812
 "Michael Healy-Rae",2020-11-01,21677,25836
+"Michael Healy-Rae",2020-11-07,21887,26096
 "Michael Lowry",2020-10-11,11773,12309
 "Michael Lowry",2020-10-16,11803,12348
 "Michael Lowry",2020-10-22,11827,12378
@@ -1206,7 +1160,7 @@ NP Wexford,2020-11-07,527,535
 "Micheal Martin",2020-10-21,23206,23574
 "Micheal Martin",2020-10-30,23325,23701
 "Micheal Martin",2020-11-05,23371,23747
-"Miche√°l Martin",2020-10-31,23338,23715
+"Miche·l Martin",2020-10-31,23338,23715
 "Mick Wallace",2020-09-12,NA,31265
 "Mick Wallace",2020-09-16,29658,31280
 "Mick Wallace",2020-09-19,29657,31278
@@ -1220,6 +1174,7 @@ NP Wexford,2020-11-07,527,535
 "Mick Wallace",2020-10-25,29672,32321
 "Mick Wallace",2020-10-26,29667,31316
 "Mick Wallace",2020-11-02,29699,31350
+"Mick Wallace",2020-11-08,29707,31361
 "National Party",2020-09-12,NA,8884
 "National Party",2020-09-15,8265,8895
 "National Party",2020-09-19,8278,8904
@@ -1294,6 +1249,7 @@ NP Wexford,2020-11-07,527,535
 "Niall McConnell",2020-11-04,6788,8140
 "Niall McConnell",2020-11-05,6805,8163
 "Niall McConnell",2020-11-06,6815,8175
+"Niall McConnell",2020-11-07,6841,8208
 "Norma Foley",2020-10-01,5841,6362
 "Norma Foley",2020-10-06,5846,6369
 "Norma Foley",2020-10-12,5866,6394
@@ -1303,6 +1259,7 @@ NP Wexford,2020-11-07,527,535
 "NP Carlow",2020-10-21,517,524
 "NP Carlow",2020-10-26,518,525
 "NP Carlow",2020-11-03,523,530
+"NP Carlow",2020-11-07,526,533
 "NP Cork",2020-09-15,589,603
 "NP Cork",2020-09-18,589,603
 "NP Cork",2020-09-21,589,603
@@ -1338,6 +1295,7 @@ NP Wexford,2020-11-07,527,535
 "NP Galway",2020-10-25,531,551
 "NP Galway",2020-11-02,537,557
 "NP Galway",2020-11-03,537,558
+"NP Galway",2020-11-07,538,559
 "NP Kerry",2020-09-20,536,547
 "NP Kerry",2020-09-25,536,547
 "NP Kerry",2020-09-29,537,548
@@ -1376,6 +1334,7 @@ NP Wexford,2020-11-07,527,535
 "NP Longford",2020-11-02,559,569
 "NP Longford",2020-11-02,559,569
 "NP Longford",2020-11-03,561,571
+"NP Longford",2020-11-07,563,573
 "NP Louth",2020-10-13,527,534
 "NP Louth",2020-10-19,524,531
 "NP Louth",2020-10-26,524,531
@@ -1389,6 +1348,7 @@ NP Wexford,2020-11-07,527,535
 "NP Mayo",2020-10-16,587,595
 "NP Mayo",2020-10-22,585,593
 "NP Mayo",2020-10-30,584,592
+"NP Mayo",2020-11-07,583,591
 "NP Sligo",2020-09-20,683,688
 "NP Sligo",2020-09-25,686,691
 "NP Sligo",2020-09-29,686,691
@@ -1404,6 +1364,7 @@ NP Wexford,2020-11-07,527,535
 "NP Sligo",2020-10-30,716,723
 "NP Sligo",2020-11-02,721,729
 "NP Sligo",2020-11-03,723,731
+"NP Sligo",2020-11-07,729,738
 "NP Westmeath",2020-09-20,535,545
 "NP Westmeath",2020-09-23,540,550
 "NP Westmeath",2020-09-26,541,551
@@ -1424,11 +1385,13 @@ NP Wexford,2020-11-07,527,535
 "NP Wexford",2020-10-26,522,530
 "NP Wexford",2020-10-30,522,530
 "NP Wexford",2020-11-03,526,534
+"NP Wexford",2020-11-07,527,535
 "Ossian Smyth",2020-10-04,710,769
 "Ossian Smyth",2020-10-11,712,772
 "Ossian Smyth",2020-10-18,713,775
 "Ossian Smyth",2020-10-24,712,774
 "Ossian Smyth",2020-11-01,716,779
+"Ossian Smyth",2020-11-07,729,792
 "Padraig Mac Lochlainn",2020-09-20,13694,14038
 "Padraig Mac Lochlainn",2020-09-25,13695,14043
 "Padraig Mac Lochlainn",2020-10-01,13713,14063
@@ -1458,6 +1421,7 @@ NP Wexford,2020-11-07,527,535
 "Patrick Costello",2020-10-18,728,770
 "Patrick Costello",2020-10-24,729,772
 "Patrick Costello",2020-11-01,731,773
+"Patrick Costello",2020-11-07,733,775
 "Patrick O'Donovan",2020-10-01,5177,5389
 "Patrick O'Donovan",2020-10-08,5185,5402
 "Patrick O'Donovan",2020-10-10,5187,5404
@@ -1465,6 +1429,7 @@ NP Wexford,2020-11-07,527,535
 "Patrick O'Donovan",2020-10-22,5192,5419
 "Patrick O'Donovan",2020-10-28,5191,5426
 "Patrick O'Donovan",2020-11-04,5188,5432
+"Paul Kehoe",2020-11-07,7318,7398
 "Paul Murphy",2020-09-20,43957,49297
 "Paul Murphy",2020-09-26,44449,49836
 "Paul Murphy",2020-10-02,44564,50080
@@ -1515,6 +1480,7 @@ NP Wexford,2020-11-07,527,535
 "People Before Profit",2020-10-19,56800,59006
 "People Before Profit",2020-10-24,56910,59130
 "People Before Profit",2020-11-01,57214,59424
+"People Before Profit",2020-11-07,57303,59513
 "Peter Burke",2020-09-26,4463,4619
 "Peter Burke",2020-10-02,4466,4624
 "Peter Burke",2020-10-08,4472,4631
@@ -1577,6 +1543,7 @@ NP Wexford,2020-11-07,527,535
 "Richard Boyd Barrett",2020-10-26,14897,16494
 "Richard Boyd Barrett",2020-10-26,14868,16461
 "Richard Boyd Barrett",2020-11-02,15193,16283
+"Richard Boyd Barrett",2020-11-08,15449,17153
 "Richard Bruton",2020-09-27,4661,4811
 "Richard Bruton",2020-10-02,4659,4807
 "Richard Bruton",2020-10-08,4662,4811
@@ -1597,6 +1564,7 @@ NP Wexford,2020-11-07,527,535
 "Robert Troy",2020-10-20,4659,4905
 "Robert Troy",2020-10-25,4673,4920
 "Robert Troy",2020-11-02,4695,4952
+"Robert Troy",2020-11-08,4696,4958
 "Roderic O'Gorman",2020-10-01,2524,2621
 "Roderic O'Gorman",2020-10-07,2532,2630
 "Roderic O'Gorman",2020-10-12,2540,2638
@@ -1631,12 +1599,14 @@ NP Wexford,2020-11-07,527,535
 "Ronan Mullen",2020-10-25,3581,3621
 "Ronan Mullen",2020-10-25,3582,3622
 "Ronan Mullen",2020-11-02,3584,3624
+"Ronan Mullen",2020-11-08,3583,3623
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-07,5305,5430
 "Saoirse McHugh",2020-10-13,5296,5420
 "Saoirse McHugh",2020-10-20,5297,5421
 "Saoirse McHugh",2020-10-24,5304,5428
 "Saoirse McHugh",2020-11-01,5305,5430
+"Saoirse McHugh",2020-11-07,5303,5428
 "Sarah Kiely",2020-10-25,2066,2224
 "Sarah Kiely",2020-11-02,2086,2247
 "Save Kerry",2020-09-24,324,346
@@ -1709,6 +1679,7 @@ NP Wexford,2020-11-07,527,535
 "Sinn Fein Dun Laoghaire",2020-10-18,1461,1493
 "Sinn Fein Dun Laoghaire",2020-10-24,1464,1496
 "Sinn Fein Dun Laoghaire",2020-11-01,1465,1497
+"Sinn Fein Dun Laoghaire",2020-11-08,1475,1508
 "SIPTU",2020-09-19,17686,18126
 "SIPTU",2020-09-24,17736,18266
 "SIPTU",2020-09-29,17755,18285
@@ -1732,12 +1703,14 @@ NP Wexford,2020-11-07,527,535
 "Social Democrats",2020-10-25,10527,10725
 "Social Democrats",2020-10-25,10537,10737
 "Social Democrats",2020-11-02,10539,10739
+"Social Democrats",2020-11-08,10539,10739
 "Sorca Clarke",2020-10-04,3537,3681
 "Sorca Clarke",2020-10-04,3572,3716
 "Sorca Clarke",2020-10-11,3550,3694
 "Sorca Clarke",2020-10-18,3562,3706
 "Sorca Clarke",2020-10-24,3566,3710
 "Sorca Clarke",2020-11-01,3600,3746
+"Sorca Clarke",2020-11-08,3606,3755
 "Stephen Donnelly",2020-09-24,9891,10079
 "Stephen Donnelly",2020-09-29,9896,10085
 "Stephen Donnelly",2020-10-03,9907,10097
@@ -1771,6 +1744,7 @@ NP Wexford,2020-11-07,527,535
 "The Irexiteer",2020-10-23,763,787
 "The Irexiteer",2020-10-27,765,789
 "The Irexiteer",2020-11-01,771,796
+"The Irexiteer",2020-11-07,771,796
 "TheLiberal.ie",2020-09-15,542526,548189
 "TheLiberal.ie",2020-09-19,542777,548481
 "TheLiberal.ie",2020-09-24,542827,548544
@@ -1787,6 +1761,7 @@ NP Wexford,2020-11-07,527,535
 "Thomas Pringle",2020-10-18,5187,5316
 "Thomas Pringle",2020-10-24,5284,5415
 "Thomas Pringle",2020-11-01,5317,5447
+"Thomas Pringle",2020-11-08,5350,5490
 "Tracey O'Mahony",2020-09-17,3806,3938
 "Tracey O'Mahony",2020-09-19,3826,3960
 "Tracey O'Mahony",2020-09-24,3891,4033
@@ -1821,6 +1796,7 @@ NP Wexford,2020-11-07,527,535
 "Verona Murphy",2020-10-29,9776,10185
 "Verona Murphy",2020-10-31,9804,10217
 "Verona Murphy",2020-11-05,9903,10321
+"Verona Murphy",2020-11-07,9932,10354
 "Vincent P. Martin",2020-10-13,764,835
 "Vincent P. Martin",2020-10-20,764,838
 "Vincent P. Martin",2020-10-27,766,840
@@ -1910,6 +1886,7 @@ NP Wexford,2020-11-07,527,535
 "Yellow Vest Ireland Cavan",2020-10-24,713,734
 "Yellow Vest Ireland Cavan",2020-10-30,724,746
 "Yellow Vest Ireland Cavan",2020-11-02,736,758
+"Yellow Vest Ireland Cavan",2020-11-08,739,761
 "Yellow Vest Ireland Clare",2020-10-09,644,668
 "Yellow Vest Ireland Clare",2020-10-12,650,674
 "Yellow Vest Ireland Clare",2020-10-16,660,683
@@ -2004,6 +1981,7 @@ NP Wexford,2020-11-07,527,535
 "Yellow Vest Ireland Monaghan",2020-10-25,838,860
 "Yellow Vest Ireland Monaghan",2020-10-30,839,862
 "Yellow Vest Ireland Monaghan",2020-11-06,839,862
+"Yellow Vest Ireland Monaghan",2020-11-08,851,874
 "Yellow Vest Ireland Offaly",2020-10-14,265,277
 "Yellow Vest Ireland Offaly",2020-10-18,265,277
 "Yellow Vest Ireland Offaly",2020-10-24,266,278
