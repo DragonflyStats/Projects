@@ -57,9 +57,104 @@
 "Accenture",2020-10-15,"5961772"
 "Accenture",2020-10-16,"5967348"
 "Accenture",2020-10-20,"5980541"
+Robert Moses' Kin,2020-12-08,42
+R4DS Online Learning Community,2020-12-08,43
+PIRO Technologies,2020-12-08,88
+Julialanguage,2020-12-08,122
+WydziaÅ‚ Matematyki i Nauk Informacyjnych Politechniki Warszawskiej,2020-12-08,133
+Cheng International Co Limited,2020-12-08,145
+Datamotus LLC,2020-12-08,147
+MI2DataLab,2020-12-08,154
+EdenRoc Sciences LLC,2020-12-08,169
+Talino Venture Labs,2020-12-08,180
+EuroPython,2020-12-08,189
+LeafLabs,2020-12-08,214
+Liberty Corporate Finance,2020-12-08,251
+Comunidad R Hispano,2020-12-08,262
+Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf,2020-12-08,273
+DataSeries,2020-12-08,290
+Pumas-AI Inc.,2020-12-08,384
+The R Foundation for Statistical Computing,2020-12-08,391
+87%,2020-12-08,429
+LeÅ›niewski Borkiewicz & Partners,2020-12-08,500
+Banach Technology Ltd,2020-12-08,527
+LPWAN,2020-12-08,528
+KNF Japan,2020-12-08,574
+Hiflylabs,2020-12-08,632
+Python posts you might have missed!,2020-12-08,637
+Swift Developer,2020-12-08,739
+OpenTeams,2020-12-08,817
+diwo,2020-12-08,875
+ESA BIC Hessen & Baden-WÃ¼rttemberg,2020-12-08,911
+cienciadedatos.net,2020-12-08,919
+Instigate Design,2020-12-08,941
+Tradus,2020-12-08,946
+goDutch,2020-12-08,1370
+SORACOM Inc.,2020-12-08,1444
+"JuliaCon 2020
+Your company",2020-12-08,1520
+The Julia Language,2020-12-08,1528
+NumFOCUS,2020-12-08,1667
+Dataport AÃ¶R,2020-12-08,1874
+Why R?,2020-12-08,2206
+Why R?,2020-12-08,2206
+National Physical Laboratory,2020-12-08,2208
+r-programming.org,2020-12-08,2222
+3radical,2020-12-08,2246
+Cognitect,2020-12-08,2618
+ABEJA Inc.,2020-12-08,2894
+Adopta Un Abuelo,2020-12-08,2957
+Pointwise Inc.,2020-12-08,2979
+Tech.Rocks,2020-12-08,3280
+Mango Solutions,2020-12-08,3365
+R-Ladies,2020-12-08,3369
+Julia Computing,2020-12-08,4202
+Edison Energy LLC,2020-12-08,4569
+R posts you might have missed!,2020-12-08,4573
+TiSmart,2020-12-08,4947
+Continuum Analytics,2020-12-08,5268
+RGF Executive Search Japan,2020-12-08,6440
+Berkman Klein Center for Internet & Society at Harvard University,2020-12-08,6586
+Plotly,2020-12-08,6752
+WHY CONSULTING,2020-12-08,7219
+First Consulting,2020-12-08,7233
+Business Science,2020-12-08,8173
+Unique Identification Authority of India (UIDAI),2020-12-08,8351
+Python Academy,2020-12-08,9182
+Quantopian Inc.,2020-12-08,9626
+INESC Technology and Science - Associate Laboratory,2020-12-08,12631
+Linux,2020-12-08,16228
+LoRa Alliance,2020-12-08,16286
+Institute of Physics,2020-12-08,20164
+Anaconda Inc.,2020-12-08,20619
+Visualitics,2020-12-08,20988
+MIT Computer Science and Artificial Intelligence Laboratory (CSAIL),2020-12-08,22403
+ING Poland,2020-12-08,24209
+National Physical Laboratory (NPL),2020-12-08,27006
+InsideSherpa,2020-12-08,36948
+Data Science Dojo,2020-12-08,56088
+RStudio PBC,2020-12-08,61761
+National Institute of Standards and Technology (NIST),2020-12-08,65401
+Machine Learning,2020-12-08,66419
+Data Visualization Society,2020-12-08,67838
+Python Software Foundation,2020-12-08,70245
+Python Software Foundation,2020-12-08,70245
+Sandia National Laboratories,2020-12-08,72681
+Machine Learning Mastery,2020-12-08,146874
+Data Science Academy,2020-12-08,155278
+MongoDB,2020-12-08,221091
+Kaggle,2020-12-08,269607
+Kaggle,2020-12-08,269607
+Towards Data Science,2020-12-08,272936
+Hitachi,2020-12-08,444946
+Slack,2020-12-08,518976
+Stack Overflow,2020-12-08,588625
+Coursera,2020-12-08,726546
+J.P. Morgan,2020-12-08,2550242
+McKinsey & Company,2020-12-08,3683714
 "Accenture",2020-10-20,"5979814"
 "Accenture",2020-10-20,"5979542"
-"Accenture",2020-10-20,"	5979889"
+"Accenture",2020-10-20,"5979889"
 "Accenture",2020-10-21,"5983862"
 "Accenture",2020-10-21,"5982981"
 "Accenture",2020-10-23,"5989711"
@@ -238,7 +333,7 @@
 "Amazon Science",2020-11-28,"27087"
 "Amazon Science",2020-12-03,"28105"
 "Amazon Science",2020-12-05,"28730"
-"American Statistical Association - ASA	",2020-10-20,"	6321"
+"American Statistical Association - ASA",2020-10-20,"6321"
 "Anaconda",2020-10-08,"19344"
 "Anaconda",2020-10-08,"19338"
 "Anaconda",2020-10-10,"19364"
@@ -295,8 +390,8 @@
 "Andaluc<ed>a Agrotech DIH",2020-10-18,"223"
 "Andaluc<ed>a Agrotech DIH",2020-10-21,"225"
 "Andaluc<ed>a Agrotech DIH",2020-10-22,"225"
-"Andalucía Agrotech DIH",2020-11-07,"235"
-"Andalucía Agrotech DIH",2020-11-21,"249"
+"AndalucÃ­a Agrotech DIH",2020-11-07,"235"
+"AndalucÃ­a Agrotech DIH",2020-11-21,"249"
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-20,"10911"
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-21,"10916"
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-23,"10941"
@@ -420,7 +515,7 @@
 "Berkman Klein Center for Internet & Society at Harvard University",2020-11-21,"6489"
 "Berkman Klein Center for Internet & Society at Harvard University",2020-11-30,"6553"
 "Berkman Klein Center for Internet & Society at Harvard University	",2020-10-21,"	6288"
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-11-30,"258"
+"Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf",2020-11-30,"258"
 "Bill & Melinda Gates Foundation",2020-10-25,"833834"
 "Bill & Melinda Gates Foundation",2020-10-28,"834944"
 "Bill & Melinda Gates Foundation",2020-10-30,"836021"
@@ -1200,7 +1295,7 @@
 "Datalytics",2020-12-03,"6625"
 "Datalytics",2020-12-05,"6637"
 "Datamotus LLC",2020-11-30,"147"
-"Dataport AöR",2020-11-30,"1830"
+"Dataport AÃ¶R",2020-11-30,"1830"
 "Dataquest.io",2020-10-09,"33686"
 "Dataquest.io",2020-10-13,"33723"
 "Dataquest.io",2020-10-16,"33756"
@@ -1483,10 +1578,10 @@
 "Ernst & Young",2020-10-13,"4540555"
 "Ernst & Young",2020-10-19,"4585283"
 "ESA BIC Hessen & Baden-Wurttemberg",2020-10-20,"885"
-"ESA BIC Hessen & Baden-Württemberg",2020-10-28,"894"
-"ESA BIC Hessen & Baden-Württemberg",2020-11-07,"901"
-"ESA BIC Hessen & Baden-Württemberg",2020-11-21,"906"
-"ESA BIC Hessen & Baden-Württemberg",2020-11-30,"910"
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-10-28,"894"
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-11-07,"901"
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-11-21,"906"
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-11-30,"910"
 "European Central Bank	",2020-10-20,"	251560"
 "European R Users Meeting",2020-11-02,"772"
 "European R Users Meeting",2020-11-02,"772"
@@ -2132,8 +2227,8 @@
 "Irish Defence Forces",2020-12-05,"8710"
 "Irish Defence Forces	",2020-10-20,"	8418"
 "Ita<fa> Unibanco",2020-10-22,"2122666"
-"Itaú Unibanco",2020-10-28,"2128442"
-"Itaú Unibanco",2020-11-07,"2138562"
+"ItaÃº Unibanco",2020-10-28,"2128442"
+"ItaÃº Unibanco",2020-11-07,"2138562"
 "IUCN",2020-10-20,"72739"
 "IUCN",2020-10-20,"	72727"
 "IUCN",2020-10-21,"72786"
@@ -3170,15 +3265,23 @@
 "Python Ireland",2020-11-28,"670"
 "Python Ireland",2020-12-03,"674"
 "Python Ireland",2020-12-05,"680"
-"Python Ireland 
-
-
-
+"Python Ireland 
+
+
+
+
+
+
+
          Your company",2020-11-21,"663"
-"Python Ireland 
-
-
-
+"Python Ireland 
+
+
+
+
+
+
+
          Your company",2020-11-21,"663"
 "Python Jobs",2020-11-07,"2553"
 "Python Jobs",2020-11-21,"2562"
@@ -3717,12 +3820,12 @@
 "SAS Partners",2020-10-06,"6766"
 "SAS Partners",2020-10-13,"6774"
 "SAS Partners",2020-10-18,"6784"
-"satRday - R conference - 14 March - Neuchâtel Switzerland",2020-11-07,"46"
-"satRday - R conference - 14 March - Neuchâtel Switzerland",2020-11-21,"46"
+"satRday - R conference - 14 March - NeuchÃ¢tel Switzerland",2020-11-07,"46"
+"satRday - R conference - 14 March - NeuchÃ¢tel Switzerland",2020-11-21,"46"
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-16,"665"
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-20,"670"
-"Secretaría de Economía y Trabajo",2020-10-28,"686"
-"Secretaría de Economía y Trabajo",2020-11-07,"698"
+"SecretarÃ­a de EconomÃ­a y Trabajo",2020-10-28,"686"
+"SecretarÃ­a de EconomÃ­a y Trabajo",2020-11-07,"698"
 "Sedicii",2020-11-07,"493"
 "Sedicii",2020-11-21,"507"
 "Senseforth.ai",2020-10-20,"14831"
@@ -4311,8 +4414,8 @@
 "UCD Careers Network",2020-10-24,"3077"
 "UCD Careers Network",2020-10-28,"3109"
 "UCD Careers Network",2020-11-21,"3286"
-"UCD Netsoc – UCD's Internet and Computer Science Society",2020-12-03,"225"
-"UCD Netsoc – UCD's Internet and Computer Science Society",2020-12-05,"226"
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2020-12-03,"225"
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2020-12-05,"226"
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2020-10-16,"184"
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2020-10-18,"188"
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2020-10-21,"193"
