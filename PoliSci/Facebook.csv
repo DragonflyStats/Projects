@@ -1,61 +1,5 @@
 "Name","Date","Likes","Followers"
 "Aengus O Snodaigh",2020-10-04,8563,8699
-Aontu Sligo-Leitrim,2020-12-15,502,531
-Niall McConnell,2020-12-16,7143,8617
-Connolly Youth Movement,2020-12-16,9662,10159
-Iona Institute,2020-12-16,7726,7872
-Labour Tipperary,2020-12-16,490,517
-Eva Elizabeth Dowling,2020-12-16,449,479
-Precious Life,2020-12-16,28593,28607
-Irish Freedom Party,2020-12-16,15046,15777
-Lucinda Creighton,2020-12-16,4849,4782
-Yellow Vest Ireland Cavan,2020-12-16,796,819
-Yellow Vest Ireland Clare,2020-12-16,793,823
-Yellow Vest Ireland Laois,2020-12-16,607,620
-Yellow Vest Ireland Limerick,2020-12-16,819,841
-Yellow Vest Ireland Louth,2020-12-16,1379,1418
-Aontu Laois,2020-12-15,504,535
-Aontu Limerick,2020-12-15,577,614
-Aontu Mayo,2020-12-15,484,519
-Aontu Connacht,2020-12-15,838,883
-Rebel Politico,2020-12-15,2843,2981
-Kerry Sinn Fein,2020-12-15,1745,1846
-Anti-Austerity Anti-Corruption Ireland,2020-12-16,633,640
-Yellow Vest Ireland Tyrone,2020-12-16,560,569
-Aontu Loch Garman,2020-12-16,979,1015
-Yellow Vest Ireland Antrim,2020-12-16,574,586
-Sinn Fein Dun Laoghaire,2020-12-16,1477,1510
-Labour Party,2020-12-16,29438,29867
-Direct Democracy Ireland,2020-12-16,9624,9417
-Yellow Vest Ireland Longford,2020-12-16,1098,1132
-Workers Party,2020-12-16,8973,9281
-NP Dublin,2020-12-16,1576,1664
-Neil O'Mahony,2020-12-16,7467,7593
-Aontu Louth,2020-12-16,256,262
-Yellow Vest Balbriggan,2020-12-16,904,910
-Yellow Vest Ireland Down,2020-12-16,517,529
-Yellow Vest Ireland Kilkenny,2020-12-16,1039,1122
-Yellow Vest Ireland Offaly,2020-12-16,270,281
-Yellow Vest Ireland Roscommon,2020-12-16,800,812
-Anti Eviction Taskforce Galway,2020-12-16,1407,1441
-Aontu Cork,2020-12-16,1941,2028
-Save Leitrim,2020-12-15,5318,5537
-Save Kerry,2020-12-15,336,361
-Elisa O'Donovan,2020-12-15,1382,1499
-Limerick Greens,2020-12-15,756,782
-Frankie Daly,2020-12-15,5759,5945
-Freedom Watch Ireland,2020-12-15,740,763
-Yellow Vest Ireland Kerry,2020-12-15,687,700
-Anti-Corruption Ireland,2020-12-15,3402,4591
-Corruption Awareness Ireland,2020-12-15,36903,49813
-Aontu,2020-12-15,11595,12130
-Dolores Cahill,2020-12-15,15692,30622
-Yellow Vest Ireland,2020-12-15,51241,57232
-Irish Freedom Party,2020-12-15,15043,15773
-Peadar Toibin,2020-12-15,11765,12125
-National Party,2020-12-15,8408,9033
-Fianna Fail,2020-12-15,40883,42194
-Fine Gael,2020-12-15,41085,42829
 "Aengus O Snodaigh",2020-10-09,8576,8718
 "Aengus O Snodaigh",2020-10-13,8583,8726
 "Aengus O Snodaigh",2020-10-19,8586,8733
@@ -78,6 +22,7 @@ Fine Gael,2020-12-15,41085,42829
 "AFA Ireland",2020-12-02,17141,17846
 "AFA Ireland",2020-12-04,17144,17851
 "AFA Ireland",2020-12-11,17150,17859
+"Aidan Davitt",2020-12-16,2369,2389
 "Aindrias Moynihan",2020-12-11,2007,2096
 "Alan Dillon",2020-12-11,5304,5552
 "Alan Farrell",2020-12-11,1420,1497
@@ -97,6 +42,7 @@ Fine Gael,2020-12-15,41085,42829
 "Alan Kelly",2020-12-06,2655,2845
 "Alan Kelly",2020-12-09,2658,2848
 "Alan Kelly",2020-12-11,2663,2853
+"Alice Mary Higgins",2020-12-16,2215,2269
 "Anna Daly Aontu",2020-10-15,421,446
 "Anna Daly Aontu",2020-10-20,423,448
 "Anna Daly Aontu",2020-10-26,424,449
@@ -116,11 +62,13 @@ Fine Gael,2020-12-15,41085,42829
 "Annie Hoey",2020-11-20,1312,1431
 "Annie Hoey",2020-11-29,1316,1435
 "Annie Hoey",2020-12-06,1326,1449
+"Anthony Lawlor",2020-12-16,2378,2375
 "Anti-Austerity Anti-Corruption Ireland",2020-11-09,632,639
 "Anti-Austerity Anti-Corruption Ireland",2020-11-17,632,639
 "Anti-Austerity Anti-Corruption Ireland",2020-11-25,633,640
 "Anti-Austerity Anti-Corruption Ireland",2020-12-02,633,640
 "Anti-Austerity Anti-Corruption Ireland",2020-12-08,633,640
+"Anti-Austerity Anti-Corruption Ireland",2020-12-16,633,640
 "Anti-Corruption Ireland",2020-09-26,1739,1896
 "Anti-Corruption Ireland",2020-10-02,1819,2006
 "Anti-Corruption Ireland",2020-10-17,2050,2358
@@ -138,6 +86,7 @@ Fine Gael,2020-12-15,41085,42829
 "Anti-Corruption Ireland",2020-12-03,3293,4452
 "Anti-Corruption Ireland",2020-12-08,3337,4513
 "Anti-Corruption Ireland",2020-12-12,3375,4557
+"Anti-Corruption Ireland",2020-12-15,3402,4591
 "Anti-Corruption Ireland Party",2020-09-18,1217,1262
 "Anti-Corruption Ireland Party",2020-09-23,1236,1281
 "Anti-Corruption Ireland Party",2020-09-27,1243,1288
@@ -180,6 +129,7 @@ Fine Gael,2020-12-15,41085,42829
 "Anti-Globalism Ireland",2020-12-11,513,519
 "Anti Eviction Taskforce Galway",2020-12-02,1395,1428
 "Anti Eviction Taskforce Galway",2020-12-09,1404,1437
+"Anti Eviction Taskforce Galway",2020-12-16,1407,1441
 "Antifa Watch Ireland",2020-09-27,1179,1217
 "Antifa Watch Ireland",2020-09-29,1182,1221
 "Antifa Watch Ireland",2020-10-02,1204,1243
@@ -207,6 +157,7 @@ Fine Gael,2020-12-15,41085,42829
 "Aodhan O Riordain",2020-12-05,19107,19580
 "Aodhan O Riordain",2020-12-11,19098,19571
 "Aodhan O Riordain",2020-12-11,19100,19573
+"Aodhan O Riordain",2020-12-16,19098,19570
 "Aontu",2020-09-12,NA,11357
 "Aontu",2020-09-15,10868,11373
 "Aontu",2020-09-19,10992,11440
@@ -233,6 +184,8 @@ Fine Gael,2020-12-15,41085,42829
 "Aontu",2020-11-28,11481,12023
 "Aontu",2020-12-03,11518,12059
 "Aontu",2020-12-09,11574,12112
+"Aontu",2020-12-15,11595,12130
+"Aontu Connacht",2020-12-15,838,883
 "Aontu Cork",2020-10-26,1942,2026
 "Aontu Cork",2020-11-01,1939,2023
 "Aontu Cork",2020-11-06,1939,2023
@@ -240,6 +193,7 @@ Fine Gael,2020-12-15,41085,42829
 "Aontu Cork",2020-11-25,1938,2021
 "Aontu Cork",2020-12-03,1939,2022
 "Aontu Cork",2020-12-09,1941,2025
+"Aontu Cork",2020-12-16,1941,2028
 "Aontu Laois",2020-10-15,410,430
 "Aontu Laois",2020-10-20,417,437
 "Aontu Laois",2020-10-26,427,449
@@ -249,6 +203,7 @@ Fine Gael,2020-12-15,41085,42829
 "Aontu Laois",2020-11-29,470,499
 "Aontu Laois",2020-12-06,483,514
 "Aontu Laois",2020-12-07,485,517
+"Aontu Laois",2020-12-15,504,535
 "Aontu Limerick",2020-10-25,1425,1457
 "Aontu Limerick",2020-11-03,1482,1517
 "Aontu Limerick",2020-11-13,1529,1563
@@ -256,8 +211,11 @@ Fine Gael,2020-12-15,41085,42829
 "Aontu Limerick",2020-11-28,1610,1649
 "Aontu Limerick",2020-12-05,1673,1715
 "Aontu Limerick",2020-12-11,1719,1762
+"Aontu Limerick",2020-12-15,577,614
 "Aontu Loch Garman",2020-12-07,980,1016
+"Aontu Loch Garman",2020-12-16,979,1015
 "Aontu Louth",2020-12-07,250,256
+"Aontu Louth",2020-12-16,256,262
 "Aontu Mayo",2020-10-26,440,463
 "Aontu Mayo",2020-11-01,443,467
 "Aontu Mayo",2020-11-06,446,472
@@ -265,7 +223,9 @@ Fine Gael,2020-12-15,41085,42829
 "Aontu Mayo",2020-11-25,470,498
 "Aontu Mayo",2020-12-01,475,510
 "Aontu Mayo",2020-12-08,481,516
+"Aontu Mayo",2020-12-15,484,519
 "Aontu Sligo-Leitrim",2020-12-07,503,530
+"Aontu Sligo-Leitrim",2020-12-15,502,531
 "Barry Andrews",2020-10-25,1430,1464
 "Barry Andrews",2020-11-01,1432,1468
 "Barry Andrews",2020-11-06,1433,1469
@@ -273,6 +233,7 @@ Fine Gael,2020-12-15,41085,42829
 "Barry Andrews",2020-11-25,1432,1468
 "Barry Andrews",2020-12-01,1433,1469
 "Barry Andrews",2020-12-08,1433,1470
+"Barry Andrews",2020-12-16,1431,1475
 "Barry Ward",2020-10-10,2332,2353
 "Barry Ward",2020-10-15,2333,2354
 "Barry Ward",2020-10-20,2335,2357
@@ -313,7 +274,9 @@ Fine Gael,2020-12-15,41085,42829
 "Ben Gilroy",2020-11-19,8274,9216
 "Ben Gilroy",2020-11-27,8339,9278
 "Ben Gilroy",2020-12-03,8403,9339
+"Ben Gilroy",2020-12-03,8399,9335
 "Ben Gilroy",2020-12-05,8418,9353
+"Ben Gilroy",2020-12-09,8431,9367
 "Ben Gilroy",2020-12-11,8439,9376
 "Ben Scallan",2020-09-15,12705,13452
 "Ben Scallan",2020-09-18,12713,13455
@@ -346,8 +309,6 @@ Fine Gael,2020-12-15,41085,42829
 "Ben Scallan",2020-12-09,13569,14366
 "Ben Scallan",2020-12-12,13567,14363
 "Bernard Durkan",2020-12-11,3588,3657
-"Billy Gilroy",2020-12-03,8399,9335
-"Billy Gilroy",2020-12-09,8431,9367
 "Billy Kelleher",2020-10-28,3032,3074
 "Billy Kelleher",2020-11-04,3034,3076
 "Billy Kelleher",2020-11-12,3032,3074
@@ -355,6 +316,8 @@ Fine Gael,2020-12-15,41085,42829
 "Billy Kelleher",2020-11-27,3036,3080
 "Billy Kelleher",2020-12-03,3040,3086
 "Billy Kelleher",2020-12-09,3050,3098
+"Billy Kelleher",2020-12-16,3072,3122
+"Billy Lawless",2020-12-16,744,765
 "Brendan Smith",2020-09-20,3580,3730
 "Brendan Smith",2020-09-24,3581,3732
 "Brendan Smith",2020-09-28,3581,3734
@@ -398,6 +361,7 @@ Fine Gael,2020-12-15,41085,42829
 "Brian Leddin",2020-12-03,645,690
 "Brian Leddin",2020-12-07,647,693
 "Brian Leddin",2020-12-11,647,693
+"Brian O Domhnaill",2020-12-16,0,0
 "Brid Smith",2020-09-16,14677,15094
 "Brid Smith",2020-09-19,14688,15108
 "Brid Smith",2020-09-23,14706,15126
@@ -467,6 +431,7 @@ Fine Gael,2020-12-15,41085,42829
 "Cathal Crowe",2020-12-01,4742,5031
 "Cathal Crowe",2020-12-08,4751,5043
 "Cathal Crowe",2020-12-11,4756,5048
+"Catherine Ardagh",2020-12-16,3107,3177
 "Catherine Connolly",2020-12-02,12562,13478
 "Catherine Connolly",2020-12-09,12622,13535
 "Catherine Connolly",2020-12-11,12631,13544
@@ -499,6 +464,7 @@ Fine Gael,2020-12-15,41085,42829
 "Catherine Murphy",2020-12-01,10071,9876
 "Catherine Murphy",2020-12-08,10084,9890
 "Catherine Murphy",2020-12-11,10085,9892
+"Catherine Noone",2020-12-16,0,0
 "Charlie McConalogue",2020-09-26,8818,8917
 "Charlie McConalogue",2020-10-01,8827,8930
 "Charlie McConalogue",2020-10-05,8832,8941
@@ -536,6 +502,7 @@ Fine Gael,2020-12-15,41085,42829
 "Ciaran Cuffe",2020-11-27,2074,2131
 "Ciaran Cuffe",2020-12-03,2074,2131
 "Ciaran Cuffe",2020-12-11,2077,2134
+"Ciaran Cuffe",2020-12-16,2079,2136
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -569,14 +536,17 @@ Fine Gael,2020-12-15,41085,42829
 "Clare Daly",2020-11-19,23339,24733
 "Clare Daly",2020-11-29,23338,24802
 "Clare Daly",2020-12-08,23387,24803
+"Clare Daly",2020-12-16,23375,24796
 "Clare Fine Gael",2020-10-30,917,932
 "Clare Fine Gael",2020-11-04,917,932
 "Clare Fine Gael",2020-11-13,918,933
 "Clare Fine Gael",2020-11-21,918,933
 "Clare Fine Gael",2020-11-29,918,933
 "Clare Fine Gael",2020-12-06,917,932
+"Colette Kelleher",2020-12-16,0,0
 "Colm Brophy",2020-12-11,1406,1502
 "Colm Burke",2020-12-11,2388,2512
+"Colm Burke",2020-12-16,2392,2517
 "Connolly Youth Movement",2020-10-05,9354,9819
 "Connolly Youth Movement",2020-10-08,9367,9835
 "Connolly Youth Movement",2020-10-15,9453,9935
@@ -589,6 +559,7 @@ Fine Gael,2020-12-15,41085,42829
 "Connolly Youth Movement",2020-11-28,9651,10147
 "Connolly Youth Movement",2020-12-04,9660,10157
 "Connolly Youth Movement",2020-12-09,9661,10158
+"Connolly Youth Movement",2020-12-16,9662,10159
 "Conservative Comeback Ireland",2020-09-19,982,1002
 "Conservative Comeback Ireland",2020-09-24,982,1002
 "Conservative Comeback Ireland",2020-09-28,979,999
@@ -657,6 +628,7 @@ Fine Gael,2020-12-15,41085,42829
 "Corruption Awareness Ireland",2020-12-02,36145,48810
 "Corruption Awareness Ireland",2020-12-08,36736,49573
 "Corruption Awareness Ireland",2020-12-10,36773,49632
+"Corruption Awareness Ireland",2020-12-15,36903,49813
 "Cronyism and Corruption",2020-11-19,1814,1846
 "Cronyism and Corruption",2020-11-26,1817,1849
 "Cronyism and Corruption",2020-12-02,1817,1849
@@ -702,6 +674,7 @@ Fine Gael,2020-12-15,41085,42829
 "Darragh O'Brien",2020-12-11,4768,5093
 "Darren O'Rourke",2020-12-11,7776,7908
 "David Cullinane",2020-12-11,14036,14381
+"David Norris",2020-12-16,0,0
 "David Stanton",2020-12-11,2137,2264
 "Deirdre Clune",2020-10-01,4508,4543
 "Deirdre Clune",2020-10-05,4509,4544
@@ -715,6 +688,8 @@ Fine Gael,2020-12-15,41085,42829
 "Deirdre Clune",2020-11-26,4505,4553
 "Deirdre Clune",2020-11-30,4505,4553
 "Deirdre Clune",2020-12-06,4502,4550
+"Deirdre Clune",2020-12-16,4504,4555
+"Denis Landy",2020-12-16,0,0
 "Denis Naughten",2020-10-03,9744,10085
 "Denis Naughten",2020-10-08,9759,10104
 "Denis Naughten",2020-10-12,9819,10164
@@ -727,8 +702,10 @@ Fine Gael,2020-12-15,41085,42829
 "Denis Naughten",2020-11-30,10029,10442
 "Denis Naughten",2020-12-08,10100,10524
 "Denis Naughten",2020-12-11,10101,10531
+"Denis O'Donovan",2020-12-16,0,0
 "Denise Mitchell",2020-12-11,2443,2586
 "Dessie Ellis",2020-12-11,8873,8856
+"Diarmuid Wilson",2020-12-16,0,0
 "Direct Democracy Ireland",2020-10-10,22434,21308
 "Direct Democracy Ireland",2020-10-15,9650,9435
 "Direct Democracy Ireland",2020-10-20,9648,9433
@@ -738,6 +715,7 @@ Fine Gael,2020-12-15,41085,42829
 "Direct Democracy Ireland",2020-11-21,9620,9407
 "Direct Democracy Ireland",2020-11-29,9624,9418
 "Direct Democracy Ireland",2020-12-07,9621,9415
+"Direct Democracy Ireland",2020-12-16,9624,9417
 "Dolores Cahill",2020-09-15,5964,7456
 "Dolores Cahill",2020-09-17,6023,7529
 "Dolores Cahill",2020-09-19,6067,7585
@@ -808,6 +786,7 @@ Fine Gael,2020-12-15,41085,42829
 "Dolores Cahill",2020-12-09,15379,30023
 "Dolores Cahill",2020-12-10,15405,30073
 "Dolores Cahill",2020-12-12,15514,30270
+"Dolores Cahill",2020-12-15,15692,30622
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -921,6 +900,7 @@ Fine Gael,2020-12-15,41085,42829
 "Elisa O'Donovan",2020-11-22,1361,1471
 "Elisa O'Donovan",2020-11-30,1368,1482
 "Elisa O'Donovan",2020-12-07,1374,1489
+"Elisa O'Donovan",2020-12-15,1382,1499
 "Elisha McCallion",2020-10-11,4032,4254
 "Elisha McCallion",2020-10-17,4034,4257
 "Elisha McCallion",2020-10-23,4034,4259
@@ -947,6 +927,7 @@ Fine Gael,2020-12-15,41085,42829
 "Erin McGreehan",2020-12-12,1324,1445
 "Eva Elizabeth Dowling",2020-12-02,447,477
 "Eva Elizabeth Dowling",2020-12-09,448,478
+"Eva Elizabeth Dowling",2020-12-16,449,479
 "Fair Society",2020-12-08,2274,2272
 "Fair Society",2020-12-14,2274,2272
 "Fergus O'Dowd",2020-12-11,6280,6478
@@ -968,6 +949,7 @@ Fine Gael,2020-12-15,41085,42829
 "Fianna Fail",2020-11-27,40853,42159
 "Fianna Fail",2020-12-03,40855,42167
 "Fianna Fail",2020-12-11,40872,42182
+"Fianna Fail",2020-12-15,40883,42194
 "Fine Gael",2020-09-12,NA,41348
 "Fine Gael",2020-09-15,40000,41386
 "Fine Gael",2020-09-19,40016,41408
@@ -988,6 +970,7 @@ Fine Gael,2020-12-15,41085,42829
 "Fine Gael",2020-11-26,40911,42640
 "Fine Gael",2020-12-03,41078,42814
 "Fine Gael",2020-12-07,41086,42826
+"Fine Gael",2020-12-15,41085,42829
 "Fintan Warfield",2020-10-11,3989,4066
 "Fintan Warfield",2020-10-17,3989,4066
 "Fintan Warfield",2020-10-23,3989,4066
@@ -998,6 +981,7 @@ Fine Gael,2020-12-15,41085,42829
 "Fintan Warfield",2020-11-26,3979,4056
 "Fintan Warfield",2020-12-03,3983,4060
 "Fintan Warfield",2020-12-10,3982,4059
+"Fintan Warfield",2020-12-16,3982,4059
 "Fiona McLoughlin Healy",2020-10-31,7890,8005
 "Fiona McLoughlin Healy",2020-11-06,7922,8043
 "Fiona McLoughlin Healy",2020-11-17,8027,8157
@@ -1014,11 +998,14 @@ Fine Gael,2020-12-15,41085,42829
 "Fiona O'Loughlin",2020-11-25,8632,8775
 "Fiona O'Loughlin",2020-12-02,8635,8784
 "Fiona O'Loughlin",2020-12-09,8641,8793
+"Frances Black",2020-12-16,7779,8011
+"Frances Fitzgerald",2020-12-16,4427,4603
 "Francis Noel Duffy",2020-11-27,1104,1163
 "Francis Noel Duffy",2020-12-03,1106,1165
 "Francis Noel Duffy",2020-12-10,1108,1168
 "Francis Noel Duffy",2020-12-11,1108,1168
 "Frank Feighan",2020-12-11,4729,4919
+"Frank Feighan",2020-12-16,4733,4923
 "Frankie Daly",2020-09-20,5679,5854
 "Frankie Daly",2020-09-26,5689,5864
 "Frankie Daly",2020-10-01,5690,5864
@@ -1034,6 +1021,7 @@ Fine Gael,2020-12-15,41085,42829
 "Frankie Daly",2020-11-26,5753,5933
 "Frankie Daly",2020-12-03,5756,5940
 "Frankie Daly",2020-12-10,5753,5938
+"Frankie Daly",2020-12-15,5759,5945
 "Freedom Watch Ireland",2020-10-15,735,758
 "Freedom Watch Ireland",2020-10-20,738,761
 "Freedom Watch Ireland",2020-10-23,743,767
@@ -1046,6 +1034,8 @@ Fine Gael,2020-12-15,41085,42829
 "Freedom Watch Ireland",2020-12-05,742,766
 "Freedom Watch Ireland",2020-12-06,742,765
 "Freedom Watch Ireland",2020-12-14,740,763
+"Freedom Watch Ireland",2020-12-15,740,763
+"Gabrielle McFadden",2020-12-16,0,0
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
 "Gary Gannon",2020-09-26,3148,3253
@@ -1065,6 +1055,7 @@ Fine Gael,2020-12-15,41085,42829
 "Ged Nash",2020-12-05,6118,6189
 "Ged Nash",2020-12-10,6122,6193
 "Ged Nash",2020-12-11,6122,6193
+"Ged Nash",2020-12-16,6168,6240
 "Gerard Craughwell",2020-10-11,1313,1336
 "Gerard Craughwell",2020-10-16,1313,1336
 "Gerard Craughwell",2020-10-21,1316,1340
@@ -1074,6 +1065,7 @@ Fine Gael,2020-12-15,41085,42829
 "Gerard Craughwell",2020-11-24,1327,1353
 "Gerard Craughwell",2020-12-01,1329,1356
 "Gerard Craughwell",2020-12-08,1333,1360
+"Gerard Craughwell",2020-12-16,1335,1363
 "Gerry Adams",2020-09-20,67022,68174
 "Gerry Adams",2020-09-24,67270,68244
 "Gerry Adams",2020-09-27,67266,68241
@@ -1090,6 +1082,7 @@ Fine Gael,2020-12-15,41085,42829
 "Gerry Adams",2020-11-21,69772,70965
 "Gerry Adams",2020-11-30,69882,71099
 "Gerry Adams",2020-12-08,69962,71190
+"Gerry Horkan",2020-12-16,0,0
 "Gino Kenny",2020-10-04,9365,9666
 "Gino Kenny",2020-10-09,9378,9679
 "Gino Kenny",2020-10-14,9381,9682
@@ -1102,6 +1095,8 @@ Fine Gael,2020-12-15,41085,42829
 "Gino Kenny",2020-12-03,9414,9715
 "Gino Kenny",2020-12-10,9413,9724
 "Gino Kenny",2020-12-11,9413,9725
+"Grace O'Sullivan",2020-12-16,8544,8743
+"Grace O'Sullivan",2020-12-16,8544,8743
 "Grand Torino",2020-09-15,7539,10131
 "Grand Torino",2020-09-18,7808,10439
 "Grand Torino",2020-09-21,7973,10639
@@ -1282,6 +1277,7 @@ Fine Gael,2020-12-15,41085,42829
 "Holly Cairns",2020-12-04,7631,8099
 "Holly Cairns",2020-12-07,7682,8153
 "Holly Cairns",2020-12-11,7701,8172
+"Ian Marshall",2020-12-16,0,0
 "Imelda Munster",2020-10-04,4297,4399
 "Imelda Munster",2020-10-09,4298,4400
 "Imelda Munster",2020-10-15,4298,4401
@@ -1329,6 +1325,7 @@ Fine Gael,2020-12-15,41085,42829
 "Iona Institute",2020-11-23,7724,7867
 "Iona Institute",2020-12-01,7731,7876
 "Iona Institute",2020-12-09,7732,7879
+"Iona Institute",2020-12-16,7726,7872
 "Ireland for Trump",2020-09-27,744,752
 "Ireland for Trump",2020-10-02,749,758
 "Ireland for Trump",2020-10-04,751,760
@@ -1381,8 +1378,6 @@ Fine Gael,2020-12-15,41085,42829
 "Irexit",2020-12-03,804,825
 "Irexit",2020-12-05,803,824
 "Irexit",2020-12-13,804,825
-"Irish Freedom Family",2020-12-04,14946,15666
-"Irish Freedom Family",2020-12-09,14994,15723
 "Irish Freedom Party",2020-09-12,NA,13848
 "Irish Freedom Party",2020-09-15,13246,13896
 "Irish Freedom Party",2020-09-19,13279,13928
@@ -1431,10 +1426,14 @@ Fine Gael,2020-12-15,41085,42829
 "Irish Freedom Party",2020-11-26,14669,15410
 "Irish Freedom Party",2020-11-28,14722,15431
 "Irish Freedom Party",2020-11-30,14877,15593
+"Irish Freedom Party",2020-12-04,14946,15666
 "Irish Freedom Party",2020-12-05,14975,15697
 "Irish Freedom Party",2020-12-06,14983,15704
 "Irish Freedom Party",2020-12-07,14985,15706
+"Irish Freedom Party",2020-12-09,14994,15723
 "Irish Freedom Party",2020-12-12,15013,15741
+"Irish Freedom Party",2020-12-15,15043,15773
+"Irish Freedom Party",2020-12-16,15046,15777
 "Irish Inquiry",2020-10-09,3562,5048
 "Irish Inquiry",2020-10-14,3683,5204
 "Irish Inquiry",2020-10-16,3723,5265
@@ -1466,6 +1465,7 @@ Fine Gael,2020-12-15,41085,42829
 "Irish vaccination awareness",2020-12-08,NA,NA
 "Irish Vaccination Awareness",2020-11-28,4070,4364
 "Irish Vaccination Awareness",2020-12-05,NA,NA
+"Ivana Bacik",2020-12-16,1839,4226
 "Jack Chambers",2020-09-24,5422,5612
 "Jack Chambers",2020-09-27,5429,5619
 "Jack Chambers",2020-10-01,5431,5621
@@ -1501,8 +1501,10 @@ Fine Gael,2020-12-15,41085,42829
 "James Browne",2020-12-11,6600,6800
 "James Lawless",2020-12-11,6572,6715
 "James O'Connor",2020-12-11,2641,2833
+"James Reilly",2020-12-16,0,0
 "Jennifer Carroll MacNeill",2020-12-11,1560,1701
 "Jennifer Murnane O'Connor",2020-12-11,9296,9018
+"Jennifer Murnane O'Connor",2020-12-16,9018,9296
 "Jennifer Whitmore",2020-09-20,3360,3589
 "Jennifer Whitmore",2020-09-24,3360,3589
 "Jennifer Whitmore",2020-09-27,3368,3600
@@ -1526,6 +1528,7 @@ Fine Gael,2020-12-15,41085,42829
 "Jerry Buttimer",2020-11-24,4573,4679
 "Jerry Buttimer",2020-12-02,4567,4674
 "Jerry Buttimer",2020-12-09,4567,4675
+"Jerry Buttimer",2020-12-16,4566,4674
 "Joan Collins",2020-09-24,7371,7484
 "Joan Collins",2020-09-28,7378,7491
 "Joan Collins",2020-10-03,7382,7495
@@ -1540,6 +1543,7 @@ Fine Gael,2020-12-15,41085,42829
 "Joan Collins",2020-12-03,7437,7548
 "Joan Collins",2020-12-11,7466,7578
 "Joan Collins",2020-12-11,7463,7575
+"Joan Freeman",2020-12-16,7146,7302
 "Joe Carey",2020-12-11,6609,6593
 "Joe Flaherty",2020-12-11,3439,3518
 "Joe McHugh",2020-10-05,6715,7009
@@ -1554,9 +1558,12 @@ Fine Gael,2020-12-15,41085,42829
 "Joe McHugh",2020-12-06,6798,7132
 "Joe McHugh",2020-12-11,6798,7136
 "Joe O'Brien",2020-12-11,953,1002
+"Joe O'Reilly",2020-12-16,4218,4263
 "John Brady",2020-12-11,8546,8842
+"John Dolan",2020-12-16,711,731
 "John Lahart",2020-12-13,3562,3725
 "John McGuinness",2020-12-13,7423,7548
+"John O'Mahony",2020-12-16,0,0
 "John Paul Phelan",2020-12-13,1407,1482
 "Johnny Guirke",2020-12-13,5026,5253
 "Johnny Mythen",2020-12-13,2338,2414
@@ -1588,6 +1595,7 @@ Fine Gael,2020-12-15,41085,42829
 "Kathleen Funchion",2020-11-29,7135,7356
 "Kathleen Funchion",2020-12-06,7151,7374
 "Kathleen Funchion",2020-12-13,7151,7375
+"Keith Swanick",2020-12-16,3452,3584
 "Kerry Sinn Fein",2020-09-26,1722,1821
 "Kerry Sinn Fein",2020-10-01,1725,1824
 "Kerry Sinn Fein",2020-10-06,1727,1827
@@ -1601,6 +1609,8 @@ Fine Gael,2020-12-15,41085,42829
 "Kerry Sinn Fein",2020-11-30,17437,1847
 "Kerry Sinn Fein",2020-12-07,1747,1847
 "Kerry Sinn Fein",2020-12-13,1745,1846
+"Kerry Sinn Fein",2020-12-15,1745,1846
+"Kevin Humphreys",2020-12-16,1952,2018
 "Kieran O'Donnell",2020-09-27,2779,2836
 "Kieran O'Donnell",2020-10-02,2790,2848
 "Kieran O'Donnell",2020-10-07,2799,2857
@@ -1615,6 +1625,7 @@ Fine Gael,2020-12-15,41085,42829
 "Kieran O'Donnell",2020-12-02,2838,2908
 "Kieran O'Donnell",2020-12-07,2854,2926
 "Kieran O'Donnell",2020-12-13,2878,2955
+"Kieran O'Donnell",2020-12-16,2881,2958
 "Labour Party",2020-09-12,NA,29473
 "Labour Party",2020-09-15,29121,29498
 "Labour Party",2020-09-20,29127,29512
@@ -1634,7 +1645,9 @@ Fine Gael,2020-12-15,41085,42829
 "Labour Party",2020-11-23,29230,29732
 "Labour Party",2020-12-01,29374,29792
 "Labour Party",2020-12-07,29406,29828
+"Labour Party",2020-12-16,29438,29867
 "Labour Tipperary",2020-12-09,491,518
+"Labour Tipperary",2020-12-16,490,517
 "Leo Varadkar",2020-09-12,NA,101169
 "Leo Varadkar",2020-09-16,86957,101197
 "Leo Varadkar",2020-09-20,87426,101609
@@ -1680,6 +1693,8 @@ Fine Gael,2020-12-15,41085,42829
 "Limerick Greens",2020-11-23,757,783
 "Limerick Greens",2020-12-01,757,783
 "Limerick Greens",2020-12-09,757,783
+"Limerick Greens",2020-12-15,756,782
+"Lorraine Clifford-Lee",2020-12-16,4243,4439
 "Louise O'Reilly",2020-12-13,4692,5077
 "Lucinda Creighton",2020-10-04,4869,4800
 "Lucinda Creighton",2020-10-15,4867,4798
@@ -1690,6 +1705,7 @@ Fine Gael,2020-12-15,41085,42829
 "Lucinda Creighton",2020-11-24,4850,4781
 "Lucinda Creighton",2020-12-02,4849,4781
 "Lucinda Creighton",2020-12-09,4852,4784
+"Lucinda Creighton",2020-12-16,4849,4782
 "Luke 'Ming' Flanagan",2020-09-15,67433,67796
 "Luke 'Ming' Flanagan",2020-09-19,67409,67775
 "Luke 'Ming' Flanagan",2020-09-24,67385,67753
@@ -1721,6 +1737,7 @@ Fine Gael,2020-12-15,41085,42829
 "Luke 'Ming' Flanagan",2020-12-02,67066,67440
 "Luke 'Ming' Flanagan",2020-12-09,67031,67404
 "Luke 'Ming' Flanagan",2020-12-13,67005,67378
+"Luke 'Ming' Flanagan",2020-12-16,66998,67371
 "Lynn Boylan",2020-10-01,3190,3281
 "Lynn Boylan",2020-10-06,3189,3280
 "Lynn Boylan",2020-10-12,3198,3289
@@ -1738,6 +1755,8 @@ Fine Gael,2020-12-15,41085,42829
 "Lynn Ruane",2020-11-23,5628,5727
 "Lynn Ruane",2020-12-01,5631,5730
 "Lynn Ruane",2020-12-09,5639,5738
+"Lynn Ruane",2020-12-16,5649,5748
+"Maire Devine",2020-12-16,237,250
 "Mairead Farrell",2020-10-13,11354,11734
 "Mairead Farrell",2020-10-19,11403,11788
 "Mairead Farrell",2020-10-25,11677,12078
@@ -1748,7 +1767,7 @@ Fine Gael,2020-12-15,41085,42829
 "Mairead Farrell",2020-11-24,11935,12347
 "Mairead Farrell",2020-12-01,12022,12432
 "Mairead Farrell",2020-12-09,12257,12670
-"MairÃ©ad Farrell",2020-12-13,12258,12669
+"Mairéad Farrell",2020-12-13,12258,12669
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
@@ -1764,8 +1783,10 @@ Fine Gael,2020-12-15,41085,42829
 "Mairead McGuinness",2020-12-03,11835,12285
 "Mairead McGuinness",2020-12-10,11844,12299
 "Mairead McGuinness",2020-12-12,11844,12300
+"Mairead McGuinness",2020-12-16,11842,12301
 "Malcolm Noonan",2020-12-13,1433,1598
 "Marc O Cathasaigh",2020-12-13,3821,3940
+"Maria Byrne",2020-12-16,1434,1488
 "Maria Walsh",2020-09-24,12167,12473
 "Maria Walsh",2020-09-28,12164,12471
 "Maria Walsh",2020-10-03,12167,12474
@@ -1779,6 +1800,7 @@ Fine Gael,2020-12-15,41085,42829
 "Maria Walsh",2020-11-24,12173,12483
 "Maria Walsh",2020-12-03,12180,12490
 "Maria Walsh",2020-12-10,12188,12499
+"Maria Walsh",2020-12-16,12185,12499
 "Marian Harkin",2020-09-12,NA,4173
 "Marian Harkin",2020-09-18,4048,4173
 "Marian Harkin",2020-09-21,4049,4174
@@ -1797,6 +1819,7 @@ Fine Gael,2020-12-15,41085,42829
 "Marian Harkin",2020-12-03,4065,4197
 "Marian Harkin",2020-12-11,4065,4199
 "Marian Harkin",2020-12-13,4065,4199
+"Marie-Louise O'Donnell",2020-12-16,0,0
 "Marie Sherlock",2020-09-25,553,618
 "Marie Sherlock",2020-09-29,553,618
 "Marie Sherlock",2020-10-04,557,622
@@ -1823,9 +1846,11 @@ Fine Gael,2020-12-15,41085,42829
 "Mark Daly",2020-11-25,3349,3428
 "Mark Daly",2020-12-03,3352,3431
 "Mark Daly",2020-12-11,3354,3433
+"Mark Daly",2020-12-16,3372,3452
 "Mark Ward",2020-12-13,12744,12922
 "Martin Browne",2020-12-09,4626,4816
 "Martin Browne",2020-12-13,4638,4830
+"Martin Conway",2020-12-16,4386,4488
 "Martin Heydon",2020-10-31,6194,6325
 "Martin Heydon",2020-11-06,6198,6334
 "Martin Heydon",2020-11-17,6204,6342
@@ -1902,6 +1927,7 @@ Fine Gael,2020-12-15,41085,42829
 "Matt Carthy",2020-12-01,31264,32872
 "Matt Carthy",2020-12-09,31332,32943
 "Matt Carthy",2020-12-13,31341,32963
+"Matt Carthy",2020-12-16,31378,33002
 "Matt Shanahan",2020-12-13,910,1288
 "Mattie McGrath",2020-10-06,4636,4744
 "Mattie McGrath",2020-10-11,4653,4762
@@ -1916,6 +1942,7 @@ Fine Gael,2020-12-15,41085,42829
 "Mattie McGrath",2020-12-01,4914,5034
 "Mattie McGrath",2020-12-09,4939,5059
 "Mattie McGrath",2020-12-13,4949,5071
+"Maura Hopkins",2020-12-16,4366,4399
 "Maurice Quinlivan",2020-09-20,9751,9834
 "Maurice Quinlivan",2020-09-25,9752,9837
 "Maurice Quinlivan",2020-09-29,9750,9834
@@ -1964,6 +1991,7 @@ Fine Gael,2020-12-15,41085,42829
 "Michael Lowry",2020-11-29,11910,12507
 "Michael Lowry",2020-12-06,11919,12523
 "Michael Lowry",2020-12-13,11926,12535
+"Michael McDowell",2020-12-16,416,423
 "Michael McGrath",2020-12-13,12462,12842
 "Michael McNamara",2020-10-16,8670,10284
 "Michael McNamara",2020-10-21,9654,11365
@@ -2022,6 +2050,7 @@ Fine Gael,2020-12-15,41085,42829
 "Micheal Martin",2020-12-03,23798,24195
 "Micheal Martin",2020-12-08,23819,24220
 "Micheal Martin",2020-12-13,23832,24234
+"Michelle Mulherin",2020-12-16,5810,5891
 "Mick Barry",2020-12-13,10870,11688
 "Mick Wallace",2020-09-12,NA,31265
 "Mick Wallace",2020-09-16,29658,31280
@@ -2043,6 +2072,7 @@ Fine Gael,2020-12-15,41085,42829
 "Mick Wallace",2020-12-02,29810,31509
 "Mick Wallace",2020-12-09,29837,31541
 "Mick Wallace",2020-12-13,29841,31547
+"Mick Wallace",2020-12-16,29838,31547
 "National Party",2020-09-12,NA,8884
 "National Party",2020-09-15,8265,8895
 "National Party",2020-09-19,8278,8904
@@ -2063,9 +2093,11 @@ Fine Gael,2020-12-15,41085,42829
 "National Party",2020-11-29,8419,9040
 "National Party",2020-12-08,8411,9031
 "National Party",2020-12-14,8407,9030
+"National Party",2020-12-15,8408,9033
 "Neale Richmond",2020-12-02,5184,5306
 "Neale Richmond",2020-12-09,5182,5305
 "Neale Richmond",2020-12-13,5181,5305
+"Neale Richmond",2020-12-16,5180,5304
 "Neasa Hourigan",2020-09-19,670,740
 "Neasa Hourigan",2020-09-24,673,742
 "Neasa Hourigan",2020-09-28,673,742
@@ -2082,6 +2114,7 @@ Fine Gael,2020-12-15,41085,42829
 "Neasa Hourigan",2020-12-03,698,779
 "Neasa Hourigan",2020-12-10,699,781
 "Neasa Hourigan",2020-12-13,700,783
+"Ned O'Sullivan",2020-12-16,0,0
 "Neil O'Mahony",2020-10-02,7354,7475
 "Neil O'Mahony",2020-10-08,7349,7470
 "Neil O'Mahony",2020-10-09,7349,7469
@@ -2093,6 +2126,7 @@ Fine Gael,2020-12-15,41085,42829
 "Neil O'Mahony",2020-11-24,7462,7586
 "Neil O'Mahony",2020-11-29,7470,7593
 "Neil O'Mahony",2020-12-06,7468,7591
+"Neil O'Mahony",2020-12-16,7467,7593
 "Niall Collins",2020-09-19,11753,11938
 "Niall Collins",2020-09-24,11771,11958
 "Niall Collins",2020-09-26,11780,11966
@@ -2159,6 +2193,8 @@ Fine Gael,2020-12-15,41085,42829
 "Niall McConnell",2020-12-07,7102,8575
 "Niall McConnell",2020-12-08,7110,8583
 "Niall McConnell",2020-12-09,7113,8584
+"Niall McConnell",2020-12-16,7143,8617
+"Niall O Donnghaile",2020-12-16,2109,2267
 "Niamh Smyth",2020-12-06,8965,9196
 "Niamh Smyth",2020-12-13,8965,9204
 "Norma Foley",2020-10-01,5841,6362
@@ -2218,6 +2254,7 @@ Fine Gael,2020-12-15,41085,42829
 "NP Dublin",2020-11-19,1572,1658
 "NP Dublin",2020-11-29,1580,1669
 "NP Dublin",2020-12-06,1576,1664
+"NP Dublin",2020-12-16,1576,1664
 "NP Galway",2020-09-19,529,544
 "NP Galway",2020-09-24,532,547
 "NP Galway",2020-09-26,533,548
@@ -2390,6 +2427,7 @@ Fine Gael,2020-12-15,41085,42829
 "Ossian Smyth",2020-12-08,741,808
 "Ossian Smyth",2020-12-13,741,810
 "Pa Daly",2020-12-13,6448,6571
+"Paddy Burke",2020-12-16,0,0
 "Padraig Mac Lochlainn",2020-09-20,13694,14038
 "Padraig Mac Lochlainn",2020-09-25,13695,14043
 "Padraig Mac Lochlainn",2020-10-01,13713,14063
@@ -2403,7 +2441,9 @@ Fine Gael,2020-12-15,41085,42829
 "Padraig Mac Lochlainn",2020-12-01,14167,14540
 "Padraig Mac Lochlainn",2020-12-06,14192,14567
 "Padraig Mac Lochlainn",2020-12-13,14206,14582
+"Padraig Mac Lochlainn",2020-12-16,14209,14585
 "Padraig O'Sullivan",2020-12-13,3558,3804
+"Padraig O Céidigh",2020-12-16,1309,1316
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Paschal Donohoe",2020-10-01,4481,4608
@@ -2456,7 +2496,11 @@ Fine Gael,2020-12-15,41085,42829
 "Patrick O'Donovan",2020-11-30,5199,5455
 "Patrick O'Donovan",2020-12-07,5205,5464
 "Patrick O'Donovan",2020-12-13,5215,5474
+"Paudie Coffey",2020-12-16,1477,1522
+"Paul Coghlan",2020-12-16,0,0
+"Paul Daly",2020-12-16,1341,1420
 "Paul Donnelly",2020-12-13,10048,10256
+"Paul Gavan",2020-12-16,2548,2747
 "Paul Kehoe",2020-11-07,7318,7398
 "Paul Kehoe",2020-11-17,7314,797
 "Paul Kehoe",2020-11-25,7317,7401
@@ -2501,7 +2545,8 @@ Fine Gael,2020-12-15,41085,42829
 "Peadar Toibin",2020-11-28,11618,11966
 "Peadar Toibin",2020-12-03,11660,12016
 "Peadar Toibin",2020-12-07,11749,12107
-"Peadar TÃ³ibin",2020-12-13,11764,12124
+"Peadar Toibin",2020-12-15,11765,12125
+"Peadar Tóibin",2020-12-13,11764,12124
 "Pearse Doherty",2020-09-20,71689,77709
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
@@ -2566,6 +2611,7 @@ Fine Gael,2020-12-15,41085,42829
 "Pippa Hackett",2020-11-23,1351,1435
 "Pippa Hackett",2020-12-01,1364,1446
 "Pippa Hackett",2020-12-09,1373,1457
+"Pippa Hackett",2020-12-16,1379,1463
 "Precious Life",2020-10-22,28302,28248
 "Precious Life",2020-10-28,28354,28317
 "Precious Life",2020-10-30,28368,28331
@@ -2574,7 +2620,9 @@ Fine Gael,2020-12-15,41085,42829
 "Precious Life",2020-11-23,28501,28498
 "Precious Life",2020-12-01,28532,28543
 "Precious Life",2020-12-09,28568,28583
-"RÃ©ada Cronin",2020-12-13,2252,2362
+"Precious Life",2020-12-16,28593,28607
+"Ray Butler",2020-12-16,3741,3750
+"Réada Cronin",2020-12-13,2252,2362
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
@@ -2613,6 +2661,7 @@ Fine Gael,2020-12-15,41085,42829
 "Rebel Politico",2020-11-30,2821,2957
 "Rebel Politico",2020-12-05,2832,2968
 "Rebel Politico",2020-12-13,2841,2977
+"Rebel Politico",2020-12-15,2843,2981
 "Regina Doherty",2020-10-13,9428,9682
 "Regina Doherty",2020-10-19,9443,9704
 "Regina Doherty",2020-10-26,9451,9723
@@ -2662,6 +2711,7 @@ Fine Gael,2020-12-15,41085,42829
 "Richard O'Donoghue",2020-11-29,4196,4631
 "Richard O'Donoghue",2020-12-06,4617,5068
 "Richard O'Donoghue",2020-12-13,4685,5149
+"Robbie Gallagher",2020-12-16,2698,2767
 "Robert Troy",2020-09-18,4622,4856
 "Robert Troy",2020-09-18,4697,4951
 "Robert Troy",2020-09-21,4623,4862
@@ -2716,7 +2766,7 @@ Fine Gael,2020-12-15,41085,42829
 "Roisin Shortall",2020-11-28,1365,1479
 "Roisin Shortall",2020-12-05,2423,2608
 "Roisin Shortall",2020-12-10,2434,2620
-"RÃ³isin Shortall",2020-12-13,2441,2628
+"Róisin Shortall",2020-12-13,2441,2628
 "Ronan Mullen",2020-09-12,NA,3614
 "Ronan Mullen",2020-09-16,3575,3614
 "Ronan Mullen",2020-09-19,3573,3612
@@ -2734,8 +2784,10 @@ Fine Gael,2020-12-15,41085,42829
 "Ronan Mullen",2020-11-28,3608,3655
 "Ronan Mullen",2020-12-05,3612,3660
 "Ronan Mullen",2020-12-13,3617,3665
+"Rónan Mullen",2020-12-16,3616,3663
 "Rose Conway-Walsh",2020-12-13,11116,11702
-"Ruairi O MurchÃº",2020-12-13,4921,5302
+"Rose Conway-Walsh",2020-12-16,0,0
+"Ruairi O Murchú",2020-12-13,4921,5302
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-07,5305,5430
 "Saoirse McHugh",2020-10-13,5296,5420
@@ -2767,6 +2819,7 @@ Fine Gael,2020-12-15,41085,42829
 "Save Kerry",2020-11-20,336,360
 "Save Kerry",2020-11-29,336,360
 "Save Kerry",2020-12-07,377,361
+"Save Kerry",2020-12-15,336,361
 "Save Leitrim",2020-09-24,5263,5472
 "Save Leitrim",2020-09-27,5270,5480
 "Save Leitrim",2020-10-01,5271,5480
@@ -2779,6 +2832,7 @@ Fine Gael,2020-12-15,41085,42829
 "Save Leitrim",2020-11-20,5279,5491
 "Save Leitrim",2020-11-29,5282,5496
 "Save Leitrim",2020-12-06,5294,5511
+"Save Leitrim",2020-12-15,5318,5537
 "Sean Canney",2020-12-13,4094,4286
 "Sean Crowe",2020-12-13,4467,4492
 "Sean Fleming",2020-12-13,4001,4110
@@ -2796,6 +2850,8 @@ Fine Gael,2020-12-15,41085,42829
 "Sean Kelly",2020-11-25,7007,7226
 "Sean Kelly",2020-11-30,7011,7231
 "Sean Kelly",2020-12-08,7010,7231
+"Sean Kelly",2020-12-16,7008,7229
+"Sean Kyne",2020-12-16,2571,2757
 "Sean O Fearghail",2020-12-13,4615,4739
 "Sean Sherlock",2020-12-13,6173,6506
 "Simon Coveney",2020-09-22,13682,14361
@@ -2865,6 +2921,7 @@ Fine Gael,2020-12-15,41085,42829
 "Sinn Fein Dun Laoghaire",2020-11-18,1477,1510
 "Sinn Fein Dun Laoghaire",2020-11-29,1477,1510
 "Sinn Fein Dun Laoghaire",2020-12-07,1478,1511
+"Sinn Fein Dun Laoghaire",2020-12-16,1477,1510
 "SIPTU",2020-09-19,17686,18126
 "SIPTU",2020-09-24,17736,18266
 "SIPTU",2020-09-29,17755,18285
@@ -2954,6 +3011,7 @@ Fine Gael,2020-12-15,41085,42829
 "Support to Dr Martin Feeley",2020-12-05,1462,1690
 "Support to Dr Martin Feeley",2020-12-10,1463,1691
 "Support to Dr Martin Feeley",2020-12-12,1485,1713
+"Terry Leyden",2020-12-16,0,0
 "The Beacon",2020-10-31,1405,1622
 "The Beacon",2020-11-06,1405,1623
 "The Beacon",2020-11-16,1409,1632
@@ -3003,6 +3061,7 @@ Fine Gael,2020-12-15,41085,42829
 "Thomas Pringle",2020-12-03,5420,5573
 "Thomas Pringle",2020-12-11,5444,5601
 "Thomas Pringle",2020-12-13,5446,5602
+"Tim Lombard",2020-12-16,6373,6559
 "Tracey O'Mahony",2020-09-17,3806,3938
 "Tracey O'Mahony",2020-09-19,3826,3960
 "Tracey O'Mahony",2020-09-24,3891,4033
@@ -3032,6 +3091,7 @@ Fine Gael,2020-12-15,41085,42829
 "Tracey O'Mahony",2020-12-05,5892,6162
 "Tracey O'Mahony",2020-12-09,5933,6213
 "Tracey O'Mahony",2020-12-12,5943,6224
+"Trevor O Clochartaigh",2020-12-16,NA,701
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
 "Verona Murphy",2020-10-09,9331,9702
@@ -3054,6 +3114,7 @@ Fine Gael,2020-12-15,41085,42829
 "Verona Murphy",2020-12-07,10391,10849
 "Verona Murphy",2020-12-09,10394,10854
 "Verona Murphy",2020-12-13,10424,10885
+"Victor Boyhan",2020-12-16,0,0
 "Vincent P. Martin",2020-10-13,764,835
 "Vincent P. Martin",2020-10-20,764,838
 "Vincent P. Martin",2020-10-27,766,840
@@ -3105,6 +3166,7 @@ Fine Gael,2020-12-15,41085,42829
 "Workers Party",2020-11-21,8942,9246
 "Workers Party",2020-11-30,8964,9271
 "Workers Party",2020-12-07,8967,9273
+"Workers Party",2020-12-16,8973,9281
 "Yellow Vest Balbriggan",2020-10-09,900,908
 "Yellow Vest Balbriggan",2020-10-13,899,907
 "Yellow Vest Balbriggan",2020-10-20,899,906
@@ -3115,6 +3177,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Balbriggan",2020-11-22,901,908
 "Yellow Vest Balbriggan",2020-11-30,903,910
 "Yellow Vest Balbriggan",2020-12-08,902,908
+"Yellow Vest Balbriggan",2020-12-16,904,910
 "Yellow Vest Ireland",2020-09-12,NA,52616
 "Yellow Vest Ireland",2020-09-15,47402,53091
 "Yellow Vest Ireland",2020-09-17,47582,53284
@@ -3154,12 +3217,14 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland",2020-11-30,51231,57232
 "Yellow Vest Ireland",2020-12-03,51244,57243
 "Yellow Vest Ireland",2020-12-09,51240,57231
+"Yellow Vest Ireland",2020-12-15,51241,57232
 "Yellow Vest Ireland Antrim",2020-10-30,569,581
 "Yellow Vest Ireland Antrim",2020-11-05,573,585
 "Yellow Vest Ireland Antrim",2020-11-14,574,586
 "Yellow Vest Ireland Antrim",2020-11-20,574,586
 "Yellow Vest Ireland Antrim",2020-11-29,574,586
 "Yellow Vest Ireland Antrim",2020-12-06,574,586
+"Yellow Vest Ireland Antrim",2020-12-16,574,586
 "Yellow Vest Ireland Armagh",2020-10-10,709,723
 "Yellow Vest Ireland Armagh",2020-10-12,708,722
 "Yellow Vest Ireland Armagh",2020-10-19,708,720
@@ -3188,6 +3253,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Carlow",2020-12-10,1398,1440
 "Yellow Vest Ireland Carlow",2020-12-13,1407,1449
 "Yellow Vest Ireland Carlow",2020-12-13,1407,1449
+"Yellow Vest Ireland Carlow",2020-12-16,1406,1448
 "Yellow Vest Ireland Cavan",2020-10-09,704,724
 "Yellow Vest Ireland Cavan",2020-10-13,708,729
 "Yellow Vest Ireland Cavan",2020-10-20,711,732
@@ -3201,6 +3267,8 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Cavan",2020-12-05,791,814
 "Yellow Vest Ireland Cavan",2020-12-07,793,816
 "Yellow Vest Ireland Cavan",2020-12-10,794,817
+"Yellow Vest Ireland Cavan",2020-12-16,795,818
+"Yellow Vest Ireland Cavan",2020-12-16,796,819
 "Yellow Vest Ireland Clare",2020-10-09,644,668
 "Yellow Vest Ireland Clare",2020-10-12,650,674
 "Yellow Vest Ireland Clare",2020-10-16,660,683
@@ -3215,6 +3283,8 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Clare",2020-11-28,757,783
 "Yellow Vest Ireland Clare",2020-12-05,772,801
 "Yellow Vest Ireland Clare",2020-12-10,789,819
+"Yellow Vest Ireland Clare",2020-12-16,794,824
+"Yellow Vest Ireland Clare",2020-12-16,793,823
 "Yellow Vest Ireland Cork",2020-10-09,1183,1247
 "Yellow Vest Ireland Cork",2020-10-13,1185,1249
 "Yellow Vest Ireland Cork",2020-10-17,1189,1252
@@ -3226,6 +3296,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Cork",2020-11-30,1244,1310
 "Yellow Vest Ireland Cork",2020-12-05,1244,1310
 "Yellow Vest Ireland Cork",2020-12-13,1240,1307
+"Yellow Vest Ireland Cork",2020-12-16,1239,1306
 "Yellow Vest Ireland Derry",2020-10-10,736,760
 "Yellow Vest Ireland Derry",2020-10-16,729,753
 "Yellow Vest Ireland Derry",2020-10-20,728,752
@@ -3237,6 +3308,8 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Derry",2020-11-28,732,755
 "Yellow Vest Ireland Derry",2020-12-05,731,754
 "Yellow Vest Ireland Derry",2020-12-13,730,753
+"Yellow Vest Ireland Derry",2020-12-16,730,753
+"Yellow Vest Ireland Donegal",2020-12-16,303,317
 "Yellow Vest Ireland Down",2020-10-16,509,521
 "Yellow Vest Ireland Down",2020-10-20,508,520
 "Yellow Vest Ireland Down",2020-10-24,504,516
@@ -3246,6 +3319,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Down",2020-11-24,519,532
 "Yellow Vest Ireland Down",2020-12-01,518,531
 "Yellow Vest Ireland Down",2020-12-08,517,529
+"Yellow Vest Ireland Down",2020-12-16,517,529
 "Yellow Vest Ireland Galway",2020-10-09,2591,2864
 "Yellow Vest Ireland Galway",2020-10-13,2591,2864
 "Yellow Vest Ireland Galway",2020-10-20,2591,2864
@@ -3258,6 +3332,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Galway",2020-12-01,2606,2883
 "Yellow Vest Ireland Galway",2020-12-05,2605,2882
 "Yellow Vest Ireland Galway",2020-12-13,2608,2885
+"Yellow Vest Ireland Galway",2020-12-16,2607,2884
 "Yellow Vest Ireland Kerry",2020-10-10,649,661
 "Yellow Vest Ireland Kerry",2020-10-16,647,659
 "Yellow Vest Ireland Kerry",2020-10-20,647,659
@@ -3271,6 +3346,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Kerry",2020-12-07,679,692
 "Yellow Vest Ireland Kerry",2020-12-10,686,699
 "Yellow Vest Ireland Kerry",2020-12-13,688,701
+"Yellow Vest Ireland Kerry",2020-12-15,687,700
 "Yellow Vest Ireland Kilkenny",2020-10-09,870,944
 "Yellow Vest Ireland Kilkenny",2020-10-10,871,945
 "Yellow Vest Ireland Kilkenny",2020-10-16,879,953
@@ -3283,6 +3359,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Kilkenny",2020-11-24,1005,1085
 "Yellow Vest Ireland Kilkenny",2020-12-01,1015,1098
 "Yellow Vest Ireland Kilkenny",2020-12-08,1034,1118
+"Yellow Vest Ireland Kilkenny",2020-12-16,1039,1122
 "Yellow Vest Ireland Laois",2020-10-09,597,611
 "Yellow Vest Ireland Laois",2020-10-13,594,608
 "Yellow Vest Ireland Laois",2020-10-13,656,680
@@ -3296,6 +3373,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Laois",2020-11-28,609,623
 "Yellow Vest Ireland Laois",2020-12-05,608,622
 "Yellow Vest Ireland Laois",2020-12-10,609,622
+"Yellow Vest Ireland Laois",2020-12-16,607,620
 "Yellow Vest Ireland Leitrim",2020-10-20,609,638
 "Yellow Vest Ireland Leitrim",2020-10-24,608,637
 "Yellow Vest Ireland Leitrim",2020-10-31,612,641
@@ -3305,6 +3383,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Leitrim",2020-12-01,682,717
 "Yellow Vest Ireland Leitrim",2020-12-05,700,735
 "Yellow Vest Ireland Leitrim",2020-12-13,708,743
+"Yellow Vest Ireland Leitrim",2020-12-16,706,741
 "Yellow Vest Ireland Limerick",2020-10-14,684,700
 "Yellow Vest Ireland Limerick",2020-10-18,683,699
 "Yellow Vest Ireland Limerick",2020-10-24,688,704
@@ -3316,6 +3395,8 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Limerick",2020-12-01,793,815
 "Yellow Vest Ireland Limerick",2020-12-08,814,836
 "Yellow Vest Ireland Limerick",2020-12-10,814,836
+"Yellow Vest Ireland Limerick",2020-12-16,819,841
+"Yellow Vest Ireland Limerick",2020-12-16,819,841
 "Yellow Vest Ireland Longford",2020-10-09,959,984
 "Yellow Vest Ireland Longford",2020-10-12,959,984
 "Yellow Vest Ireland Longford",2020-10-16,959,984
@@ -3327,6 +3408,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Longford",2020-11-20,1039,1069
 "Yellow Vest Ireland Longford",2020-11-29,1066,1099
 "Yellow Vest Ireland Longford",2020-12-07,1081,1115
+"Yellow Vest Ireland Longford",2020-12-16,1098,1132
 "Yellow Vest Ireland Louth",2020-10-10,1127,1168
 "Yellow Vest Ireland Louth",2020-10-16,1139,1178
 "Yellow Vest Ireland Louth",2020-10-20,1152,1191
@@ -3339,6 +3421,8 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Louth",2020-11-28,1345,1384
 "Yellow Vest Ireland Louth",2020-12-05,1360,1398
 "Yellow Vest Ireland Louth",2020-12-10,1365,1404
+"Yellow Vest Ireland Louth",2020-12-16,1380,1419
+"Yellow Vest Ireland Louth",2020-12-16,1379,1418
 "Yellow Vest Ireland Mayo",2020-10-10,1792,1877
 "Yellow Vest Ireland Mayo",2020-10-14,1793,1878
 "Yellow Vest Ireland Mayo",2020-10-17,1793,1878
@@ -3351,6 +3435,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Mayo",2020-11-30,1968,2063
 "Yellow Vest Ireland Mayo",2020-12-05,2029,2127
 "Yellow Vest Ireland Mayo",2020-12-13,2040,2138
+"Yellow Vest Ireland Mayo",2020-12-16,2041,2139
 "Yellow Vest Ireland Meath",2020-10-10,789,813
 "Yellow Vest Ireland Meath",2020-10-12,792,817
 "Yellow Vest Ireland Meath",2020-10-19,812,837
@@ -3363,6 +3448,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Meath",2020-11-28,908,940
 "Yellow Vest Ireland Meath",2020-12-05,908,942
 "Yellow Vest Ireland Meath",2020-12-13,922,956
+"Yellow Vest Ireland Meath",2020-12-16,925,959
 "Yellow Vest Ireland Monaghan",2020-10-10,829,851
 "Yellow Vest Ireland Monaghan",2020-10-12,831,853
 "Yellow Vest Ireland Monaghan",2020-10-19,832,854
@@ -3387,6 +3473,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Offaly",2020-11-22,268,279
 "Yellow Vest Ireland Offaly",2020-11-30,268,279
 "Yellow Vest Ireland Offaly",2020-12-08,269,280
+"Yellow Vest Ireland Offaly",2020-12-16,270,281
 "Yellow Vest Ireland Roscommon",2020-10-09,784,795
 "Yellow Vest Ireland Roscommon",2020-10-15,786,798
 "Yellow Vest Ireland Roscommon",2020-10-20,788,799
@@ -3398,6 +3485,8 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Roscommon",2020-11-20,803,815
 "Yellow Vest Ireland Roscommon",2020-11-29,805,817
 "Yellow Vest Ireland Roscommon",2020-12-08,801,813
+"Yellow Vest Ireland Roscommon",2020-12-16,800,812
+"Yellow Vest Ireland Roscommon",2020-12-16,800,812
 "Yellow Vest Ireland Sligo",2020-10-09,875,910
 "Yellow Vest Ireland Sligo",2020-10-12,876,911
 "Yellow Vest Ireland Sligo",2020-10-15,876,910
@@ -3411,6 +3500,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Sligo",2020-11-28,898,913
 "Yellow Vest Ireland Sligo",2020-12-05,897,932
 "Yellow Vest Ireland Sligo",2020-12-13,894,929
+"Yellow Vest Ireland Sligo",2020-12-16,893,928
 "Yellow Vest Ireland Tipperary",2020-10-22,732,757
 "Yellow Vest Ireland Tipperary",2020-10-27,742,767
 "Yellow Vest Ireland Tipperary",2020-11-02,749,774
@@ -3421,6 +3511,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Tipperary",2020-12-05,802,835
 "Yellow Vest Ireland Tipperary",2020-12-10,810,844
 "Yellow Vest Ireland Tipperary",2020-12-13,853,857
+"Yellow Vest Ireland Tipperary",2020-12-16,858,892
 "Yellow Vest Ireland Tyrone",2020-10-12,545,553
 "Yellow Vest Ireland Tyrone",2020-10-19,549,557
 "Yellow Vest Ireland Tyrone",2020-10-24,552,560
@@ -3430,6 +3521,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Tyrone",2020-11-20,563,572
 "Yellow Vest Ireland Tyrone",2020-11-29,562,571
 "Yellow Vest Ireland Tyrone",2020-12-07,559,568
+"Yellow Vest Ireland Tyrone",2020-12-16,560,569
 "Yellow Vest Ireland Waterford",2020-10-09,861,889
 "Yellow Vest Ireland Waterford",2020-10-12,862,889
 "Yellow Vest Ireland Waterford",2020-10-19,864,891
@@ -3471,6 +3563,7 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Wexford",2020-12-02,3716,4197
 "Yellow Vest Ireland Wexford",2020-12-05,3713,4194
 "Yellow Vest Ireland Wexford",2020-12-13,3710,4190
+"Yellow Vest Ireland Wexford",2020-12-16,3710,4191
 "Yellow Vest Ireland Wicklow",2020-10-10,953,1028
 "Yellow Vest Ireland Wicklow",2020-10-16,963,1036
 "Yellow Vest Ireland Wicklow",2020-10-20,963,1037
@@ -3484,3 +3577,4 @@ Fine Gael,2020-12-15,41085,42829
 "Yellow Vest Ireland Wicklow",2020-11-29,973,1047
 "Yellow Vest Ireland Wicklow",2020-12-06,973,1045
 "Yellow Vest Ireland Wicklow",2020-12-13,976,1049
+"Yellow Vest Ireland Wicklow",2020-12-16,976,1049
