@@ -7,52 +7,6 @@
 "Aengus O Snodaigh",2020-10-29,8595,8745
 "Aengus O Snodaigh",2020-11-04,8602,8755
 "Aengus O Snodaigh",2020-11-12,8598,8752
-Holly Cairns,2020-12-19,7742,8215
-Aontu Limerick,2020-12-20,1787,1837
-Aontu Mayo,2020-12-20,489,524
-Aontu Luimnigh,2020-12-20,579,616
-Yellow Vest Ireland Armagh,2020-12-20,709,721
-Aontu Sligo-Leitrim,2020-12-20,502,531
-Aontu Aontroim,2020-12-20,448,486
-Aontu Loch Garman,2020-12-20,979,1015
-Aontu Cill Dara,2020-12-20,525,552
-Aontu Waterford - T.F Meagher Cumann,2020-12-20,501,542
-Aontu Connacht,2020-12-20,838,882
-Aontu Westmeath,2020-12-20,594,608
-Leo Varadkar,2020-12-20,90535,106581
-Fine Gael,2020-12-20,41128,42874
-Simon Coveney,2020-12-20,13937,14706
-Paschal Donohoe,2020-12-20,4672,4811
-Eamon Ryan,2020-12-20,7790,8010
-Eire Exposed,2020-12-20,2260,2350
-Freedom Watch Ireland,2020-12-20,740,763
-Dolores Cahill,2020-12-20,15989,31107
-Irish Freedom Party,2020-12-20,15095,15825
-Corruption Awareness Ireland,2020-12-20,36996,49932
-Niall McConnell,2020-12-20,7169,8646
-Gript Media,2020-12-20,24478,30567
-Christopher O'Sullivan,2020-12-19,3729,3985
-Dolores Cahill,2020-12-19,15921,31002
-Irish Freedom Party,2020-12-19,15084,15814
-Verona Murphy,2020-12-19,10648,11116
-Yellow Vest Ireland Armagh,2020-12-19,709,721
-Conservative Comeback Ireland,2020-12-19,1036,1055
-The Irexiteer,2020-12-19,839,871
-Dublin Republicans Against Fascism,2020-12-19,1002,1057
-Irish Patriot Movement,2020-12-19,9248,9892
-Corruption Awareness Ireland,2020-12-19,36941,49868
-Anti Corruption Ireland,2020-12-19,3453,4661
-Rebel Politico,2020-12-19,2850,2990
-Grand Torino,2020-12-19,8608,11419
-Rebel Politico,2020-12-19,13603,14398
-Yellow Vest Ireland,2020-12-19,51302,57296
-Call For A Revolution,2020-12-19,1148,1169
-Rebecca Barrett,2020-12-19,365,383
-Antifa Watch Ireland,2020-12-19,1257,1294
-Michael McNamara,2020-12-19,12771,15226
-Support to Dr Martin Feeley,2020-12-19,1509,1736
-Cork Social Democrats,2020-12-19,533,568
-Social Democrats Galway East,2020-12-19,312,324
 "Aengus O Snodaigh",2020-11-19,8604,8761
 "Aengus O Snodaigh",2020-11-29,8611,8770
 "Aengus O Snodaigh",2020-12-05,8617,8779
@@ -174,6 +128,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Anti-Globalism Ireland",2020-11-29,516,523
 "Anti-Globalism Ireland",2020-12-05,515,522
 "Anti-Globalism Ireland",2020-12-11,513,519
+"Anti Corruption Ireland",2020-12-19,3453,4661
 "Anti Eviction Taskforce Galway",2020-12-02,1395,1428
 "Anti Eviction Taskforce Galway",2020-12-09,1404,1437
 "Anti Eviction Taskforce Galway",2020-12-16,1407,1441
@@ -191,6 +146,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Antifa Watch Ireland",2020-11-29,1264,1300
 "Antifa Watch Ireland",2020-12-05,1259,1294
 "Antifa Watch Ireland",2020-12-11,1259,1296
+"Antifa Watch Ireland",2020-12-19,1257,1294
 "Aodhan O Riordain",2020-10-04,18924,19389
 "Aodhan O Riordain",2020-10-09,18925,19393
 "Aodhan O Riordain",2020-10-13,18922,19388
@@ -233,7 +189,10 @@ Social Democrats Galway East,2020-12-19,312,324
 "Aontu",2020-12-09,11574,12112
 "Aontu",2020-12-15,11595,12130
 "Aontu",2020-12-18,11602,12136
+"Aontu Aontroim",2020-12-20,448,486
+"Aontu Cill Dara",2020-12-20,525,552
 "Aontu Connacht",2020-12-15,838,883
+"Aontu Connacht",2020-12-20,838,882
 "Aontu Cork",2020-10-26,1942,2026
 "Aontu Cork",2020-11-01,1939,2023
 "Aontu Cork",2020-11-06,1939,2023
@@ -260,10 +219,13 @@ Social Democrats Galway East,2020-12-19,312,324
 "Aontu Limerick",2020-12-05,1673,1715
 "Aontu Limerick",2020-12-11,1719,1762
 "Aontu Limerick",2020-12-15,577,614
+"Aontu Limerick",2020-12-20,1787,1837
 "Aontu Loch Garman",2020-12-07,980,1016
 "Aontu Loch Garman",2020-12-16,979,1015
+"Aontu Loch Garman",2020-12-20,979,1015
 "Aontu Louth",2020-12-07,250,256
 "Aontu Louth",2020-12-16,256,262
+"Aontu Luimnigh",2020-12-20,579,616
 "Aontu Mayo",2020-10-26,440,463
 "Aontu Mayo",2020-11-01,443,467
 "Aontu Mayo",2020-11-06,446,472
@@ -272,8 +234,12 @@ Social Democrats Galway East,2020-12-19,312,324
 "Aontu Mayo",2020-12-01,475,510
 "Aontu Mayo",2020-12-08,481,516
 "Aontu Mayo",2020-12-15,484,519
+"Aontu Mayo",2020-12-20,489,524
 "Aontu Sligo-Leitrim",2020-12-07,503,530
 "Aontu Sligo-Leitrim",2020-12-15,502,531
+"Aontu Sligo-Leitrim",2020-12-20,502,531
+"Aontu Waterford - T.F Meagher Cumann",2020-12-20,501,542
+"Aontu Westmeath",2020-12-20,594,608
 "Barry Andrews",2020-10-25,1430,1464
 "Barry Andrews",2020-11-01,1432,1468
 "Barry Andrews",2020-11-06,1433,1469
@@ -439,6 +405,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Call For A Revolution",2020-12-03,1120,1140
 "Call For A Revolution",2020-12-09,1141,1161
 "Call For A Revolution",2020-12-11,1142,1162
+"Call For A Revolution",2020-12-19,1148,1169
 "Carol Nolan",2020-10-13,3177,3224
 "Carol Nolan",2020-10-19,3176,3223
 "Carol Nolan",2020-10-25,3175,3223
@@ -542,6 +509,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Christopher O'Sullivan",2020-12-05,3705,3949
 "Christopher O'Sullivan",2020-12-11,3720,3969
 "Christopher O'Sullivan",2020-12-11,3720,3968
+"Christopher O'Sullivan",2020-12-19,3729,3985
 "Cian O'Callaghan",2020-12-11,2263,2409
 "Ciaran Cannon",2020-12-11,5001,5070
 "Ciaran Cuffe",2020-10-11,2067,2122
@@ -630,8 +598,10 @@ Social Democrats Galway East,2020-12-19,312,324
 "Conservative Comeback Ireland",2020-11-29,1040,1059
 "Conservative Comeback Ireland",2020-12-05,1040,1059
 "Conservative Comeback Ireland",2020-12-11,1038,1057
+"Conservative Comeback Ireland",2020-12-19,1036,1055
 "Constitution Of Ireland Trust",2020-12-17,5580,6283
 "Cork Social Democrats",2020-12-12,529,565
+"Cork Social Democrats",2020-12-19,533,568
 "Cormac Devlin",2020-12-11,3010,3206
 "Corruption Awareness Ireland",2020-09-26,22121,26671
 "Corruption Awareness Ireland",2020-09-28,22664,27403
@@ -686,6 +656,8 @@ Social Democrats Galway East,2020-12-19,312,324
 "Corruption Awareness Ireland",2020-12-10,36773,49632
 "Corruption Awareness Ireland",2020-12-15,36903,49813
 "Corruption Awareness Ireland",2020-12-18,36932,49858
+"Corruption Awareness Ireland",2020-12-19,36941,49868
+"Corruption Awareness Ireland",2020-12-20,36996,49932
 "Cronyism and Corruption",2020-11-19,1814,1846
 "Cronyism and Corruption",2020-11-26,1817,1849
 "Cronyism and Corruption",2020-12-02,1817,1849
@@ -847,6 +819,8 @@ Social Democrats Galway East,2020-12-19,312,324
 "Dolores Cahill",2020-12-15,15692,30622
 "Dolores Cahill",2020-12-17,15757,30749
 "Dolores Cahill",2020-12-18,15851,30885
+"Dolores Cahill",2020-12-19,15921,31002
+"Dolores Cahill",2020-12-20,15989,31107
 "Donegal Sinn Fein",2020-09-20,11709,11803
 "Donegal Sinn Fein",2020-09-24,11708,11802
 "Donegal Sinn Fein",2020-09-28,11745,11839
@@ -874,6 +848,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Dublin Republicans Against Fascism",2020-12-01,1004,1059
 "Dublin Republicans Against Fascism",2020-12-08,1003,1060
 "Dublin Republicans Against Fascism",2020-12-14,1003,1059
+"Dublin Republicans Against Fascism",2020-12-19,1002,1057
 "Dun Laoghaire Fine Gael",2020-11-18,800,841
 "Dun Laoghaire Fine Gael",2020-11-29,800,842
 "Dun Laoghaire Fine Gael",2020-12-08,800,842
@@ -913,6 +888,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Eamon Ryan",2020-12-07,7771,7991
 "Eamon Ryan",2020-12-11,7780,8000
 "Eamon Ryan",2020-12-12,7781,8001
+"Eamon Ryan",2020-12-20,7790,8010
 "Eileen Flynn",2020-10-13,2014,2132
 "Eileen Flynn",2020-10-19,2040,2162
 "Eileen Flynn",2020-10-25,2056,2180
@@ -935,6 +911,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Eire Exposed",2020-12-05,2224,2314
 "Eire Exposed",2020-12-06,2224,2314
 "Eire Exposed",2020-12-13,2237,2327
+"Eire Exposed",2020-12-20,2260,2350
 "Eirigi",2020-09-20,29268,29129
 "Eirigi",2020-09-24,29304,29169
 "Eirigi",2020-09-27,29316,29181
@@ -1037,6 +1014,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Fine Gael",2020-12-07,41086,42826
 "Fine Gael",2020-12-15,41085,42829
 "Fine Gael",2020-12-18,41104,42849
+"Fine Gael",2020-12-20,41128,42874
 "Fintan Warfield",2020-10-11,3989,4066
 "Fintan Warfield",2020-10-17,3989,4066
 "Fintan Warfield",2020-10-23,3989,4066
@@ -1101,6 +1079,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Freedom Watch Ireland",2020-12-06,742,765
 "Freedom Watch Ireland",2020-12-14,740,763
 "Freedom Watch Ireland",2020-12-15,740,763
+"Freedom Watch Ireland",2020-12-20,740,763
 "Gabrielle McFadden",2020-12-16,0,0
 "Gary Gannon",2020-09-18,3139,3241
 "Gary Gannon",2020-09-20,3139,3242
@@ -1202,6 +1181,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Grand Torino",2020-12-05,8505,11262
 "Grand Torino",2020-12-06,8518,11275
 "Grand Torino",2020-12-09,8555,11342
+"Grand Torino",2020-12-19,8608,11419
 "Green Party",2020-09-12,NA,17983
 "Green Party",2020-09-15,17259,18026
 "Green Party",2020-09-18,17290,18057
@@ -1268,6 +1248,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Gript Media",2020-12-04,24387,30491
 "Gript Media",2020-12-09,24423,30521
 "Gript Media",2020-12-12,24423,30518
+"Gript Media",2020-12-20,24478,30567
 "Hazel Chu",2020-09-15,778,828
 "Hazel Chu",2020-09-19,784,836
 "Hazel Chu",2020-09-20,785,837
@@ -1346,6 +1327,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Holly Cairns",2020-12-04,7631,8099
 "Holly Cairns",2020-12-07,7682,8153
 "Holly Cairns",2020-12-11,7701,8172
+"Holly Cairns",2020-12-19,7742,8215
 "Ian Marshall",2020-12-16,0,0
 "Imelda Munster",2020-10-04,4297,4399
 "Imelda Munster",2020-10-09,4298,4400
@@ -1505,6 +1487,8 @@ Social Democrats Galway East,2020-12-19,312,324
 "Irish Freedom Party",2020-12-15,15043,15773
 "Irish Freedom Party",2020-12-16,15046,15777
 "Irish Freedom Party",2020-12-17,15054,15785
+"Irish Freedom Party",2020-12-19,15084,15814
+"Irish Freedom Party",2020-12-20,15095,15825
 "Irish Inquiry",2020-10-09,3562,5048
 "Irish Inquiry",2020-10-14,3683,5204
 "Irish Inquiry",2020-10-16,3723,5265
@@ -1530,6 +1514,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Irish Patriot Movement",2020-12-05,9250,9892
 "Irish Patriot Movement",2020-12-06,9251,9893
 "Irish Patriot Movement",2020-12-14,9252,9896
+"Irish Patriot Movement",2020-12-19,9248,9892
 "Irish vaccination awareness",2020-11-10,4045,4331
 "Irish vaccination awareness",2020-11-15,4049,4338
 "Irish vaccination awareness",2020-11-19,4064,4354
@@ -1752,6 +1737,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Leo Varadkar",2020-12-07,90497,106508
 "Leo Varadkar",2020-12-12,90498,106531
 "Leo Varadkar",2020-12-13,90510,106546
+"Leo Varadkar",2020-12-20,90535,106581
 "Liadh Ni Riada",2020-10-01,8532,8620
 "Liadh Ni Riada",2020-10-06,8529,8619
 "Liadh Ni Riada",2020-10-12,8526,8616
@@ -1845,7 +1831,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Mairead Farrell",2020-11-24,11935,12347
 "Mairead Farrell",2020-12-01,12022,12432
 "Mairead Farrell",2020-12-09,12257,12670
-"MairÃ©ad Farrell",2020-12-13,12258,12669
+"Mairéad Farrell",2020-12-13,12258,12669
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
@@ -2095,6 +2081,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Michael McNamara",2020-12-07,12716,15167
 "Michael McNamara",2020-12-09,12716,15170
 "Michael McNamara",2020-12-13,12732,15186
+"Michael McNamara",2020-12-19,12771,15226
 "Michael Moynihan",2020-12-13,5108,5620
 "Michael Pidgeon",2020-10-30,423,460
 "Michael Pidgeon",2020-11-05,424,461
@@ -2276,6 +2263,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Niall McConnell",2020-12-09,7113,8584
 "Niall McConnell",2020-12-16,7143,8617
 "Niall McConnell",2020-12-18,7154,8629
+"Niall McConnell",2020-12-20,7169,8646
 "Niall O Donnghaile",2020-12-16,2109,2267
 "Niamh Smyth",2020-12-06,8965,9196
 "Niamh Smyth",2020-12-13,8965,9204
@@ -2544,31 +2532,32 @@ Social Democrats Galway East,2020-12-19,312,324
 "Padraig Mac Lochlainn",2020-12-13,14206,14582
 "Padraig Mac Lochlainn",2020-12-16,14209,14585
 "Padraig O'Sullivan",2020-12-13,3558,3804
-"Padraig O CÃ©idigh",2020-12-16,1309,1316
+"Padraig O Céidigh",2020-12-16,1309,1316
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Paschal Donohoe",2020-10-01,4481,4608
 "Paschal Donohoe",2020-10-06,4486,4613
 "Paschal Donohoe",2020-10-12,4504,4632
+"Paschal Donohoe",2020-10-15,4557,4692
 "Paschal Donohoe",2020-10-19,4569,4704
+"Paschal Donohoe",2020-10-21,4575,4711
 "Paschal Donohoe",2020-10-24,4583,4720
 "Paschal Donohoe",2020-10-26,4581,4718
+"Paschal Donohoe",2020-10-30,4591,4728
 "Paschal Donohoe",2020-11-04,4598,4736
+"Paschal Donohoe",2020-11-05,4602,4739
 "Paschal Donohoe",2020-11-09,4607,4743
+"Paschal Donohoe",2020-11-17,4617,4755
 "Paschal Donohoe",2020-11-18,4620,4758
 "Paschal Donohoe",2020-11-22,4624,4762
+"Paschal Donohoe",2020-11-25,4630,4768
 "Paschal Donohoe",2020-11-30,4645,4783
+"Paschal Donohoe",2020-12-02,4647,4785
 "Paschal Donohoe",2020-12-08,4655,4795
+"Paschal Donohoe",2020-12-09,4655,4795
 "Paschal Donohoe",2020-12-12,4661,4801
 "Paschal Donohoe",2020-12-13,4661,4801
-"Paschal Donohoe",2020-10-15,4557,4692
-"Paschal Donohoe",2020-10-21,4575,4711
-"Paschal Donohoe",2020-10-30,4591,4728
-"Paschal Donohoe",2020-11-05,4602,4739
-"Paschal Donohoe",2020-11-17,4617,4755
-"Paschal Donohoe",2020-11-25,4630,4768
-"Paschal Donohoe",2020-12-02,4647,4785
-"Paschal Donohoe",2020-12-09,4655,4795
+"Paschal Donohoe",2020-12-20,4672,4811
 "Pat Buckley",2020-12-13,3282,3475
 "Patricia Ryan",2020-12-13,2404,2504
 "Patrick Costello",2020-09-20,723,765
@@ -2647,7 +2636,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Peadar Toibin",2020-12-03,11660,12016
 "Peadar Toibin",2020-12-07,11749,12107
 "Peadar Toibin",2020-12-15,11765,12125
-"Peadar TÃ³ibin",2020-12-13,11764,12124
+"Peadar Tóibin",2020-12-13,11764,12124
 "Pearse Doherty",2020-09-20,71689,77709
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
@@ -2725,7 +2714,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Precious Life",2020-12-09,28568,28583
 "Precious Life",2020-12-16,28593,28607
 "Ray Butler",2020-12-16,3741,3750
-"RÃ©ada Cronin",2020-12-13,2252,2362
+"Réada Cronin",2020-12-13,2252,2362
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
@@ -2738,6 +2727,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Reality Ireland",2020-11-25,7009,7066
 "Reality Ireland",2020-12-03,7011,7070
 "Reality Ireland",2020-12-11,7022,7083
+"Rebecca Barrett",2020-12-19,365,383
 "Rebecca Moynihan",2020-10-11,813,894
 "Rebecca Moynihan",2020-10-18,827,908
 "Rebecca Moynihan",2020-10-24,844,926
@@ -2765,6 +2755,8 @@ Social Democrats Galway East,2020-12-19,312,324
 "Rebel Politico",2020-12-05,2832,2968
 "Rebel Politico",2020-12-13,2841,2977
 "Rebel Politico",2020-12-15,2843,2981
+"Rebel Politico",2020-12-19,2850,2990
+"Rebel Politico",2020-12-19,13603,14398
 "Regina Doherty",2020-10-13,9428,9682
 "Regina Doherty",2020-10-19,9443,9704
 "Regina Doherty",2020-10-26,9451,9723
@@ -2889,10 +2881,10 @@ Social Democrats Galway East,2020-12-19,312,324
 "Ronan Mullen",2020-11-28,3608,3655
 "Ronan Mullen",2020-12-05,3612,3660
 "Ronan Mullen",2020-12-13,3617,3665
-"RÃ³nan Mullen",2020-12-16,3616,3663
+"Rónan Mullen",2020-12-16,3616,3663
 "Rose Conway-Walsh",2020-12-13,11116,11702
 "Rose Conway-Walsh",2020-12-16,0,0
-"Ruairi O MurchÃº",2020-12-13,4921,5302
+"Ruairi O Murchú",2020-12-13,4921,5302
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-07,5305,5430
 "Saoirse McHugh",2020-10-13,5296,5420
@@ -2977,6 +2969,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Simon Coveney",2020-12-08,13889,14645
 "Simon Coveney",2020-12-12,13908,14667
 "Simon Coveney",2020-12-13,13908,14668
+"Simon Coveney",2020-12-20,13937,14706
 "Simon Harris",2020-09-15,28808,30084
 "Simon Harris",2020-09-21,28915,30200
 "Simon Harris",2020-09-22,28930,30221
@@ -3065,6 +3058,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Social Democrats",2020-12-10,10668,10881
 "Social Democrats",2020-12-12,10673,10887
 "Social Democrats",2020-12-18,10675,10890
+"Social Democrats Galway East",2020-12-19,312,324
 "Social Democrats Limerick City",2020-11-22,348,363
 "Social Democrats Limerick City",2020-11-28,348,363
 "Social Democrats Limerick City",2020-12-05,349,364
@@ -3121,6 +3115,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Support to Dr Martin Feeley",2020-12-05,1462,1690
 "Support to Dr Martin Feeley",2020-12-10,1463,1691
 "Support to Dr Martin Feeley",2020-12-12,1485,1713
+"Support to Dr Martin Feeley",2020-12-19,1509,1736
 "Terry Leyden",2020-12-16,0,0
 "The Beacon",2020-10-31,1405,1622
 "The Beacon",2020-11-06,1405,1623
@@ -3145,6 +3140,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "The Irexiteer",2020-11-30,806,840
 "The Irexiteer",2020-12-05,810,844
 "The Irexiteer",2020-12-13,827,860
+"The Irexiteer",2020-12-19,839,871
 "TheLiberal.ie",2020-09-15,542526,548189
 "TheLiberal.ie",2020-09-19,542777,548481
 "TheLiberal.ie",2020-09-24,542827,548544
@@ -3227,6 +3223,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Verona Murphy",2020-12-07,10391,10849
 "Verona Murphy",2020-12-09,10394,10854
 "Verona Murphy",2020-12-13,10424,10885
+"Verona Murphy",2020-12-19,10648,11116
 "Victor Boyhan",2020-12-16,0,0
 "Vincent P. Martin",2020-10-13,764,835
 "Vincent P. Martin",2020-10-20,764,838
@@ -3334,6 +3331,7 @@ Social Democrats Galway East,2020-12-19,312,324
 "Yellow Vest Ireland",2020-12-09,51240,57231
 "Yellow Vest Ireland",2020-12-15,51241,57232
 "Yellow Vest Ireland",2020-12-18,51257,57248
+"Yellow Vest Ireland",2020-12-19,51302,57296
 "Yellow Vest Ireland Antrim",2020-10-30,569,581
 "Yellow Vest Ireland Antrim",2020-11-05,573,585
 "Yellow Vest Ireland Antrim",2020-11-14,574,586
@@ -3355,6 +3353,8 @@ Social Democrats Galway East,2020-12-19,312,324
 "Yellow Vest Ireland Armagh",2020-12-05,709,722
 "Yellow Vest Ireland Armagh",2020-12-10,709,721
 "Yellow Vest Ireland Armagh",2020-12-13,709,721
+"Yellow Vest Ireland Armagh",2020-12-19,709,721
+"Yellow Vest Ireland Armagh",2020-12-20,709,721
 "Yellow Vest Ireland Carlow",2020-10-09,1192,1234
 "Yellow Vest Ireland Carlow",2020-10-12,1193,1235
 "Yellow Vest Ireland Carlow",2020-10-19,1194,1236
