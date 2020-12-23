@@ -707,26 +707,26 @@
 "Daily Ireland",2020-12-18,30316,32200
 "Damien English",2020-12-11,4665,4804
 "Damien English",2020-12-23,4681,4823
-"Dannie Healy-Rae",2020-09-12,NA,14764
-"Dannie Healy-Rae",2020-09-16,12849,14791
-"Dannie Healy-Rae",2020-09-20,12852,14795
-"Dannie Healy-Rae",2020-09-24,12856,14807
-"Dannie Healy-Rae",2020-09-28,12856,14812
-"Dannie Healy-Rae",2020-10-04,12873,14848
-"Dannie Healy-Rae",2020-10-06,12891,14869
-"Dannie Healy-Rae",2020-10-09,12926,14911
-"Dannie Healy-Rae",2020-10-11,12936,14926
-"Dannie Healy-Rae",2020-10-14,12951,14955
-"Dannie Healy-Rae",2020-10-17,12982,15003
-"Dannie Healy-Rae",2020-10-20,12998,15030
-"Dannie Healy-Rae",2020-10-23,13041,15110
-"Dannie Healy-Rae",2020-10-27,13177,15277
-"Dannie Healy-Rae",2020-10-30,13191,15311
-"Dannie Healy-Rae",2020-11-04,13297,15468
-"Dannie Healy-Rae",2020-11-16,13350,15564
-"Dannie Healy-Rae",2020-11-24,13365,15516
-"Dannie Healy-Rae",2020-12-03,13394,15667
-"Dannie Healy-Rae",2020-12-11,13411,15696
+"Danny Healy-Rae",2020-09-12,NA,14764
+"Danny Healy-Rae",2020-09-16,12849,14791
+"Danny Healy-Rae",2020-09-20,12852,14795
+"Danny Healy-Rae",2020-09-24,12856,14807
+"Danny Healy-Rae",2020-09-28,12856,14812
+"Danny Healy-Rae",2020-10-04,12873,14848
+"Danny Healy-Rae",2020-10-06,12891,14869
+"Danny Healy-Rae",2020-10-09,12926,14911
+"Danny Healy-Rae",2020-10-11,12936,14926
+"Danny Healy-Rae",2020-10-14,12951,14955
+"Danny Healy-Rae",2020-10-17,12982,15003
+"Danny Healy-Rae",2020-10-20,12998,15030
+"Danny Healy-Rae",2020-10-23,13041,15110
+"Danny Healy-Rae",2020-10-27,13177,15277
+"Danny Healy-Rae",2020-10-30,13191,15311
+"Danny Healy-Rae",2020-11-04,13297,15468
+"Danny Healy-Rae",2020-11-16,13350,15564
+"Danny Healy-Rae",2020-11-24,13365,15516
+"Danny Healy-Rae",2020-12-03,13394,15667
+"Danny Healy-Rae",2020-12-11,13411,15696
 "Danny Healy-Rae",2020-12-11,13410,15695
 "Danny Healy-Rae",2020-12-23,13438,15732
 "Dara Calleary",2020-12-11,8587,9201
@@ -1876,6 +1876,7 @@
 "Lynn Ruane",2020-12-01,5631,5730
 "Lynn Ruane",2020-12-09,5639,5738
 "Lynn Ruane",2020-12-16,5649,5748
+"Mair<e9>ad Farrell",2020-12-13,12258,12669
 "Maire Devine",2020-12-16,237,250
 "Mairead Farrell",2020-10-13,11354,11734
 "Mairead Farrell",2020-10-19,11403,11788
@@ -1888,7 +1889,6 @@
 "Mairead Farrell",2020-12-01,12022,12432
 "Mairead Farrell",2020-12-09,12257,12670
 "Mairead Farrell",2020-12-22,12316,12726
-"Mairéad Farrell",2020-12-13,12258,12669
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
@@ -2609,7 +2609,7 @@
 "Padraig Mac Lochlainn",2020-12-16,14209,14585
 "Padraig O'Sullivan",2020-12-13,3558,3804
 "Padraig O'Sullivan",2020-12-23,3561,3809
-"Padraig O Céidigh",2020-12-16,1309,1316
+"Padraig O C<e9>idigh",2020-12-16,1309,1316
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Paschal Donohoe",2020-10-01,4481,4608
@@ -2696,6 +2696,7 @@
 "Paul Murphy",2020-12-11,46340,52233
 "Paul Murphy",2020-12-13,46358,52251
 "Pauline Tully",2020-12-13,2114,2225
+"Peadar T<f3>ibin",2020-12-13,11764,12124
 "Peadar Toibin",2020-09-12,NA,11251
 "Peadar Toibin",2020-09-15,10957,11253
 "Peadar Toibin",2020-09-19,10969,11266
@@ -2717,7 +2718,6 @@
 "Peadar Toibin",2020-12-03,11660,12016
 "Peadar Toibin",2020-12-07,11749,12107
 "Peadar Toibin",2020-12-15,11765,12125
-"Peadar Tóibin",2020-12-13,11764,12124
 "Pearse Doherty",2020-09-20,71689,77709
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
@@ -2796,8 +2796,9 @@
 "Precious Life",2020-12-01,28532,28543
 "Precious Life",2020-12-09,28568,28583
 "Precious Life",2020-12-16,28593,28607
+"R<e9>ada Cronin",2020-12-13,2252,2362
+"R<f3>nan Mullen",2020-12-16,3616,3663
 "Ray Butler",2020-12-16,3741,3750
-"Réada Cronin",2020-12-13,2252,2362
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
@@ -2965,10 +2966,9 @@
 "Ronan Mullen",2020-11-28,3608,3655
 "Ronan Mullen",2020-12-05,3612,3660
 "Ronan Mullen",2020-12-13,3617,3665
-"Rónan Mullen",2020-12-16,3616,3663
 "Rose Conway-Walsh",2020-12-13,11116,11702
 "Rose Conway-Walsh",2020-12-16,0,0
-"Ruairi O Murchú",2020-12-13,4921,5302
+"Ruairi O Murch<fa>",2020-12-13,4921,5302
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-07,5305,5430
 "Saoirse McHugh",2020-10-13,5296,5420
