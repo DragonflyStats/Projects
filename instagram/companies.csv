@@ -18,7 +18,7 @@
 "dataquestio",2020-12-04,85,8422
 "dataquestio",2020-12-13,85,8498
 "dataquestio",2020-12-18,85,8597
-"DataQuestio",2020-12-03,84,8378
+"dataquestio",2020-12-03,84,8378
 "datasciconf",2020-12-13,213,611
 "Girls Who Code",2020-12-13,1787,170000
 "Girls Who Code",2020-12-27,1788,171000
@@ -28,10 +28,10 @@
 "Julia Language",2020-12-13,49,514
 "Julia Language",2020-12-27,54,547
 "Major League Hacking",2020-12-13,177,6663
-"ML Hacks",2020-12-27,187,6773
-"numfocus",2020-11-28,1,106
-"numfocus",2020-12-01,1,106
-"numfocus",2020-12-06,1,108
+"Major League Hacking",2020-12-27,187,6773
+"Numfocus",2020-11-28,1,106
+"Numfocus",2020-12-01,1,106
+"Numfocus",2020-12-06,1,108
 "Numfocus",2020-12-03,1,107
 "Numfocus",2020-12-13,1,112
 "ODSC",2020-11-28,176,2456
@@ -45,9 +45,9 @@
 "pluralsight",2020-12-18,920,42200
 "PWC Poland",2020-11-25,520,3450
 "Pycon Africa",2020-12-13,8,57
-"pyconafrica",2020-11-28,8,57
-"pyconafrica",2020-12-01,8,57
-"pyconafrica",2020-12-03,8,57
+"Pycon Africa",2020-11-28,8,57
+"Pycon Africa",2020-12-01,8,57
+"Pycon Africa",2020-12-03,8,57
 "R-Ladies Ankara",2020-11-28,23,477
 "R-Ladies Tunis",2020-11-28,125,461
 "R-Ladies Tunis",2020-12-01,126,464
@@ -62,13 +62,13 @@
 "R Ladies Global",2020-12-06,93,1524
 "R Ladies Global",2020-12-27,93,1547
 "R Ladies Tunis",2020-12-06,127,477
-"RLadies Global",2020-12-03,93,1516
-"RLadies Global",2020-12-18,93,1538
-"RLadies Tunis",2020-12-03,127,467
-"RLadies Tunis",2020-12-13,129,486
-"rladiesglobal",2020-11-28,93,1502
-"Rstudio",2020-12-18,66,4487
-"RStudio",2020-12-27,66,4493
+"R Ladies Global",2020-12-03,93,1516
+"R Ladies Global",2020-12-18,93,1538
+"R Ladies Tunis",2020-12-03,127,467
+"R Ladies Tunis",2020-12-13,129,486
+"R Ladies Global",2020-11-28,93,1502
+"Rstudio PBC",2020-12-18,66,4487
+"RStudio PBC",2020-12-27,66,4493
 "Rstudio PBC",2020-12-01,66,4453
 "Rstudio PBC",2020-12-06,66,4474
 "RStudio PBC",2020-11-25,66,4440
@@ -82,9 +82,9 @@
 "Why R? Conference",2020-12-03,2,101
 "Why R? Conference",2020-12-06,3,119
 "Why R? Conference",2020-12-13,3,125
-"whyrconf",2020-11-28,1,44
-"whyrconf",2020-12-18,4,126
-"Whyrconf",2020-12-01,1,77
+"Why R? Conference",2020-11-28,1,44
+"Why R? Conference",2020-12-18,4,126
+"Why R? Conference",2020-12-01,1,77
 "WIA Community",2020-12-06,194,811
 "WIMLDS",2020-12-01,137,705
 "Women In Big Data Global",2020-12-06,81,974
