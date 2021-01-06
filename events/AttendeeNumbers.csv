@@ -1,4 +1,6 @@
 "Event","Date","Time","Attendees"
+" Fully Managed IHM Maintenance",2021-01-06,2021-01-06 19:42:02,176
+" Panel 2: Data Science Education Policy Support",2021-01-06,2021-01-06 19:42:02,187
 """So...What's Next?"" CIOs Outlook For Tech 2021",2021-01-04,NA,545
 """So...What's Next?"" CIOs Outlook For Tech 2021",2021-01-04,2021-01-04 22:13:24,546
 """So...What's Next?"" CIOs Outlook For Tech 2021",2021-01-05,2021-01-05 01:00:51,546
@@ -16,7 +18,9 @@
 "(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-01-05,2021-01-05 19:06:04,3070
 "(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-01-05,2021-01-05 23:22:53,3075
 "(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-01-06,2021-01-06 09:50:53,3078
+"(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP®) ",2021-01-06,2021-01-06 19:31:00,3093
 "(Virtual) Networking Night for Young Professionals",2021-01-05,2021-01-05 20:14:07,61
+"(Virtual) Networking Night for Young Professionals",2021-01-06,2021-01-06 19:15:53,61
 "*Ep.1* Accelerating Digital Transformation: Embracing Business Disruption",2021-01-05,2021-01-05 10:51:31,265
 "*Ep.1* Accelerating Digital Transformation: Embracing Business Disruption",2021-01-06,2021-01-06 14:05:45,268
 "[Free Webinar] Digital Transformation of SMEs in the 5G Era",2021-01-05,2021-01-05 10:51:31,77
@@ -28,14 +32,18 @@
 "[LIVE-SESSION] The digital future is now - let<U+0092>s shape it | Telekom & Bosch",2021-01-05,2021-01-05 23:22:53,890
 "[LIVE-SESSION] The digital future is now - let<U+0092>s shape it | Telekom & Bosch",2021-01-06,2021-01-06 09:50:53,912
 "[LIVE-SESSION] The digital future is now - let<U+0092>s shape it | Telekom & Bosch",2021-01-06,2021-01-06 14:05:45,930
+"[LIVE-SESSION] The digital future is now - let’s shape it | Telekom & Bosch",2021-01-06,2021-01-06 19:42:02,948
 "<U+2728>Merry Christmas & Happy New Year 2021 at FEDE showroom<U+2728>",2021-01-05,2021-01-05 20:14:07,112
+"1/6 Drug development with a focus on the changing health care environment ",2021-01-06,2021-01-06 19:31:00,17
 "13th Annual ConvUrgentCare On-Demand Strategy Symposium",2021-01-06,2021-01-06 13:54:17,30
 "14th IEEE International Conference on Industry Applications (INDUSCON 21)",2021-01-04,2021-01-04 22:39:35,165
 "14th IEEE International Conference on Industry Applications (INDUSCON 21)",2021-01-05,2021-01-05 20:14:07,185
 "1st Nigeria Hydrocarbon Measurement Conference",2021-01-05,2021-01-05 20:14:07,408
+"1st Nigeria Hydrocarbon Measurement Conference",2021-01-06,2021-01-06 19:15:53,464
 "2 <e8>me Session des entretiens - Master Sp<e9>cialis<e9> Data Engineering-EHTP",2021-01-04,NA,129
 "2 <e8>me Session des entretiens - Master Sp<e9>cialis<e9> Data Engineering-EHTP",2021-01-04,2021-01-04 22:39:35,232
 "2 <e8>me Session des entretiens - Master Sp<e9>cialis<e9> Data Engineering-EHTP",2021-01-05,2021-01-05 20:14:07,306
+"2021 ASCEND Agency Growth & Leadership Conference ",2021-01-06,2021-01-06 19:15:53,527
 "2021 BioPharma eMarketing Virtual Summit",2021-01-04,NA,830
 "2021 BioPharma eMarketing Virtual Summit",2021-01-05,2021-01-05 01:00:51,854
 "2021 BioPharma eMarketing Virtual Summit",2021-01-05,2021-01-05 15:37:25,881
@@ -55,9 +63,15 @@
 "3rd World Congress On Drug Discovery And Development 2021",2021-01-04,NA,35
 "3rd World Congress On Drug Discovery And Development 2021",2021-01-04,2021-01-04 22:39:35,36
 "3rd World Congress On Drug Discovery And Development 2021",2021-01-05,2021-01-05 01:00:51,36
+"3rd World Congress On Drug Discovery And Development 2021",2021-01-06,2021-01-06 19:31:00,38
+"4th Annual Future of Medicine and Surgery Conference",2021-01-06,2021-01-06 19:42:02,162
+"5 Strategies to grow your business using Azure Cloud in 2021",2021-01-06,2021-01-06 19:35:26,42
+"5th Annual Ai Data Analytics and Insights Summit",2021-01-06,2021-01-06 19:15:53,22
 "6th Annual Innovation in Tunnels: Construction Maintenance Safety & Fire",2021-01-05,2021-01-05 13:42:12,336
 "6th Annual Innovation in Tunnels: Construction Maintenance Safety & Fire",2021-01-06,2021-01-06 13:54:17,338
+"6th Annual Oligonucleotide & Precision Therapeutics Congress 2021",2021-01-06,2021-01-06 19:31:00,39
 "8th Digital Leadership Forum 2021 - virtual edition",2021-01-05,2021-01-05 19:06:04,83
+"8th Digital Leadership Forum 2021 - virtual edition",2021-01-06,2021-01-06 19:15:53,83
 "A.R.I. Wednesday Webinar Series: Founders' Perspectives",2021-01-03,NA,99
 "A.R.I. Wednesday Webinar Series: Founders' Perspectives",2021-01-04,NA,99
 "A.R.I. Wednesday Webinar Series: Founders' Perspectives",2021-01-04,2021-01-04 22:13:24,101
@@ -67,6 +81,7 @@
 "A.R.I. Wednesday Webinar Series: Founders' Perspectives",2021-01-06,2021-01-06 09:50:53,107
 "A2Z Virtual 2021",2021-01-06,2021-01-06 14:05:45,878
 "AAPM Annual Meeting 2021 (AAPM2021)",2021-01-06,2021-01-06 09:50:53,1741
+"Accelerating Digital Transformation - Software Intelligence Forum",2021-01-06,2021-01-06 19:35:26,1627
 "Adopteq Webinars 2: Exposing Microsoft 365 and Teams Usage Analytics",2021-01-06,2021-01-06 13:54:17,102
 "Adopting Analytics Best Practices in Manufacturing Industry",2021-01-04,NA,29
 "Adopting Analytics Best Practices in Manufacturing Industry",2021-01-04,2021-01-04 22:39:35,29
@@ -112,6 +127,7 @@
 "AI & ML for Advanced Drug Discovery & Development 3rd Annual conference",2021-01-04,NA,10
 "AI & ML for Advanced Drug Discovery & Development 3rd Annual conference",2021-01-04,2021-01-04 22:39:35,10
 "AI & ML for Advanced Drug Discovery & Development 3rd Annual conference",2021-01-05,2021-01-05 01:00:51,11
+"AI & ML for Advanced Drug Discovery & Development 3rd Annual conference",2021-01-06,2021-01-06 19:31:00,11
 "AI Applications Virtual Summit",2021-01-05,2021-01-05 23:22:53,425
 "AI Applications Virtual Summit",2021-01-06,2021-01-06 14:05:45,425
 "AI Business Week",2021-01-04,NA,194
@@ -123,12 +139,14 @@
 "AI Champions Online - Supply Chain",2021-01-05,2021-01-05 10:51:31,2469
 "Ai Data Analytics and Insights Summit - Italy ONLINE Meeting",2021-01-04,NA,73
 "Ai Data Analytics and Insights Summit - Italy ONLINE Meeting",2021-01-05,2021-01-05 10:51:31,73
+"Ai Data Analytics and Insights Summit - Italy ONLINE Meeting ",2021-01-06,2021-01-06 19:15:53,73
 "AI Expo Africa 2021 ONLINE (7th-9th September)",2021-01-04,NA,424
 "AI Expo Africa 2021 ONLINE (7th-9th September)",2021-01-05,2021-01-05 10:51:31,440
 "AI Expo Africa 2021 ONLINE (7th-9th September)",2021-01-05,2021-01-05 23:22:53,450
 "AI Expo Africa 2021 ONLINE (7th-9th September)",2021-01-06,2021-01-06 09:50:53,453
 "AI Expo Africa 2021 ONLINE (7th-9th September)",2021-01-06,2021-01-06 14:05:45,456
 "AI for Sustainable Development Goals",2021-01-05,2021-01-05 01:00:51,445
+"AI in Pharma Biotech and Drug Discovery Industry 2020 ",2021-01-06,2021-01-06 19:31:00,1839
 "AI in Production: Combatting Banking Fraud in Real-Time",2021-01-04,NA,233
 "AI in Production: Combatting Banking Fraud in Real-Time",2021-01-05,2021-01-05 10:51:31,242
 "AI in Production: Combatting Banking Fraud in Real-Time",2021-01-05,2021-01-05 23:22:53,256
@@ -136,6 +154,7 @@
 "AI in Production: Combatting Banking Fraud in Real-Time",2021-01-06,2021-01-06 14:05:45,270
 "Alberta IoT Monthly Member Meeting - January",2021-01-05,2021-01-05 20:14:07,39
 "Alberta IoT Monthly Member Meeting - January",2021-01-06,2021-01-06 14:05:45,43
+"✨Merry Christmas & Happy New Year 2021 at FEDE showroom✨ ",2021-01-06,2021-01-06 19:15:53,112
 "API Design Step 1: Modeling your API",2021-01-04,NA,23
 "API Design Step 1: Modeling your API",2021-01-05,2021-01-05 16:42:15,28
 "Architecture Design & Development Summit 2021",2021-01-06,2021-01-06 14:05:45,2076
@@ -186,9 +205,11 @@
 "AZURE SQL Database Networking using Private Link and connecting with PAAS",2021-01-05,2021-01-05 20:14:07,2086
 "AZURE SQL Database Networking using Private Link and connecting with PAAS",2021-01-06,2021-01-06 13:54:17,2166
 "B2B Forum on SmartIndustry",2021-01-05,2021-01-05 01:21:37,122
+"B2B Forum on SmartIndustry",2021-01-06,2021-01-06 19:15:53,131
 "BackEnd Virtual Job Fair. Tech Career Connect",2021-01-06,2021-01-06 13:54:17,675
 "Beirut AI Bootcamp <U+0001F680>",2021-01-04,NA,63
 "Beirut AI Bootcamp <U+0001F680>",2021-01-05,2021-01-05 15:37:25,65
+"Beirut AI Bootcamp 🚀",2021-01-06,2021-01-06 19:31:00,70
 "BIG DATA ANALYTICS FOR BUSINESS MASTERCLASS TRAINING",2021-01-04,NA,195
 "BIG DATA ANALYTICS FOR BUSINESS MASTERCLASS TRAINING",2021-01-05,2021-01-05 09:55:01,200
 "BIG DATA ANALYTICS FOR BUSINESS MASTERCLASS TRAINING",2021-01-05,2021-01-05 10:51:31,202
@@ -199,6 +220,7 @@
 "BLOCKCHANCE EUROPE 2021 / Blockchain AI and Green Technology",2021-01-05,2021-01-05 10:51:31,458
 "BLOCKCHANCE EUROPE 2021 / Blockchain AI and Green Technology",2021-01-06,2021-01-06 14:05:45,471
 "Brexit and Beyond: Key Changes to Employment Law",2021-01-05,2021-01-05 20:14:07,13
+"Brexit and Beyond: Key Changes to Employment Law",2021-01-06,2021-01-06 19:31:00,14
 "BU Agile Innovation Lab 2021 Conference -Leading in a VUCA World",2021-01-06,2021-01-06 13:54:17,14
 "Bulletproof Your 2021",2021-01-05,2021-01-05 20:14:07,205
 "Business Data Analytics",2021-01-03,NA,803
@@ -223,6 +245,7 @@
 "Certified Artificial Intelligence Practitioner",2021-01-04,NA,59
 "Certified Artificial Intelligence Practitioner",2021-01-04,2021-01-04 21:36:47,59
 "Certified Artificial Intelligence Practitioner",2021-01-05,2021-01-05 19:06:04,59
+"Certified Artificial Intelligence Practitioner",2021-01-06,2021-01-06 19:31:00,59
 "Certified Data Scientist",2021-01-04,NA,11
 "Certified Data Scientist",2021-01-04,2021-01-04 22:13:24,11
 "Certified Data Scientist",2021-01-05,2021-01-05 01:00:51,11
@@ -234,6 +257,7 @@
 "CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT- <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-05,2021-01-05 23:22:53,757
 "CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT- <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-06,2021-01-06 09:50:53,758
 "CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT- <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-06,2021-01-06 14:05:45,761
+"CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT- 💯 % VIRTUAL & ONLINE ",2021-01-06,2021-01-06 19:42:02,762
 "Chicago Superconductor Cable Project.",2021-01-05,2021-01-05 19:06:04,806
 "CMAF FFT: To Infinity and Beyond: Forecasting with Dynamic Models",2021-01-06,2021-01-06 13:54:17,18
 "Codete Tech Talks with Cloudinary",2021-01-05,2021-01-05 20:14:07,19
@@ -291,6 +315,7 @@
 "Data Science & Artificial Intelligence Online Workshop",2021-01-06,2021-01-06 09:50:53,17
 "Data Science Interview Prep Group - NEW TIME",2021-01-05,2021-01-05 23:22:53,16
 "Data Science Interview Prep Group - NEW TIME",2021-01-06,2021-01-06 09:50:53,22
+"DataOps Champions Online",2021-01-06,2021-01-06 19:15:53,62
 "Deploy AI Customer Service in 4 Weeks (15 min One-on-One Session)",2021-01-05,2021-01-05 01:00:51,82
 "Derivatives Forum Frankfurt 2021 - virtual edition",2021-01-05,2021-01-05 19:06:04,3719
 "DeveloperWeek 2021",2021-01-05,2021-01-05 09:55:01,861
@@ -389,10 +414,12 @@
 "FRACTURE ANALYTICS - AGENDA 2021",2021-01-05,2021-01-05 09:55:01,245
 "FRACTURE ANALYTICS - AGENDA 2021",2021-01-05,2021-01-05 20:14:07,248
 "FRACTURE ANALYTICS - AGENDA 2021",2021-01-06,2021-01-06 13:54:17,251
+"Free Live Online Course Microsoft Azure Fundamentals Exam AZ-900 ",2021-01-06,2021-01-06 19:35:26,184
 "Free Training on Microsoft Azure AI-900 Fundamentals Certification (USA)",2021-01-05,2021-01-05 15:37:25,494
 "Free Training on Microsoft Azure DP-900 Fundamentals Certification (USA)",2021-01-05,2021-01-05 15:37:25,309
 "Free Training on PL-900: Microsoft Power Platform Fundamentals (USA)",2021-01-05,2021-01-05 15:37:25,367
 "Free Webinar - AZ-104 Azure Administrator",2021-01-05,2021-01-05 09:55:01,36
+"Free Webinar - AZ-104 Azure Administrator",2021-01-06,2021-01-06 19:35:26,51
 "Free Webinar ""e-Sports the unstoppable billion-dollar industry""",2021-01-05,2021-01-05 01:21:37,191
 "Free Webinar ""e-Sports the unstoppable billion-dollar industry""",2021-01-05,2021-01-05 15:37:25,201
 "Free Webinar ""e-Sports the unstoppable billion-dollar industry""",2021-01-05,2021-01-05 20:14:07,209
@@ -420,7 +447,9 @@
 "FREE Webinar | Microsoft Excel a Gateway to Analytics!",2021-01-06,2021-01-06 13:54:17,168
 "Free webinar | The Future of Surgery: Aspirations Challenges and Reality",2021-01-04,2021-01-04 22:39:35,75
 "Free webinar | The Future of Surgery: Aspirations Challenges and Reality",2021-01-05,2021-01-05 13:42:12,78
+"Free webinar | The Future of Surgery: Aspirations Challenges and Reality",2021-01-06,2021-01-06 19:42:02,91
 "Free Webinar e-Sports the unstoppable billion-dollar industry",2021-01-04,NA,184
+"FREE Webinar: Join the Data Science Squad & Learn from Experts!",2021-01-06,2021-01-06 19:42:02,13
 "Frictionless Data Science: Making the tools work for you!",2021-01-02,NA,333
 "Frictionless Data Science: Making the tools work for you!",2021-01-03,NA,349
 "Frictionless Data Science: Making the tools work for you!",2021-01-03,NA,363
@@ -502,16 +531,21 @@
 "Generative Models Stage - part of the Deep Learning 2.0 Virtual Summit",2021-01-04,2021-01-04 22:39:35,44
 "Generative Models Stage - part of the Deep Learning 2.0 Virtual Summit",2021-01-05,2021-01-05 16:42:15,45
 "Get to Know Joe",2021-01-04,NA,21
+"Get to Know Joe",2021-01-06,2021-01-06 19:31:00,51
 "Global Online Speed Networking 19 March 2021",2021-01-06,2021-01-06 13:54:17,39
 "Global Online Speed Networking 22 Jan 2021",2021-01-06,2021-01-06 13:54:17,207
 "Govern the Future Academy - Florida",2021-01-04,2021-01-04 22:39:35,109
 "Govern the Future Academy - Florida",2021-01-05,2021-01-05 13:42:12,110
+"Graduate 2021 Virtual Career Fair",2021-01-06,2021-01-06 19:31:00,1684
 "GRAIN TECH BANGLADESH - Online/Virtual Edition Exhibition & Conference",2021-01-04,NA,1517
 "GRAIN TECH BANGLADESH - Online/Virtual Edition Exhibition & Conference",2021-01-05,2021-01-05 19:06:04,1523
 "Graphite HRM Annual HR & Employment Law Conference 2021",2021-01-04,2021-01-04 22:39:35,588
 "Graphite HRM Annual HR & Employment Law Conference 2021",2021-01-05,2021-01-05 20:14:07,600
+"Greeks in Tech Live II",2021-01-06,2021-01-06 19:31:00,3334
+"GWS Open Innovation Jan Meetup Session 1",2021-01-06,2021-01-06 19:42:02,28
 "Harnessing the Power of Stream Processing: Adopting Apache Flink",2021-01-04,NA,14
 "Harnessing the Power of Stream Processing: Adopting Apache Flink",2021-01-04,2021-01-04 22:39:35,14
+"Harnessing the Power of Stream Processing: Adopting Apache Flink",2021-01-06,2021-01-06 19:31:00,15
 "Helix 2021",2021-01-06,2021-01-06 14:05:45,971
 "Heritage BIM benefits in Case Study Riga castle & education during pandemic",2021-01-05,2021-01-05 20:14:07,146
 "Hotel Trends & Strategies to Fast-Track Recovery in 2021",2021-01-06,2021-01-06 09:50:53,232
@@ -556,6 +590,7 @@
 "How to Run a Successful AI Startup",2021-01-06,2021-01-06 14:05:45,457
 "HR and Employment Law: The Post-Pandemic Workplace",2021-01-04,2021-01-04 22:39:35,3470
 "HR and Employment Law: The Post-Pandemic Workplace",2021-01-05,2021-01-05 20:14:07,3781
+"HR and Employment Law: The Post-Pandemic Workplace",2021-01-06,2021-01-06 19:31:00,4099
 "Human Resources Metrics and Analytics Master Class",2021-01-04,NA,417
 "Human Resources Metrics and Analytics Master Class",2021-01-04,2021-01-04 22:39:35,422
 "Human Resources Metrics and Analytics Master Class",2021-01-05,2021-01-05 09:55:01,451
@@ -582,6 +617,9 @@
 "Industrial Facilities Solutions From Aruba",2021-01-05,2021-01-05 19:06:04,91
 "Industrial Facilities Solutions From Aruba",2021-01-05,2021-01-05 23:22:53,92
 "Industrial Networks IIOT and Communications",2021-01-05,2021-01-05 20:14:07,58
+"Infomics Career 勉強会 『クライオ電子顕微鏡単粒子解析法による構造解析を用いたSBDD創薬』",2021-01-06,2021-01-06 19:31:00,40
+"Innovate Your Business Or Die",2021-01-06,2021-01-06 19:42:02,625
+"Innovation Olympics Open Innovation Summit 2021",2021-01-06,2021-01-06 19:42:02,311
 "InnovatorMD Global Summit 2021",2021-01-04,NA,3253
 "InnovatorMD Global Summit 2021",2021-01-05,2021-01-05 01:21:37,3343
 "InnovatorMD Global Summit 2021",2021-01-05,2021-01-05 10:51:31,3401
@@ -595,6 +633,7 @@
 "Intelligent Drug Design",2021-01-05,2021-01-05 23:22:53,39
 "Intelligent Drug Design",2021-01-06,2021-01-06 09:50:53,40
 "Interactive live stream: Investment Outlook 2021",2021-01-05,2021-01-05 20:14:07,93
+"Intergenerational Trauma Conference 2021- Virtual Event",2021-01-06,2021-01-06 19:31:00,1539
 "International Women's Day Virtual Summit",2021-01-04,NA,67
 "International Women's Day Virtual Summit",2021-01-05,2021-01-05 01:00:51,98
 "International Women's Day Virtual Summit",2021-01-06,2021-01-06 13:54:17,121
@@ -633,6 +672,7 @@
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-05,2021-01-05 23:22:53,170
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-06,2021-01-06 09:50:53,171
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-06,2021-01-06 14:05:45,174
+"J’s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-06,2021-01-06 19:42:02,174
 "January 13 Workshop: Pattern Recognition in Time Series Data",2021-01-04,NA,10
 "January 13 Workshop: Pattern Recognition in Time Series Data",2021-01-04,2021-01-04 22:13:24,11
 "January 13 Workshop: Pattern Recognition in Time Series Data",2021-01-05,2021-01-05 09:55:01,11
@@ -641,6 +681,7 @@
 "Join Perfect Corp. @CES 2021 to Discover The Latest Beauty Tech",2021-01-04,NA,43
 "Join Perfect Corp. @CES 2021 to Discover The Latest Beauty Tech",2021-01-05,2021-01-05 10:51:31,58
 "Join Perfect Corp. @CES 2021 to Discover The Latest Beauty Tech",2021-01-05,2021-01-05 23:22:53,63
+"Join Perfect Corp. @CES 2021 to Discover The Latest Beauty Tech",2021-01-06,2021-01-06 19:42:02,71
 "Join the ride - RocketX 2021",2021-01-05,2021-01-05 20:14:07,88
 "JP Morgan Health Week in Review",2021-01-06,2021-01-06 13:54:17,789
 "JuliaCon 2021 (free and virtual)",2021-01-04,NA,272
@@ -672,6 +713,7 @@
 "Kraftful at CES 2021",2021-01-06,2021-01-06 13:54:17,211
 "Leadership & Innovation in Changing Times - Bootcamp",2021-01-05,2021-01-05 13:42:12,1431
 "Leadership in the Digital Age - Pivot your business",2021-01-06,2021-01-06 13:54:17,24
+"Leadership in the Digital Age - Pivot your business ",2021-01-06,2021-01-06 19:15:53,25
 "Lean Six sigma Black Belt course (Training & Certification)",2021-01-04,2021-01-04 22:39:35,822
 "Lean Six sigma Black Belt course (Training & Certification)",2021-01-05,2021-01-05 01:00:51,823
 "Lean Six sigma Black Belt course (Training & Certification)",2021-01-05,2021-01-05 19:06:04,829
@@ -694,6 +736,7 @@
 "Machine Learning Canvas: LIVE DEMO",2021-01-05,2021-01-05 01:21:37,171
 "Machine Learning Canvas: LIVE DEMO",2021-01-05,2021-01-05 09:55:01,177
 "Machine Learning Canvas: LIVE DEMO",2021-01-05,2021-01-05 10:51:31,179
+"Machine Learning for Product Managers",2021-01-06,2021-01-06 19:15:53,11
 "Machine Learning for Virtual Vehicle Development (CAE & VR)",2021-01-01,NA,1069
 "Machine Learning for Virtual Vehicle Development (CAE & VR)",2021-01-02,NA,1183
 "Machine Learning for Virtual Vehicle Development (CAE & VR)",2021-01-03,NA,1229
@@ -709,6 +752,7 @@
 "Machine Learning Lifecycle 2021 Conference Jan 26th-28th",2021-01-05,2021-01-05 09:55:01,228
 "Machine Learning Lifecycle 2021 Conference Jan 26th-28th",2021-01-05,2021-01-05 20:14:07,237
 "Machine Learning Lifecycle 2021 Conference Jan 26th-28th",2021-01-05,2021-01-05 23:22:53,239
+"Machine Learning Lifecycle 2021 Conference Jan 26th-28th",2021-01-06,2021-01-06 19:15:53,242
 "Machine Learning Lifecycle 2021 Conference, Jan 26th-28th",2021-01-01,NA,191
 "Machine Learning Lifecycle 2021 Conference, Jan 26th-28th",2021-01-02,NA,207
 "Machine Learning Lifecycle 2021 Conference, Jan 26th-28th",2021-01-03,NA,214
@@ -722,19 +766,25 @@
 "Machine Learning: from Training to Production",2021-01-05,2021-01-05 09:55:01,261
 "Machine Learning: from Training to Production",2021-01-05,2021-01-05 20:14:07,281
 "Machine Learning: from Training to Production",2021-01-05,2021-01-05 23:22:53,284
+"Machine Learning: from Training to Production ",2021-01-06,2021-01-06 19:15:53,309
+"Machine Learning: Industry Usecases (Free Webinar)",2021-01-06,2021-01-06 19:15:53,80
 "Managing AI Governance with IBM Watson: LIVE Demo",2021-01-04,NA,182
 "Managing AI Governance with IBM Watson: LIVE Demo",2021-01-05,2021-01-05 10:51:31,186
+"Meet Roche - Business Perspectives - Session 1",2021-01-06,2021-01-06 19:15:53,307
 "Mexico Energy Forum 2021 (Virtual Edition)",2021-01-05,2021-01-05 19:06:04,397
 "Mexico Health Summit 2020/21 - Virtual Edition",2021-01-05,2021-01-05 19:06:04,708
 "Mexico Mining Forum 2021 - Virtual Edition",2021-01-05,2021-01-05 19:06:04,550
+"Microsoft 365 UK User Group January 2021",2021-01-06,2021-01-06 19:35:26,35
 "Microsoft OneNote <U+0096> Your Secret Productivity Weapon",2021-01-06,2021-01-06 14:05:45,5963
 "Mini-webinar: Chatbot - your new colleague",2021-01-05,2021-01-05 01:00:51,69
+"Mini-webinar: Chatbot - your new colleague",2021-01-06,2021-01-06 19:42:02,75
 "Mini-webinar: SupChat - Live Chat solution with AI assistance",2021-01-04,NA,29
 "Mini-webinar: SupChat - Live Chat solution with AI assistance",2021-01-05,2021-01-05 10:51:31,29
 "Mini-webinar: SupChat - Live Chat solution with AI assistance",2021-01-05,2021-01-05 23:22:53,33
 "Mini-webinar: SupChat - Live Chat solution with AI assistance",2021-01-06,2021-01-06 14:05:45,33
 "Mini-webinar: Ticket Analyzer - handling tickets has never been easier!",2021-01-04,NA,34
 "Mini-webinar: Ticket Analyzer - handling tickets has never been easier!",2021-01-05,2021-01-05 10:51:31,34
+"Mini-webinar: Ticket Analyzer - handling tickets has never been easier!",2021-01-06,2021-01-06 19:42:02,35
 "MIT FinTech Conference 2021",2021-01-01,NA,3494
 "MIT FinTech Conference 2021",2021-01-02,NA,3645
 "MIT FinTech Conference 2021",2021-01-03,NA,3764
@@ -776,6 +826,8 @@
 "Online Training Festival",2021-01-05,2021-01-05 19:06:04,849
 "Online Training Festival",2021-01-06,2021-01-06 14:05:45,873
 "Open Innovation Series - Open Innovation to Unlock Business Growth",2021-01-05,2021-01-05 13:42:12,159
+"Open Innovation Series - Open Innovation to Unlock Business Growth",2021-01-06,2021-01-06 19:42:02,178
+"Oracle & Microsoft - Negotiation Clinic",2021-01-06,2021-01-06 19:35:26,1169
 "Palm Oil Trade Fair and Seminar 2021",2021-01-06,2021-01-06 14:05:45,1311
 "Panel 2: Data Science Education Policy Support",2021-01-02,NA,124
 "Panel 2: Data Science Education Policy Support",2021-01-03,NA,131
@@ -796,6 +848,7 @@
 "POLITICO's EU Studies and Career Fair 2021 - Online edition",2021-01-05,2021-01-05 13:42:12,1153
 "Positive Thought Alliance conference",2021-01-03,NA,70
 "Positive Thought Alliance conference",2021-01-04,NA,75
+"Positive Thought Alliance conference",2021-01-06,2021-01-06 19:31:00,96
 "Power BI - Business Intelligence Training",2021-01-03,NA,262
 "Power BI - Business Intelligence Training",2021-01-04,NA,280
 "Power BI - Business Intelligence Training",2021-01-04,2021-01-04 22:39:35,282
@@ -812,14 +865,17 @@
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-05,2021-01-05 09:55:01,224
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-05,2021-01-05 10:51:31,225
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-05,2021-01-05 20:14:07,240
+"Project Data Pioneers: Insights from Sir Robert McAlpine’s Head of Data",2021-01-06,2021-01-06 19:15:53,257
 "PSC X SFL LIT Policython",2021-01-06,2021-01-06 09:50:53,86
 "RDAAPS 2021: Reconciling Data Analytics Automation Privacy and Security",2021-01-05,2021-01-05 10:51:31,22
+"RDAAPS 2021: Reconciling Data Analytics Automation Privacy and Security",2021-01-06,2021-01-06 19:15:53,37
 "RE<U+0095>WORK Deep Learning 2.0 Virtual Summit",2021-01-03,NA,335
 "RE<U+0095>WORK Deep Learning 2.0 Virtual Summit",2021-01-04,NA,335
 "RE<U+0095>WORK Deep Learning 2.0 Virtual Summit",2021-01-04,2021-01-04 22:39:35,335
 "RE<U+0095>WORK Deep Learning 2.0 Virtual Summit",2021-01-05,2021-01-05 01:00:51,335
 "RE<U+0095>WORK Deep Learning 2.0 Virtual Summit",2021-01-06,2021-01-06 13:54:17,337
 "RE<U+0095>WORK Women in AI Virtual",2021-01-05,2021-01-05 23:22:53,38
+"RE•WORK Women in AI Virtual ",2021-01-06,2021-01-06 19:42:02,41
 "Red Hat Ansible Security Automation Platform Workshop",2021-01-04,NA,25
 "Red Hat Ansible Security Automation Platform Workshop",2021-01-05,2021-01-05 20:14:07,31
 "Red Hat Ansible Security Automation Platform Workshop",2021-01-06,2021-01-06 13:54:17,33
@@ -848,12 +904,15 @@
 "Sales Hack: Using Social Signals to Close More Deals",2021-01-06,2021-01-06 09:50:53,51
 "Sales Stack Authority - LinkedIn Selling (Limited Seats Available)",2021-01-03,NA,52
 "Sales Stack Authority - LinkedIn Selling (Limited Seats Available)",2021-01-04,NA,55
+"Sales Stack Authority - LinkedIn Selling (Limited Seats Available)",2021-01-06,2021-01-06 19:15:53,55
+"SAP on Azure Immersion Workshop",2021-01-06,2021-01-06 19:35:26,231
 "SCALE UP TURN",2021-01-06,2021-01-06 14:05:45,26
 "Schneider Electric: Making homes smart and sustainable at CES 2021",2021-01-06,2021-01-06 14:05:45,2163
 "Scholars Webinar on Drug Discovery Development and Lead Optimization",2021-01-03,NA,411
 "Scholars Webinar on Drug Discovery Development and Lead Optimization",2021-01-04,NA,437
 "Scholars Webinar on Drug Discovery Development and Lead Optimization",2021-01-04,2021-01-04 22:39:35,437
 "Scholars Webinar on Drug Discovery Development and Lead Optimization",2021-01-05,2021-01-05 01:00:51,440
+"Scholars Webinar on Drug Discovery Development and Lead Optimization",2021-01-06,2021-01-06 19:31:00,465
 "Scientific Computing Best Practices on cloud For Data Scientists & Research",2021-01-06,2021-01-06 09:50:53,15
 "SCOPE: Summit for Clinical Ops Executives",2021-01-06,2021-01-06 13:54:17,21
 "See DataRobot in Action",2021-01-05,2021-01-05 09:55:01,27
@@ -904,6 +963,7 @@
 "The 5th International Conference on Internet of Things and Its Application",2021-01-05,2021-01-05 20:14:07,80
 "The 5th International Conference on Internet of Things and Its Application",2021-01-06,2021-01-06 09:50:53,80
 "The Basics & Best Practices of Writing for Chatbots (Webinar with UXPA)",2021-01-05,2021-01-05 01:00:51,77
+"The Drug Hunters - Christmas Special ",2021-01-06,2021-01-06 19:31:00,77
 "THE EUROPEAN CHATBOT - IBEROAMERICAN EDITION<U+0001F4AF> % ONLINE & FREE",2021-01-05,2021-01-05 01:00:51,303
 "THE EUROPEAN CHATBOT & CONVERSATIONAL AI - <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-04,NA,2722
 "THE EUROPEAN CHATBOT & CONVERSATIONAL AI - <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-04,NA,2758
@@ -912,6 +972,7 @@
 "THE EUROPEAN CHATBOT & CONVERSATIONAL AI - <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-05,2021-01-05 23:22:53,2827
 "THE EUROPEAN CHATBOT & CONVERSATIONAL AI - <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-06,2021-01-06 09:50:53,2849
 "THE EUROPEAN CHATBOT & CONVERSATIONAL AI - <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-06,2021-01-06 14:05:45,2860
+"THE EUROPEAN CHATBOT & CONVERSATIONAL AI - 💯 % VIRTUAL & ONLINE ",2021-01-06,2021-01-06 19:42:02,2868
 "The Evolving Landscape of Pharmaceutical Collaborations: Focus on AI",2021-01-05,2021-01-05 10:51:31,12
 "The Future is AI! Are you AI Ready?",2021-01-06,2021-01-06 09:50:53,16
 "The Future of Construction Summit",2021-01-05,2021-01-05 20:14:07,539
@@ -933,6 +994,7 @@
 "The Middle East Ai Data Analytics and Insights Summit",2021-01-06,2021-01-06 09:50:53,208
 "The Middle East Ai Data Analytics and Insights Summit",2021-01-06,2021-01-06 13:54:17,213
 "The Middle East Ai Data Analytics and Insights Summit - NON Vendor driven",2021-01-05,2021-01-05 10:51:31,65
+"The Middle East Ai Data Analytics and Insights Summit - NON Vendor driven",2021-01-06,2021-01-06 19:15:53,71
 "THE NEW WORLD OF WORK - Assistants<U+0092> Ultimate Guide to Adapt & Thrive",2021-01-04,NA,2350
 "THE NEW WORLD OF WORK - Assistants<U+0092> Ultimate Guide to Adapt & Thrive",2021-01-05,2021-01-05 10:51:31,2358
 "The Personality of Success",2021-01-05,2021-01-05 20:14:07,539
@@ -954,6 +1016,7 @@
 "The World Energy Leaders Virtual Summit",2021-01-05,2021-01-05 10:51:31,1612
 "The World Energy Leaders Virtual Summit",2021-01-05,2021-01-05 23:22:53,1669
 "The World Energy Leaders Virtual Summit",2021-01-06,2021-01-06 14:05:45,1716
+"Top Skills for Assistants & Admins for the 2021 Workplace",2021-01-06,2021-01-06 19:31:00,6074
 "Trade-off Between Trade and Security: The Digital Silk Road",2021-01-04,NA,982
 "Trade-off Between Trade and Security: The Digital Silk Road",2021-01-05,2021-01-05 10:51:31,998
 "Trade-off Between Trade and Security: The Digital Silk Road",2021-01-06,2021-01-06 14:05:45,1023
@@ -968,12 +1031,14 @@
 "UAE-Israel-Bahrain Trade Forum - Virtual: Jan 19 '21 - Physical: May '21",2021-01-05,2021-01-05 01:00:51,2790
 "UAE-Israel-Bahrain Trade Forum - Virtual: Jan 19 '21 - Physical: May '21",2021-01-05,2021-01-05 09:55:01,2830
 "UAE-Israel-Bahrain Trade Forum - Virtual: Jan 19 '21 - Physical: May '21",2021-01-06,2021-01-06 09:50:53,2929
+"UAE-Israel-Bahrain Trade Forum - Virtual: Jan 19 '21 - Physical: May '21 ",2021-01-06,2021-01-06 19:31:00,2972
 "UK Webinar: Patient-Level Costing: Analytics Benchmarking & Reporting",2021-01-05,2021-01-05 09:55:01,68
 "UK Webinar: Patient-Level Costing: Analytics Benchmarking & Reporting",2021-01-05,2021-01-05 20:14:07,72
 "UK Webinar: Patient-Level Costing: Analytics Benchmarking & Reporting",2021-01-06,2021-01-06 13:54:17,73
 "Understanding of Transaction Processing (Virtual Seminar)",2021-01-06,2021-01-06 13:54:17,2095
 "Understanding The Role Of Artificial Intelligence In Education",2021-01-06,2021-01-06 13:54:17,75
 "UNLOCKING THE DIGITAL SPACE ECONOMY w/ NewSpace NYC",2021-01-04,NA,84
+"UNLOCKING THE DIGITAL SPACE ECONOMY w/ NewSpace NYC",2021-01-06,2021-01-06 19:15:53,144
 "Upstream Digital Transformation Conference EU 2021",2021-01-06,2021-01-06 14:05:45,1261
 "Usage Of Online Monitoring to Determine Derouging & Passivation Frequency",2021-01-04,2021-01-04 22:39:35,13
 "Usage Of Online Monitoring to Determine Derouging & Passivation Frequency",2021-01-05,2021-01-05 20:14:07,10
@@ -989,6 +1054,7 @@
 "Veterans: Come Join WYWM! All Experience Welcome. Yes...Even Airforce",2021-01-06,2021-01-06 13:54:17,39
 "Veterans: Come Join WYWM! All Experience Welcome. Yes...Even Airforce",2021-01-06,2021-01-06 13:54:17,40
 "Virtual Career Summit",2021-01-06,2021-01-06 14:05:45,7688
+"Virtual Healthcare Compliance Essentials Workshop",2021-01-06,2021-01-06 19:31:00,1420
 "Virtual Master Class: The Hidden Gems of Microsoft Teams",2021-01-05,2021-01-05 20:14:07,19
 "Virtual Summit: 2021 Digital Marketing Trends",2021-01-04,NA,3798
 "Virtual Summit: 2021 Digital Marketing Trends",2021-01-05,2021-01-05 01:00:51,4041
@@ -1001,6 +1067,8 @@
 "Vitafoods Asia Digital Week 2021",2021-01-05,2021-01-05 19:06:04,277
 "WaiTALK Toronto: Advance your Career in the World of AI",2021-01-05,2021-01-05 01:00:51,59
 "Webinar | Accelerate Digital Supply Chains with Real-Time Applications",2021-01-04,NA,91
+"Webinar | Accelerate Digital Supply Chains with Real-Time Applications",2021-01-06,2021-01-06 19:15:53,98
+"Webinar | How to enter the world of servitization with the power of IoT",2021-01-06,2021-01-06 19:31:00,71
 "Webinar Radiopharmaceutical Packaging (January 12th)",2021-01-05,2021-01-05 20:14:07,590
 "Webinar Radiopharmaceutical Packaging (January 21st)",2021-01-05,2021-01-05 20:14:07,19
 "Webinar. Applied Scientific Marketing: Machine Learning Methodologies",2021-01-04,NA,39
@@ -1029,6 +1097,7 @@
 "Webinar: AI PM at Startup VS at Scale by Facebook Product Lead",2021-01-06,2021-01-06 14:05:45,552
 "Webinar: Become an Effective Machine Learning PM by Apple Product Leader",2021-01-04,2021-01-04 22:13:24,15
 "Webinar: Become an Effective Machine Learning PM by Apple Product Leader",2021-01-05,2021-01-05 09:55:01,17
+"Webinar: Best of Both Worlds: Achieving Seamless Migration of SAP on Azure ",2021-01-06,2021-01-06 19:35:26,25
 "Webinar: Building AI-First Products by Expedia Sr Product Manager",2021-01-05,2021-01-05 15:37:25,23
 "Webinar: Centralised Vibration-based Condition Monitoring of Machines",2021-01-04,2021-01-04 22:39:35,97
 "Webinar: Centralised Vibration-based Condition Monitoring of Machines",2021-01-05,2021-01-05 09:55:01,98
@@ -1042,6 +1111,7 @@
 "Webinar: Machine Learning Fundamentals for PMs by fmr Expedia Sr PM",2021-01-04,2021-01-04 22:13:24,662
 "Webinar: Machine Learning Fundamentals for PMs by fmr Expedia Sr PM",2021-01-05,2021-01-05 09:55:01,667
 "Webinar: Machine Learning Fundamentals for PMs by fmr Expedia Sr PM",2021-01-05,2021-01-05 23:22:53,672
+"Webinar: Machine Learning Fundamentals for PMs by fmr Expedia Sr PM",2021-01-06,2021-01-06 19:15:53,676
 "Webinar: Product Management from Machine Learning Lens by Expedia Sr PM",2021-01-04,2021-01-04 22:13:24,11
 "Webinar: Product Management from Machine Learning Lens by Expedia Sr PM",2021-01-05,2021-01-05 09:55:01,11
 "Webinar: Recruiting the Next Generation of Diverse STEM Professionals",2021-01-03,NA,290
@@ -1066,6 +1136,7 @@
 "Wipro At CES 2021: D.I.S.R.U.P.T.",2021-01-06,2021-01-06 13:54:17,424
 "Women in Data Science (WiDS) Buffalo",2021-01-05,2021-01-05 23:22:53,36
 "Women in Data Science (WiDS) Buffalo",2021-01-06,2021-01-06 09:50:53,60
+"Women in Data Science (WiDS) Buffalo ",2021-01-06,2021-01-06 19:42:02,70
 "Women in Data Science (WiDS) Worldwide Conference",2021-01-01,NA,4664
 "Women in Data Science (WiDS) Worldwide Conference",2021-01-01,NA,4713
 "Women in Data Science (WiDS) Worldwide Conference",2021-01-02,NA,4918
@@ -1120,8 +1191,10 @@
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-04,2021-01-04 22:39:35,430
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-05,2021-01-05 13:42:12,439
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-06,2021-01-06 13:54:17,472
+"Work Now + In the Future:Leading More “HUMAN” Workplaces in a Digital World",2021-01-06,2021-01-06 19:15:53,480
 "World Staffing Summit 2021",2021-01-06,2021-01-06 13:54:17,5887
 "World Staffing Summit 2021",2021-01-06,2021-01-06 14:05:45,5911
 "Your Employment Law Questions... ANSWERED",2021-01-04,2021-01-04 22:39:35,26
 "Your Employment Law Questions... ANSWERED",2021-01-05,2021-01-05 20:14:07,54
 "YPO Presents Ask the Experts-CES Edition",2021-01-04,2021-01-04 22:39:35,143
+"YPO Presents Ask the Experts-CES Edition",2021-01-06,2021-01-06 19:15:53,160
