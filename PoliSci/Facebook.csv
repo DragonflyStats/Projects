@@ -1,5 +1,19 @@
 "Name","Date","Likes","Followers"
 "Aengus O Snodaigh",2020-10-04,8563,8699
+NP Laois,2021-01-07,548,552
+NP Limerick,2021-01-07,556,564
+NP Longford,2021-01-07,571,582
+NP Louth,2021-01-07,521,527
+NP Mayo,2021-01-07,590,598
+NP Meath,2021-01-07,541,554
+NP Roscommon,2021-01-07,504,508
+NP Sligo,2021-01-07,842,855
+NP Waterford,2021-01-07,330,332
+NP Westmeath,2021-01-07,560,573
+NP Wexford,2021-01-07,524,533
+Dolores Cahill,2021-01-07,22761,48171
+Irish Freedom Party,2021-01-07,15912,16779
+Corruption Awareness Ireland,2020-01-07,38125,52169
 "Aengus O Snodaigh",2020-10-09,8576,8718
 "Aengus O Snodaigh",2020-10-13,8583,8726
 "Aengus O Snodaigh",2020-10-19,8586,8733
@@ -2414,7 +2428,7 @@
 "Mairead Farrell",2020-12-13,12258,12669
 "Mairead Farrell",2020-12-22,12316,12726
 "Mairead Farrell",2020-12-29,12339,12747
-"Mairéad Farrell",2021-01-06,12353,12761
+"MairÃ©ad Farrell",2021-01-06,12353,12761
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
@@ -3307,7 +3321,7 @@
 "Padraig O'Sullivan",2021-01-06,3564,3813
 "Padraig O Ceidigh",2020-12-16,1309,1316
 "Padraig O Ceidigh",2020-12-26,1309,1317
-"Padraig O Céidigh",2021-01-07,1311,1319
+"Padraig O CÃ©idigh",2021-01-07,1311,1319
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Paschal Donohoe",2020-10-01,4481,4608
@@ -3453,7 +3467,7 @@
 "Peadar Toibin",2020-12-15,11765,12125
 "Peadar Toibin",2020-12-25,11798,12158
 "Peadar Toibin",2021-01-01,11804,12165
-"Peadar Tóibin",2021-01-06,11844,12209
+"Peadar TÃ³ibin",2021-01-06,11844,12209
 "Pearse Doherty",2020-09-20,71689,77709
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
@@ -3550,7 +3564,7 @@
 "Reada Cronin",2020-12-13,2252,2362
 "Reada Cronin",2020-12-25,2255,2366
 "Reada Cronin",2021-01-03,2258,2373
-"Réada Cronin",2021-01-06,2259,2374
+"RÃ©ada Cronin",2021-01-06,2259,2374
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
@@ -3731,7 +3745,7 @@
 "Roisin Shortall",2020-12-13,2441,2628
 "Roisin Shortall",2020-12-25,2449,2636
 "Roisin Shortall",2021-01-03,2451,2636
-"Róisin Shortall",2021-01-06,2468,2653
+"RÃ³isin Shortall",2021-01-06,2468,2653
 "Ronan Mullen",2020-09-12,NA,3614
 "Ronan Mullen",2020-09-16,3575,3614
 "Ronan Mullen",2020-09-19,3573,3612
@@ -3751,7 +3765,7 @@
 "Ronan Mullen",2020-12-13,3617,3665
 "Ronan Mullen",2020-12-16,3616,3663
 "Ronan Mullen",2020-12-26,3614,3662
-"Rónan Mullen",2021-01-07,3613,3660
+"RÃ³nan Mullen",2021-01-07,3613,3660
 "Rose Conway-Walsh",2020-12-13,11116,11702
 "Rose Conway-Walsh",2020-12-16,0,0
 "Rose Conway-Walsh",2020-12-26,11113,11711
@@ -3761,7 +3775,7 @@
 "Ruairi O Murchu",2020-12-13,4921,5302
 "Ruairi O Murchu",2020-12-25,4929,5309
 "Ruairi O Murchu",2021-01-03,4942,5320
-"Ruairi O Murchú",2021-01-06,4941,5318
+"Ruairi O MurchÃº",2021-01-06,4941,5318
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-07,5305,5430
 "Saoirse McHugh",2020-10-13,5296,5420
