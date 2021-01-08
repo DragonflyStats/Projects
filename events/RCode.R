@@ -5,7 +5,7 @@ myData <- myData %>% arrange(Event,Date,Attendees) %>% mutate(Date=as.Date(Date)
 
 
 myData <- myData %>% arrange(Event,Date,Attendees) %>% distinct()
-
+myData <- myData %>% filter(Attendees>=10)
 Update <- myData %>% arrange(Event,desc(Date)) %>%
   group_by(Event) %>%
   slice(1) %>%
