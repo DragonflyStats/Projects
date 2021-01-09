@@ -1,32 +1,4 @@
 "Event","Date","Time","Attendees"
-"Frictionless Data Science: Making the tools work for you!",2021-01-09,2021-01-09 18:26:53,610
-"Making Your Data Work for You",2021-01-09,2021-01-09 18:26:53,102
-"On-demand Webinar- The Urban Company story: Winning with AI",2021-01-09,2021-01-09 18:26:53,46
-"Nonwoven Tech Expo (2nd Edition)",2021-01-09,2021-01-09 18:26:53,2002
-"Microsoft OneNote – Your Secret Productivity Weapon",2021-01-09,2021-01-09 18:26:53,6303
-"Online Training Festival",2021-01-09,2021-01-09 18:26:53,907
-"Scaling Your IoT Solution In Times of Disruption",2021-01-09,2021-01-09 18:26:53,14
-"Real Time Insights using Cassandra and Spark",2021-01-09,2021-01-09 18:26:53,32
-"Rethinking Retail with IoT Webinar",2021-01-09,2021-01-09 18:26:53,922
-"UBC BizTech: Blueprint Conference 2021 ",2021-01-09,2021-01-09 18:26:53,32
-"The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-09,2021-01-09 18:26:53,1514
-"The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-09,2021-01-09 18:26:53,1263
-"The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-09,2021-01-09 18:26:53,1076
-"Webinar Radiopharmaceutical Packaging (January 12th)",2021-01-09,2021-01-09 18:26:53,683
-"Webinar Radiopharmaceutical Packaging (January 21st)",2021-01-09,2021-01-09 18:26:53,21
-"Virtual EIC Connect Energy USA 2021",2021-01-09,2021-01-09 18:26:53,328
-"Virtual EIC Connect Energy USA",2021-01-09,2021-01-09 18:26:53,38
-"Webinar - Supply Chain Shifts to Watch in Europe",2021-01-09,2021-01-09 18:26:53,108
-"Enhance communication in Agile Teams with Neuro Linguistic Programming(NLP)",2021-01-09,2021-01-09 18:26:53,511
-"Retail Innovation Week 2021",2021-01-09,2021-01-09 18:26:53,4670
-"The UofT AI Conference",2021-01-09,2021-01-09 18:26:53,3462
-"SXSW Online",2021-01-09,2021-01-09 18:26:53,15773
-"Introduction to Python Programming Course - Global AI Hub",2021-01-09,2021-01-09 18:26:53,65
-"The 2021 California Employment Law Update By PIHRA",2021-01-09,2021-01-09 18:26:53,3519
-"2021 ASCEND Agency Growth & Leadership Conference ",2021-01-09,2021-01-09 18:26:53,545
-"2021 ANNUAL REGIONAL LEGISLATIVE FORUM #1",2021-01-09,2021-01-09 18:26:53,21
-"DeveloperWeek 2021",2021-01-09,2021-01-09 18:26:53,1215
-"The Davos Agenda",2021-01-09,2021-01-09 18:26:53,92
 """So...What's Next?"" CIOs Outlook For Tech 2021",2021-01-04,NA,545
 """So...What's Next?"" CIOs Outlook For Tech 2021",2021-01-04,2021-01-04 22:13:24,546
 """So...What's Next?"" CIOs Outlook For Tech 2021",2021-01-05,2021-01-05 01:00:51,546
@@ -96,8 +68,10 @@
 "2 Days Free Workshop on Fundamentals of Python",2021-01-08,2021-01-08 18:35:31,17
 "2021-01-07 RINGKNOCKER Virtual Meetup",2021-01-07,2021-01-07 23:33:45,136
 "2021 ANNUAL REGIONAL LEGISLATIVE FORUM #1",2021-01-08,2021-01-08 18:35:31,19
+"2021 ANNUAL REGIONAL LEGISLATIVE FORUM #1",2021-01-09,2021-01-09 18:26:53,21
 "2021 ASCEND Agency Growth & Leadership Conference",2021-01-06,2021-01-06 19:15:53,527
 "2021 ASCEND Agency Growth & Leadership Conference",2021-01-08,2021-01-08 18:35:31,542
+"2021 ASCEND Agency Growth & Leadership Conference",2021-01-09,2021-01-09 18:26:53,545
 "2021 BioPharma eMarketing Virtual Summit",2021-01-04,NA,830
 "2021 BioPharma eMarketing Virtual Summit",2021-01-05,2021-01-05 01:00:51,854
 "2021 BioPharma eMarketing Virtual Summit",2021-01-05,2021-01-05 15:37:25,881
@@ -111,7 +85,7 @@
 "2021 Global Online Conference ""HR Innovation and Future of Work""",2021-01-05,2021-01-05 13:42:12,10006
 "2021 Global Online Conference ""HR Innovation and Future of Work""",2021-01-06,2021-01-06 13:54:17,10412
 "2021 OSHP Winter Virtual Seminar",2021-01-08,2021-01-08 18:35:31,10
-"2021 Outlook  Whats Next for U.S. Power Markets",2021-01-09,2021-01-09 17:44:45,40
+"2021 Outlook <U+0096> What<U+0092>s Next for U.S. Power Markets",2021-01-09,2021-01-09 17:44:45,40
 "2021 Social Media Amplification Tricks for US Companies Under 500 Employees",2021-01-07,2021-01-07 23:33:45,86
 "2021 State of the Chapter Meeting",2021-01-08,2021-01-08 18:35:31,46
 "27th Inflection Martech Innovation Web Conference & Awards",2021-01-04,NA,120
@@ -286,7 +260,7 @@
 "Alberta IoT Monthly Member Meeting - January",2021-01-05,2021-01-05 20:14:07,39
 "Alberta IoT Monthly Member Meeting - January",2021-01-06,2021-01-06 14:05:45,43
 "Alberta IoT Monthly Member Meeting - January",2021-01-07,2021-01-07 23:48:31,47
-"AMPdr DOCLive Kick-off Series Dr. Tomoko Maeda-Chubachi (USA)",2021-01-08,2021-01-08 18:43:40,21
+"AMPdr<U+0099> DOCLive Kick-off Series Dr. Tomoko Maeda-Chubachi (USA)",2021-01-08,2021-01-08 18:43:40,21
 "Analytics & Innovation Career Fair 2021",2021-01-07,2021-01-07 23:33:45,55
 "Analytics & Innovation Career Fair 2021",2021-01-09,2021-01-09 17:44:45,60
 "Architecture Design & Development Summit 2021",2021-01-06,2021-01-06 14:05:45,2076
@@ -577,11 +551,12 @@
 "Deploy AI Customer Service in 4 Weeks (15 min One-on-One Session)",2021-01-05,2021-01-05 01:00:51,82
 "Deploy AI Customer Service in 4 Weeks (15 min One-on-One Session)",2021-01-07,2021-01-07 23:33:45,83
 "Derivatives Forum Frankfurt 2021 - virtual edition",2021-01-05,2021-01-05 19:06:04,3719
-"Derivatives Forum Frankfurt 2021  virtual edition",2021-01-08,2021-01-08 18:35:31,4068
-"Derivatives Forum Frankfurt 2021  virtual edition",2021-01-09,2021-01-09 17:44:45,4148
 "Derivatives Forum Frankfurt 2021 <U+0096> virtual edition",2021-01-07,2021-01-07 23:48:31,3996
+"Derivatives Forum Frankfurt 2021 <U+0096> virtual edition",2021-01-08,2021-01-08 18:35:31,4068
+"Derivatives Forum Frankfurt 2021 <U+0096> virtual edition",2021-01-09,2021-01-09 17:44:45,4148
 "DeveloperWeek 2021",2021-01-05,2021-01-05 09:55:01,861
 "DeveloperWeek 2021",2021-01-08,2021-01-08 18:35:31,1160
+"DeveloperWeek 2021",2021-01-09,2021-01-09 18:26:53,1215
 "Developing your data strategy and aligning it to your business strategy",2021-01-06,2021-01-06 13:54:17,94
 "DevOps Online Interactive Training | Weekend Batch",2021-01-05,2021-01-05 09:55:01,18
 "Digital Fashion Week 2021 - Winter Edition",2021-01-05,2021-01-05 10:51:31,2758
@@ -658,6 +633,7 @@
 "Enhance communication in Agile Teams with Neuro Linguistic Programming(NLP)",2021-01-04,NA,464
 "Enhance communication in Agile Teams with Neuro Linguistic Programming(NLP)",2021-01-05,2021-01-05 16:42:15,478
 "Enhance communication in Agile Teams with Neuro Linguistic Programming(NLP)",2021-01-08,2021-01-08 18:35:31,504
+"Enhance communication in Agile Teams with Neuro Linguistic Programming(NLP)",2021-01-09,2021-01-09 18:26:53,511
 "Enterprise Digital Marketing: Strategies for 2021",2021-01-09,2021-01-09 17:44:45,372
 "EPIC Meeting - Commercial Challenges for Photonics as 5G Booms",2021-01-05,2021-01-05 20:14:07,14
 "ESM<U+0097>Fast Track to Business Resilience",2021-01-05,2021-01-05 10:51:31,511
@@ -696,11 +672,11 @@
 "Financial Liberation Fintech and Black Communities w/ Calvin Williams Jr.",2021-01-08,2021-01-08 13:30:38,361
 "Financial Liberation Fintech and Black Communities w/ Calvin Williams Jr.",2021-01-08,2021-01-08 15:59:32,364
 "Financial Liberation Fintech and Black Communities w/ Calvin Williams Jr.",2021-01-09,2021-01-09 17:44:45,382
-"FINLAND  A GLOBAL TECHNOLOGY HUB & GATEWAY TO EUROPEAN MARKET",2021-01-09,2021-01-09 17:44:45,85
 "FINLAND <U+0096> A GLOBAL TECHNOLOGY HUB & GATEWAY TO EUROPEAN MARKET",2021-01-07,2021-01-07 11:05:47,71
 "FINLAND <U+0096> A GLOBAL TECHNOLOGY HUB & GATEWAY TO EUROPEAN MARKET",2021-01-07,2021-01-07 23:33:45,75
 "FINLAND <U+0096> A GLOBAL TECHNOLOGY HUB & GATEWAY TO EUROPEAN MARKET",2021-01-08,2021-01-08 15:59:32,81
 "FINLAND <U+0096> A GLOBAL TECHNOLOGY HUB & GATEWAY TO EUROPEAN MARKET",2021-01-08,2021-01-08 13:30:38,81
+"FINLAND <U+0096> A GLOBAL TECHNOLOGY HUB & GATEWAY TO EUROPEAN MARKET",2021-01-09,2021-01-09 17:44:45,85
 "FinTech-Aviv Annual Job Fair",2021-01-04,NA,62
 "FinTech-Aviv Annual Job Fair",2021-01-04,2021-01-04 22:13:24,83
 "FinTech-Aviv Annual Job Fair",2021-01-05,2021-01-05 01:00:51,84
@@ -747,7 +723,7 @@
 "FRACTURE ANALYTICS - AGENDA 2021",2021-01-06,2021-01-06 13:54:17,251
 "FRACTURE ANALYTICS - AGENDA 2021",2021-01-07,2021-01-07 23:33:45,253
 "FRACTURE ANALYTICS - AGENDA 2021",2021-01-09,2021-01-09 17:44:45,258
-"FREE CodeSparks Coding Lab - practice and improve your engineering skills!",2021-01-08,2021-01-08 18:35:31,201
+"FREE CodeSparks<U+0092> Coding Lab - practice and improve your engineering skills!",2021-01-08,2021-01-08 18:35:31,201
 "Free Live Online Course Microsoft Azure Fundamentals Exam AZ-900",2021-01-06,2021-01-06 19:35:26,184
 "Free Training on PL-900: Microsoft Power Platform Fundamentals (USA)",2021-01-05,2021-01-05 15:37:25,367
 "Free Webinar - AZ-104 Azure Administrator",2021-01-05,2021-01-05 09:55:01,36
@@ -827,6 +803,7 @@
 "Frictionless Data Science: Making the tools work for you!",2021-01-08,2021-01-08 18:35:31,562
 "Frictionless Data Science: Making the tools work for you!",2021-01-09,2021-01-09 15:10:37,604
 "Frictionless Data Science: Making the tools work for you!",2021-01-09,2021-01-09 15:10:37,605
+"Frictionless Data Science: Making the tools work for you!",2021-01-09,2021-01-09 18:26:53,610
 "Frictionless Data Science: Making the tools work for you!",2021-01-09,2021-01-09 17:44:45,610
 "From Brand Owner to Converter: ""The Gains of a Connected Ecosystem""",2021-01-06,2021-01-06 09:50:53,227
 "From Data to Knowledge: Unlocking the Power of Data for Project Success",2021-01-07,2021-01-07 23:48:31,92
@@ -928,7 +905,7 @@
 "HCL Commerce Connect 2021",2021-01-07,2021-01-07 23:33:45,104
 "HCL Commerce Connect 2021",2021-01-09,2021-01-09 17:44:45,138
 "HEALTH TECH 2.0 - Virtual conference about the future of health technology",2021-01-08,2021-01-08 15:59:32,132
-"Healthcares New Delivery Models Post COVID Series",2021-01-09,2021-01-09 17:44:45,1033
+"Healthcare<U+0092>s New Delivery Models Post COVID Series",2021-01-09,2021-01-09 17:44:45,1033
 "Helix 2021",2021-01-06,2021-01-06 14:05:45,971
 "Helix 2021",2021-01-07,2021-01-07 23:48:31,987
 "Helix 2021",2021-01-07,2021-01-07 23:33:45,987
@@ -1011,7 +988,6 @@
 "Industrial Facilities Solutions From Aruba",2021-01-07,2021-01-07 11:05:47,96
 "Industrial Networks IIOT and Communications",2021-01-05,2021-01-05 20:14:07,58
 "Industrial Networks IIOT and Communications",2021-01-07,2021-01-07 23:48:31,162
-"Infomics Career <U+52C9><U+5F37><U+4F1A> <U+300E><U+30AF><U+30E9><U+30A4><U+30AA><U+96FB><U+5B50><U+9855><U+5FAE><U+93E1><U+5358><U+7C92><U+5B50><U+89E3><U+6790><U+6CD5><U+306B><U+3088><U+308B><U+69CB><U+9020><U+89E3><U+6790><U+3092><U+7528><U+3044><U+305F>SBDD<U+5275><U+85AC><U+300F>",2021-01-06,2021-01-06 19:31:00,40
 "Innovate Your Business Or Die",2021-01-06,2021-01-06 19:42:02,625
 "Innovation Olympics Open Innovation Summit 2021",2021-01-06,2021-01-06 19:42:02,311
 "InnovatorMD Global Summit 2021",2021-01-04,NA,3253
@@ -1042,7 +1018,7 @@
 "International Women's Day Virtual Summit",2021-01-06,2021-01-06 13:54:17,121
 "Introdu<e7><e3>o <e0> DIGITAL SUPPLY CHAIN @Udemy.com (Curso Online em Ingl<ea>s)",2021-01-06,2021-01-06 14:05:45,879
 "Introdu<e7><e3>o <e0> DIGITAL SUPPLY CHAIN @Udemy.com (Curso Online em Ingl<ea>s)",2021-01-07,2021-01-07 23:33:45,879
-"Introdução à DIGITAL SUPPLY CHAIN @Udemy.com (Curso Online em Inglês)",2021-01-09,2021-01-09 17:44:45,879
+"Introdu��o � DIGITAL SUPPLY CHAIN @Udemy.com (Curso Online em Ingl�s)",2021-01-09,2021-01-09 17:44:45,879
 "Introduction to Digital Supply Chain @ Udemy.com",2021-01-03,NA,1654
 "Introduction to Digital Supply Chain @ Udemy.com",2021-01-04,NA,1655
 "Introduction to Digital Supply Chain @ Udemy.com",2021-01-04,2021-01-04 22:39:35,1655
@@ -1053,6 +1029,7 @@
 "Introduction to Python Programming Course - Global AI Hub",2021-01-08,2021-01-08 13:30:38,20
 "Introduction to Python Programming Course - Global AI Hub",2021-01-08,2021-01-08 18:35:31,36
 "Introduction to Python Programming Course - Global AI Hub",2021-01-09,2021-01-09 15:10:37,61
+"Introduction to Python Programming Course - Global AI Hub",2021-01-09,2021-01-09 18:26:53,65
 "Investor Hot Seat",2021-01-07,2021-01-07 11:05:47,704
 "Investor Hot Seat",2021-01-08,2021-01-08 13:30:38,731
 "Investor Hot Seat",2021-01-08,2021-01-08 15:59:32,734
@@ -1082,8 +1059,6 @@
 "ITB Berlin 2021",2021-01-07,2021-01-07 23:33:45,4846
 "ITB Berlin 2021",2021-01-08,2021-01-08 18:35:31,4953
 "ITB Berlin 2021",2021-01-09,2021-01-09 17:44:45,5069
-"Js Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-08,2021-01-08 18:35:31,183
-"Js Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-09,2021-01-09 17:44:45,183
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-02,NA,162
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-03,NA,163
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-04,NA,166
@@ -1096,7 +1071,9 @@
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-07,2021-01-07 11:05:47,176
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-07,2021-01-07 23:33:45,179
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-08,2021-01-08 13:30:38,182
+"J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-08,2021-01-08 18:35:31,183
 "J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-08,2021-01-08 15:59:32,183
+"J<U+0092>s Code Challenge ~ Reach a fast pass to get hired in Japan ~",2021-01-09,2021-01-09 17:44:45,183
 "January 13 Workshop: Pattern Recognition in Time Series Data",2021-01-04,NA,10
 "January 13 Workshop: Pattern Recognition in Time Series Data",2021-01-04,2021-01-04 22:13:24,11
 "January 13 Workshop: Pattern Recognition in Time Series Data",2021-01-05,2021-01-05 09:55:01,11
@@ -1253,6 +1230,7 @@
 "Machine Learning: Industry Usecases (Free Webinar)",2021-01-09,2021-01-09 15:10:37,231
 "Making Your Data Work for You",2021-01-07,2021-01-07 23:48:31,38
 "Making Your Data Work for You",2021-01-07,2021-01-07 23:33:45,38
+"Making Your Data Work for You",2021-01-09,2021-01-09 18:26:53,102
 "Managing AI Governance with IBM Watson Webinar",2021-01-07,2021-01-07 11:05:47,189
 "Managing AI Governance with IBM Watson Webinar",2021-01-07,2021-01-07 23:33:45,190
 "Managing AI Governance with IBM Watson Webinar",2021-01-08,2021-01-08 13:30:38,191
@@ -1291,6 +1269,7 @@
 "Mexico Mining Forum 2021 - Virtual Edition",2021-01-08,2021-01-08 18:35:31,572
 "Mexico Mining Forum 2021 - Virtual Edition",2021-01-09,2021-01-09 17:44:45,577
 "Microsoft 365 UK User Group January 2021",2021-01-06,2021-01-06 19:35:26,35
+"Microsoft OneNote � Your Secret Productivity Weapon",2021-01-09,2021-01-09 18:26:53,6303
 "Microsoft OneNote <U+0096> Your Secret Productivity Weapon",2021-01-06,2021-01-06 14:05:45,5963
 "Microsoft OneNote <U+0096> Your Secret Productivity Weapon",2021-01-07,2021-01-07 23:33:45,6162
 "Mini-webinar: SupChat - Live Chat solution with AI assistance",2021-01-04,NA,29
@@ -1327,9 +1306,10 @@
 "NEXT-GENERATION SAP ENTERPRISE ARCHITECT VIRTUAL CONFERENCE FEB. 23-252021",2021-01-07,2021-01-07 23:33:45,867
 "NEXT-GENERATION SAP ENTERPRISE ARCHITECT VIRTUAL CONFERENCE FEB. 23-252021",2021-01-07,2021-01-07 23:33:45,868
 "NEXT-GENERATION SAP ENTERPRISE ARCHITECT VIRTUAL CONFERENCE FEB. 23-252021",2021-01-08,2021-01-08 15:59:32,895
-"NLP Modeling finding the structure of excellence  with Judith DeLozier",2021-01-08,2021-01-08 18:35:31,197
+"NLP Modeling finding the structure of excellence <U+0096> with Judith DeLozier",2021-01-08,2021-01-08 18:35:31,197
 "NLP SALES MASTERY (3 DAY VIRTUAL TRAINING).",2021-01-08,2021-01-08 18:35:31,32
 "Nonwoven Tech Expo (2nd Edition)",2021-01-07,2021-01-07 23:48:31,1973
+"Nonwoven Tech Expo (2nd Edition)",2021-01-09,2021-01-09 18:26:53,2002
 "Oil & Gas Data Science Series: Machine Learning Solution Development",2021-01-01,NA,1303
 "Oil & Gas Data Science Series: Machine Learning Solution Development",2021-01-02,NA,1381
 "Oil & Gas Data Science Series: Machine Learning Solution Development",2021-01-03,NA,1413
@@ -1365,10 +1345,12 @@
 "On-demand Webinar- The Urban Company story: Winning with AI",2021-01-06,2021-01-06 14:05:45,42
 "On-demand Webinar- The Urban Company story: Winning with AI",2021-01-07,2021-01-07 23:33:45,43
 "On-demand Webinar- The Urban Company story: Winning with AI",2021-01-07,2021-01-07 11:05:47,43
+"On-demand Webinar- The Urban Company story: Winning with AI",2021-01-09,2021-01-09 18:26:53,46
 "Onion Hour #3: Notworking Meets Networking",2021-01-05,2021-01-05 20:14:07,153
 "Online Training Festival",2021-01-05,2021-01-05 19:06:04,849
 "Online Training Festival",2021-01-06,2021-01-06 14:05:45,873
 "Online Training Festival",2021-01-07,2021-01-07 23:33:45,896
+"Online Training Festival",2021-01-09,2021-01-09 18:26:53,907
 "Open Innovation Series - Open Innovation to Unlock Business Growth",2021-01-05,2021-01-05 13:42:12,159
 "Open Innovation Series - Open Innovation to Unlock Business Growth",2021-01-06,2021-01-06 19:42:02,178
 "Optimal: The AI Conference for Procurement Teams",2021-01-08,2021-01-08 15:59:32,15
@@ -1392,7 +1374,7 @@
 "Panel 2: Data Science Education Policy Support",2021-01-08,2021-01-08 18:35:31,205
 "Panel 2: Data Science Education Policy Support",2021-01-08,2021-01-08 13:30:38,205
 "Panel 2: Data Science Education Policy Support",2021-01-09,2021-01-09 15:10:37,208
-"Panel Discussion: Merck R&Ds Digitally-Enabled Clinical Trial Team",2021-01-08,2021-01-08 18:43:40,13
+"Panel Discussion: Merck R&D<U+0092>s Digitally-Enabled Clinical Trial Team",2021-01-08,2021-01-08 18:43:40,13
 "Panel: Education in the time of COVID-19: can tech keep girls in school?",2021-01-08,2021-01-08 15:59:32,40
 "PDAC 2021 Convention",2021-01-08,2021-01-08 18:35:31,430
 "POLITICO's EU Studies and Career Fair 2021 - Online edition",2021-01-04,2021-01-04 22:39:35,1077
@@ -1420,7 +1402,6 @@
 "Privacy Around the Globe: Ghana",2021-01-08,2021-01-08 15:59:32,111
 "Privacy Around the Globe: Ghana",2021-01-09,2021-01-09 17:44:45,113
 "Progressive HR Live w/ Ema Roloff - ""Digital Transformation 2021""",2021-01-08,2021-01-08 18:43:40,22
-"Project Data Pioneers: Insights from Sir Robert McAlpines Head of Data",2021-01-09,2021-01-09 17:44:45,286
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-04,NA,213
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-04,2021-01-04 22:39:35,220
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-05,2021-01-05 09:55:01,224
@@ -1429,6 +1410,7 @@
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-06,2021-01-06 19:15:53,257
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-07,2021-01-07 23:48:31,270
 "Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-07,2021-01-07 23:33:45,270
+"Project Data Pioneers: Insights from Sir Robert McAlpine<U+0092>s Head of Data",2021-01-09,2021-01-09 17:44:45,286
 "Protecting High-value Data Subjects And Their Data",2021-01-07,2021-01-07 11:05:47,21
 "Protecting High-value Data Subjects And Their Data",2021-01-08,2021-01-08 15:59:32,23
 "Protecting High-value Data Subjects And Their Data",2021-01-08,2021-01-08 13:30:38,23
@@ -1456,6 +1438,7 @@
 "RE<U+0095>WORK Women in AI Virtual",2021-01-07,2021-01-07 23:33:45,43
 "Real Time Insights using Cassandra and Spark",2021-01-07,2021-01-07 23:48:31,27
 "Real Time Insights using Cassandra and Spark",2021-01-07,2021-01-07 23:33:45,27
+"Real Time Insights using Cassandra and Spark",2021-01-09,2021-01-09 18:26:53,32
 "Red Hat Ansible Security Automation Platform Workshop",2021-01-04,NA,25
 "Red Hat Ansible Security Automation Platform Workshop",2021-01-05,2021-01-05 20:14:07,31
 "Red Hat Ansible Security Automation Platform Workshop",2021-01-06,2021-01-06 13:54:17,33
@@ -1480,7 +1463,9 @@
 "Retail Innovation Week 2021",2021-01-07,2021-01-07 23:33:45,4504
 "Retail Innovation Week 2021",2021-01-08,2021-01-08 18:35:31,4601
 "Retail Innovation Week 2021",2021-01-09,2021-01-09 17:44:45,4669
+"Retail Innovation Week 2021",2021-01-09,2021-01-09 18:26:53,4670
 "Rethinking Retail with IoT Webinar",2021-01-07,2021-01-07 23:48:31,821
+"Rethinking Retail with IoT Webinar",2021-01-09,2021-01-09 18:26:53,922
 "Revenue Management Fundamentals",2021-01-04,NA,200
 "Revenue Management Fundamentals",2021-01-05,2021-01-05 09:55:01,211
 "Revenue Management Fundamentals",2021-01-05,2021-01-05 20:14:07,221
@@ -1502,6 +1487,7 @@
 "SCALE UP TURN",2021-01-08,2021-01-08 15:59:32,32
 "SCALE UP TURN",2021-01-08,2021-01-08 13:30:38,32
 "Scaling Your IoT Solution In Times of Disruption",2021-01-07,2021-01-07 23:48:31,13
+"Scaling Your IoT Solution In Times of Disruption",2021-01-09,2021-01-09 18:26:53,14
 "Schneider Electric: Making homes smart and sustainable at CES 2021",2021-01-06,2021-01-06 14:05:45,2163
 "Schneider Electric: Making homes smart and sustainable at CES 2021",2021-01-07,2021-01-07 23:33:45,2396
 "Schneider Electric: Making homes smart and sustainable at CES 2021",2021-01-09,2021-01-09 17:44:45,2571
@@ -1594,6 +1580,7 @@
 "SXSW Online",2021-01-07,2021-01-07 23:33:45,15288
 "SXSW Online",2021-01-08,2021-01-08 18:35:31,15518
 "SXSW Online",2021-01-09,2021-01-09 17:44:45,15766
+"SXSW Online",2021-01-09,2021-01-09 18:26:53,15773
 "Talent War Podcast #016: Leadership Orgs and the COVID-19 Vaccination",2021-01-08,2021-01-08 13:30:38,49
 "Talent War Podcast #016: Leadership Orgs and the COVID-19 Vaccination",2021-01-09,2021-01-09 15:10:37,143
 "Tearsheet Briefing for PR and Marketing Professionals",2021-01-07,2021-01-07 11:05:47,36
@@ -1625,6 +1612,7 @@
 "The 2021 California Employment Law Update By PIHRA",2021-01-04,2021-01-04 22:39:35,3246
 "The 2021 California Employment Law Update By PIHRA",2021-01-05,2021-01-05 20:14:07,3328
 "The 2021 California Employment Law Update By PIHRA",2021-01-08,2021-01-08 18:35:31,3491
+"The 2021 California Employment Law Update By PIHRA",2021-01-09,2021-01-09 18:26:53,3519
 "The 5th International Conference on Internet of Things and Its Application",2021-01-03,NA,78
 "The 5th International Conference on Internet of Things and Its Application",2021-01-04,NA,78
 "The 5th International Conference on Internet of Things and Its Application",2021-01-05,2021-01-05 20:14:07,80
@@ -1637,6 +1625,7 @@
 "The age of digital securities: An introduction and how it will benefit you",2021-01-07,2021-01-07 11:05:47,16
 "The Basics & Best Practices of Writing for Chatbots (Webinar with UXPA)",2021-01-05,2021-01-05 01:00:51,77
 "The Davos Agenda",2021-01-08,2021-01-08 18:35:31,55
+"The Davos Agenda",2021-01-09,2021-01-09 18:26:53,92
 "The decision-making process for infrastructural investments choices",2021-01-08,2021-01-08 18:35:31,15
 "The Drug Hunters - Christmas Special",2021-01-06,2021-01-06 19:31:00,77
 "The Drug Hunters - Christmas Special",2021-01-07,2021-01-07 11:05:47,77
@@ -1657,6 +1646,9 @@
 "THE EUROPEAN CHATBOT & CONVERSATIONAL AI - <U+0001F4AF> % VIRTUAL & ONLINE",2021-01-08,2021-01-08 18:35:31,2942
 "The Evolving Landscape of Pharmaceutical Collaborations: Focus on AI",2021-01-05,2021-01-05 10:51:31,12
 "The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-07,2021-01-07 23:48:31,1253
+"The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-09,2021-01-09 18:26:53,1076
+"The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-09,2021-01-09 18:26:53,1263
+"The Executive Assistant Masterclass 2021 [Online Edition]",2021-01-09,2021-01-09 18:26:53,1514
 "The Future is AI! Are you AI Ready?",2021-01-06,2021-01-06 09:50:53,16
 "The Future of Construction Summit",2021-01-05,2021-01-05 20:14:07,539
 "The Future of Construction Summit",2021-01-06,2021-01-06 13:54:17,571
@@ -1718,6 +1710,7 @@
 "The UofT AI Conference",2021-01-08,2021-01-08 15:59:32,3354
 "The UofT AI Conference",2021-01-08,2021-01-08 18:35:31,3363
 "The UofT AI Conference",2021-01-09,2021-01-09 15:10:37,3445
+"The UofT AI Conference",2021-01-09,2021-01-09 18:26:53,3462
 "The World Energy Leaders Virtual Summit",2021-01-04,NA,1478
 "The World Energy Leaders Virtual Summit",2021-01-05,2021-01-05 01:00:51,1565
 "The World Energy Leaders Virtual Summit",2021-01-05,2021-01-05 10:51:31,1612
@@ -1753,6 +1746,7 @@
 "UAE-Israel-Bahrain Trade Forum - Virtual: Jan 19 '21 - Physical: May '21",2021-01-08,2021-01-08 15:59:32,3124
 "UAE-Israel-Bahrain Trade Forum - Virtual: Jan 19 '21 - Physical: May '21",2021-01-09,2021-01-09 17:44:45,3183
 "UBC BizTech: Blueprint Conference 2021",2021-01-07,2021-01-07 11:05:47,24
+"UBC BizTech: Blueprint Conference 2021",2021-01-09,2021-01-09 18:26:53,32
 "UK Webinar: Patient-Level Costing: Analytics Benchmarking & Reporting",2021-01-05,2021-01-05 09:55:01,68
 "UK Webinar: Patient-Level Costing: Analytics Benchmarking & Reporting",2021-01-05,2021-01-05 20:14:07,72
 "UK Webinar: Patient-Level Costing: Analytics Benchmarking & Reporting",2021-01-06,2021-01-06 13:54:17,73
@@ -1796,9 +1790,11 @@
 "Virtual Career Summit",2021-01-07,2021-01-07 23:33:45,7797
 "Virtual Career Summit",2021-01-09,2021-01-09 17:44:45,7876
 "Virtual EIC Connect Energy USA",2021-01-07,2021-01-07 23:48:31,36
+"Virtual EIC Connect Energy USA",2021-01-09,2021-01-09 18:26:53,38
 "Virtual EIC Connect Energy USA 2021",2021-01-07,2021-01-07 23:48:31,282
 "Virtual EIC Connect Energy USA 2021",2021-01-08,2021-01-08 18:35:31,307
 "Virtual EIC Connect Energy USA 2021",2021-01-09,2021-01-09 17:44:45,326
+"Virtual EIC Connect Energy USA 2021",2021-01-09,2021-01-09 18:26:53,328
 "Virtual Healthcare Compliance Essentials Workshop",2021-01-06,2021-01-06 19:31:00,1420
 "Virtual HR Trends Webinars",2021-01-09,2021-01-09 17:44:45,1265
 "Virtual Master Class: The Hidden Gems of Microsoft Teams",2021-01-05,2021-01-05 20:14:07,19
@@ -1822,6 +1818,7 @@
 "WaiTALK Toronto: Advance your Career in the World of AI",2021-01-07,2021-01-07 23:48:31,59
 "Walmart AI Summit 2021",2021-01-09,2021-01-09 15:10:37,95
 "Webinar - Supply Chain Shifts to Watch in Europe",2021-01-07,2021-01-07 23:33:45,105
+"Webinar - Supply Chain Shifts to Watch in Europe",2021-01-09,2021-01-09 18:26:53,108
 "Webinar | Accelerate Digital Supply Chains with Real-Time Applications",2021-01-04,NA,91
 "Webinar | Accelerate Digital Supply Chains with Real-Time Applications",2021-01-06,2021-01-06 19:15:53,98
 "Webinar | Accelerate Digital Supply Chains with Real-Time Applications",2021-01-09,2021-01-09 17:44:45,130
@@ -1833,8 +1830,10 @@
 "Webinar on RevPi-Universal IIoT H/W All in One for Industrial Application",2021-01-08,2021-01-08 18:35:31,23
 "Webinar Radiopharmaceutical Packaging (January 12th)",2021-01-05,2021-01-05 20:14:07,590
 "Webinar Radiopharmaceutical Packaging (January 12th)",2021-01-07,2021-01-07 23:48:31,638
+"Webinar Radiopharmaceutical Packaging (January 12th)",2021-01-09,2021-01-09 18:26:53,683
 "Webinar Radiopharmaceutical Packaging (January 21st)",2021-01-05,2021-01-05 20:14:07,19
 "Webinar Radiopharmaceutical Packaging (January 21st)",2021-01-07,2021-01-07 23:48:31,20
+"Webinar Radiopharmaceutical Packaging (January 21st)",2021-01-09,2021-01-09 18:26:53,21
 "Webinar. Applied Scientific Marketing: Machine Learning Methodologies",2021-01-04,NA,39
 "Webinar. Applied Scientific Marketing: Machine Learning Methodologies etc.",2021-01-04,NA,39
 "Webinar. Applied Scientific Marketing: Machine Learning Methodologies etc.",2021-01-04,2021-01-04 22:13:24,41
@@ -1924,13 +1923,13 @@
 "Webinar: Recruiting the Next Generation of Diverse STEM Professionals",2021-01-08,2021-01-08 18:35:31,390
 "Webinar: Recruiting the Next Generation of Diverse STEM Professionals",2021-01-09,2021-01-09 15:10:37,400
 "Webinar: Recruiting the Next Generation of Diverse STEM Professionals",2021-01-09,2021-01-09 17:44:45,402
-"Webinar: The Cold Economy: A New Approach to Cooling",2021-01-09,2021-01-09 15:10:37,118
 "Webinar: The <U+0091>Cold Economy<U+0092>: A New Approach to Cooling",2021-01-08,2021-01-08 13:30:38,117
-"Whats Next for Hong Kongs Open Banking and Financial Ecosystem?",2021-01-09,2021-01-09 17:44:45,30
+"Webinar: The <U+0091>Cold Economy<U+0092>: A New Approach to Cooling",2021-01-09,2021-01-09 15:10:37,118
 "What<U+0092>s IoT got to do with AV?",2021-01-07,2021-01-07 23:48:31,29
 "What<U+0092>s Next for Hong Kong<U+0092>s Open Banking and Financial Ecosystem?",2021-01-07,2021-01-07 11:05:47,18
 "What<U+0092>s Next for Hong Kong<U+0092>s Open Banking and Financial Ecosystem?",2021-01-08,2021-01-08 15:59:32,26
 "What<U+0092>s Next for Hong Kong<U+0092>s Open Banking and Financial Ecosystem?",2021-01-08,2021-01-08 13:30:38,26
+"What<U+0092>s Next for Hong Kong<U+0092>s Open Banking and Financial Ecosystem?",2021-01-09,2021-01-09 17:44:45,30
 "Whatsapp Chatbot Based Marketing Strategies",2021-01-05,2021-01-05 01:00:51,253
 "Why Do Business Communities Matter?",2021-01-07,2021-01-07 23:48:31,55
 "Why the Future of Australian Fintech is Set to Boom",2021-01-06,2021-01-06 09:50:53,21
@@ -2041,11 +2040,11 @@
 "Women of FinTech virtual coffee meet up - Networking event",2021-01-08,2021-01-08 15:59:32,68
 "Women of FinTech virtual coffee meet up - Networking event",2021-01-08,2021-01-08 13:30:38,68
 "Women of FinTech virtual coffee meet up - Networking event",2021-01-09,2021-01-09 17:44:45,68
-"Work Now + In the Future:Leading More HUMAN Workplaces in a Digital World",2021-01-09,2021-01-09 17:44:45,529
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-04,2021-01-04 22:39:35,430
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-05,2021-01-05 13:42:12,439
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-06,2021-01-06 13:54:17,472
 "Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-06,2021-01-06 19:15:53,480
+"Work Now + In the Future:Leading More <U+0093>HUMAN<U+0094> Workplaces in a Digital World",2021-01-09,2021-01-09 17:44:45,529
 "World Staffing Summit 2021",2021-01-06,2021-01-06 13:54:17,5887
 "World Staffing Summit 2021",2021-01-06,2021-01-06 14:05:45,5911
 "World Staffing Summit 2021",2021-01-07,2021-01-07 23:33:45,6227
