@@ -30,6 +30,9 @@ myData$Event[grep("Beirut AI Bootcamp",myData$Event)] = "Beirut AI Bootcamp"
 myData$Event[grep("Women in AI Virtual",myData$Event)] = "RE-WORK Women in AI Virtual"
 myData$Event[grep("Fast Track to Business Resilience",myData$Event)] = "ESM: Fast Track to Business Resilience"
 myData$Event[grep("Oil & Gas Data Science Series: Machine Learning on Digital Hub",myData$Event)]="Oil & Gas Data Science Series: Machine Learning on Digital Hub"
+myData$Event[grep("CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT",myData$Event)] = "CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT"
+myData$Event[grep("Derivatives Forum Frankfurt 2021",myData$Event)]="Derivatives Forum Frankfurt 2021 - virtual edition"
+myData$Event[grep("Your Secret Productivity Weapon",myData$Event)]="Microsoft OneNote - Your Secret Productivity Weapon"
 AllEvents <- myData$Event %>% unique()
 
 
@@ -66,6 +69,10 @@ Col1 <- gsub(",","",Col1)
 Col1[grep("Beirut AI Bootcamp",Col1)] = "Beirut AI Bootcamp"
 Col1[grep("Women in AI Virtual",Col1)] = "RE-WORK Women in AI Virtual"
 Col1[grep("Fast Track to Business Resilience",Col1)] = "ESM: Fast Track to Business Resilience"
+Col1[grep("Oil & Gas Data Science Series: Machine Learning on Digital Hub",Col1)]="Oil & Gas Data Science Series: Machine Learning on Digital Hub"
+Col1[grep("CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT",Col1)] = "CHATBOT AFRICA & CONVERSATIONAL AI SUMMIT"
+Col1[grep("Derivatives Forum Frankfurt 2021",Col1)]="Derivatives Forum Frankfurt 2021 - virtual edition"
+Col1[grep("Your Secret Productivity Weapon",Col1)]="Microsoft OneNote - Your Secret Productivity Weapon"
 Col3 <- gsub(",","",Col3)
 Col3 <- gsub("attendees","",Col3)
 Col3 <- gsub("attendee","",Col3)
