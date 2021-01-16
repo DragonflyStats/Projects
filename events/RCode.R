@@ -20,28 +20,20 @@ write.csv(myData, "AttendeeNumbers.csv",row.names=FALSE)
 write.csv(EventDetails, "EventDetails.csv",row.names=FALSE)
 
 
-########################################
-
-
-LostList <- c("AI Champions Online - Supply Chain",
-              "AI for Sustainable Development Goals",
-              "Free Training on Microsoft Azure AI-900 Fundamentals Certification (USA)",
-              "Free Training on Microsoft Azure DP-900 Fundamentals Certification (USA)",
-"The Drug Hunters - Christmas Special",
-"6th Annual Oligonucleotide & Precision Therapeutics Congress 2021")
-
-
-
-
-
-
-
-
-
 ######################################
 
 
 myData <- read_csv("https://raw.githubusercontent.com/DragonflyStats/Projects/master/events/AttendeeNumbers.csv")
+
+
+myData$Event[grep("Beirut AI Bootcamp",myData$Event)] = "Beirut AI Bootcamp"
+myData$Event[grep("Women in AI Virtual",myData$Event)] = "RE-WORK Women in AI Virtual"
+myData$Event[grep("Fast Track to Business Resilience",myData$Event)] = "ESM: Fast Track to Business Resilience"
+myData$Event[grep("Oil & Gas Data Science Series: Machine Learning on Digital Hub",myData$Event)]="Oil & Gas Data Science Series: Machine Learning on Digital Hub"
+AllEvents <- myData$Event %>% unique()
+
+
+
 myData <- myData %>% arrange(Event,Date,Attendees) %>% mutate(Date=as.Date(Date))
 myData <- myData %>% filter(!(Event %in% LostList ))
 myData <- myData %>% arrange(Event,Date,Attendees) %>% distinct()
