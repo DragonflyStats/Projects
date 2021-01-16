@@ -71,6 +71,9 @@ Loc2 <- Loc2[-1]
 Col1 <- Feed[Loc1]
 Col3 <- Feed[Loc2]
 Col1 <- gsub(",","",Col1)
+Col1[grep("Beirut AI Bootcamp",Col1)] = "Beirut AI Bootcamp"
+Col1[grep("Women in AI Virtual",Col1)] = "RE-WORK Women in AI Virtual"
+Col1[grep("Fast Track to Business Resilience",Col1)] = "ESM: Fast Track to Business Resilience"
 Col3 <- gsub(",","",Col3)
 Col3 <- gsub("attendees","",Col3)
 Col3 <- gsub("attendee","",Col3)
