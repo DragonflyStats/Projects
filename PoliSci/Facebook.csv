@@ -1,6 +1,27 @@
 "Name","Date","Likes","Followers"
 "Aengus O Snodaigh",2020-10-04,8563,8699
 "Aengus O Snodaigh",2020-10-09,8576,8718
+"Annie Hoey",2021-01-28,1368,1504
+"Brian Hayes",2021-01-29,4005,4061
+"Ciaran Cuffe",2021-01-28,2082,2139
+"Iona Institute",2021-01-28,7733,7887
+"Mary Mitchell O'Connor",2021-01-28,3161,3231
+"Niall O Donnghaile",2021-01-29,2147,2311
+"Daily Ireland",2021-01-29,30264,32136
+"Direct Democracy Ireland",2021-01-29,9591,9389
+"Donegal Sinn Fein",2021-01-29,12290,12388
+"Fiona McLoughlin Healy",2021-01-28,8172,8334
+"Fiona O'Loughlin",2021-01-29,8694,8868
+"Irexit",2021-01-28,804,823
+"Liadh Ni Riada",2021-01-29,8489,8578
+"Padraig O Ceidigh",2021-01-29,1318,1327
+"Ronan Mullen",2021-01-29,3620,3667
+"Sean Kyne",2021-01-28,2576,2768
+"Yellow Vest Ireland Dublin",2021-01-29,4193,4446
+"Yellow Vest Ireland Kerry",2021-01-28,735,755
+"Aontu Longford",2021-01-29,1219,1251
+"Aontu Louth",2021-01-29,308,327
+"Aontu Meath",2021-01-29,1627,1690
 "Aengus O Snodaigh",2020-10-13,8583,8726
 "Aengus O Snodaigh",2020-10-19,8586,8733
 "Aengus O Snodaigh",2020-10-24,8594,8744
@@ -299,7 +320,7 @@
 "Aodhan O Riordain",2021-01-07,19168,19650
 "Aodhan O Riordain",2021-01-15,19202,19687
 "Aodhan O Riordain",2021-01-25,20247,20888
-"Aodh·n ” RÌord·in",2021-01-27,20270,20913
+"Aodh√°n √ì R√≠ord√°in",2021-01-27,20270,20913
 "Aontu",2020-09-12,NA,11357
 "Aontu",2020-09-15,10868,11373
 "Aontu",2020-09-19,10992,11440
@@ -681,7 +702,7 @@
 "Brian O Domhnaill",2021-01-07,0,0
 "Brian O Domhnaill",2021-01-12,0,0
 "Brian O Domhnaill",2021-01-28,0,0
-"Brian ” Domhnaill",2021-01-27,0,0
+"Brian √ì Domhnaill",2021-01-27,0,0
 "Brian Stanley",2021-01-06,0,0
 "Brian Stanley",2021-01-25,24,26
 "Brian Stanley",2021-01-28,0,0
@@ -937,7 +958,7 @@
 "Ciaran Cuffe",2021-01-02,2083,2139
 "Ciaran Cuffe",2021-01-07,2082,2138
 "Ciaran Cuffe",2021-01-15,2082,2138
-"Ciar·n Cuffe",2021-01-27,2081,2138
+"Ciar√°n Cuffe",2021-01-27,2081,2138
 "Claire Byrne",2020-09-15,1040,1055
 "Claire Byrne",2020-09-19,1040,1055
 "Claire Byrne",2020-09-24,1040,1055
@@ -1540,7 +1561,7 @@
 "Eamon O Cuiv",2021-01-06,8214,8307
 "Eamon O Cuiv",2021-01-12,8217,8312
 "Eamon O Cuiv",2021-01-23,8222,8317
-"…amon O Cuiv",2021-01-25,8223,8318
+"√âamon O Cuiv",2021-01-25,8223,8318
 "Eamon Ryan",2020-09-12,NA,7889
 "Eamon Ryan",2020-09-18,7687,7898
 "Eamon Ryan",2020-09-23,7696,7907
@@ -3102,7 +3123,7 @@
 "Maire Devine",2021-01-07,237,250
 "Maire Devine",2021-01-15,228,251
 "Maire Devine",2021-01-22,238,251
-"M·ire Devine",2021-01-27,238,251
+"M√°ire Devine",2021-01-27,238,251
 "Mairead Farrell",2020-10-13,11354,11734
 "Mairead Farrell",2020-10-19,11403,11788
 "Mairead Farrell",2020-10-25,11677,12078
@@ -3119,9 +3140,9 @@
 "Mairead Farrell",2021-01-08,12355,12762
 "Mairead Farrell",2021-01-17,12368,12780
 "Mairead Farrell",2021-01-24,12370,12786
-"MairÈad Farrell",2021-01-06,12353,12761
-"MairÈad Farrell",2021-01-14,12358,12766
-"MairÈad Farrell",2021-01-26,12379,12791
+"Mair√©ad Farrell",2021-01-06,12353,12761
+"Mair√©ad Farrell",2021-01-14,12358,12766
+"Mair√©ad Farrell",2021-01-26,12379,12791
 "Mairead McGuinness",2020-09-24,11739,12117
 "Mairead McGuinness",2020-09-28,11745,12124
 "Mairead McGuinness",2020-10-03,11776,12158
@@ -3847,7 +3868,7 @@
 "Niall O Donnghaile",2020-12-26,2107,2265
 "Niall O Donnghaile",2021-01-07,2109,2266
 "Niall O Donnghaile",2021-01-15,2119,2276
-"Niall ” Donnghaile",2021-01-27,2146,2308
+"Niall √ì Donnghaile",2021-01-27,2146,2308
 "Niamh Smyth",2020-12-06,8965,9196
 "Niamh Smyth",2020-12-13,8965,9204
 "Niamh Smyth",2020-12-23,8973,9215
@@ -4247,7 +4268,7 @@
 "Padraig Mac Lochlainn",2021-01-07,14314,14714
 "Padraig Mac Lochlainn",2021-01-16,14333,14738
 "Padraig Mac Lochlainn",2021-01-26,14349,14761
-"P·draig Mac Lochlainn",2021-01-27,14350,14762
+"P√°draig Mac Lochlainn",2021-01-27,14350,14762
 "Padraig O'Sullivan",2020-12-13,3558,3804
 "Padraig O'Sullivan",2020-12-23,3561,3809
 "Padraig O'Sullivan",2020-12-30,3561,3809
@@ -4258,9 +4279,9 @@
 "Padraig O Ceidigh",2020-12-26,1309,1317
 "Padraig O Ceidigh",2021-01-08,1311,1319
 "Padraig O Ceidigh",2021-01-16,1311,1319
-"Padraig O CÈidigh",2021-01-07,1311,1319
-"Padraig O CÈidigh",2021-01-17,1311,1319
-"P·draig ” CÈidigh",2021-01-27,1317,1326
+"Padraig O C√©idigh",2021-01-07,1311,1319
+"Padraig O C√©idigh",2021-01-17,1311,1319
+"P√°draig √ì C√©idigh",2021-01-27,1317,1326
 "Paschal Donohoe",2020-09-24,4470,4597
 "Paschal Donohoe",2020-09-27,4475,4602
 "Paschal Donohoe",2020-10-01,4481,4608
@@ -4449,9 +4470,9 @@
 "Peadar Toibin",2021-01-10,11854,12219
 "Peadar Toibin",2021-01-19,11897,12267
 "Peadar Toibin",2021-01-21,11916,12286
-"Peadar TÛibin",2021-01-06,11844,12209
-"Peadar TÛibin",2021-01-14,11860,12227
-"Peadar TÛibin",2021-01-26,11936,12306
+"Peadar T√≥ibin",2021-01-06,11844,12209
+"Peadar T√≥ibin",2021-01-14,11860,12227
+"Peadar T√≥ibin",2021-01-26,11936,12306
 "Pearse Doherty",2020-09-20,71689,77709
 "Pearse Doherty",2020-09-23,71756,77787
 "Pearse Doherty",2020-09-24,71770,77802
@@ -4572,10 +4593,10 @@
 "Reada Cronin",2021-01-03,2258,2373
 "Reada Cronin",2021-01-09,2260,2375
 "Reada Cronin",2021-01-18,2268,2386
-"RÈada Cronin",2021-01-06,2259,2374
-"RÈada Cronin",2021-01-14,3747,4659
-"RÈada Cronin",2021-01-16,3747,4658
-"RÈada Cronin",2021-01-26,2273,2391
+"R√©ada Cronin",2021-01-06,2259,2374
+"R√©ada Cronin",2021-01-14,3747,4659
+"R√©ada Cronin",2021-01-16,3747,4658
+"R√©ada Cronin",2021-01-26,2273,2391
 "Reality Ireland",2020-09-26,6994,7044
 "Reality Ireland",2020-10-02,7002,7052
 "Reality Ireland",2020-10-08,7008,7058
@@ -4791,9 +4812,9 @@
 "Roisin Shortall",2021-01-09,2485,2670
 "Roisin Shortall",2021-01-13,2492,2676
 "Roisin Shortall",2021-01-23,2524,2713
-"RÛisin Shortall",2021-01-06,2468,2653
-"RÛisin Shortall",2021-01-14,2498,2682
-"RÛisin Shortall",2021-01-26,2531,2719
+"R√≥isin Shortall",2021-01-06,2468,2653
+"R√≥isin Shortall",2021-01-14,2498,2682
+"R√≥isin Shortall",2021-01-26,2531,2719
 "Ronan Mullen",2020-09-12,NA,3614
 "Ronan Mullen",2020-09-16,3575,3614
 "Ronan Mullen",2020-09-19,3573,3612
@@ -4815,9 +4836,9 @@
 "Ronan Mullen",2020-12-26,3614,3662
 "Ronan Mullen",2021-01-08,3613,3660
 "Ronan Mullen",2021-01-17,3615,3662
-"RÛnan Mullen",2021-01-07,3613,3660
-"RÛnan Mullen",2021-01-16,3615,3662
-"RÛn·n Mullen",2021-01-27,3622,3669
+"R√≥nan Mullen",2021-01-07,3613,3660
+"R√≥nan Mullen",2021-01-16,3615,3662
+"R√≥n√°n Mullen",2021-01-27,3622,3669
 "Rose Conway-Walsh",2020-12-13,11116,11702
 "Rose Conway-Walsh",2020-12-16,0,0
 "Rose Conway-Walsh",2020-12-26,11113,11711
@@ -4832,9 +4853,9 @@
 "Ruairi O Murchu",2021-01-03,4942,5320
 "Ruairi O Murchu",2021-01-09,4942,5319
 "Ruairi O Murchu",2021-01-18,4941,5319
-"Ruairi O Murch˙",2021-01-06,4941,5318
-"Ruairi O Murch˙",2021-01-14,4943,5320
-"Ruairi O Murch˙",2021-01-26,4941,5320
+"Ruairi O Murch√∫",2021-01-06,4941,5318
+"Ruairi O Murch√∫",2021-01-14,4943,5320
+"Ruairi O Murch√∫",2021-01-26,4941,5320
 "Saoirse McHugh",2020-10-07,5285,5408
 "Saoirse McHugh",2020-10-07,5305,5430
 "Saoirse McHugh",2020-10-13,5296,5420
@@ -4940,12 +4961,12 @@
 "Sean Kelly",2021-01-08,7011,7233
 "Sean Kelly",2021-01-09,7011,7233
 "Sean Kelly",2021-01-18,7006,7230
-"Se·n Kelly",2021-01-27,7009,7236
+"Se√°n Kelly",2021-01-27,7009,7236
 "Sean Kyne",2020-12-16,2571,2757
 "Sean Kyne",2020-12-26,2575,2762
 "Sean Kyne",2021-01-07,2579,2766
 "Sean Kyne",2021-01-16,2578,2766
-"Se·n Kyne",2021-01-27,2576,2768
+"Se√°n Kyne",2021-01-27,2576,2768
 "Sean O Fearghail",2020-12-13,4615,4739
 "Sean O Fearghail",2020-12-25,4618,4745
 "Sean O Fearghail",2021-01-03,4621,4751
@@ -5346,7 +5367,7 @@
 "Trevor O Clochartaigh",2020-12-26,0,0
 "Trevor O Clochartaigh",2021-01-07,0,0
 "Trevor O Clochartaigh",2021-01-28,0,0
-"Trevor ” Clochartaigh",2021-01-27,NA,712
+"Trevor √ì Clochartaigh",2021-01-27,NA,712
 "Verona Murphy",2020-09-29,9134,9497
 "Verona Murphy",2020-10-03,9183,9548
 "Verona Murphy",2020-10-09,9331,9702
