@@ -3,6 +3,7 @@ library(tidyverse)
 Youtube <- read_csv("https://raw.githubusercontent.com/DragonflyStats/Projects/master/JuliaCon/Youtube.csv")
 
 Youtube <- Youtube %>% mutate(
+  Year = as.factor(Year), 
   Views = Views/1000,
   WatchTime_Hours = WatchTime_Hours/1000)
 
@@ -21,7 +22,12 @@ ggplot(data=Youtube,  aes(Year, y=WatchTime_Hours, group=Quarter)) +
   geom_bar(aes(fill=Quarter), stat="identity", 
            position="dodge") + theme_bw() + 
   scale_fill_manual(values = palette_1) + 
-  ylab("Watch Time (1000 Hours)") + ggtitle("Number of Hours Watched")
+  ylab("Watch Time (1000 Hours)") + ggtitle("Number of Hours Watched") +
+  theme(
+    plot.title = element_text(color="black", size=14, face="bold"),
+    axis.title.x = element_text(color="black", size=12, face="bold"),
+    axis.title.y = element_text(color="black", size=12, face="bold")
+  )
 
 ggsave("Numbers_of_Hours_Watched.png")
 
@@ -29,7 +35,12 @@ ggplot(data=Youtube,  aes(Year, y=Subscribers, group=Quarter)) +
   geom_bar(aes(fill=Quarter), stat="identity", 
            position="dodge") + theme_bw()+ 
   scale_fill_manual(values = palette_3) + 
-  ylab("Subscribers") + ggtitle("Subscribers")
+  ylab("Subscribers") + ggtitle("Subscribers")+
+  theme(
+    plot.title = element_text(color="black", size=14, face="bold"),
+    axis.title.x = element_text(color="black", size=12, face="bold"),
+    axis.title.y = element_text(color="black", size=12, face="bold")
+  )
 
 ggsave("Numbers_of_Subscribers.png")
 
@@ -37,6 +48,11 @@ ggplot(data=Youtube,  aes(Year, y=Views, group=Quarter)) +
   geom_bar(aes(fill=Quarter), stat="identity", 
            position="dodge") + theme_bw() + 
   scale_fill_manual(values = palette_2) + 
-  ylab("Views (1000)") + ggtitle("Number of Views")
+  ylab("Views (1000)") + ggtitle("Number of Views")+
+  theme(
+    plot.title = element_text(color="black", size=14, face="bold"),
+    axis.title.x = element_text(color="black", size=12, face="bold"),
+    axis.title.y = element_text(color="black", size=12, face="bold")
+  )
 
 ggsave("Numbers_of_Views.png")
