@@ -21,5 +21,7 @@ JuliaCon 2021 has alread generated a lot of interest. The event page on LinkedIn
 go before the conference. We expect that figure to grow substantially between now and then.
 
 [1] www.youtube.com/user/JuliaLanguage
+
 [2] https://computationalthinking.mit.edu/Fall20/
+
 [3] https://www.linkedin.com/events/juliacon2021-freeandvirtual6746462348694958080/
