@@ -1,16 +1,14 @@
 
 Hi there XXX
 
-Happy new year. I hope you dont mind me reaching out to you on behalf of JuliaCon 2020.
-I am the Social Media Chair again.
+Happy new year. I hope you dont mind me reaching out to you on behalf of JuliaCon 2020. I am, once again, the Social Media Chair.
 
-The matter in question is reaching out to companies who would potentially sponsor JuliaCon 2020.
-I have attached the brochure to this email.
+We are currently seeking sponsors for the conference and wanted to gauge your potential interest. I have attached the brochure to this email. 
+Here’s some data around our audience and reach.
 
 Both JuliaCon, and the Julia Community in general, had a very strong year last year, and we expect 2021 to be better again.
 JuliaCon 2020 was held virtually last July, with no registration charge. 
-The event attracted more than 10,000 registrations, a notable achievement that generated more interest in the wider tech 
-community after thee event was over.
+The event attracted more than 10,000 registrations, a notable achievement that generated more interest in the wider tech community after thee event was over.
 
 This increase in interest was evident in the spike of activity in the Julia Language Youtube channel [1].
 Of course, this was also due to the broadcast of the "Introduction to Computational Thinking"[2], which introduced Julia to 
