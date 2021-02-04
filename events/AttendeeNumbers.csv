@@ -40,8 +40,8 @@
 "(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-02-02,2021-02-02 22:35:17,3465
 "(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-02-02,2021-02-02 23:27:13,3466
 "(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-02-03,2021-02-03 15:07:05,3471
-"(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP®)",2021-02-03,2021-02-03 20:43:08,3471
-"(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP®)",2021-02-04,2021-02-04 20:27:22,3477
+"(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-02-03,2021-02-03 20:43:08,3471
+"(FEB 8-12 2021)(LVT)Certified Artificial Intelligence Practitioner (CAIP<U+00AE>)",2021-02-04,2021-02-04 20:27:22,3477
 "[Online Open Day] Elevate Your Career in 2021",2021-02-03,2021-02-03 21:10:37,571
 "[Online Open Day] Elevate Your Career in 2021",2021-02-04,2021-02-04 15:49:19,699
 "10th Power Analysis & Design Symposium 2021 (Virtual Event)",2021-01-27,2021-01-27 19:38:48,425
@@ -247,7 +247,7 @@
 "23rd D<fc>sseldorf International Endoscopy Symposium February 4-6th 2021",2021-02-02,2021-02-02 09:12:20,720
 "23rd D<fc>sseldorf International Endoscopy Symposium February 4-6th 2021",2021-02-02,2021-02-02 22:35:17,731
 "23rd D<fc>sseldorf International Endoscopy Symposium February 4-6th 2021",2021-02-03,2021-02-03 14:35:48,735
-"23rd Düsseldorf International Endoscopy Symposium February 4-6th 2021",2021-02-04,2021-02-04 20:47:03,841
+"23rd D<fc>sseldorf International Endoscopy Symposium February 4-6th 2021",2021-02-04,2021-02-04 20:47:03,841
 "25th Anniversary ICIS World Base Oils & Lubricants Live",2021-02-02,2021-02-02 09:12:20,591
 "25th Anniversary ICIS World Base Oils & Lubricants Live",2021-02-02,2021-02-02 22:35:17,601
 "25th Anniversary ICIS World Base Oils & Lubricants Live",2021-02-03,2021-02-03 14:35:48,605
@@ -949,7 +949,7 @@
 "Business Leadership: Resolving Team Conflicts Effectively - Session Series",2021-02-04,2021-02-04 09:15:49,3286
 "Business Leadership: Resolving Team Conflicts Effectively - Session Series",2021-02-04,2021-02-04 09:29:32,3288
 "Business Leadership: Resolving Team Conflicts Effectively - Session Series",2021-02-04,2021-02-04 20:47:03,3360
-"BW Businessworld’s Festival of Fintech Conclave & Awards",2021-02-04,2021-02-04 20:47:03,360
+"BW BusinessworldÂ’s Festival of Fintech Conclave & Awards",2021-02-04,2021-02-04 20:47:03,360
 "BW Businessworld<U+0092>s Festival of Fintech Conclave & Awards",2021-02-01,2021-02-01 08:32:09,273
 "BW Businessworld<U+0092>s Festival of Fintech Conclave & Awards",2021-02-01,2021-02-01 22:14:52,279
 "BW Businessworld<U+0092>s Festival of Fintech Conclave & Awards",2021-02-02,2021-02-02 09:12:20,293
@@ -1327,7 +1327,6 @@
 "DeveloperWeek 2021",2021-02-03,2021-02-03 14:35:48,6101
 "DeveloperWeek 2021",2021-02-04,2021-02-04 09:15:49,6388
 "DeveloperWeek 2021",2021-02-04,2021-02-04 20:47:03,6506
-"DIGITAL HEALTH INNOVATION <U+0096> REIMAGINING HEALTHCARE",2021-01-24,2021-01-24 11:46:58,279
 "Digital Health Report Launch",2021-02-01,2021-02-01 09:00:31,271
 "Digital Health Report Launch",2021-02-01,2021-02-01 22:14:52,281
 "Digital Health Report Launch",2021-02-02,2021-02-02 09:12:20,284
@@ -1336,7 +1335,6 @@
 "Digital Launch Event",2021-02-01,2021-02-01 22:14:52,294
 "Digital Launch Event",2021-02-02,2021-02-02 09:12:20,310
 "Digital Launch Event",2021-02-02,2021-02-02 22:35:17,350
-"Digital Marketing and Social Media MASTERCLASS for SMEs and Consultants",2021-01-24,2021-01-24 11:46:58,299
 "Digital Transformation Summit Africa 2021 | Virtual Conference",2021-01-08,2021-01-08 18:43:40,614
 "Digital Transformation Summit Africa 2021 | Virtual Conference",2021-01-11,2021-01-11 16:20:00,642
 "Digital Transformation Summit Africa 2021 | Virtual Conference",2021-01-11,2021-01-11 23:34:21,648
@@ -1423,9 +1421,8 @@
 "Effective ways to recognize performance virtually",2021-02-03,2021-02-03 14:35:48,530
 "Effective ways to recognize performance virtually",2021-02-04,2021-02-04 09:15:49,598
 "Effective ways to recognize performance virtually",2021-02-04,2021-02-04 20:47:03,617
-"EIC Connect Virtual Energy USA 2021",2021-01-22,2021-01-22 20:35:50,979
 "Elara Caring FREE Virtual CE- Difficult Conversations at End of Life",2021-02-04,2021-02-04 20:47:03,274
-"Embedded Safety & Security Summit 2021 – Virtual Conference",2021-02-04,2021-02-04 20:47:03,1143
+"Embedded Safety & Security Summit 2021 Â– Virtual Conference",2021-02-04,2021-02-04 20:47:03,1143
 "Embedded Safety & Security Summit 2021 <U+0096> Virtual Conference",2021-01-26,2021-01-26 16:59:24,969
 "Embedded Safety & Security Summit 2021 <U+0096> Virtual Conference",2021-01-27,2021-01-27 01:27:13,972
 "Embedded Safety & Security Summit 2021 <U+0096> Virtual Conference",2021-01-27,2021-01-27 19:38:48,990
@@ -1441,7 +1438,6 @@
 "ENDORSE: the European Data Conference on Reference Data and Semantics",2021-02-02,2021-02-02 23:27:13,250
 "ENDORSE: the European Data Conference on Reference Data and Semantics",2021-02-03,2021-02-03 15:07:05,252
 "ENDORSE: the European Data Conference on Reference Data and Semantics",2021-02-04,2021-02-04 09:38:59,253
-"Engineering & Testing at a glance <U+0096> a look behind the scenes",2021-01-27,2021-01-27 19:38:48,302
 "Envirotech Asia 2021",2021-02-02,2021-02-02 23:08:55,1877
 "Envirotech Asia 2021",2021-02-03,2021-02-03 14:35:48,1930
 "Envirotech Asia 2021",2021-02-04,2021-02-04 09:15:49,2020
@@ -1606,7 +1602,6 @@
 "First Ever Virtual Career Fair in Myanmar powered by MyJobs",2021-02-03,2021-02-03 14:35:48,5085
 "First Ever Virtual Career Fair in Myanmar powered by MyJobs",2021-02-04,2021-02-04 09:15:49,5153
 "First Ever Virtual Career Fair in Myanmar powered by MyJobs",2021-02-04,2021-02-04 20:47:03,5187
-"FOE2: Learn how to organise a virtual event in less than 20 days!",2021-01-28,2021-01-28 12:02:48,449
 "FREE Webinar | Let's ""No-Code Machine Learning"" with KNIME!",2021-01-22,2021-01-22 18:04:31,263
 "FREE Webinar | Let's ""No-Code Machine Learning"" with KNIME!",2021-01-22,2021-01-22 18:40:14,270
 "FREE Webinar | Let's ""No-Code Machine Learning"" with KNIME!",2021-01-23,2021-01-23 18:33:40,324
@@ -1941,7 +1936,7 @@
 "IDC Middle East CIO Summit 2021",2021-02-02,2021-02-02 09:12:20,3338
 "IDC Middle East CIO Summit 2021",2021-02-03,2021-02-03 21:20:40,3391
 "IDC Middle East CIO Summit 2021",2021-02-04,2021-02-04 09:29:32,3399
-"IMPROV as a METAPHOR for TEAM BUILDING - Matt Elwell Improvisation Leader",2021-02-03,2021-02-03 14:35:48,386
+"IMPROVISATIONAL TEAM BUILDING with Matt Elwell Improvisation Leader",2021-02-03,2021-02-03 14:35:48,386
 "IMPROVISATIONAL TEAM BUILDING with Matt Elwell Improvisation Leader",2021-02-04,2021-02-04 20:47:03,426
 "India Virtual Tech Jobs Fair",2021-01-28,2021-01-28 12:02:48,1135
 "India Virtual Tech Jobs Fair",2021-01-30,2021-01-30 19:48:59,1294
@@ -2035,7 +2030,7 @@
 "International Biotech Symposium 2021",2021-02-03,2021-02-03 14:35:48,3558
 "International Biotech Symposium 2021",2021-02-04,2021-02-04 09:15:49,3645
 "International Biotech Symposium 2021",2021-02-04,2021-02-04 20:47:03,3690
-"Introdução à DIGITAL SUPPLY CHAIN @Udemy.com (Curso Online em Inglês)",2021-02-03,2021-02-03 20:43:08,879
+"IntroduÃ§Ã£o Ã  DIGITAL SUPPLY CHAIN @Udemy.com (Curso Online em InglÃªs)",2021-02-03,2021-02-03 20:43:08,879
 "Introducing the all-new Webex Contact Center",2021-02-01,2021-02-01 09:00:31,1821
 "Introducing the all-new Webex Contact Center",2021-02-01,2021-02-01 22:14:52,1947
 "Introducing the all-new Webex Contact Center",2021-02-02,2021-02-02 09:12:20,2019
@@ -2442,7 +2437,6 @@
 "Logistics Innovators Day",2021-02-03,2021-02-03 14:35:48,1810
 "Logistics Innovators Day",2021-02-04,2021-02-04 09:15:49,1888
 "Logistics Innovators Day",2021-02-04,2021-02-04 20:47:03,1991
-"Logistics Real Estate Asia - Last Chance to register at www.logreal.asia",2021-01-27,2021-01-27 19:38:48,1086
 "London Fintech Conference 2021: Startup Edition",2021-01-28,2021-01-28 12:02:48,253
 "London Fintech Conference 2021: Startup Edition",2021-01-28,2021-01-28 22:01:09,255
 "London Fintech Conference 2021: Startup Edition",2021-01-30,2021-01-30 00:04:22,262
@@ -2815,7 +2809,6 @@
 "NextGen Contact Center (CCaaS)",2021-02-03,2021-02-03 14:51:22,1252
 "NextGen Contact Center (CCaaS)",2021-02-03,2021-02-03 21:10:37,1279
 "NextGen Contact Center (CCaaS)",2021-02-04,2021-02-04 20:31:23,1314
-"Northern Utah Business Owners' Virtual Sample Board",2021-02-03,2021-02-03 14:35:48,251
 "Nova Scotia Virtual Job Fair- March 11th 2021",2021-01-13,2021-01-13 18:05:42,2589
 "Nova Scotia Virtual Job Fair- March 11th 2021",2021-01-14,2021-01-14 12:45:05,2689
 "Nova Scotia Virtual Job Fair- March 11th 2021",2021-01-15,2021-01-15 01:03:50,2762
@@ -2934,7 +2927,6 @@
 "POLITICO's EU Studies and Career Fair 2021 - Online edition",2021-02-02,2021-02-02 22:35:17,4205
 "POLITICO's EU Studies and Career Fair 2021 - Online edition",2021-02-03,2021-02-03 21:20:40,4335
 "POLITICO's EU Studies and Career Fair 2021 - Online edition",2021-02-04,2021-02-04 09:29:32,4378
-"Positioning Yourself For Your Next Move - VIRTUALLY",2021-01-26,2021-01-26 16:59:24,839
 "Prepare For Your Job Interviews.",2021-01-22,2021-01-22 18:08:38,5274
 "Prepare For Your Job Interviews.",2021-01-23,2021-01-23 19:14:33,5502
 "Prepare For Your Job Interviews.",2021-01-24,2021-01-24 11:20:24,5615
@@ -3541,8 +3533,6 @@
 "The Festival of Telehealth 2021 - Free To Attend - Virtual Event",2021-02-03,2021-02-03 14:35:48,2644
 "The Festival of Telehealth 2021 - Free To Attend - Virtual Event",2021-02-04,2021-02-04 09:15:49,2859
 "The Festival of Telehealth 2021 - Free To Attend - Virtual Event",2021-02-04,2021-02-04 20:47:03,2960
-"The Future of Architecture with RIBA President Elect Simon Allford",2021-02-01,2021-02-01 09:00:31,659
-"The Future of Architecture with RIBA President Elect Simon Allford",2021-02-02,2021-02-02 09:12:20,725
 "The Future of Infrastructure 2021 - Conference & Expo",2021-01-27,2021-01-27 19:38:48,1709
 "The Future of Infrastructure 2021 - Conference & Expo",2021-01-28,2021-01-28 22:01:09,1742
 "The Future of Infrastructure 2021 - Conference & Expo",2021-01-29,2021-01-29 15:18:55,1767
@@ -3555,7 +3545,7 @@
 "The Future of Infrastructure 2021 - Conference & Expo",2021-02-03,2021-02-03 21:30:04,1941
 "The Future of Infrastructure 2021 - Conference & Expo",2021-02-04,2021-02-04 09:29:32,1950
 "The Future of Mental Health Conference 2021",2021-02-01,2021-02-01 22:37:20,258
-"The Launch - SMME Digital Marketing Solutions",2021-02-01,2021-02-01 09:00:31,1496
+"The Future of Mental Health Conference 2021",2021-02-04,2021-02-04 22:37:20,275
 "THE LEADERSHIP Development Day",2021-02-01,2021-02-01 08:32:09,559
 "THE LEADERSHIP Development Day",2021-02-01,2021-02-01 22:14:52,608
 "THE LEADERSHIP Development Day",2021-02-02,2021-02-02 09:12:20,628
@@ -3565,8 +3555,8 @@
 "THE LEADERSHIP Development Day",2021-02-04,2021-02-04 20:47:03,694
 "The New Age of B2B Sales and Marketing",2021-02-01,2021-02-01 08:32:09,256
 "The New Age of B2B Sales and Marketing",2021-02-01,2021-02-01 22:14:52,275
-"THE NEW WORLD OF WORK - Assistants’ Ultimate Guide to Adapt & Thrive",2021-02-04,2021-02-04 20:27:22,2708
-"THE NEW WORLD OF WORK - Assistants’ Ultimate Guide to Adapt & Thrive",2021-02-04,2021-02-04 20:47:03,2710
+"THE NEW WORLD OF WORK - AssistantsÂ’ Ultimate Guide to Adapt & Thrive",2021-02-04,2021-02-04 20:27:22,2708
+"THE NEW WORLD OF WORK - AssistantsÂ’ Ultimate Guide to Adapt & Thrive",2021-02-04,2021-02-04 20:47:03,2710
 "THE NEW WORLD OF WORK - Assistants<U+0092> Ultimate Guide to Adapt & Thrive",2021-01-05,2021-01-05 10:51:31,2358
 "THE NEW WORLD OF WORK - Assistants<U+0092> Ultimate Guide to Adapt & Thrive",2021-01-09,2021-01-09 21:28:37,2428
 "THE NEW WORLD OF WORK - Assistants<U+0092> Ultimate Guide to Adapt & Thrive",2021-01-13,2021-01-13 17:15:00,2480
@@ -3689,6 +3679,7 @@
 "The World Energy Leaders Virtual Summit",2021-02-04,2021-02-04 20:27:22,4216
 "The World Energy Leaders Virtual Summit",2021-02-04,2021-02-04 20:47:03,4231
 "TISAX <U+0096> An Automotive Industry Cybersecurity Requirement",2021-02-03,2021-02-03 15:07:05,373
+"TISAX <U+0096> An Automotive Industry Cybersecurity Requirement",2021-02-03,2021-02-04 22:27:05,466
 "Top Skills for Assistants & Admins for the 2021 Workplace",2021-01-06,2021-01-06 19:31:00,6074
 "Top Skills for Assistants & Admins for the 2021 Workplace",2021-01-07,2021-01-07 23:33:45,6153
 "Top Skills for Assistants & Admins for the 2021 Workplace",2021-01-10,2021-01-10 12:55:39,6258
@@ -3814,7 +3805,6 @@
 "Understanding the payments business (Virtual course)",2021-02-04,2021-02-04 20:47:03,5065
 "United We Win: Outsmart fraud with a universal view of risk",2021-02-03,2021-02-03 21:10:37,311
 "United We Win: Outsmart fraud with a universal view of risk",2021-02-04,2021-02-04 15:49:19,323
-"Upgrade your skillset to top trends! - 3 career paths for IT professionals",2021-01-30,2021-01-30 00:04:22,622
 "Upstream Digital Transformation Conference EU 2021",2021-01-06,2021-01-06 14:05:45,1261
 "Upstream Digital Transformation Conference EU 2021",2021-01-07,2021-01-07 23:33:45,1331
 "Upstream Digital Transformation Conference EU 2021",2021-01-08,2021-01-08 18:43:40,1350
@@ -4106,8 +4096,6 @@
 "Vitafoods Asia Digital Week 2021",2021-02-02,2021-02-02 09:12:20,344
 "Vitafoods Asia Digital Week 2021",2021-02-03,2021-02-03 21:20:40,346
 "Vitafoods Asia Digital Week 2021",2021-02-04,2021-02-04 09:29:32,349
-"VoiceBot for Banking (+ Online Networking)",2021-01-27,2021-01-27 01:27:13,433
-"VoiceBot for Banking (+ Online Networking)",2021-01-31,2021-01-31 15:40:19,459
 "Webinar - Digital Transformation for Financial Services: Cognitive Search",2021-01-25,2021-01-25 23:37:07,277
 "Webinar - Digital Transformation for Financial Services: Cognitive Search",2021-01-27,2021-01-27 21:25:44,447
 "Webinar - Digital Transformation for Financial Services: Cognitive Search",2021-01-28,2021-01-28 12:02:48,482
@@ -4128,7 +4116,7 @@
 "Webinar: Become an Effective Machine Learning PM",2021-02-03,2021-02-03 15:07:05,2464
 "Webinar: Become an Effective Machine Learning PM by Apple Product Leader",2021-01-30,2021-01-30 00:04:22,1289
 "Webinar: Become an Effective Machine Learning PM by Apple Product Leader",2021-01-31,2021-01-31 00:12:08,1581
-"Webinar: C",2021-02-04,2021-02-04 20:27:22,2819
+"Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-02-04,2021-02-04 20:27:22,2819
 "Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-01-22,2021-01-22 00:24:39,393
 "Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-01-23,2021-01-23 18:51:47,633
 "Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-01-24,2021-01-24 11:29:07,749
@@ -4147,7 +4135,6 @@
 "Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-02-02,2021-02-02 22:35:17,2508
 "Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-02-03,2021-02-03 14:51:22,2617
 "Webinar: Conversational AI & NLP Product Management by Amazon Principal PM",2021-02-03,2021-02-03 21:10:37,2681
-"Webinar: Creating services for tomorrow<U+00B4>s generation",2021-02-02,2021-02-02 23:27:13,541
 "WEBINAR: Current Trends in Enterprise Imaging - An Interactive Course",2021-01-21,2021-01-21 09:32:19,1013
 "WEBINAR: Current Trends in Enterprise Imaging - An Interactive Course",2021-01-22,2021-01-22 00:24:39,1028
 "WEBINAR: Current Trends in Enterprise Imaging - An Interactive Course",2021-01-22,2021-01-22 18:00:40,1041
@@ -4242,6 +4229,7 @@
 "Women in Data Science (WiDS) Worldwide Conference",2021-02-04,2021-02-04 20:47:03,13113
 "Women in Energy <U+0096> LIVE Virtual Session with Vattenfall<U+0092>s new CEO Anna Borg",2021-01-28,2021-01-28 12:02:48,1052
 "Women in Energy <U+0096> LIVE Virtual Session with Vattenfall<U+0092>s new CEO Anna Borg",2021-02-01,2021-02-01 08:32:09,1155
+"Women in Energy <U+0096> LIVE Virtual Session with Vattenfall<U+0092>s new CEO Anna Borg",2021-02-02,2021-02-02 08:32:09,1215
 "Women in Health Tech: Spotlight on Engineering/Analytics",2021-02-01,2021-02-01 09:00:31,720
 "Women in Health Tech: Spotlight on Engineering/Analytics",2021-02-02,2021-02-02 09:12:20,765
 "Women in Health Tech: Spotlight on Engineering/Analytics",2021-02-02,2021-02-02 23:08:55,802
