@@ -1,6 +1,6 @@
 library(tidyverse)
 EventDetails <- read_csv("https://raw.githubusercontent.com/DragonflyStats/Projects/master/events/EventDetails.csv")
-EventDetails <- EventDetails %>% arrange(End,Event)
+EventDetails <- EventDetails %>% arrange(End,Event) %>% distinct()
 
 PastEvents <- EventDetails %>% filter(End < Sys.Date()) %>% pull(Event)
 ListedEvents <- EventDetails  %>% pull(Event)
