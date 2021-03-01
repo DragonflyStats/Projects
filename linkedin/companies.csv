@@ -1,4 +1,236 @@
 "Company","Date","Followers"
+"IBM",2021-03-01,10254164
+"Accenture",2021-03-01,6391390
+"Tata Consultancy Services",2021-03-01,5747236
+"McKinsey & Company",2021-03-01,3804259
+"SAS",2021-03-01,710898
+"Roche",2021-03-01,2181686
+"Cognizant",2021-03-01,3299312
+"Boston Consulting Group (BCG)",2021-03-01,2643674
+"Informatica",2021-03-01,182166
+"Ascential",2021-03-01,39624
+"Globant",2021-03-01,307564
+"Bill & Melinda Gates Foundation",2021-03-01,896161
+"Nagarro",2021-03-01,142330
+"Newgen Software",2021-03-01,75970
+"Open Society Foundations",2021-03-01,140024
+"IUCN",2021-03-01,80397
+"Ford Foundation",2021-03-01,93821
+"Office for National Statistics",2021-03-01,38249
+"KIPP Foundation",2021-03-01,42478
+"Robert Wood Johnson Foundation",2021-03-01,46447
+"MacArthur Foundation",2021-03-01,59469
+"Gordon and Betty Moore Foundation",2021-03-01,6166
+"Two Sigma",2021-03-01,91347
+"The David and Lucile Packard Foundation",2021-03-01,15505
+"Skoll Foundation",2021-03-01,24134
+"Analytic Partners",2021-03-01,8132
+"Conning",2021-03-01,11416
+"The James Irvine Foundation",2021-03-01,6830
+"William and Flora Hewlett Foundation",2021-03-01,14757
+"Elm Company",2021-03-01,322230
+"Doris Duke Charitable Foundation",2021-03-01,2383
+"The Andrew W. Mellon Foundation",2021-03-01,11618
+"W.K. Kellogg Foundation",2021-03-01,35011
+"Rockefeller Philanthropy Advisors",2021-03-01,20698
+"G-Research",2021-03-01,20714
+"Brightwater",2021-03-01,70946
+"Idiro Analytics",2021-03-01,1926
+"Datalytics",2021-03-01,7097
+"Mango Solutions",2021-03-01,3430
+"Pluralsight",2021-03-01,111236
+"The Kresge Foundation",2021-03-01,23018
+"The New York Community Trust",2021-03-01,1833
+"Women in Technology (WIT)",2021-03-01,107602
+"Cpl",2021-03-01,176446
+"GlobalLogic",2021-03-01,316049
+"Susquehanna International Group LLP (SIG)",2021-03-01,73816
+"The Rockefeller Foundation",2021-03-01,126235
+"Tableau Software",2021-03-01,603478
+"Genpact",2021-03-01,1080716
+"i2 Inc.",2021-03-01,956
+"The Apache Software Foundation",2021-03-01,46832
+"Defence Forces of Ireland",2021-03-01,3917
+"WorldQuant",2021-03-01,38889
+"Collibra",2021-03-01,27143
+"Jump Trading LLC",2021-03-01,27034
+"Qualtrics",2021-03-01,147111
+"Remsoft",2021-03-01,2383
+"RapidMiner",2021-03-01,12879
+"Conrad N. Hilton Foundation",2021-03-01,8396
+"KNIME",2021-03-01,16075
+"Irish Centre for High-End Computing ICHEC",2021-03-01,794
+"Udemy",2021-03-01,554670
+"Pacific Whale Foundation",2021-03-01,1413
+"QuantumBlack",2021-03-01,31705
+"Alteryx",2021-03-01,141899
+"Datahug (acquired by CallidusCloud)",2021-03-01,3156
+"Stack Overflow",2021-03-01,655900
+"The Analytics Institute of Ireland",2021-03-01,4597
+"SilviaTerra",2021-03-01,1633
+"Kaggle",2021-03-01,279277
+"Institute of Mathematics and its Applications",2021-03-01,20095
+"Coillte",2021-03-01,10969
+"MathWorks",2021-03-01,210932
+"The unbelievable Machine Company GmbH",2021-03-01,1873
+"Lucid",2021-03-01,26219
+"Alfred P. Sloan Foundation",2021-03-01,1725
+"Bloomberg Philanthropies",2021-03-01,40336
+"GitHub",2021-03-01,1804652
+"Quovantis Technologies",2021-03-01,7991
+"r-programming.org",2021-03-01,2267
+"Jane Street",2021-03-01,66161
+"CSO (Central Statistics Office Ireland)",2021-03-01,5220
+"Ginkgo Management Consulting",2021-03-01,1444
+"RStudio PBC",2021-03-01,63623
+"Asystec Limited",2021-03-01,2136
+"Tiger Analytics",2021-03-01,53193
+"Irish Defence Forces",2021-03-01,9093
+"WellClever",2021-03-01,123
+"RegioData Research GmbH",2021-03-01,106
+"Boxfish",2021-03-01,450
+"General Assembly",2021-03-01,140408
+"Data Ireland",2021-03-01,776
+"Walton Family Foundation",2021-03-01,35479
+"Coursera",2021-03-01,803914
+"Economic and Social Research Institute (ESRI)",2021-03-01,7468
+"DataKind",2021-03-01,11902
+"Film Analytics",2021-03-01,203
+"Knoldus Inc",2021-03-01,7104
+"STATSports",2021-03-01,15461
+"DataRobot",2021-03-01,72808
+"Xava",2021-03-01,46
+"Dataiku",2021-03-01,61486
+"Senseforth.ai",2021-03-01,15546
+"H2O.ai",2021-03-01,82285
+"Falkonry",2021-03-01,2653
+"Gapminder Foundation",2021-03-01,11441
+"Open Data Institute",2021-03-01,8625
+"KatRisk LLC",2021-03-01,1112
+"Ixio Analytics",2021-03-01,610
+"Royal Statistical Society",2021-03-01,6357
+"Black Girls CODE",2021-03-01,22295
+"FutureLearn",2021-03-01,84919
+"dotConferences",2021-03-01,200
+"Xanadu Consultancy",2021-03-01,2635
+"ORRECO",2021-03-01,1552
+"DataKind UK",2021-03-01,1761
+"DataCamp",2021-03-01,206355
+"Women Who Code",2021-03-01,72692
+"Kitman Labs",2021-03-01,5828
+"Plotly",2021-03-01,7435
+"Data for Good",2021-03-01,5796
+"Databricks",2021-03-01,203267
+"IBM Cloud",2021-03-01,181442
+"Domino Data Lab",2021-03-01,12198
+"BCG Digital Ventures",2021-03-01,109591
+"Aon Centre for Innovation and Analytics (ACIA)",2021-03-01,11566
+"ProCogia",2021-03-01,5762
+"Data Science Dojo",2021-03-01,71809
+"Accenture Technology",2021-03-01,124526
+"Fivetran",2021-03-01,18565
+"DataIQ",2021-03-01,8472
+"Data Science Institute",2021-03-01,9288
+"IBM Data and AI",2021-03-01,184176
+"Decision Inc.",2021-03-01,25024
+"GitLab",2021-03-01,448271
+"Python Software Foundation",2021-03-01,75651
+"UK Statistics Authority",2021-03-01,861
+"Data Science Central",2021-03-01,215437
+"Noodle.ai",2021-03-01,18829
+"Squarepoint Capital",2021-03-01,8306
+"ADAPT Centre",2021-03-01,1951
+"Data & Society Research Institute",2021-03-01,3788
+"Appinventiv",2021-03-01,46834
+"Gower Street Analytics",2021-03-01,1544
+"Open Data Science Conference (ODSC)",2021-03-01,96468
+"Julia Computing",2021-03-01,4905
+"Python Ireland",2021-03-01,717
+"ThinkR (FR)",2021-03-01,384
+"SoloLearn",2021-03-01,58603
+"Lander Analytics",2021-03-01,296
+"Dataquest.io",2021-03-01,35496
+"NumFOCUS",2021-03-01,1749
+"Ursa Labs",2021-03-01,442
+"Klue",2021-03-01,7183
+"insight2impact",2021-03-01,1151
+"PyData Berlin",2021-03-01,423
+"Project Jupyter",2021-03-01,6226
+"Data Science Academy",2021-03-01,183680
+"Data For Good",2021-03-01,3806
+"Twenty Billion Neurons GmbH",2021-03-01,3066
+"Xuntos - Let's Get Together",2021-03-01,435
+"ultimate.ai",2021-03-01,3652
+"QuantStack",2021-03-01,594
+"RSS Data Science Section",2021-03-01,784
+"(WiMLDS) Women in Machine Learning & Data Science",2021-03-01,7831
+"Exegetic Analytics",2021-03-01,189
+"Alldus",2021-03-01,24687
+"AI Awards Ireland",2021-03-01,1551
+"Data for Good Foundation",2021-03-01,1199
+"Why R?",2021-03-01,2389
+"Accenture The Dock",2021-03-01,5760
+"CivicDataLab",2021-03-01,1318
+"Data Visualization Society",2021-03-01,73603
+"Rust Programming Language",2021-03-01,2196
+"Machine Learning India",2021-03-01,108229
+"Irish Air Corps",2021-03-01,1053
+"Data Science Council of America",2021-03-01,48618
+"Obama Foundation",2021-03-01,88755
+"Real Consulting Data",2021-03-01,296
+"Canvas Intelligence",2021-03-01,8453
+"Treemetrics Ltd",2021-03-01,775
+"DeepLearning.AI",2021-03-01,363523
+"Government Statistical Service",2021-03-01,4430
+"Ginkgo Analytics",2021-03-01,669
+"Quansight",2021-03-01,781
+"Zindi",2021-03-01,6104
+"Data Science for Social Good Foundation",2021-03-01,1719
+"Coding Black Females",2021-03-01,3425
+"OpenTeams",2021-03-01,885
+"AWS Databases",2021-03-01,118001
+"Jumping Rivers Ltd",2021-03-01,425
+"Towards Data Science",2021-03-01,312243
+"R Users Group - Ecuador",2021-03-01,124
+"Anaconda Inc.",2021-03-01,21586
+"Quansight Initiate",2021-03-01,86
+"Tableau Software | Events and Webinars",2021-03-01,29297
+"AI Inclusive",2021-03-01,1230
+"MachineX Intelligence",2021-03-01,1637
+"DataIQ School of Analysis",2021-03-01,122
+"Women in Data",2021-03-01,12336
+"ViennaR",2021-03-01,396
+"ClusterAI",2021-03-01,416
+"JuliaCon 2021",2021-03-01,1680
+"Statistics Without Borders",2021-03-01,508
+"Datalitics",2021-03-01,56
+"Towards AI",2021-03-01,148098
+"R Consortium",2021-03-01,149
+"R posts you might have missed!",2021-03-01,6904
+"UCD Netsoc â€“ UCD's Internet and Computer Science Society",2021-03-01,258
+"storytelling with data",2021-03-01,51526
+"Rose Data Studio LLC",2021-03-01,91
+"EuroPython",2021-03-01,200
+"OpenStreetMap Ireland",2021-03-01,217
+"Women in AI Ireland",2021-03-01,1959
+"Sentient Projects",2021-03-01,573
+"DataSoc",2021-03-01,626
+"Amazon Science",2021-03-01,72060
+"The R Foundation for Statistical Computing",2021-03-01,621
+"DataDotOrg",2021-03-01,1024
+"R-Ladies Tunis",2021-03-01,576
+"The Julia Language",2021-03-01,2649
+"GORODATA",2021-03-01,482
+"BlackTIDES",2021-03-01,182
+"PyData Ireland",2021-03-01,2
+"PyLadies Dublin",2021-03-01,55
+"Software Insights Ireland",2021-03-01,1119
+"IBM",2021-03-01,10254164
+"Accenture",2021-03-01,6391390
+"Tata Consultancy Services",2021-03-01,5747236
+"ADAPT Centre",2021-03-01,1951
+"General Assembly",2021-03-01,140408
+"Dataquest.io",2021-03-01,35496
 "(Woowa Bros.)",2021-02-19,17149
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-06,6723
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-13,6785
@@ -599,9 +831,9 @@
 "Andaluc<ed>a Agrotech DIH",2020-10-18,223
 "Andaluc<ed>a Agrotech DIH",2020-10-21,225
 "Andaluc<ed>a Agrotech DIH",2020-10-22,225
-"Andalucía Agrotech DIH",2020-11-07,235
-"Andalucía Agrotech DIH",2020-11-21,249
-"Andalucía Agrotech DIH",2020-12-15,260
+"AndalucÃ­a Agrotech DIH",2020-11-07,235
+"AndalucÃ­a Agrotech DIH",2020-11-21,249
+"AndalucÃ­a Agrotech DIH",2020-12-15,260
 "Ankara University Computer Society",2021-01-22,54
 "Ankara University Computer Society",2021-01-25,54
 "Ankara University Computer Society",2021-01-28,54
@@ -979,11 +1211,11 @@
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-08,6586
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-15,6631
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-27,6685
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-11-30,258
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-12-08,273
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-12-15,274
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-12-27,273
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2021-01-19,276
+"Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf",2020-11-30,258
+"Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf",2020-12-08,273
+"Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf",2020-12-15,274
+"Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf",2020-12-27,273
+"Betriebswirtschaftslehre an der Heinrich Heine UniversitÃ¤t DÃ¼sseldorf",2021-01-19,276
 "Big Data and Artificial Intelligence Club",2021-01-22,169
 "Big Data and Artificial Intelligence Club",2021-01-25,169
 "Big Data and Artificial Intelligence Club",2021-01-28,169
@@ -1239,7 +1471,7 @@
 "Brightwater",2021-02-19,70426
 "Brightwater",2021-02-21,70493
 "Brightwater",2021-02-25,70774
-"Brink’s Inc",2021-02-19,80008
+"BrinkÂ’s Inc",2021-02-19,80008
 "Bristol Data Science Society",2021-01-22,72
 "Bristol Data Science Society",2021-01-25,73
 "Bristol Data Science Society",2021-01-28,73
@@ -1353,7 +1585,7 @@
 "Cegedim e-business",2020-10-28,1980
 "Central Bank of Ireland",2020-10-20,50660
 "Cerebral IP",2021-01-19,210
-"Chalmers Studentbostäder",2021-02-19,193
+"Chalmers StudentbostÃ¤der",2021-02-19,193
 "Changing Health",2021-01-19,1737
 "ChargePoint",2021-02-19,38483
 "Chasing Returns",2020-12-27,455
@@ -1687,8 +1919,8 @@
 "Conrad N. Hilton Foundation",2021-02-17,8331
 "Conrad N. Hilton Foundation",2021-02-21,8351
 "Conrad N. Hilton Foundation",2021-02-25,8380
-"Conseil des Gestionnaires en Émergence - Emerging Managers Board (CGE- EMB)",2021-01-19,203
-"Conseil des Gestionnaires en Émergence - Emerging Managers Board (CGE- EMB)",2021-02-19,210
+"Conseil des Gestionnaires en Ã‰mergence - Emerging Managers Board (CGE- EMB)",2021-01-19,203
+"Conseil des Gestionnaires en Ã‰mergence - Emerging Managers Board (CGE- EMB)",2021-02-19,210
 "Consider It Done Solutions LLC",2021-01-19,30
 "ConstructionBOS",2021-02-19,152
 "Consudata",2020-11-07,6
@@ -2448,16 +2680,16 @@
 "Data Science Research Arab Team",2021-02-16,90
 "Data Science Research Arab Team",2021-02-21,90
 "Data Science Research Arab Team",2021-02-25,91
+"Data Science Research PerÃƒÂº",2021-02-25,4855
+"Data Science Research PerÃº",2021-01-25,4536
+"Data Science Research PerÃº",2021-01-28,4560
+"Data Science Research PerÃº",2021-01-31,4582
+"Data Science Research PerÃº",2021-02-03,4632
+"Data Science Research PerÃº",2021-02-07,4673
+"Data Science Research PerÃº",2021-02-12,4751
+"Data Science Research PerÃº",2021-02-16,4790
+"Data Science Research PerÃº",2021-02-21,4813
 "Data Science Research PerÃº",2021-02-25,4855
-"Data Science Research Perú",2021-01-25,4536
-"Data Science Research Perú",2021-01-28,4560
-"Data Science Research Perú",2021-01-31,4582
-"Data Science Research Perú",2021-02-03,4632
-"Data Science Research Perú",2021-02-07,4673
-"Data Science Research Perú",2021-02-12,4751
-"Data Science Research Perú",2021-02-16,4790
-"Data Science Research Perú",2021-02-21,4813
-"Data Science Research Perú",2021-02-25,4855
 "Data Science Society",2021-01-22,144
 "Data Science Society",2021-01-22,1199
 "Data Science Society",2021-01-25,144
@@ -2990,8 +3222,8 @@
 "DataMuni",2021-02-16,390
 "DataMuni",2021-02-21,402
 "DataMuni",2021-02-25,407
-"Dataport AöR",2020-11-30,1830
-"Dataport AöR",2020-12-08,1874
+"Dataport AÃ¶R",2020-11-30,1830
+"Dataport AÃ¶R",2020-12-08,1874
 "Dataquest.io",2020-10-09,33686
 "Dataquest.io",2020-10-13,33723
 "Dataquest.io",2020-10-16,33756
@@ -3584,7 +3816,7 @@
 "Enigen IT - Lutech Group",2020-11-21,2958
 "Enigen IT - Lutech Group",2020-12-15,2971
 "Enigen IT Lutech Group",2020-10-16,2943
-"Ensemble Hospitalier de la Côte",2021-02-19,7450
+"Ensemble Hospitalier de la CÃ´te",2021-02-19,7450
 "Environment + Energy Leader",2020-10-19,2531
 "Environment + Energy Leader",2020-10-28,2552
 "Environment + Energy Leader",2020-11-07,2572
@@ -3613,11 +3845,11 @@
 "Ernst & Young",2020-10-13,4540555
 "Ernst & Young",2020-10-19,4585283
 "ESA BIC Hessen & Baden-Wurttemberg",2020-10-20,885
-"ESA BIC Hessen & Baden-Württemberg",2020-10-28,894
-"ESA BIC Hessen & Baden-Württemberg",2020-11-07,901
-"ESA BIC Hessen & Baden-Württemberg",2020-11-21,906
-"ESA BIC Hessen & Baden-Württemberg",2020-11-30,910
-"ESA BIC Hessen & Baden-Württemberg",2020-12-08,911
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-10-28,894
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-11-07,901
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-11-21,906
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-11-30,910
+"ESA BIC Hessen & Baden-WÃ¼rttemberg",2020-12-08,911
 "European Central Bank",2020-10-20,251560
 "European R Users Meeting",2020-11-02,772
 "European R Users Meeting",2020-11-21,773
@@ -3901,9 +4133,9 @@
 "Fujitsu",2021-02-16,381891
 "Fujitsu",2021-02-21,382994
 "Fujitsu",2021-02-25,384132
-"Fundação Chapadão",2020-12-27,298
-"Fundação Chapadão",2021-01-19,682
-"Fundação Chapadão",2021-02-19,1651
+"FundaÃ§Ã£o ChapadÃ£o",2020-12-27,298
+"FundaÃ§Ã£o ChapadÃ£o",2021-01-19,682
+"FundaÃ§Ã£o ChapadÃ£o",2021-02-19,1651
 "FutureLearn",2020-10-15,68797
 "FutureLearn",2020-10-20,69472
 "FutureLearn",2020-10-20,69491
@@ -5088,8 +5320,8 @@
 "Irish Student Consulting Group (ISCG)",2021-02-21,2301
 "Irish Student Consulting Group (ISCG)",2021-02-25,2335
 "Ita<fa> Unibanco",2020-10-22,2122666
-"Itaú Unibanco",2020-10-28,2128442
-"Itaú Unibanco",2020-11-07,2138562
+"ItaÃº Unibanco",2020-10-28,2128442
+"ItaÃº Unibanco",2020-11-07,2138562
 "ITU Data Science Society",2021-01-22,755
 "ITU Data Science Society",2021-01-25,755
 "ITU Data Science Society",2021-01-28,755
@@ -5302,14 +5534,22 @@
 "JuliaCon 2020",2020-12-05,1516
 "JuliaCon 2020",2020-12-12,1521
 "JuliaCon 2020",2020-12-15,1524
-"JuliaCon 2020
-
-
-
-
-
-
-
+"JuliaCon 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Your company",2020-12-08,1520
 "JuliaCon 2021",2020-12-20,1525
 "JuliaCon 2021",2020-12-25,1534
@@ -5671,7 +5911,7 @@ Your company",2020-12-08,1520
 "Klue",2021-02-25,7156
 "KNF Japan",2020-12-08,574
 "KNF Japan",2021-02-19,698
-"KNF Japan (<U+682A><U+5F0F><U+4F1A><U+793E><U+30B1><U+30FC>·<U+30A8><U+30CC>·<U+30A8><U+30D5>·<U+30B8><U+30E3><U+30D1><U+30F3>)",2020-12-27,624
+"KNF Japan (<U+682A><U+5F0F><U+4F1A><U+793E><U+30B1><U+30FC>Â·<U+30A8><U+30CC>Â·<U+30A8><U+30D5>Â·<U+30B8><U+30E3><U+30D1><U+30F3>)",2020-12-27,624
 "KNIME",2020-10-09,13109
 "KNIME",2020-10-13,13194
 "KNIME",2020-10-19,13329
@@ -6359,16 +6599,16 @@ Your company",2020-12-08,1520
 "McMaster Computer Science Society",2021-02-21,80
 "McMaster Computer Science Society",2021-02-25,76
 "McMaster Computer Science Society",2021-02-25,82
+"Meetup Machine Learning QuÃƒÂ©bec",2021-02-25,45
+"Meetup Machine Learning QuÃ©bec",2021-01-25,42
+"Meetup Machine Learning QuÃ©bec",2021-01-28,42
+"Meetup Machine Learning QuÃ©bec",2021-01-31,42
+"Meetup Machine Learning QuÃ©bec",2021-02-03,43
+"Meetup Machine Learning QuÃ©bec",2021-02-07,43
+"Meetup Machine Learning QuÃ©bec",2021-02-12,44
+"Meetup Machine Learning QuÃ©bec",2021-02-16,44
+"Meetup Machine Learning QuÃ©bec",2021-02-21,44
 "Meetup Machine Learning QuÃ©bec",2021-02-25,45
-"Meetup Machine Learning Québec",2021-01-25,42
-"Meetup Machine Learning Québec",2021-01-28,42
-"Meetup Machine Learning Québec",2021-01-31,42
-"Meetup Machine Learning Québec",2021-02-03,43
-"Meetup Machine Learning Québec",2021-02-07,43
-"Meetup Machine Learning Québec",2021-02-12,44
-"Meetup Machine Learning Québec",2021-02-16,44
-"Meetup Machine Learning Québec",2021-02-21,44
-"Meetup Machine Learning Québec",2021-02-25,45
 "meetup.ai",2021-01-25,271
 "meetup.ai",2021-01-28,271
 "meetup.ai",2021-01-31,271
@@ -6605,7 +6845,7 @@ Your company",2020-12-08,1520
 "Neptune Energy",2021-02-16,41443
 "Neptune Energy",2021-02-21,41693
 "Neptune Energy",2021-02-25,41943
-"Nestlé",2021-02-19,11349773
+"NestlÃ©",2021-02-19,11349773
 "NetX Club",2021-01-19,78
 "Neuralink",2021-01-19,67017
 "Neuralog",2021-01-22,997
@@ -6652,7 +6892,7 @@ Your company",2020-12-08,1520
 "Newgen Software",2021-02-21,75660
 "Newgen Software",2021-02-25,75832
 "Next Generation Recruitment",2020-10-20,11402
-"NiÃ¨me Conseil",2021-02-25,182
+"NiÃƒÂ¨me Conseil",2021-02-25,182
 "Nico.lab",2020-10-16,1251
 "Nico.lab",2020-10-21,1262
 "Nico.lab",2020-10-22,1264
@@ -6660,16 +6900,16 @@ Your company",2020-12-08,1520
 "Nico.lab",2020-11-07,1289
 "Nico.lab",2020-11-21,1315
 "NICO.LAB",2020-12-15,1400
-"Nième Conseil",2021-01-22,175
-"Nième Conseil",2021-01-25,176
-"Nième Conseil",2021-01-28,177
-"Nième Conseil",2021-01-31,176
-"Nième Conseil",2021-02-03,178
-"Nième Conseil",2021-02-07,179
-"Nième Conseil",2021-02-12,179
-"Nième Conseil",2021-02-16,182
-"Nième Conseil",2021-02-21,182
-"Nième Conseil",2021-02-25,182
+"NiÃ¨me Conseil",2021-01-22,175
+"NiÃ¨me Conseil",2021-01-25,176
+"NiÃ¨me Conseil",2021-01-28,177
+"NiÃ¨me Conseil",2021-01-31,176
+"NiÃ¨me Conseil",2021-02-03,178
+"NiÃ¨me Conseil",2021-02-07,179
+"NiÃ¨me Conseil",2021-02-12,179
+"NiÃ¨me Conseil",2021-02-16,182
+"NiÃ¨me Conseil",2021-02-21,182
+"NiÃ¨me Conseil",2021-02-25,182
 "Noodle.ai",2020-10-20,17995
 "Noodle.ai",2020-10-21,18002
 "Noodle.ai",2020-10-23,18014
@@ -7550,70 +7790,134 @@ Your company",2020-12-08,1520
 "Python Ireland",2021-02-17,710
 "Python Ireland",2021-02-21,715
 "Python Ireland",2021-02-25,715
-"Python Ireland 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Python Ireland 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          Your company",2020-11-21,663
 "Python Jobs",2020-11-07,2553
 "Python Jobs",2020-11-21,2562
@@ -8740,14 +9044,14 @@ Your company",2020-12-08,1520
 "SAS Partners",2020-10-06,6766
 "SAS Partners",2020-10-13,6774
 "SAS Partners",2020-10-18,6784
-"satRday - R conference - 14 March - Neuchâtel Switzerland",2020-11-07,46
-"satRday - R conference - 14 March - Neuchâtel Switzerland",2020-11-21,46
-"satRday - R conference - 14 March - Neuchâtel Switzerland",2021-02-19,46
+"satRday - R conference - 14 March - NeuchÃ¢tel Switzerland",2020-11-07,46
+"satRday - R conference - 14 March - NeuchÃ¢tel Switzerland",2020-11-21,46
+"satRday - R conference - 14 March - NeuchÃ¢tel Switzerland",2021-02-19,46
 "Schneider Electric",2021-02-19,2536445
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-16,665
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-20,670
-"Secretaría de Economía y Trabajo",2020-10-28,686
-"Secretaría de Economía y Trabajo",2020-11-07,698
+"SecretarÃ­a de EconomÃ­a y Trabajo",2020-10-28,686
+"SecretarÃ­a de EconomÃ­a y Trabajo",2020-11-07,698
 "Securitec Screening Solutions Inc.",2021-01-22,295
 "Securitec Screening Solutions Inc.",2021-01-25,295
 "Securitec Screening Solutions Inc.",2021-01-28,294
@@ -10226,11 +10530,11 @@ Your company",2020-12-08,1520
 "UCD Investors and Entrepreneurs Society",2021-02-16,1704
 "UCD Investors and Entrepreneurs Society",2021-02-21,1711
 "UCD Investors and Entrepreneurs Society",2021-02-25,1715
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-02-12,249
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-02-16,253
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-02-17,253
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-02-21,255
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-02-25,258
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2021-02-12,249
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2021-02-16,253
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2021-02-17,253
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2021-02-21,255
+"UCD Netsoc Â– UCD's Internet and Computer Science Society",2021-02-25,258
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2020-10-16,184
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2020-10-18,188
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2020-10-21,193
@@ -10270,7 +10574,7 @@ Your company",2020-12-08,1520
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-03,247
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-07,247
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-12,248
-"UCD Netsoc â€“ UCD's Internet and Computer Science Society",2021-02-25,258
+"UCD Netsoc Ã¢Â€Â“ UCD's Internet and Computer Science Society",2021-02-25,258
 "UCL Data Science Society",2021-01-22,717
 "UCL Data Science Society",2021-01-25,728
 "UCL Data Science Society",2021-01-28,730
