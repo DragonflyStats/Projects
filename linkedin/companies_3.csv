@@ -1,4 +1,239 @@
 Company,Date,Followers
+"IBM",2021-03-16,10379194
+"Accenture",2021-03-16,6446955
+"Tata Consultancy Services",2021-03-16,5836812
+"McKinsey & Company",2021-03-16,3829393
+"SAS",2021-03-16,713464
+"Roche",2021-03-16,2202595
+"Cognizant",2021-03-16,3355497
+"Boston Consulting Group (BCG)",2021-03-16,2666430
+"Informatica",2021-03-16,183468
+"Ascential",2021-03-16,39945
+"Globant",2021-03-16,314042
+"Bill & Melinda Gates Foundation",2021-03-16,902303
+"Nagarro",2021-03-16,148170
+"Newgen Software",2021-03-16,76513
+"Open Society Foundations",2021-03-16,140942
+"IUCN",2021-03-16,81231
+"Ford Foundation",2021-03-16,95052
+"Office for National Statistics",2021-03-16,38889
+"KIPP Foundation",2021-03-16,42700
+"Robert Wood Johnson Foundation",2021-03-16,46814
+"MacArthur Foundation",2021-03-16,60139
+"Gordon and Betty Moore Foundation",2021-03-16,6196
+"Two Sigma",2021-03-16,91950
+"The David and Lucile Packard Foundation",2021-03-16,15685
+"Skoll Foundation",2021-03-16,24380
+"Analytic Partners",2021-03-16,8186
+"Conning",2021-03-16,11490
+"The James Irvine Foundation",2021-03-16,6946
+"William and Flora Hewlett Foundation",2021-03-16,15050
+"Elm Company",2021-03-16,325622
+"Doris Duke Charitable Foundation",2021-03-16,2404
+"The Andrew W. Mellon Foundation",2021-03-16,11891
+"W.K. Kellogg Foundation",2021-03-16,35295
+"Rockefeller Philanthropy Advisors",2021-03-16,20908
+"G-Research",2021-03-16,20863
+"Brightwater",2021-03-16,71771
+"Idiro Analytics",2021-03-16,2044
+"Datalytics",2021-03-16,7178
+"Mango Solutions",2021-03-16,3447
+"Pluralsight",2021-03-16,112128
+"The Kresge Foundation",2021-03-16,23331
+"The New York Community Trust",2021-03-16,1852
+"Women in Technology (WIT)",2021-03-16,111493
+"Cpl",2021-03-16,178792
+"GlobalLogic",2021-03-16,320748
+"Susquehanna International Group LLP (SIG)",2021-03-16,74641
+"The Rockefeller Foundation",2021-03-16,127362
+"Tableau Software",2021-03-16,609849
+"Genpact",2021-03-16,1098876
+"i2 Inc.",2021-03-16,959
+"The Apache Software Foundation",2021-03-16,47145
+"Defence Forces of Ireland",2021-03-16,3927
+"WorldQuant",2021-03-16,39088
+"Collibra",2021-03-16,27679
+"Jump Trading LLC",2021-03-16,27404
+"Qualtrics",2021-03-16,148286
+"Remsoft",2021-03-16,2405
+"RapidMiner",2021-03-16,12953
+"Conrad N. Hilton Foundation",2021-03-16,8488
+"KNIME",2021-03-16,16459
+"Irish Centre for High-End Computing ICHEC",2021-03-16,822
+"Udemy",2021-03-16,566307
+"Pacific Whale Foundation",2021-03-16,1425
+"QuantumBlack",2021-03-16,32343
+"Alteryx",2021-03-16,143704
+"Datahug (acquired by CallidusCloud)",2021-03-16,3155
+"Stack Overflow",2021-03-16,669076
+"The Analytics Institute of Ireland",2021-03-16,4649
+"SilviaTerra",2021-03-16,1705
+"Kaggle",2021-03-16,280731
+"Institute of Mathematics and its Applications",2021-03-16,20151
+"Coillte",2021-03-16,11049
+"MathWorks",2021-03-16,214149
+"The unbelievable Machine Company GmbH",2021-03-16,1884
+"Lucid",2021-03-16,26638
+"Alfred P. Sloan Foundation",2021-03-16,1754
+"Bloomberg Philanthropies",2021-03-16,41024
+"GitHub",2021-03-16,1828735
+"Quovantis Technologies",2021-03-16,8241
+"r-programming.org",2021-03-16,2271
+"Jane Street",2021-03-16,66669
+"CSO (Central Statistics Office Ireland)",2021-03-16,5255
+"Ginkgo Management Consulting",2021-03-16,1492
+"RStudio PBC",2021-03-16,63965
+"Asystec Limited",2021-03-16,2139
+"Tiger Analytics",2021-03-16,54943
+"Irish Defence Forces",2021-03-16,9140
+"WellClever",2021-03-16,123
+"RegioData Research GmbH",2021-03-16,108
+"Boxfish",2021-03-16,452
+"General Assembly",2021-03-16,141476
+"Data Ireland",2021-03-16,774
+"Walton Family Foundation",2021-03-16,35961
+"Coursera",2021-03-16,817679
+"Economic and Social Research Institute (ESRI)",2021-03-16,7612
+"DataKind",2021-03-16,12119
+"Film Analytics",2021-03-16,204
+"Knoldus Inc",2021-03-16,7181
+"STATSports",2021-03-16,15636
+"DataRobot",2021-03-16,73778
+"Xava",2021-03-16,47
+"Dataiku",2021-03-16,62547
+"Senseforth.ai",2021-03-16,15706
+"H2O.ai",2021-03-16,83137
+"Falkonry",2021-03-16,2691
+"Gapminder Foundation",2021-03-16,11571
+"Open Data Institute",2021-03-16,8754
+"KatRisk LLC",2021-03-16,1117
+"Ixio Analytics",2021-03-16,613
+"Royal Statistical Society",2021-03-16,6478
+"Black Girls CODE",2021-03-16,22569
+"FutureLearn",2021-03-16,86632
+"dotConferences",2021-03-16,201
+"Xanadu Consultancy",2021-03-16,2638
+"ORRECO",2021-03-16,1598
+"DataKind UK",2021-03-16,1795
+"DataCamp",2021-03-16,208907
+"Women Who Code",2021-03-16,74480
+"Kitman Labs",2021-03-16,5895
+"Plotly",2021-03-16,7558
+"Data for Good",2021-03-16,5896
+"Databricks",2021-03-16,207563
+"IBM Cloud",2021-03-16,182455
+"Domino Data Lab",2021-03-16,12675
+"BCG Digital Ventures",2021-03-16,110777
+"Aon Centre for Innovation and Analytics (ACIA)",2021-03-16,11659
+"ProCogia",2021-03-16,5785
+"Data Science Dojo",2021-03-16,74268
+"Accenture Technology",2021-03-16,128306
+"Fivetran",2021-03-16,19251
+"DataIQ",2021-03-16,8564
+"Data Science Institute",2021-03-16,9481
+"IBM Data and AI",2021-03-16,185545
+"Decision Inc.",2021-03-16,25173
+"GitLab",2021-03-16,455660
+"Python Software Foundation",2021-03-16,76520
+"UK Statistics Authority",2021-03-16,875
+"Data Science Central",2021-03-16,217870
+"Noodle.ai",2021-03-16,18941
+"Squarepoint Capital",2021-03-16,8398
+"ADAPT Centre",2021-03-16,1968
+"Data & Society Research Institute",2021-03-16,3897
+"Appinventiv",2021-03-16,47217
+"Gower Street Analytics",2021-03-16,1557
+"Open Data Science Conference (ODSC)",2021-03-16,97696
+"Julia Computing",2021-03-16,5029
+"Python Ireland",2021-03-16,726
+"ThinkR (FR)",2021-03-16,397
+"SoloLearn",2021-03-16,59992
+"Lander Analytics",2021-03-16,297
+"Dataquest.io",2021-03-16,35698
+"NumFOCUS",2021-03-16,1767
+"Ursa Labs",2021-03-16,442
+"Klue",2021-03-16,7286
+"insight2impact",2021-03-16,1163
+"PyData Berlin",2021-03-16,426
+"Project Jupyter",2021-03-16,6316
+"Data Science Academy",2021-03-16,188751
+"Data For Good",2021-03-16,3909
+"Twenty Billion Neurons GmbH",2021-03-16,3069
+"Xuntos - Let's Get Together",2021-03-16,456
+"ultimate.ai",2021-03-16,3710
+"QuantStack",2021-03-16,603
+"RSS Data Science Section",2021-03-16,814
+"(WiMLDS) Women in Machine Learning & Data Science",2021-03-16,8007
+"Exegetic Analytics",2021-03-16,189
+"Alldus",2021-03-16,25107
+"AI Awards Ireland",2021-03-16,1556
+"Data for Good Foundation",2021-03-16,1216
+"Why R?",2021-03-16,2432
+"Accenture The Dock",2021-03-16,5796
+"CivicDataLab",2021-03-16,1409
+"Data Visualization Society",2021-03-16,74689
+"Rust Programming Language",2021-03-16,2254
+"Machine Learning India",2021-03-16,109955
+"Irish Air Corps",2021-03-16,1066
+"Data Science Council of America",2021-03-16,48856
+"Obama Foundation",2021-03-16,89670
+"Real Consulting Data",2021-03-16,323
+"Canvas Intelligence",2021-03-16,8526
+"Treemetrics Ltd",2021-03-16,815
+"DeepLearning.AI",2021-03-16,368515
+"Government Statistical Service",2021-03-16,4541
+"Bhutan Data Scientists Pvt Ltd",2021-03-16,42
+"Ginkgo Analytics",2021-03-16,681
+"Quansight",2021-03-16,790
+"Zindi",2021-03-16,6238
+"Data Science for Social Good Foundation",2021-03-16,1765
+"Coding Black Females",2021-03-16,3585
+"OpenTeams",2021-03-16,909
+"AWS Databases",2021-03-16,119099
+"Jumping Rivers Ltd",2021-03-16,446
+"Towards Data Science",2021-03-16,318990
+"R Users Group - Ecuador",2021-03-16,124
+"Anaconda Inc.",2021-03-16,21762
+"Quansight Initiate",2021-03-16,86
+"Tableau Software | Events and Webinars",2021-03-16,29511
+"AI Inclusive",2021-03-16,1476
+"MachineX Intelligence",2021-03-16,1649
+"DataIQ School of Analysis",2021-03-16,123
+"Women in Data",2021-03-16,12543
+"ViennaR",2021-03-16,394
+"ClusterAI",2021-03-16,422
+"JuliaCon 2021",2021-03-16,1708
+"Statistics Without Borders",2021-03-16,523
+"Datalitics",2021-03-16,57
+"Towards AI",2021-03-16,150989
+"R Consortium",2021-03-16,151
+"R posts you might have missed!",2021-03-16,7244
+"UCD Netsoc – UCD's Internet and Computer Science Society",2021-03-16,258
+"storytelling with data",2021-03-16,52969
+"Rose Data Studio LLC",2021-03-16,93
+"EuroPython",2021-03-16,206
+"OpenStreetMap Ireland",2021-03-16,218
+"Women in AI Ireland",2021-03-16,2018
+"Sentient Projects",2021-03-16,580
+"DataSoc",2021-03-16,663
+"Amazon Science",2021-03-16,80491
+"The R Foundation for Statistical Computing",2021-03-16,666
+"DataDotOrg",2021-03-16,1091
+"R-Ladies Tunis",2021-03-16,581
+"The Julia Language",2021-03-16,2797
+"GORODATA",2021-03-16,497
+"Tag Ng",2021-03-16,145
+"BlackTIDES",2021-03-16,198
+"PyData Ireland",2021-03-16,2
+"DATA SCIENCE LAB",2021-03-16,55
+"PyLadies Dublin",2021-03-16,59
+"Software Insights Ireland",2021-03-16,1204
+"IBM",2021-03-16,10379194
+"Accenture",2021-03-16,6446955
+"Tata Consultancy Services",2021-03-16,5836812
+"ADAPT Centre",2021-03-16,1968
+"General Assembly",2021-03-16,141476
+"Dataquest.io",2021-03-16,35698
 "Alfred P. Sloan Foundation",2020-10-05,"1592"
 "Alfred P. Sloan Foundation",2020-10-13,"1597"
 "Alfred P. Sloan Foundation",2020-10-16,"1604"
