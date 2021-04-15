@@ -1,0 +1,179 @@
+JuliaCon 2020 | Interactive notebooks ~ Pluto.jl | Fons van der Plas
+JuliaCon 2020 | (Juno 1.0) VSCode for Julia 1.0 | Sebastian P., Shuhei K., David  A.
+JuliaCon 2020 | State of Julia | Jeff Bezanson & Stefan Karpinski
+JuliaCon 2020 | Keynote: Scientific Machine Learning | Prof Karen Willcox
+JuliaCon 2020 | Keynote: Conic Optimization in Julia and JuMP | Juan Pablo Vielma
+JuliaCon 2020 | Keynote: Adventures in Computing | Prof Linda Petzold
+JuliaCon 2020 | Learn Julia via Epidemic Modeling
+JuliaCon 2020 |  Building and Analyzing Graphs at Scale
+JuliaCon 2020 |  BinaryBuilder.jl - The Subtle Art of Binaries That Just Work
+JuliaCon 2020 |  Building Microservices and Applications in Julia
+JuliaCon 2020 | Wrapping a C++ Library with CxxWrap.jl
+JuliaCon 2020 |  A Deep Dive into DataFrames.jl Indexing
+JuliaCon 2020 |  Calculating with Sets: Interval Methods in Julia
+JuliaCon 2020 |  Make your Julia Code Faster and Compatible with non-Julia Code
+JuliaCon 2020 |  MLJ: A Machine Learning Toolbox for Julia
+JuliaCon 2020 |  Doing Scientific Machine Learning (SciML) With Julia
+JuliaCon 2020 | Sponsor Talk: Effortless Parallel Computing on JuliaHub | Julia Computing
+JuliaCon 2020 | Diversity and Inclusion efforts in the Julia community |  | Logan Kilpatrick
+JuliaCon 2020 | Probabilistic Optimization with the Koopman Operator | Adam R. Gerlach
+JuliaCon 2020 | Solving Neuroinformatics' Three Language Problem With Julia | Zachary P Christensen
+JuliaCon 2020 | What's new in Pkg: artifacts, binaries & the Pkg protocol | Stefan K & Elliot S
+JuliaCon 2020 | AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks
+JuliaCon 2020 | Convex.jl: where are we and where do we want to go? | Eric P. Hanson
+JuliaCon 2020 | Estimation of Macroeconomic Models | William Chen
+JuliaCon 2020 | Using Julia and group theory to describe Molecular Vibrations | León Alday
+JuliaCon 2020 | Julia for scripting | Fredrik Ekre
+JuliaCon 2020 | Generating automatically labelled ML datasets with Lattice.jl | Don March
+JuliaCon 2020 | EvoTrees for Flexible Gradient Boosting Trees | Jeremie Desgagne Bouchard
+JuliaCon 2020 | Dependency-Aware Jupyter Notebooks | Arnav Sood
+JuliaCon 2020 | Salsa.jl: A framework for on-demand, incremental computation | Nathan Daly
+JuliaCon 2020 | Project Binder and the Julia Community: How can we help each other | Sarah Gibson
+JuliaCon 2020 | Jusdl.jl - Julia Based System Description Language | Zekeriya SARI
+JuliaCon 2020 | Modeling non-Gaussian time series with ScoreDrivenModels.jl | Guilherme Bodin
+JuliaCon 2020 | Shippable apps and custom sysimages with PackageCompiler.jl | Kristoffer Carlsson
+JuliaCon 2020 | AutoMLPipeline: A ToolBox for Building ML Pipelines | Paulito Palmes
+JuliaCon 2020 | AugmentedGaussianProcesses.jl, a full Gaussian Process toolkit | Théo Galy-Fajou
+--------------------------
+Check out "DrWatson - The perfect sidekick to your scientific inquiries" 
+Presented by George Datseris at #JuliaCon 2020
+https://www.youtube.com/watch?v=jKATlEAu8eE&list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR&index=37
+#JuliaLang 
+--------------------------
+JuliaCon 2020 | Parallelization, Random Numbers and Reproducibility | Phillip Alday
+JuliaCon 2020 | AugmentedGaussianProcesses.jl, a full Gaussian Process toolkit | Théo Galy Fajou
+JuliaCon 2020 | Fast Gaussian processes for time series | Will Tebbutt
+JuliaCon 2020 | When compiler technology meets Market Risk Management | Felipe Noronha Tavares
+JuliaCon 2020 | KernelFunctions.jl, machine learning kernels for Julia | Théo Galy-Fajou
+JuliaCon 2020 | Reproducible environments with Singularity | Steffen Ridderbusch
+JuliaCon 2020 | Manifolds in Julia – Manifolds.jl & ManifoldsBase.jl | Ronny Bergmann
+JuliaCon 2020 | Generic Manpower Simulation Engine: a SimJulia case study | Johan Van Kerckhoven
+JuliaCon 2020 | NetworkDynamics.jl - Modeling dynamical systems on networks | Michael Lindner
+JuliaCon 2020 | Rocket.jl: A Julia package for reactive programming | Dmitry Bagaev
+JuliaCon 2020 | DrWatson - The perfect sidekick to your scientific inquiries | George Datseris
+JuliaCon 2020 | DFTK: A Julian approach for simulating electrons in solids | Michael Herbst
+JuliaCon 2020 | Changing the immutable | Jan Weidner
+JuliaCon 2020 | A Parallel Time-Domain Power System Simulation Toolbox in Julia | Michael Kyesswa
+JuliaCon 2020 | Beyond Overdubbing: Building a Generic IR Tracker | Philipp Gabler
+JuliaCon 2020 | Accurate and Efficiently Vectorized Sums and Dot Products | François Févotte
+JuliaCon 2020 | Adventures in Avoiding Allocations | Brian Jackson
+JuliaCon 2020 | Auto-Optimization and Parallelism in DifferentialEquations.jl | Chris Rackauckas
+JuliaCon 2020 | BITE, a Bayesian glacier thickness estimation model | Mauro Werder
+JuliaCon 2020 | Lessons learned on trait-based descriptions of graphs | Mathieu Besancon
+JuliaCon 2020 | AMDGPU Computing in Julia | Julian P Samaroo
+JuliaCon 2020 | Applying Differentiable Programming to the Dark Channel Prior | Vandy Tombs
+JuliaCon 2020 | Concatenation and Kronecker products of abstract linear maps | Daniel Karrasch
+JuliaCon 2020 | Creating an XML parser from scratch | Erik Engheim
+JuliaCon 2020 | Efficient RANSAC in efficient Julia | Tamás Cserteg
+JuliaCon 2020 | Exploring Disease Vector Dynamics Under Environmental Change | Valeri Vasquez
+JuliaCon 2020 | Integrate Julia and Javascript using Node.js extensions | Maxime Mouchet
+JuliaCon 2020 | HydroPowerModels.jl: Impacts of Network Simplifications | Andrew Rosemberg
+JuliaCon 2020 | Julia for Knowledge Mining in Industry 4.0 | Dewan Md  Farid
+JuliaCon 2020 | Interactive data visualizations with AlgebraOfGraphics | Pietro Vertechi
+JuliaCon 2020 | Natural Language Processing in Julia | Ayush Kaushal
+JuliaCon 2020 | SciML: Automatic Discovery of droplet fragmentation Physics | Raj Dandekar
+JuliaCon 2020 | Convolutional Conditional Neural Processes in Flux | Wessel Bruinsma
+JuliaCon 2020 | Solving Practical Allotment Problems with Julia | Saurabh Kumar
+JuliaCon 2020 | Solving partial differential equations in Julia with Gridap.jl | Francesc Verdugo
+JuliaCon 2020 | Bijectors.jl: Transforming probability distributions in Julia | Tor Erlend Fjelde
+JuliaCon 2020 | Computational tools for designing modular biosystems | Michiel Stock
+JuliaCon 2020 | Crash Course in Energy Systems Modeling & Analysis with Julia| Dheepak Krishnamurthy
+JuliaCon 2020 | Design documents are great, here’s why you should consider one | Matt Brzezinski
+JuliaCon 2020 | DynamicGrids.jl: high-performance spatial simulations in Julia | Rafael Schouten
+JuliaCon 2020 | Easy and fast desktop GUIs with QML | Bart Janssens
+JuliaCon 2020 | How similar do two strings look? Visual distances in Julia | Eric P. Hanson
+JuliaCon 2020 | Interrogating intratumor heterogeneity dynamics withJulia | Meghan Ferrall-Fairbanks
+JuliaCon 2020 | SIMD in Julia - Automatic and explicit | Kristoffer Carlsson
+JuliaCon 2020 | Terminal User Interfaces in Julia | Dheepak Krishnamurthy
+-------------------------------------------------
+JuliaCon 2020 | Complex graphs in transportation networks with OpenStreetMapX.jl | Przemysław Szufel
+JuliaCon 2020 | Parallel Implementation of Monte Carlo-Markov Chain Algorithm | Oscar A.
+JuliaCon 2020 | Write a WebApp in Julia with Dashboards.jl | Dhairya Gandhi
+------------------------------------------------
+JuliaCon 2020 | MPI.jl: Julia meets classic HPC | Simon Byrne
+Twitter -15th/April/2021
+------------------------------------------------
+JuliaCon 2020 | Multi-Physics 3-D Inversion on GPU Supercomputers with Julia | Ludovic Räss
+JuliaCon 2020 | Inference of Bifurcations with Differentiable Continuation | Gregory Szep
+JuliaCon 2020 | Dispatching Design Patterns | Aaron Christianson
+JuliaCon 2020 | Migrating to JuMP: Leaving Behind Domain Specific Languages | Josiah Pohl
+JuliaCon 2020 | `SymbolicTensors.jl` -- high-level tensor manipulation in Julia | Robert Rosati
+JuliaCon 2020 | Intertwined Economic and Energy Analysis using Julia | Caroline Hughes
+JuliaCon 2020 | Analyzing species interaction networks in Julia | Francis Banville
+JuliaCon 2020 | Introducing the Hispanic community to Julia | Pamela Alejandra Bustamante Faúndez
+JuliaCon 2020 | Rapid Commercialization of Drone Autonomy using Julia | Kerry Snyder
+JuliaCon 2020 | Evolutionary algorithms for electrical circuit design | Maxime
+JuliaCon 2020 | Climate models in 16bit: Arithmetic and algorithmic challenges | Milan Kloewer
+JuliaCon 2020 | Iterable Parser Combinators for fast parsing in pure Julia | Gregor Kappler
+JuliaCon 2020 | Continuables.jl: Python yield in Julia in blazingly fast | Stephan Sahm
+JuliaCon 2020 | ChainRules.jl | Lyndon White
+JuliaCon 2020 | Julia in Education for Generation Z | Gajendra Deshpande
+JuliaCon 2020 | Computation Techniques for Encrypted Data | Gajendra Deshpande
+JuliaCon 2020 | Creating a multichannel wireless speaker setup with Julia | Elliot Saba
+JuliaCon 2020 | Reproducible environments with Singularity | Steffen Ridderbusch
+JuliaCon 2020 | A Computational Textbook for Teaching Data Science with Julia | Travis DePrato
+JuliaCon 2020 | Solving Nonlinear Multi-Physics on GPU Supercomputers with Julia | Samuel Omlin
+JuliaCon 2020 | Loop Analysis in Julia | Chris Elrod
+JuliaCon 2020 | Simulating the Early Universe with Inflation.jl | Robert Rosati
+JuliaCon 2020 | Julia and C++: a technical overview of CxxWrap.jl | Bart Janssens
+JuliaCon 2020 | Whole-brain systems neuroscience with Julia | Vilim Štih
+JuliaCon 2020 | Handling large geospatial raster data with the Earth System Data | Felix Cremer
+JuliaCon 2020 | GeoInterface: bringing geospatial packages together | Martijn Visser
+JuliaCon 2020 | Highly productive Julia web development with Genie 1.0 | Adrian Salceanu
+JuliaCon 2020 | GigaSOM.jl: 1 billion cytometry events and beyond with Julia | Miroslav Kratochvíl
+JuliaCon 2020 | On the State of Flux | Dhairya Gandhi
+JuliaCon 2020 | Developing an exercise-based Julia curriculum | Sascha Mann
+JuliaCon 2020 | DynamicPPL: Stan-like Speed for Dynamic Probabilistic Models | Mohamed Tarek
+JuliaCon 2020 | GeometricFlux.jl: Geometric Deep Learning on Flux | Yueh-Hua Tu
+JuliaCon 2020 | Solving Nonlinear Multi-Physics on GPU Supercomputers with Julia | Samuel Omlin
+JuliaCon 2020 | Dispatching Design Patterns | Aaron Christianson
+JuliaCon 2020 | Effectively Using GR | Josef Heinen
+JuliaCon 2020 | Introducing the @ccall macro | Aaron Christianson
+JuliaCon 2020 | Integrating Julia in R with the JuliaConnectoR | Stefan Lenz
+JuliaCon 2020 | Inventing Curriculum with Julia and Pointer-Generator Network | Gajendra Deshpande
+JuliaCon 2020 | Display, show and print -- how Julia's display system works | Fredrik Ekre
+JuliaCon 2020 | How not to write CPU code -- KernelAbstractions.jl | Valentin Churavy
+JuliaCon 2020 | Julia for PDEs: Come for the speed, stay for ... much more | Petr Krysl
+JuliaCon 2020 | Interactive data visualizations with StatsMakie | Pietro Vertechi
+JuliaCon 2020 | Finite Volume Methods for Nonlinear Multiphysics Problems | Jürgen Fuhrmann
+JuliaCon 2020 | JuliaMusic: doing cool science and becoming a better drummer | George Datseris
+JuliaCon 2020 | State Space Modeling for Macroeconomics with StateSpaceEcon | Nicholas Labelle
+JuliaCon 2020 | Bringing Julia to the Realm of Electronic Structure Theory | David Poole
+JuliaCon 2020 | Advanced Metaprogramming Tools | Mike Innes
+JuliaCon 2020 | No-overhead Game Development in Julia | Ahan Sengupta
+JuliaCon 2020 | The ups and downs of convincing to switch to Julia in a company | Jorge Alberto
+-----------------------------------------
+JuliaCon 2020 | A fast atmospheric radiation code for global circulation models | Charlie Kawczynski
+https://www.youtube.com/watch?v=ocXi1mgdSqs&list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR&index=138
+-----------------------------------------
+JuliaCon2020 | Minisymposium on Partial Differential Equations BEAST.jl | Kristof Cools
+
+JulaCon 2020 | The Julia Vega and Vega-Lite ecosystem | David Anthoff
+JuliaCon 2020 | Makie.jl | Simon Danisch
+JulaCon 2020 | SmartHomy: Julia controlling your home and life! | Simon Danisch
+JuliaCon 2020 | Optimization Algorithms in Julia for GPUs | Michel Schanen
+----------------------------------------
+JuliaCon 2020 | A Cloud Relational Database System for Knowledge Graphs in Julia | Molham Aref
+https://www.youtube.com/watch?v=umstt6Q7l1g&list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR&index=146
+----------------------------------------
+JuliaCon 2020 | JSServe: Websites & Dashboards in Julia | Simon Danisch
+----------------------------------------
+JuliaCon 2020 | Intertwined Economic and Energy Analysis using Julia | Caroline Hughes
+https://www.youtube.com/watch?v=SjU4gUGas_8&list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR&index=148
+------------------------------------------
+JuliaCon 2020 | Handling large geospatial raster data with the Earth System Data | Felix Cremer
+JuliaCon 2020 | StatsModels.jl: Mistakes were made/A `@formula` for success | Dave Kleinschmidt
+JuliaCon 2020 | Boids: Dancing with Friends and Enemies | Jesse Bettencourt
+JuliaCon 2020 | Using VS Code for Julia development | David Anthoff
+JuliaCon 2020 | Julia Track Google Code In and Beyond | Choi Ching Lam
+--------------------------------
+JuliaCon 2020 | Enterprise data management with low-rank topic models | Jiahao Chen
+https://www.youtube.com/watch?v=lcTQI84l2YU&list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR&index=154
+---------------------------------
+JuliaCon 2020 | The Queryverse | David Anthoff
+JuliaCon 2020 | Creating an XML parser from scratch | Erik Engheim
+JuliaCon 2020 | Interactive data dashboards with Julia and Stipple | Adrian Salceanu
+JuliaCon 2020 | Minisymposium on Partial Differential Equations BEAST.jl | Kristof Cools
+JuliaCon 2020 | Minisymposium on Partial Differential Equations
+JuliaCon 2020 | Julia Community Prizes
+JuliaCon 2020 | Pkg.update() - or what's going on in Pkg land | Kristoffer Carlsson
