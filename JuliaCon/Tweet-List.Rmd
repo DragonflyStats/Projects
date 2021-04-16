@@ -14,22 +14,51 @@ JuliaCon 2020 |  Calculating with Sets: Interval Methods in Julia
 JuliaCon 2020 |  Make your Julia Code Faster and Compatible with non-Julia Code
 JuliaCon 2020 |  MLJ: A Machine Learning Toolbox for Julia
 JuliaCon 2020 |  Doing Scientific Machine Learning (SciML) With Julia
-JuliaCon 2020 | Sponsor Talk: Effortless Parallel Computing on JuliaHub | Julia Computing
 JuliaCon 2020 | Diversity and Inclusion efforts in the Julia community |  | Logan Kilpatrick
 JuliaCon 2020 | Probabilistic Optimization with the Koopman Operator | Adam R. Gerlach
-JuliaCon 2020 | Solving Neuroinformatics' Three Language Problem With Julia | Zachary P Christensen
-JuliaCon 2020 | What's new in Pkg: artifacts, binaries & the Pkg protocol | Stefan K & Elliot S
+--------------------------
+Solving Neuroinformatics' Three Language Problem With Julia
+Presented by Zachary P Christensen at #JuliaCon 2020
+https://www.youtube.com/watch?v=2vyi1rCqocc
+#Julialang #Coding #Opensource #bioinformatics
+
+Twitter Schedule: May 2021
+FB Schedule - April 2021
+--------------------------
+Check out "What's new in Pkg: artifacts, binaries & the Pkg protocol"
+Presented by Stefan Karpinski & Elliot Saba at #JuliaCon 2020
+https://www.youtube.com/watch?v=xPhnJCAkI4k
+#Julialang #Coding #Opensource 
+
+Twitter Schedule: June 2021
+FB Schedule: April/May 2021
+--------------------------
 JuliaCon 2020 | AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks
 JuliaCon 2020 | Convex.jl: where are we and where do we want to go? | Eric P. Hanson
 JuliaCon 2020 | Estimation of Macroeconomic Models | William Chen
 JuliaCon 2020 | Using Julia and group theory to describe Molecular Vibrations | León Alday
 JuliaCon 2020 | Julia for scripting | Fredrik Ekre
-JuliaCon 2020 | Generating automatically labelled ML datasets with Lattice.jl | Don March
-JuliaCon 2020 | EvoTrees for Flexible Gradient Boosting Trees | Jeremie Desgagne Bouchard
+--------------------------
+Generating automatically labelled ML datasets with Lattice.jl 
+Presented by Jeremie Don March at #JuliaCon 2020
+https://www.youtube.com/watch?v=aje4cgvg77U
+#Julialang #Coding #Opensource #MachineLearning
+
+Twitter Schedule: May 2021
+FB Schedule: April/May 2021
+--------------------------
+EvoTrees for Flexible Gradient Boosting Trees  
+Presented by Jeremie Desgagne Bouchard at #JuliaCon 2020
+https://www.youtube.com/watch?v=HM965vLN7d0
+#Julialang #Coding #Opensource #MachineLearning
+
+Twitter Schedule: June 2021
+FB Schedule: April/May 2021
+--------------------------
 JuliaCon 2020 | Dependency-Aware Jupyter Notebooks | Arnav Sood
 JuliaCon 2020 | Salsa.jl: A framework for on-demand, incremental computation | Nathan Daly
 JuliaCon 2020 | Project Binder and the Julia Community: How can we help each other | Sarah Gibson
-JuliaCon 2020 | Jusdl.jl - Julia Based System Description Language | Zekeriya SARI
+JuliaCon 2020 | Jusdl.jl -Julia Based System Description Language | Zekeriya SARI
 JuliaCon 2020 | Modeling non-Gaussian time series with ScoreDrivenModels.jl | Guilherme Bodin
 JuliaCon 2020 | Shippable apps and custom sysimages with PackageCompiler.jl | Kristoffer Carlsson
 JuliaCon 2020 | AutoMLPipeline: A ToolBox for Building ML Pipelines | Paulito Palmes
@@ -39,6 +68,8 @@ Check out "DrWatson - The perfect sidekick to your scientific inquiries"
 Presented by George Datseris at #JuliaCon 2020
 https://www.youtube.com/watch?v=jKATlEAu8eE&list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR&index=37
 #JuliaLang 
+
+Twitter Schedule: April 2021
 --------------------------
 JuliaCon 2020 | Parallelization, Random Numbers and Reproducibility | Phillip Alday
 JuliaCon 2020 | AugmentedGaussianProcesses.jl, a full Gaussian Process toolkit | Théo Galy Fajou
@@ -50,7 +81,10 @@ JuliaCon 2020 | Manifolds in Julia – Manifolds.jl & ManifoldsBase.jl | Ronny B
 JuliaCon 2020 | Generic Manpower Simulation Engine: a SimJulia case study | Johan Van Kerckhoven
 JuliaCon 2020 | NetworkDynamics.jl - Modeling dynamical systems on networks | Michael Lindner
 JuliaCon 2020 | Rocket.jl: A Julia package for reactive programming | Dmitry Bagaev
+----------------------
+Check as Duplicate
 JuliaCon 2020 | DrWatson - The perfect sidekick to your scientific inquiries | George Datseris
+----------------------
 JuliaCon 2020 | DFTK: A Julian approach for simulating electrons in solids | Michael Herbst
 JuliaCon 2020 | Changing the immutable | Jan Weidner
 JuliaCon 2020 | A Parallel Time-Domain Power System Simulation Toolbox in Julia | Michael Kyesswa
@@ -67,9 +101,29 @@ JuliaCon 2020 | Creating an XML parser from scratch | Erik Engheim
 JuliaCon 2020 | Efficient RANSAC in efficient Julia | Tamás Cserteg
 JuliaCon 2020 | Exploring Disease Vector Dynamics Under Environmental Change | Valeri Vasquez
 JuliaCon 2020 | Integrate Julia and Javascript using Node.js extensions | Maxime Mouchet
-JuliaCon 2020 | HydroPowerModels.jl: Impacts of Network Simplifications | Andrew Rosemberg
-JuliaCon 2020 | Julia for Knowledge Mining in Industry 4.0 | Dewan Md  Farid
-JuliaCon 2020 | Interactive data visualizations with AlgebraOfGraphics | Pietro Vertechi
+----------------------
+Check out "HydroPowerModels.jl: Impacts of Network Simplifications"
+Presented by Andrew Rosemberg at #JuliaCon 2020
+https://www.youtube.com/watch?v=xUpX-k0oZmo
+#JuliaLang #Coding
+
+Twitter Schedule: April 2021
+----------------------
+Julia for Knowledge Mining in Industry 4.0 
+Presented by Dewan Md Farid at #JuliaCon 2020
+https://www.youtube.com/watch?v=wkwIaE1o5jc
+#JuliaLang 
+
+Twitter Schedule: April 2021
+----------------------
+Interactive data visualizations with StatsMakie
+Presented by Pietro Vertechi at #JuliaCon 2020
+https://www.youtube.com/watch?v=ffAmzMRtjHc
+#JuliaLang #dataviz #mathematics
+
+
+Twitter Schedule: April 2021
+----------------------
 JuliaCon 2020 | Natural Language Processing in Julia | Ayush Kaushal
 JuliaCon 2020 | SciML: Automatic Discovery of droplet fragmentation Physics | Raj Dandekar
 JuliaCon 2020 | Convolutional Conditional Neural Processes in Flux | Wessel Bruinsma
@@ -84,8 +138,11 @@ JuliaCon 2020 | Easy and fast desktop GUIs with QML | Bart Janssens
 JuliaCon 2020 | How similar do two strings look? Visual distances in Julia | Eric P. Hanson
 JuliaCon 2020 | Interrogating intratumor heterogeneity dynamics withJulia | Meghan Ferrall-Fairbanks
 JuliaCon 2020 | SIMD in Julia - Automatic and explicit | Kristoffer Carlsson
-JuliaCon 2020 | Terminal User Interfaces in Julia | Dheepak Krishnamurthy
 -------------------------------------------------
+JuliaCon 2020 | Terminal User Interfaces in Julia | Dheepak Krishnamurthy
+
+-------------------------------------------------
+
 JuliaCon 2020 | Complex graphs in transportation networks with OpenStreetMapX.jl | Przemysław Szufel
 JuliaCon 2020 | Parallel Implementation of Monte Carlo-Markov Chain Algorithm | Oscar A.
 JuliaCon 2020 | Write a WebApp in Julia with Dashboards.jl | Dhairya Gandhi
