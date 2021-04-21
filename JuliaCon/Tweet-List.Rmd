@@ -33,11 +33,39 @@ https://www.youtube.com/watch?v=xPhnJCAkI4k
 Twitter Schedule: June 2021
 FB Schedule: April/May 2021
 --------------------------
-JuliaCon 2020 | AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks
-JuliaCon 2020 | Convex.jl: where are we and where do we want to go? | Eric P. Hanson
-JuliaCon 2020 | Estimation of Macroeconomic Models | William Chen
-JuliaCon 2020 | Using Julia and group theory to describe Molecular Vibrations | León Alday
-JuliaCon 2020 | Julia for scripting | Fredrik Ekre
+Check out "AlgebraicJulia: Applied Category Theory in Julia" 
+Presented by James Fairbanks at #JuliaCon 2021
+https://www.youtube.com/watch?v=7zr2qnud4XM
+#JuliaLang #Opensource #Coding
+-------------------------------------------------
+
+Check out "Convex.jl: where are we and where do we want to go?" 
+Presented by Eric P. Hanson
+https://www.youtube.com/watch?v=iczcGK6G_sE
+#JuliaLang #Opensource #Coding
+
+-------------------------------------------------
+Check out "Estimation of Macroeconomic Models" 
+Presented by William Chen at #JuliaCon 2021
+https://www.youtube.com/watch?v=q3KoMloafwY
+#JuliaLang #Opensource #Coding
+
+-------------------------------------------------
+
+Check out "Using Julia and group theory to describe Molecular Vibrations" 
+Presented by León Alday at #JuliaCon 2021
+https://www.youtube.com/watch?v=Bkkqdr2vmZ4
+#JuliaLang #Opensource #Coding
+
+-------------------------------------------------
+
+
+Check out "Julia for scripting" 
+Presented by Fredrik Ekre at #JuliaCon 2021
+https://www.youtube.com/watch?v=IuwxE3m0_QQ
+#JuliaLang #Opensource #Coding
+
+-------------------------------------------------
 --------------------------
 Generating automatically labelled ML datasets with Lattice.jl 
 Presented by Jeremie Don March at #JuliaCon 2020
