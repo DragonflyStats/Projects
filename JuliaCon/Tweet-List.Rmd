@@ -182,14 +182,43 @@ JuliaCon 2020 | Multi-Physics 3-D Inversion on GPU Supercomputers with Julia | L
 JuliaCon 2020 | Inference of Bifurcations with Differentiable Continuation | Gregory Szep
 JuliaCon 2020 | Dispatching Design Patterns | Aaron Christianson
 JuliaCon 2020 | Migrating to JuMP: Leaving Behind Domain Specific Languages | Josiah Pohl
-JuliaCon 2020 | `SymbolicTensors.jl` -- high-level tensor manipulation in Julia | Robert Rosati
-JuliaCon 2020 | Intertwined Economic and Energy Analysis using Julia | Caroline Hughes
-JuliaCon 2020 | Analyzing species interaction networks in Julia | Francis Banville
-JuliaCon 2020 | Introducing the Hispanic community to Julia | Pamela Alejandra Bustamante Faúndez
-JuliaCon 2020 | Rapid Commercialization of Drone Autonomy using Julia | Kerry Snyder
-JuliaCon 2020 | Evolutionary algorithms for electrical circuit design | Maxime
-JuliaCon 2020 | Climate models in 16bit: Arithmetic and algorithmic challenges | Milan Kloewer
-JuliaCon 2020 | Iterable Parser Combinators for fast parsing in pure Julia | Gregor Kappler
+JuliaCon 2020 | `SymbolicTensors.jl` -- high-level tensor manipulation in Julia | Robert Rosati-----------------------------------------------------------   
+Check out "Intertwined Economic and Energy Analysis using Julia"    
+presented by Caroline Hughes at JuliaCon 2020      
+https://www.youtube.com/watch?v=SjU4gUGas_8
+#JuliaLang #Coding #Opensource #Energy #Renewables
+-----------------------------------------------------------
+Check out "Analyzing species interaction networks in Julia"    
+presented by Francis Banville at JuliaCon 2020    
+https://www.youtube.com/watch?v=2HxWYi2IJb0
+#JuliaLang #Coding #Opensource #Ecology
+-----------------------------------------------------------
+Check out "Introducing the Hispanic community to Julia"    
+presented by Pamela Alejandra Bustamante Faúndez at JuliaCon 2020      
+https://www.youtube.com/watch?v=YObxPaafCsk
+#JuliaLang #Coding #Opensource 
+-----------------------------------------------------------
+Check out "Rapid Commercialization of Drone Autonomy using Julia"    
+presented by Kerry Snyder at JuliaCon 2020      
+https://www.youtube.com/watch?v=nKRIAbxNSQ8
+#JuliaLang #Coding #Opensource #UAV
+-----------------------------------------------------------
+Check out "Evolutionary algorithms for electrical circuit design"    
+presented by Maxime Van Haeverbeke at JuliaCon 2020      
+https://www.youtube.com/watch?v=HK1F6WNej4I
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "Climate models in 16bit: Arithmetic and algorithmic challenges"    
+presented by Milan Kloewer at JuliaCon 2020      
+https://www.youtube.com/watch?v=GiSsoA1udUk
+#JuliaLang #Coding #Opensource #climatechange 
+
+-----------------------------------------------------------
+Check out "Iterable Parser Combinators for fast parsing in pure Julia"    
+presented by Gregor Kappler at JuliaCon 2020   
+https://www.youtube.com/watch?v=YBMJSKwwCT0
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
 JuliaCon 2020 | Continuables.jl: Python yield in Julia in blazingly fast | Stephan Sahm
 JuliaCon 2020 | ChainRules.jl | Lyndon White
 JuliaCon 2020 | Julia in Education for Generation Z | Gajendra Deshpande
