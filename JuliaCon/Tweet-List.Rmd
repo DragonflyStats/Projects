@@ -238,16 +238,58 @@ JuliaCon 2020 | GigaSOM.jl: 1 billion cytometry events and beyond with Julia | M
 JuliaCon 2020 | On the State of Flux | Dhairya Gandhi
 JuliaCon 2020 | Developing an exercise-based Julia curriculum | Sascha Mann
 JuliaCon 2020 | DynamicPPL: Stan-like Speed for Dynamic Probabilistic Models | Mohamed Tarek
-JuliaCon 2020 | GeometricFlux.jl: Geometric Deep Learning on Flux | Yueh-Hua Tu
-JuliaCon 2020 | Solving Nonlinear Multi-Physics on GPU Supercomputers with Julia | Samuel Omlin
-JuliaCon 2020 | Dispatching Design Patterns | Aaron Christianson
-JuliaCon 2020 | Effectively Using GR | Josef Heinen
-JuliaCon 2020 | Introducing the @ccall macro | Aaron Christianson
-JuliaCon 2020 | Integrating Julia in R with the JuliaConnectoR | Stefan Lenz
-JuliaCon 2020 | Inventing Curriculum with Julia and Pointer-Generator Network | Gajendra Deshpande
-JuliaCon 2020 | Display, show and print -- how Julia's display system works | Fredrik Ekre
-JuliaCon 2020 | How not to write CPU code -- KernelAbstractions.jl | Valentin Churavy
-JuliaCon 2020 | Julia for PDEs: Come for the speed, stay for ... much more | Petr Krysl
+-----------------------------------------------------------
+Check out "GeometricFlux.jl: Geometric Deep Learning on Flux"      
+presented by Yueh-Hua Tu at JuliaCon 2020    
+https://www.youtube.com/watch?v=GczF2zmJKlk
+#JuliaLang #Coding #Opensource #DeepLearning
+-----------------------------------------------------------
+Check out "Solving Nonlinear Multi-Physics on GPU Supercomputers with Julia"      
+presented by Samuel Omlin at JuliaCon 2020    
+https://www.youtube.com/watch?v=vPsfZUqI4_0
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "Dispatching Design Patterns"      
+presented by Aaron Christianson at JuliaCon 2020   
+https://www.youtube.com/watch?v=n-E-1-A_rZM 
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out the GR Plotting package for Julia "Effectively Using GR"     
+presented by Josef Heinen at JuliaCon 2020    
+https://youtu.be/EK9J4pHDzQo
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "Introducing the @ ccall macro"      
+presented by Aaron Christianson at JuliaCon 2020    
+https://youtu.be/wofq1DdXM3s
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "Integrating Julia in R with the JuliaConnectoR"      
+presented by Stefan Lenz at JuliaCon 2020    
+https://youtu.be/ObYDHi_jJXk
+
+#JuliaLang #Coding #Opensource #rstats
+-----------------------------------------------------------
+Check out "Inventing Curriculum with Julia and Pointer-Generator Network"      
+presented by Gajendra Deshpande at JuliaCon 2020    
+https://youtu.be/s9vOPTDpCzI
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "Display, show and print -- how Julia's display system works"      
+presented by Fredrik Ekre at JuliaCon 2020   
+https://youtu.be/S1Fb5oNhhbc
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "How not to write CPU code -- KernelAbstractions.jl"   
+https://youtu.be/2Wq2AnO42k4   
+presented by Valentin Churavy at JuliaCon 2020    
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
+Check out "Julia for PDEs: Come for the speed, stay for ... much more"      
+presented by Petr Krysl at JuliaCon 2020    
+https://youtu.be/hKHdbfxCV44
+#JuliaLang #Coding #Opensource
+-----------------------------------------------------------
 JuliaCon 2020 | Interactive data visualizations with StatsMakie | Pietro Vertechi
 JuliaCon 2020 | Finite Volume Methods for Nonlinear Multiphysics Problems | Jürgen Fuhrmann
 JuliaCon 2020 | JuliaMusic: doing cool science and becoming a better drummer | George Datseris
