@@ -1,560 +1,4 @@
-Company,Date,Followers
-"Fujitsu",2021-03-28,390595
-"Fugro",2021-03-28,187548
-"University College Dublin",2021-03-28,219498
-"Oceaneering",2021-03-28,275646
-"IBM",2021-06-09,11231717
-"Accenture",2021-06-09,6815295
-"Tata Consultancy Services",2021-06-09,6446859
-"McKinsey & Company",2021-06-09,3955589
-"SAS",2021-06-09,727373
-"Roche",2021-06-09,2293787
-"Cognizant",2021-06-09,3722801
-"Boston Consulting Group (BCG)",2021-06-09,2778468
-"Informatica",2021-06-09,191666
-"Ascential",2021-06-09,41438
-"Globant",2021-06-09,360467
-"Bill & Melinda Gates Foundation",2021-06-09,927002
-"Nagarro",2021-06-09,186014
-"Newgen Software",2021-06-09,82248
-"Open Society Foundations",2021-06-09,146200
-"IUCN",2021-06-09,84674
-"Ford Foundation",2021-06-09,102890
-"Office for National Statistics",2021-06-09,41468
-"KIPP Foundation",2021-06-09,43820
-"Robert Wood Johnson Foundation",2021-06-09,48911
-"MacArthur Foundation",2021-06-09,63667
-"Gordon and Betty Moore Foundation",2021-06-09,6422
-"Two Sigma",2021-06-09,96172
-"The David and Lucile Packard Foundation",2021-06-09,16555
-"Skoll Foundation",2021-06-09,25990
-"Analytic Partners",2021-06-09,8457
-"Conning",2021-06-09,11590
-"The James Irvine Foundation",2021-06-09,7470
-"William and Flora Hewlett Foundation",2021-06-09,16367
-"Elm Company",2021-06-09,338806
-"Doris Duke Charitable Foundation",2021-06-09,2527
-"The Andrew W. Mellon Foundation",2021-06-09,13158
-"W.K. Kellogg Foundation",2021-06-09,37080
-"Rockefeller Philanthropy Advisors",2021-06-09,22003
-"G-Research",2021-06-09,21977
-"Brightwater",2021-06-09,77884
-"Idiro Analytics",2021-06-09,2765
-"Datalytics",2021-06-09,7716
-"Mango Solutions",2021-06-09,3537
-"Pluralsight",2021-06-09,118842
-"The Kresge Foundation",2021-06-09,25140
-"The New York Community Trust",2021-06-09,1977
-"Women in Technology (WIT)",2021-06-09,127716
-"Cpl",2021-06-09,192334
-"GlobalLogic",2021-06-09,354946
-"Susquehanna International Group LLP (SIG)",2021-06-09,79304
-"The Rockefeller Foundation",2021-06-09,133311
-"Tableau Software",2021-06-09,640370
-"Genpact",2021-06-09,1231955
-"i2 Inc.",2021-06-09,966
-"The Apache Software Foundation",2021-06-09,48433
-"Defence Forces of Ireland",2021-06-09,4012
-"WorldQuant",2021-06-09,40467
-"Collibra",2021-06-09,30279
-"Jump Trading LLC",2021-06-09,29314
-"Qualtrics",2021-06-09,154694
-"Remsoft",2021-06-09,2487
-"RapidMiner",2021-06-09,13488
-"Conrad N. Hilton Foundation",2021-06-09,8879
-"KNIME",2021-06-09,18172
-"Irish Centre for High-End Computing ICHEC",2021-06-09,904
-"Udemy",2021-06-09,640073
-"Pacific Whale Foundation",2021-06-09,1483
-"QuantumBlack",2021-06-09,35235
-"Alteryx",2021-06-09,153369
-"Datahug (acquired by CallidusCloud)",2021-06-09,3137
-"Stack Overflow",2021-06-09,731973
-"The Analytics Institute of Ireland",2021-06-09,4793
-"NCX",2021-06-09,2327
-"Kaggle",2021-06-09,292483
-"Institute of Mathematics and its Applications",2021-06-09,20389
-"Coillte",2021-06-09,11754
-"MathWorks",2021-06-09,229799
-"The unbelievable Machine Company GmbH",2021-06-09,1928
-"Lucid",2021-06-09,28690
-"Alfred P. Sloan Foundation",2021-06-09,1870
-"Bloomberg Philanthropies",2021-06-09,43650
-"GitHub",2021-06-09,1985383
-"Quovantis Technologies",2021-06-09,9300
-"r-programming.org",2021-06-09,2293
-"Jane Street",2021-06-09,69163
-"CSO (Central Statistics Office Ireland)",2021-06-09,5498
-"Ginkgo Management Consulting",2021-06-09,1650
-"RStudio PBC",2021-06-09,65527
-"Asystec Limited",2021-06-09,2309
-"Tiger Analytics",2021-06-09,64879
-"Irish Defence Forces",2021-06-09,9836
-"African Institute for Mathematical Sciences (AIMS)",2021-06-09,9003
-"WellClever",2021-06-09,123
-"RegioData Research GmbH",2021-06-09,113
-"Boxfish",2021-06-09,453
-"General Assembly",2021-06-09,147531
-"Data Ireland",2021-06-09,776
-"Walton Family Foundation",2021-06-09,37367
-"Coursera",2021-06-09,907210
-"Economic and Social Research Institute (ESRI)",2021-06-09,8184
-"DataKind",2021-06-09,12796
-"Film Analytics",2021-06-09,215
-"Knoldus Inc",2021-06-09,7828
-"STATSports",2021-06-09,16595
-"DataRobot",2021-06-09,79717
-"Xava",2021-06-09,48
-"Dataiku",2021-06-09,67304
-"Senseforth.ai",2021-06-09,17327
-"H2O.ai",2021-06-09,86300
-"Falkonry",2021-06-09,2865
-"Gapminder Foundation",2021-06-09,12255
-"Open Data Institute",2021-06-09,9437
-"KatRisk LLC",2021-06-09,1229
-"Ixio Analytics",2021-06-09,637
-"Royal Statistical Society",2021-06-09,6864
-"Black Girls CODE",2021-06-09,23734
-"FutureLearn",2021-06-09,94375
-"dotConferences",2021-06-09,202
-"Xanadu Consultancy",2021-06-09,2657
-"ORRECO",2021-06-09,1708
-"DataKind UK",2021-06-09,1977
-"DataCamp",2021-06-09,226969
-"Women Who Code",2021-06-09,81279
-"Kitman Labs",2021-06-09,6145
-"Plotly",2021-06-09,8225
-"Data for Good",2021-06-09,6447
-"Databricks",2021-06-09,229359
-"IBM Cloud",2021-06-09,186937
-"Domino Data Lab",2021-06-09,15094
-"BCG Digital Ventures",2021-06-09,115997
-"Aon Centre for Innovation and Analytics (ACIA)",2021-06-09,12042
-"ProCogia",2021-06-09,5932
-"Data Science Dojo",2021-06-09,94698
-"Accenture Technology",2021-06-09,147538
-"Fivetran",2021-06-09,22596
-"DataIQ",2021-06-09,8989
-"Data Science Institute",2021-06-09,10963
-"IBM Data and AI",2021-06-09,192537
-"Decision Inc.",2021-06-09,26169
-"GitLab",2021-06-09,491911
-"Python Software Foundation",2021-06-09,82484
-"IHM Southern Africa",2021-06-09,372
-"Major League Hacking",2021-06-09,14308
-"UK Statistics Authority",2021-06-09,1020
-"Data Science Central",2021-06-09,230483
-"VERDE",2021-06-09,123
-"Noodle.ai",2021-06-09,19412
-"Squarepoint Capital",2021-06-09,8816
-"ADAPT Centre",2021-06-09,2126
-"Data & Society Research Institute",2021-06-09,4379
-"Appinventiv",2021-06-09,51044
-"Gower Street Analytics",2021-06-09,1599
-"Open Data Science Conference (ODSC)",2021-06-09,104526
-"Julia Computing",2021-06-09,5725
-"Python Ireland",2021-06-09,760
-"ThinkR (FR)",2021-06-09,435
-"SoloLearn",2021-06-09,69475
-"Lander Analytics",2021-06-09,305
-"Dataquest.io",2021-06-09,36775
-"NumFOCUS",2021-06-09,1941
-"Ursa Labs",2021-06-09,442
-"Klue",2021-06-09,8111
-"insight2impact",2021-06-09,1187
-"PyData Berlin",2021-06-09,440
-"Project Jupyter",2021-06-09,6844
-"Data Science Academy",2021-06-09,214606
-"Data For Good",2021-06-09,4481
-"Twenty Billion Neurons GmbH",2021-06-09,3103
-"Xuntos - Let's Get Together",2021-06-09,500
-"Microsoft Power BI by Solution Systems",2021-06-09,50449
-"ultimate.ai",2021-06-09,4085
-"QuantStack",2021-06-09,642
-"Global Fishing Watch",2021-06-09,2460
-"RSS Data Science Section",2021-06-09,1020
-"Sahel DataBank",2021-06-09,14
-"(WiMLDS) Women in Machine Learning & Data Science",2021-06-09,8592
-"Fathom Data",2021-06-09,195
-"ADF Haiti",2021-06-09,327
-"Alldus",2021-06-09,26597
-"AI Awards Ireland",2021-06-09,1666
-"Data for Good Foundation",2021-06-09,1315
-"Why R?",2021-06-09,2721
-"Bhutan Data Scientists",2021-06-09,37
-"Accenture The Dock",2021-06-09,6050
-"CivicDataLab",2021-06-09,1907
-"Data Visualization Society",2021-06-09,78957
-"EcoAngola",2021-06-09,10197
-"Rust Programming Language",2021-06-09,2730
-"Machine Learning India",2021-06-09,118815
-"Women in machine learning data science MAURITIUS",2021-06-09,15
-"East Africa Research &Data Analysis",2021-06-09,9
-"Irish Air Corps",2021-06-09,1156
-"Data Science Council of America",2021-06-09,49961
-"Obama Foundation",2021-06-09,94901
-"Real Consulting Data",2021-06-09,427
-"Canvas Intelligence",2021-06-09,9336
-"NVIDIA AI",2021-06-09,243412
-"Business Science",2021-06-09,9178
-"Treemetrics Ltd",2021-06-09,930
-"Outreachy",2021-06-09,3443
-"DeepLearning.AI",2021-06-09,394761
-"Government Statistical Service",2021-06-09,4874
-"Bhutan Data Scientists Pvt Ltd",2021-06-09,49
-"Ginkgo Analytics",2021-06-09,746
-"Government of Ireland",2021-06-09,23337
-"Quansight",2021-06-09,922
-"African Institute for Mathematical Sciences Ghana",2021-06-09,648
-"Zindi",2021-06-09,6829
-"Data Science for Social Good Foundation",2021-06-09,2050
-"Coding Black Females",2021-06-09,4092
-"OpenTeams",2021-06-09,989
-"ArkeUp Academy | Océan Indien",2021-06-09,947
-"Google Summer of Code",2021-06-09,22264
-"Bissau Analytics",2021-06-09,24
-"AWS Databases & Analytics",2021-06-09,127911
-"Dragon Coders Private Limited",2021-06-09,63
-"Jumping Rivers Ltd",2021-06-09,493
-"Benin ThinkLab",2021-06-09,56
-"Towards Data Science",2021-06-09,358449
-"R Users Group - Ecuador",2021-06-09,127
-"Anaconda Inc.",2021-06-09,23130
-"Quansight Initiate",2021-06-09,88
-"allspatial - Geospatial Software and Services",2021-06-09,9
-"Tableau Software | Events and Webinars",2021-06-09,30532
-"Data Scientists Ltd",2021-06-09,12
-"AI Inclusive",2021-06-09,2268
-"MachineX Intelligence",2021-06-09,1659
-"DataIQ School of Analysis",2021-06-09,129
-"DATANAYA",2021-06-09,993
-"Women in Data",2021-06-09,13687
-"Observatoire du Numérique en Haïti (ObNH)",2021-06-09,82
-"ViennaR",2021-06-09,394
-"Olatunde Data Analytics",2021-06-09,530
-"ClusterAI",2021-06-09,422
-"JuliaCon 2021",2021-06-09,2010
-"Statistics Without Borders",2021-06-09,630
-"Datalitics",2021-06-09,78
-"Towards AI",2021-06-09,165495
-"R Consortium",2021-06-09,487
-"R posts you might have missed!",2021-06-09,10181
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-06-09,267
-"storytelling with data",2021-06-09,59771
-"Rose Data Studio LLC",2021-06-09,106
-"EuroPython",2021-06-09,309
-"OpenStreetMap Ireland",2021-06-09,230
-"The Collective Impact Group For Guinea",2021-06-09,154
-"Women in AI Ireland",2021-06-09,2221
-"Sentient Projects",2021-06-09,651
-"Code for Cause",2021-06-09,16909
-"FreeLocalMappers",2021-06-09,510
-"Global Shapers Community - Thimphu Hub",2021-06-09,133
-"Fisheries Transparency Initiative (FiTI)",2021-06-09,189
-"Ayiti Analytics",2021-06-09,728
-"NIMBADATA",2021-06-09,4
-"DataSoc",2021-06-09,700
-"UNDP Guinea-Bissau",2021-06-09,1449
-"Amazon Science",2021-06-09,133307
-"The R Foundation for Statistical Computing",2021-06-09,1056
-"DataDotOrg",2021-06-09,1352
-"Innovative Hub for Research in Africa",2021-06-09,74
-"R-Ladies Tunis",2021-06-09,643
-"The Julia Language",2021-06-09,4362
-"GORODATA",2021-06-09,903
-"Tag Ng",2021-06-09,182
-"BlackTIDES",2021-06-09,231
-"DATA MANSA",2021-06-09,102
-"Make Every Woman Count",2021-06-09,63
-"Catalyst Seychelles",2021-06-09,182
-"Thimphu TechPark",2021-06-09,83
-"PyData Ireland",2021-06-09,5
-"DATA CENTRIC AFRICA",2021-06-09,200
-"Outlier",2021-06-09,34
-"PyLadies Dublin",2021-06-09,80
-"Oman Data Science Organization",2021-06-09,96
-"Software Insights Ireland",2021-06-09,1256
-"X-Europe Data Science",2021-06-09,37
-"IBM",2021-06-09,11231717
-"Accenture",2021-06-09,6815295
-"Tata Consultancy Services",2021-06-09,6446859
-"ADAPT Centre",2021-06-09,2126
-"General Assembly",2021-06-09,147531
-"Dataquest.io",2021-06-09,36775
-TGA Medikal,2021-05-10,54
-Tanzania AI Lab,2021-05-10,78
-Simply Ads,2021-05-10,94
-ENSO BUSINESS SERVICES,2021-05-10,133
-R programming example,2021-05-10,151
-BluzUp,2021-05-10,181
-Kuip,2021-05-10,188
-R-Programming Academy,2021-05-10,211
-Cinema Nosso,2021-05-10,229
-APIFVET - Associação Portuguesa da Indústria Farmacêutica de Medicamentos Veterinários,2021-05-10,230
-B&I Capital,2021-05-10,241
-Be-cause Integrated Communications,2021-05-10,247
-Be-cause Integrated Communications,2021-05-10,247
-OpenFOAM.ir,2021-05-10,276
-OpenFOAM.ir,2021-05-10,276
-R!Studio,2021-05-10,292
-MSP Teambuilding,2021-05-10,328
-Cyclopharma SA Maroc,2021-05-10,348
-R Consortium,2021-05-10,349
-Internalaya,2021-05-10,351
-Shiksha IAS Academy,2021-05-10,360
-Malung-Sälens kommun,2021-05-10,431
-Process Ecology Inc,2021-05-10,454
-AQMA ITALIA SPA,2021-05-10,463
-Computing and Information Systems - Sabaragamuwa University of Sri Lanka,2021-05-10,473
-Medical Select,2021-05-10,526
-OpenFOAM Workshop,2021-05-10,527
-OpenFOAM Workshop,2021-05-10,527
-Basebuilder,2021-05-10,554
-NoVolante,2021-05-10,640
-Merck Greece,2021-05-10,702
-useR! - The R User Conference,2021-05-10,747
-ESTÜ VERİ BİLİMİ KULÜBÜ,2021-05-10,772
-WebPays,2021-05-10,802
-R language-online-training,2021-05-10,808
-Priority Media Private Limited,2021-05-10,818
-Filoger,2021-05-10,831
-Filoger,2021-05-10,831
-Psychometric Society,2021-05-10,843
-The R Foundation for Statistical Computing,2021-05-10,917
-Envirolution,2021-05-10,1063
-Envirolution,2021-05-10,1063
-GREF Bretagne,2021-05-10,1095
-Bilişim Academy,2021-05-10,1155
-Association of Test Publishers (ATP),2021-05-10,1178
-TGA,2021-05-10,1190
-OUR CHOICE Fashion,2021-05-10,1192
-The Creative 9,2021-05-10,1226
-FreshAirPro,2021-05-10,1266
-Clever Touch Marketing,2021-05-10,1302
-MagCanica,2021-05-10,1302
-Python Certification .Org,2021-05-10,1318
-Ideal Cures Pvt. Ltd.,2021-05-10,1676
-Ideal Cures Pvt. Ltd.,2021-05-10,1676
-Glorious Builders,2021-05-10,1755
-JuliaCon 2021,2021-05-10,1902
-FRESCHEM SAS,2021-05-10,1911
-Jumbobagshop.in,2021-05-10,1919
-JULIA,2021-05-10,1925
-INDUSTRY CONNECT,2021-05-10,2247
-Bantu Group,2021-05-10,2268
-Python posts you might have missed!,2021-05-10,2356
-AlCircleBiz,2021-05-10,2510
-Why R? ,2021-05-10,2645
-Meta RH Multiservice,2021-05-10,3727
-Meta RH Multiservice,2021-05-10,3727
-R-Ladies Global,2021-05-10,3951
-Solucionare RH,2021-05-10,5304
-Python People,2021-05-10,6883
-Plotly,2021-05-10,8025
-Serhum Consultoria em RH,2021-05-10,8154
-R posts you might have missed!,2021-05-10,8968
-QHotels,2021-05-10,9681
-QHotels,2021-05-10,9681
-Visualitics,2021-05-10,24955
-SQLBI,2021-05-10,27505
-Real Python,2021-05-10,48793
-storytelling with data,2021-05-10,57772
-RStudio PBC,2021-05-10,65054
-SuperDataScience,2021-05-10,65471
-Data Visualization Society,2021-05-10,77526
-Python Software Foundation,2021-05-10,80448
-Data Science Dojo,2021-05-10,89768
-Statista,2021-05-10,117024
-Machine Learning,2021-05-10,138801
-Machine Learning Mastery,2021-05-10,180294
-Data Science Academy,2021-05-10,206560
-DataCamp,2021-05-10,220986
-Data Science Central,2021-05-10,227099
-Kaggle,2021-05-10,289882
-Towards Data Science,2021-05-10,345385
-DeepLearning.AI,2021-05-10,386490
-Coursera,2021-05-10,875668
-McKinsey & Company,2021-05-10,3908173
-"Appriss",2021-03-28,5354
-"Katalyst Data Management",2021-03-28,3368
-"Kadme AS - Knowledge and Data Management Expertise",2021-03-28,963
-"Neuralog",2021-03-28,1040
-"Subsea 7",2021-03-28,470348
-"Prospect 33",2021-03-28,20651
-"ATRIBS",2021-03-28,4870
-"DOF Subsea",2021-03-28,134024
-"Thalesians Ltd",2021-03-28,3569
-"geoLOGIC systems ltd.",2021-03-28,2304
-"Dubai Technologies",2021-03-28,3274
-"Publicjobs.ie - Public Appointments Service",2021-03-28,79382
-"TazWorks LLC",2021-03-28,666
-"Kaggle",2021-03-28,283939
-"gistec",2021-03-28,7078
-"Appriss Insights",2021-03-28,1926
-"Integra Data Systems Corp.",2021-03-28,70
-"RStudio PBC",2021-03-28,64214
-"Bayanat for Mapping & Surveying Services LLC",2021-03-28,7469
-"Gulf Business Solutions (GBS)",2021-03-28,516
-"Dubai Technology Entrepreneur Campus - Dtec",2021-03-28,4408
-"Nottingham Economics & Finance Society",2021-03-28,2085
-"DataCamp",2021-03-28,211540
-"The Data Lab - Innovation Centre",2021-03-28,6563
-"Data Science Institute",2021-03-28,10109
-"Los Angeles Machine Learning Meetup",2021-03-28,10
-"Python Software Foundation",2021-03-28,77367
-"Data Science Society",2021-03-28,1263
-"Gulf IT",2021-03-28,706
-"Data Science Student Society at UCSD",2021-03-28,366
-"CONNECT Centre",2021-03-28,2655
-"Irish Student Consulting Group (ISCG)",2021-03-28,2559
-"Julia Computing",2021-03-28,5133
-"McMaster Computer Science Society",2021-03-28,76
-"Python Ireland",2021-03-28,734
-"UCD Investors and Entrepreneurs Society",2021-03-28,1744
-"SoloLearn",2021-03-28,61209
-"Cambridge University Data Science Society",2021-03-28,131
-"MicroMap IT & GIS Consultancy Abu Dhabi",2021-03-28,691
-"AI Copenhagen",2021-03-28,289
-"Erde Technologies Inc.",2021-03-28,17
-"DAIN Studios",2021-03-28,1460
-"Data Science Indonesia",2021-03-28,3975
-"Machine Learning Mastery",2021-03-28,174386
-"Imperial College Data Science Society",2021-03-28,484
-"GULF TRAINING AND CONSULTATION CENTER",2021-03-28,133
-"SuperDataScience",2021-03-28,63681
-"Nordic.AI",2021-03-28,485
-"Ryerson University Data Science Society",2021-03-28,160
-"Nième Conseil",2021-03-28,191
-"Data Science Ghent",2021-03-28,237
-"University of Bristol Computer Science Society",2021-03-28,108
-"Queen Mary Electronic Engineering & Computer Science Society",2021-03-28,37
-"OpenDataScience [ods.ai]",2021-03-28,5846
-"Big Data and Artificial Intelligence Club",2021-03-28,175
-"vGIS",2021-03-28,7427
-"Data Science Portugal",2021-03-28,6257
-"Western Computer Science Undergraduate Society",2021-03-28,52
-"SwissAI",2021-03-28,338
-"Ankara University Computer Society",2021-03-28,101
-"UBC Computer Science Student Society",2021-03-28,131
-"Aalto Artificial Intelligence Society",2021-03-28,33
-"SAIS Sheffield Artificial Intelligence Society",2021-03-28,34
-"UCD I&E Student Managed Fund",2021-03-28,607
-"Data Science Research Perú",2021-03-28,5176
-"Finance Society at the University of Connecticut",2021-03-28,219
-"Dalhousie Computer Science Society",2021-03-28,43
-"Machine Learning at Berkeley",2021-03-28,2114
-"UoM AI and Machine Learning Society",2021-03-28,52
-"Data Science & Artificial Intelligence/AI South East London",2021-03-28,68
-"AI Awards Ireland",2021-03-28,1594
-"Why R?",2021-03-28,2491
-"Artificial Intelligence Hong Kong",2021-03-28,2000
-"Hong Kong Data Science Society",2021-03-28,189
-"Beacon IT Solutions Abu Dhabi",2021-03-28,60
-"LSESU Machine Learning Society",2021-03-28,82
-"Kharagpur Data Analytics Group",2021-03-28,279
-"Data Visualization Society",2021-03-28,75588
-"Cologne AI and Machine Learning Meetup",2021-03-28,160
-"Computer Science Society (CSS) - University of Birmingham",2021-03-28,132
-"Machine Learning India",2021-03-28,112052
-"Lancaster University Computer Science Society",2021-03-28,47
-"Hong Kong Machine Learning",2021-03-28,2187
-"MLT",2021-03-28,6790
-"Machine Learning Society at MIM UW",2021-03-28,104
-"Dublin University Computer Science Society",2021-03-28,19
-"SeismicZone",2021-03-28,387
-"Appriss Health",2021-03-28,1280
-"McMaster Computer Science Society",2021-03-28,83
-"Machine Learning Society",2021-03-28,18990
-"Data Istanbul",2021-03-28,3971
-"Data Science Student Society at UJ",2021-03-28,70
-"UNSW Computer Science and Engineering Society (CSESoc)",2021-03-28,769
-"UNSW Data Science Society (DataSoc)",2021-03-28,476
-"Leeds Data Science Society",2021-03-28,270
-"DeepLearning.AI",2021-03-28,374743
-"Data Science Society at Berkeley",2021-03-28,566
-"UCL Data Science Society",2021-03-28,782
-"McMaster Artificial Intelligence Society",2021-03-28,661
-"CSUDH Finance Student Society",2021-03-28,51
-"Data Science Research Arab Team",2021-03-28,98
-"Columbia Data Science Society",2021-03-28,401
-"Neptune Energy",2021-03-28,43760
-"Sydney Machine Learning Group",2021-03-28,146
-"meetup.ai",2021-03-28,321
-"ICL Machine Learning Society",2021-03-28,76
-"ITU Data Science Society ",2021-03-28,763
-"Data Science Nigeria",2021-03-28,3248
-"JerusML",2021-03-28,293
-"Otago Computer Science Society",2021-03-28,16
-"Integra Data and Analytic Solutions",2021-03-28,1295
-"Data Lille",2021-03-28,677
-"LSESU Data Science Society",2021-03-28,5
-"Sheffield Women in Computer Science Society",2021-03-28,43
-"Carleton Artificial Intelligence Society",2021-03-28,214
-"AUB Computer Science Students Society",2021-03-28,105
-"Data Science and Ai Association of Australia | DSAi",2021-03-28,3190
-"Data Science Club of UWA",2021-03-28,246
-"Alice Insights Inc.",2021-03-28,235
-"Data Science Club at UTDallas",2021-03-28,979
-"Towards Data Science",2021-03-28,324406
-"Toronto Machine Learning Society (TMLS)",2021-03-28,6074
-"Silo AI",2021-03-28,4448
-"Appriss VINE",2021-03-28,929
-"Warwick Data Science Society ",2021-03-28,538
-"Data Science Milan",2021-03-28,712
-"The Data Pub",2021-03-28,1327
-"Machine Learning & Data Science Meetup Roma",2021-03-28,150
-"Data Science Society",2021-03-28,145
-"USC Center for AI in Society's Student Branch (CAIS++)",2021-03-28,137
-"Artificial Intelligence & Robotics Society University of Portsmouth",2021-03-28,82
-"Machine Learning",2021-03-28,119497
-"The Machine Learning Institute Certificate in Finance (MLI)",2021-03-28,580
-"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-28,76
-"Meetup Machine Learning Québec",2021-03-28,45
-"The Data Science & Statistics Society",2021-03-28,70
-"Machine Learning in Healthcare",2021-03-28,380
-"Bristol Data Science Society",2021-03-28,87
-"University Of Sheffield Computer Science Society",2021-03-28,19
-"DUBAI TECH",2021-03-28,15
-"Monash Data Science Society",2021-03-28,224
-"Data Residents",2021-03-28,45
-"Toronto Machine Learning Meetup",2021-03-28,145
-"JuliaCon 2021",2021-03-28,1759
-"SFI Centre for Research Training in Artificial Intelligence ",2021-03-28,178
-"AI Hack 2021",2021-03-28,84
-"Buffalo State Data Science & Analytics (DSA)",2021-03-28,245
-"Data Science and AI Society - UTS",2021-03-28,91
-"UCD Netsoc – UCD's Internet and Computer Science Society",2021-03-28,258
-"KCL Data Science Society",2021-03-28,41
-"Erlangen Artificial Intelligence & Machine Learning Meetup",2021-03-28,365
-"UCSD Computer Science & Engineering Society",2021-03-28,94
-"City Data Science Society",2021-03-28,98
-"Machine Learning Porto Alegre",2021-03-28,372
-"Baruch Data Science & Analytics Society",2021-03-28,258
-"Capital Quant Agency",2021-03-28,544
-"MLOps Community",2021-03-28,1585
-"Hertie School Data Science Society",2021-03-28,20
-"Paris Machine Learning Meetup",2021-03-28,117
-"Data Science Meetup",2021-03-28,97
-"DataMuni",2021-03-28,505
-"Machine Learning and Data Analytics Lab at NTU EEE",2021-03-28,1220
-"Riga Data Science Club",2021-03-28,1123
-"MLOps",2021-03-28,246
-"DataSoc",2021-03-28,677
-"LUMS Data Science Society",2021-03-28,549
-"The Julia Language",2021-03-28,3071
-"MUDSS Data Science Society",2021-03-28,14
-"useR! - The R User Conference",2021-03-28,636
-"Exeter Artificial Intelligence and Data Science Society (X-AI)",2021-03-28,21
-"LSESU Data Science Society",2021-03-28,170
-"DSCS GMU",2021-03-28,56
-"UST Computer Science Society",2021-03-28,11
-"DataTalksClub",2021-03-28,1583
-"Fujitsu",2021-03-28,390595
-"Fugro",2021-03-28,187548
-"University College Dublin",2021-03-28,219498
-"Buffalo State Data Science & Analytics (DSA)",2021-03-28,245
-"CONNECT Centre",2021-03-28,2655
-"University College Dublin",2021-03-28,219498
+"Company","Date","Followers"
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-06,6723
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-13,6785
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-15,6797
@@ -607,6 +51,21 @@ McKinsey & Company,2021-05-10,3908173
 "(WiMLDS) Women in Machine Learning & Data Science",2021-03-20,8047
 "(WiMLDS) Women in Machine Learning & Data Science",2021-03-24,8083
 "(WiMLDS) Women in Machine Learning & Data Science",2021-03-26,8103
+"(WiMLDS) Women in Machine Learning & Data Science",2021-03-30,8134
+"(WiMLDS) Women in Machine Learning & Data Science",2021-04-06,8183
+"(WiMLDS) Women in Machine Learning & Data Science",2021-04-10,8224
+"(WiMLDS) Women in Machine Learning & Data Science",2021-04-15,8270
+"(WiMLDS) Women in Machine Learning & Data Science",2021-04-20,8294
+"(WiMLDS) Women in Machine Learning & Data Science",2021-04-24,8326
+"(WiMLDS) Women in Machine Learning & Data Science",2021-04-28,8349
+"(WiMLDS) Women in Machine Learning & Data Science",2021-05-03,8388
+"(WiMLDS) Women in Machine Learning & Data Science",2021-05-07,8417
+"(WiMLDS) Women in Machine Learning & Data Science",2021-05-10,8439
+"(WiMLDS) Women in Machine Learning & Data Science",2021-05-14,8471
+"(WiMLDS) Women in Machine Learning & Data Science",2021-05-21,8509
+"(WiMLDS) Women in Machine Learning & Data Science",2021-05-26,8535
+"(WiMLDS) Women in Machine Learning & Data Science",2021-06-02,8562
+"(WiMLDS) Women in Machine Learning & Data Science",2021-06-09,8592
 "(Woowa Bros.)",2021-02-19,17149
 "365 Data Science",2020-10-15,35444
 "365 Data Science",2020-10-20,35758
@@ -628,6 +87,22 @@ McKinsey & Company,2021-05-10,3908173
 "87%",2020-11-21,423
 "87%",2020-11-30,424
 "87%",2020-12-08,429
+"Aalto Artificial Intelligence Society",2021-03-28,33
+"Aalto Artificial Intelligence Society",2021-03-31,33
+"Aalto Artificial Intelligence Society",2021-04-06,33
+"Aalto Artificial Intelligence Society",2021-04-10,33
+"Aalto Artificial Intelligence Society",2021-04-15,33
+"Aalto Artificial Intelligence Society",2021-04-20,33
+"Aalto Artificial Intelligence Society",2021-04-24,33
+"Aalto Artificial Intelligence Society",2021-04-28,33
+"Aalto Artificial Intelligence Society",2021-05-07,33
+"Aalto Artificial Intelligence Society",2021-05-10,33
+"Aalto Artificial Intelligence Society",2021-05-14,33
+"Aalto Artificial Intelligence Society",2021-05-21,33
+"Aalto Artificial Intelligence Society",2021-05-26,33
+"Aalto Artificial Intelligence Society",2021-05-31,33
+"Aalto Artificial Intelligence Society",2021-06-06,33
+"Aalto Artificial Intelligence Society",2021-06-09,33
 "ABEJA Inc.",2020-12-08,2894
 "ABEJA Inc.",2020-12-15,2898
 "ABEJA Inc.",2020-12-27,2905
@@ -693,6 +168,21 @@ McKinsey & Company,2021-05-10,3908173
 "Accenture",2021-03-16,6446955
 "Accenture",2021-03-20,6467961
 "Accenture",2021-03-24,6482784
+"Accenture",2021-03-30,6514001
+"Accenture",2021-04-06,6543865
+"Accenture",2021-04-10,6568756
+"Accenture",2021-04-15,6588274
+"Accenture",2021-04-20,6608845
+"Accenture",2021-04-24,6624635
+"Accenture",2021-04-28,6639898
+"Accenture",2021-05-03,6661342
+"Accenture",2021-05-07,6678250
+"Accenture",2021-05-10,6687645
+"Accenture",2021-05-14,6704967
+"Accenture",2021-05-21,6728905
+"Accenture",2021-05-26,6749584
+"Accenture",2021-06-02,6782446
+"Accenture",2021-06-09,6815295
 "Accenture Technology",2020-10-13,100123
 "Accenture Technology",2020-10-15,100351
 "Accenture Technology",2020-10-20,100894
@@ -737,6 +227,21 @@ McKinsey & Company,2021-05-10,3908173
 "Accenture Technology",2021-03-16,128306
 "Accenture Technology",2021-03-20,129263
 "Accenture Technology",2021-03-24,130123
+"Accenture Technology",2021-03-30,131837
+"Accenture Technology",2021-04-06,133482
+"Accenture Technology",2021-04-10,134727
+"Accenture Technology",2021-04-15,135857
+"Accenture Technology",2021-04-20,137047
+"Accenture Technology",2021-04-24,137864
+"Accenture Technology",2021-04-28,138547
+"Accenture Technology",2021-05-03,139474
+"Accenture Technology",2021-05-07,140310
+"Accenture Technology",2021-05-10,140713
+"Accenture Technology",2021-05-14,141479
+"Accenture Technology",2021-05-21,142987
+"Accenture Technology",2021-05-26,143932
+"Accenture Technology",2021-06-02,145785
+"Accenture Technology",2021-06-09,147538
 "Accenture The Dock",2020-10-13,5511
 "Accenture The Dock",2020-10-16,5522
 "Accenture The Dock",2020-10-20,5533
@@ -780,6 +285,21 @@ McKinsey & Company,2021-05-10,3908173
 "Accenture The Dock",2021-03-16,5796
 "Accenture The Dock",2021-03-20,5807
 "Accenture The Dock",2021-03-24,5809
+"Accenture The Dock",2021-03-30,5829
+"Accenture The Dock",2021-04-06,5837
+"Accenture The Dock",2021-04-10,5843
+"Accenture The Dock",2021-04-15,5850
+"Accenture The Dock",2021-04-20,5872
+"Accenture The Dock",2021-04-24,5903
+"Accenture The Dock",2021-04-28,5924
+"Accenture The Dock",2021-05-03,5943
+"Accenture The Dock",2021-05-07,5958
+"Accenture The Dock",2021-05-10,5963
+"Accenture The Dock",2021-05-14,5970
+"Accenture The Dock",2021-05-21,5993
+"Accenture The Dock",2021-05-26,6001
+"Accenture The Dock",2021-06-02,6026
+"Accenture The Dock",2021-06-09,6050
 "Accenture6",2021-02-07,314604
 "Actelion (now Janssen Pulmonary Hypertension)",2021-02-19,50536
 "Actelion (now Janssen Pulmonary Hypertension)",2021-03-26,50658
@@ -833,11 +353,53 @@ McKinsey & Company,2021-05-10,3908173
 "ADAPT Centre",2021-03-16,1968
 "ADAPT Centre",2021-03-20,1971
 "ADAPT Centre",2021-03-24,1977
+"ADAPT Centre",2021-03-30,2001
+"ADAPT Centre",2021-03-30,NA
+"ADAPT Centre",2021-04-06,2008
+"ADAPT Centre",2021-04-10,2018
+"ADAPT Centre",2021-04-15,2024
+"ADAPT Centre",2021-04-20,2033
+"ADAPT Centre",2021-04-24,2039
+"ADAPT Centre",2021-04-28,2043
+"ADAPT Centre",2021-05-03,2056
+"ADAPT Centre",2021-05-07,2069
+"ADAPT Centre",2021-05-10,2071
+"ADAPT Centre",2021-05-14,2076
+"ADAPT Centre",2021-05-21,2092
+"ADAPT Centre",2021-05-26,2097
+"ADAPT Centre",2021-06-02,2112
+"ADAPT Centre",2021-06-09,2126
 "Addex Therapeutics",2021-02-19,3053
 "Addex Therapeutics",2021-03-26,3188
+"Adessium Foundation",2021-04-20,2119
+"Adessium Foundation",2021-04-24,2121
+"Adessium Foundation",2021-04-28,2124
+"Adessium Foundation",2021-05-07,2131
+"Adessium Foundation",2021-05-10,2132
+"Adessium Foundation",2021-05-14,2134
+"Adessium Foundation",2021-05-21,2144
+"Adessium Foundation",2021-05-26,2149
+"Adessium Foundation",2021-05-31,2152
+"Adessium Foundation",2021-06-06,2157
+"Adessium Foundation",2021-06-09,2158
+"ADF Haiti",2021-06-02,326
+"ADF Haiti",2021-06-09,327
 "Adopta Un Abuelo",2020-12-08,2957
 "Advanced Accelerator Applications",2021-02-19,22596
 "Advanced Accelerator Applications",2021-03-26,23062
+"African Institute for Mathematical Sciences (AIMS)",2021-06-09,9003
+"African Institute for Mathematical Sciences Ghana",2021-06-09,648
+"Aga Khan Foundation USA",2021-04-20,16890
+"Aga Khan Foundation USA",2021-04-24,16920
+"Aga Khan Foundation USA",2021-04-28,16935
+"Aga Khan Foundation USA",2021-05-07,16980
+"Aga Khan Foundation USA",2021-05-10,16992
+"Aga Khan Foundation USA",2021-05-14,17013
+"Aga Khan Foundation USA",2021-05-21,17030
+"Aga Khan Foundation USA",2021-05-26,17052
+"Aga Khan Foundation USA",2021-05-31,17081
+"Aga Khan Foundation USA",2021-06-06,17099
+"Aga Khan Foundation USA",2021-06-09,17114
 "AgriSat Iberia S.L.",2020-10-16,338
 "AgriSat Iberia S.L.",2020-10-18,338
 "AgriSat Iberia S.L.",2020-10-21,339
@@ -872,6 +434,25 @@ McKinsey & Company,2021-05-10,3908173
 "AI Awards Ireland",2021-03-16,1556
 "AI Awards Ireland",2021-03-20,1560
 "AI Awards Ireland",2021-03-24,1580
+"AI Awards Ireland",2021-03-28,1594
+"AI Awards Ireland",2021-03-30,1595
+"AI Awards Ireland",2021-03-31,1595
+"AI Awards Ireland",2021-04-06,1598
+"AI Awards Ireland",2021-04-10,1598
+"AI Awards Ireland",2021-04-15,1599
+"AI Awards Ireland",2021-04-20,1602
+"AI Awards Ireland",2021-04-24,1603
+"AI Awards Ireland",2021-04-28,1603
+"AI Awards Ireland",2021-05-03,1607
+"AI Awards Ireland",2021-05-07,1607
+"AI Awards Ireland",2021-05-10,1607
+"AI Awards Ireland",2021-05-14,1618
+"AI Awards Ireland",2021-05-21,1619
+"AI Awards Ireland",2021-05-26,1622
+"AI Awards Ireland",2021-05-31,1649
+"AI Awards Ireland",2021-06-02,1661
+"AI Awards Ireland",2021-06-06,1662
+"AI Awards Ireland",2021-06-09,1666
 "AI Commons",2021-02-19,521
 "AI Commons",2021-03-06,541
 "AI Commons",2021-03-26,555
@@ -889,6 +470,38 @@ McKinsey & Company,2021-05-10,3908173
 "AI Copenhagen",2021-03-10,288
 "AI Copenhagen",2021-03-13,288
 "AI Copenhagen",2021-03-20,288
+"AI Copenhagen",2021-03-28,289
+"AI Copenhagen",2021-03-31,290
+"AI Copenhagen",2021-04-06,290
+"AI Copenhagen",2021-04-10,289
+"AI Copenhagen",2021-04-15,290
+"AI Copenhagen",2021-04-20,290
+"AI Copenhagen",2021-04-24,291
+"AI Copenhagen",2021-04-28,291
+"AI Copenhagen",2021-05-07,290
+"AI Copenhagen",2021-05-10,290
+"AI Copenhagen",2021-05-14,291
+"AI Copenhagen",2021-05-21,291
+"AI Copenhagen",2021-05-26,292
+"AI Copenhagen",2021-05-31,292
+"AI Copenhagen",2021-06-06,292
+"AI Copenhagen",2021-06-09,293
+"AI Hack 2021",2021-03-28,84
+"AI Hack 2021",2021-03-31,85
+"AI Hack 2021",2021-04-06,86
+"AI Hack 2021",2021-04-10,86
+"AI Hack 2021",2021-04-15,85
+"AI Hack 2021",2021-04-20,85
+"AI Hack 2021",2021-04-24,85
+"AI Hack 2021",2021-04-28,85
+"AI Hack 2021",2021-05-07,87
+"AI Hack 2021",2021-05-10,87
+"AI Hack 2021",2021-05-14,87
+"AI Hack 2021",2021-05-21,87
+"AI Hack 2021",2021-05-26,87
+"AI Hack 2021",2021-05-31,87
+"AI Hack 2021",2021-06-06,87
+"AI Hack 2021",2021-06-09,87
 "AI Inclusive",2020-10-20,359
 "AI Inclusive",2020-10-21,365
 "AI Inclusive",2020-10-23,376
@@ -930,6 +543,22 @@ McKinsey & Company,2021-05-10,3908173
 "AI Inclusive",2021-03-16,1476
 "AI Inclusive",2021-03-20,1539
 "AI Inclusive",2021-03-24,1555
+"AI Inclusive",2021-03-30,1601
+"AI Inclusive",2021-04-06,1641
+"AI Inclusive",2021-04-10,1664
+"AI Inclusive",2021-04-15,1669
+"AI Inclusive",2021-04-20,1693
+"AI Inclusive",2021-04-24,1709
+"AI Inclusive",2021-04-28,1737
+"AI Inclusive",2021-05-03,1771
+"AI Inclusive",2021-05-07,1800
+"AI Inclusive",2021-05-10,1881
+"AI Inclusive",2021-05-14,1932
+"AI Inclusive",2021-05-21,1974
+"AI Inclusive",2021-05-26,2036
+"AI Inclusive",2021-06-02,2198
+"AI Inclusive",2021-06-09,2268
+"AlCircleBiz",2021-05-10,2510
 "Aleph News",2021-02-19,14684
 "Aleph News",2021-03-06,15496
 "Aleph News",2021-03-26,16287
@@ -975,9 +604,37 @@ McKinsey & Company,2021-05-10,3908173
 "Alfred P. Sloan Foundation",2021-03-16,1754
 "Alfred P. Sloan Foundation",2021-03-20,1759
 "Alfred P. Sloan Foundation",2021-03-24,1761
+"Alfred P. Sloan Foundation",2021-03-30,1773
+"Alfred P. Sloan Foundation",2021-04-06,1782
+"Alfred P. Sloan Foundation",2021-04-10,1800
+"Alfred P. Sloan Foundation",2021-04-15,1807
+"Alfred P. Sloan Foundation",2021-04-20,1817
+"Alfred P. Sloan Foundation",2021-04-24,1824
+"Alfred P. Sloan Foundation",2021-04-28,1828
+"Alfred P. Sloan Foundation",2021-05-03,1836
+"Alfred P. Sloan Foundation",2021-05-07,1843
+"Alfred P. Sloan Foundation",2021-05-10,1843
+"Alfred P. Sloan Foundation",2021-05-14,1850
+"Alfred P. Sloan Foundation",2021-05-21,1858
+"Alfred P. Sloan Foundation",2021-05-26,1860
+"Alfred P. Sloan Foundation",2021-06-02,1864
+"Alfred P. Sloan Foundation",2021-06-09,1870
 "ALFYMA",2020-12-15,811
 "ALFYMA",2021-02-19,860
 "ALFYMA",2021-03-26,888
+"Alice Insights Inc.",2021-03-28,235
+"Alice Insights Inc.",2021-03-31,237
+"Alice Insights Inc.",2021-04-06,241
+"Alice Insights Inc.",2021-04-10,242
+"Alice Insights Inc.",2021-04-15,244
+"Alice Insights Inc.",2021-04-20,249
+"Alice Insights Inc.",2021-04-24,252
+"Alice Insights Inc.",2021-04-28,254
+"Alice Insights Inc.",2021-05-07,256
+"Alice Insights Inc.",2021-05-10,256
+"Alice Insights Inc.",2021-05-14,257
+"Alice Insights Inc.",2021-05-21,257
+"Alice Insights Inc.",2021-05-26,256
 "Alldus",2020-10-20,21527
 "Alldus",2020-10-20,21532
 "Alldus",2020-10-20,21533
@@ -1021,8 +678,25 @@ McKinsey & Company,2021-05-10,3908173
 "Alldus",2021-03-16,25107
 "Alldus",2021-03-20,25141
 "Alldus",2021-03-24,25169
+"Alldus",2021-03-30,25243
+"Alldus",2021-04-06,25308
+"Alldus",2021-04-10,25357
+"Alldus",2021-04-15,25423
+"Alldus",2021-04-20,25571
+"Alldus",2021-04-24,25650
+"Alldus",2021-04-28,25780
+"Alldus",2021-05-03,25877
+"Alldus",2021-05-07,25962
+"Alldus",2021-05-10,25986
+"Alldus",2021-05-14,26062
+"Alldus",2021-05-21,26272
+"Alldus",2021-05-26,26371
+"Alldus",2021-06-02,26456
+"Alldus",2021-06-09,26597
 "Allianz Global Corporate & Specialty (AGCS)",2021-02-19,81733
 "Allianz Global Corporate & Specialty (AGCS)",2021-03-26,83219
+"allspatial - Geospatial Software and Services",2021-06-02,9
+"allspatial - Geospatial Software and Services",2021-06-09,9
 "Alteryx",2020-10-20,128109
 "Alteryx",2020-10-21,128210
 "Alteryx",2020-10-23,128401
@@ -1064,6 +738,21 @@ McKinsey & Company,2021-05-10,3908173
 "Alteryx",2021-03-16,143704
 "Alteryx",2021-03-20,144328
 "Alteryx",2021-03-24,144703
+"Alteryx",2021-03-30,145437
+"Alteryx",2021-04-06,146027
+"Alteryx",2021-04-10,146502
+"Alteryx",2021-04-15,146971
+"Alteryx",2021-04-20,147436
+"Alteryx",2021-04-24,147871
+"Alteryx",2021-04-28,148216
+"Alteryx",2021-05-03,148711
+"Alteryx",2021-05-07,149163
+"Alteryx",2021-05-10,149400
+"Alteryx",2021-05-14,149891
+"Alteryx",2021-05-21,150744
+"Alteryx",2021-05-26,151328
+"Alteryx",2021-06-02,152210
+"Alteryx",2021-06-09,153369
 "altizem",2021-02-19,6282
 "altizem",2021-03-26,6479
 "ALX Oncology",2021-02-19,1267
@@ -1107,12 +796,38 @@ McKinsey & Company,2021-05-10,3908173
 "Amazon Science",2021-03-16,80491
 "Amazon Science",2021-03-20,82545
 "Amazon Science",2021-03-24,83939
+"Amazon Science",2021-03-30,86868
+"Amazon Science",2021-04-06,90861
+"Amazon Science",2021-04-10,95105
+"Amazon Science",2021-04-15,98799
+"Amazon Science",2021-04-20,103016
+"Amazon Science",2021-04-24,106027
+"Amazon Science",2021-04-28,108869
+"Amazon Science",2021-05-03,112345
+"Amazon Science",2021-05-07,115200
+"Amazon Science",2021-05-10,116857
+"Amazon Science",2021-05-14,119322
+"Amazon Science",2021-05-21,123210
+"Amazon Science",2021-05-26,125928
+"Amazon Science",2021-06-02,129750
+"Amazon Science",2021-06-09,133307
 "AMD",2020-12-27,566682
 "AMD",2021-02-19,597068
 "AMD",2021-03-26,615670
 "Amdocs",2021-02-19,482522
 "Amdocs",2021-03-26,489288
 "American Statistical Association - ASA",2020-10-20,6321
+"Amherst H. Wilder Foundation",2021-04-20,5242
+"Amherst H. Wilder Foundation",2021-04-24,5249
+"Amherst H. Wilder Foundation",2021-04-28,5258
+"Amherst H. Wilder Foundation",2021-05-07,5274
+"Amherst H. Wilder Foundation",2021-05-10,5280
+"Amherst H. Wilder Foundation",2021-05-14,5288
+"Amherst H. Wilder Foundation",2021-05-21,5290
+"Amherst H. Wilder Foundation",2021-05-26,5300
+"Amherst H. Wilder Foundation",2021-05-31,5307
+"Amherst H. Wilder Foundation",2021-06-06,5317
+"Amherst H. Wilder Foundation",2021-06-09,5321
 "Anaconda",2020-10-08,19338
 "Anaconda",2020-10-08,19344
 "Anaconda",2020-10-10,19364
@@ -1177,6 +892,21 @@ McKinsey & Company,2021-05-10,3908173
 "Anaconda Inc.",2021-03-20,21814
 "Anaconda Inc.",2021-03-24,21876
 "Anaconda Inc.",2021-03-26,21908
+"Anaconda Inc.",2021-03-30,21976
+"Anaconda Inc.",2021-04-06,22054
+"Anaconda Inc.",2021-04-10,22114
+"Anaconda Inc.",2021-04-15,22158
+"Anaconda Inc.",2021-04-20,22364
+"Anaconda Inc.",2021-04-24,22449
+"Anaconda Inc.",2021-04-28,22542
+"Anaconda Inc.",2021-05-03,22630
+"Anaconda Inc.",2021-05-07,22672
+"Anaconda Inc.",2021-05-10,22703
+"Anaconda Inc.",2021-05-14,22748
+"Anaconda Inc.",2021-05-21,22873
+"Anaconda Inc.",2021-05-26,22935
+"Anaconda Inc.",2021-06-02,23025
+"Anaconda Inc.",2021-06-09,23130
 "Analytic Partners",2020-10-20,7377
 "Analytic Partners",2020-10-20,7378
 "Analytic Partners",2020-10-21,7378
@@ -1219,10 +949,41 @@ McKinsey & Company,2021-05-10,3908173
 "Analytic Partners",2021-03-16,8186
 "Analytic Partners",2021-03-20,8193
 "Analytic Partners",2021-03-24,8201
+"Analytic Partners",2021-03-30,8212
+"Analytic Partners",2021-04-06,8236
+"Analytic Partners",2021-04-10,8252
+"Analytic Partners",2021-04-15,8267
+"Analytic Partners",2021-04-20,8278
+"Analytic Partners",2021-04-24,8290
+"Analytic Partners",2021-04-28,8307
+"Analytic Partners",2021-05-03,8338
+"Analytic Partners",2021-05-07,8345
+"Analytic Partners",2021-05-10,8356
+"Analytic Partners",2021-05-14,8373
+"Analytic Partners",2021-05-21,8405
+"Analytic Partners",2021-05-26,8420
+"Analytic Partners",2021-06-02,8439
+"Analytic Partners",2021-06-09,8457
 "Anand Rathi Wealth Management",2021-02-19,1612
 "Anand Rathi Wealth Management",2021-03-06,1648
 "Anand Rathi Wealth Management",2021-03-26,1694
-"Andalucía Agrotech DIH",2020-12-15,260
+"Andaluc�a Agrotech DIH",2020-12-15,260
+"Ankara University Computer Society",2021-03-28,101
+"Ankara University Computer Society",2021-03-31,116
+"Ankara University Computer Society",2021-04-06,123
+"Ankara University Computer Society",2021-04-10,126
+"Ankara University Computer Society",2021-04-15,126
+"Ankara University Computer Society",2021-04-20,126
+"Ankara University Computer Society",2021-04-24,127
+"Ankara University Computer Society",2021-04-28,127
+"Ankara University Computer Society",2021-05-07,130
+"Ankara University Computer Society",2021-05-10,129
+"Ankara University Computer Society",2021-05-14,130
+"Ankara University Computer Society",2021-05-21,137
+"Ankara University Computer Society",2021-05-26,140
+"Ankara University Computer Society",2021-05-31,140
+"Ankara University Computer Society",2021-06-06,141
+"Ankara University Computer Society",2021-06-09,141
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-20,10911
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-21,10916
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-23,10941
@@ -1264,8 +1025,24 @@ McKinsey & Company,2021-05-10,3908173
 "Aon Centre for Innovation and Analytics (ACIA)",2021-03-16,11659
 "Aon Centre for Innovation and Analytics (ACIA)",2021-03-20,11684
 "Aon Centre for Innovation and Analytics (ACIA)",2021-03-24,11699
+"Aon Centre for Innovation and Analytics (ACIA)",2021-03-30,11727
+"Aon Centre for Innovation and Analytics (ACIA)",2021-04-06,11754
+"Aon Centre for Innovation and Analytics (ACIA)",2021-04-10,11785
+"Aon Centre for Innovation and Analytics (ACIA)",2021-04-15,11801
+"Aon Centre for Innovation and Analytics (ACIA)",2021-04-20,11825
+"Aon Centre for Innovation and Analytics (ACIA)",2021-04-24,11845
+"Aon Centre for Innovation and Analytics (ACIA)",2021-04-28,11859
+"Aon Centre for Innovation and Analytics (ACIA)",2021-05-03,11885
+"Aon Centre for Innovation and Analytics (ACIA)",2021-05-07,11910
+"Aon Centre for Innovation and Analytics (ACIA)",2021-05-10,11921
+"Aon Centre for Innovation and Analytics (ACIA)",2021-05-14,11949
+"Aon Centre for Innovation and Analytics (ACIA)",2021-05-21,11966
+"Aon Centre for Innovation and Analytics (ACIA)",2021-05-26,11989
+"Aon Centre for Innovation and Analytics (ACIA)",2021-06-02,12014
+"Aon Centre for Innovation and Analytics (ACIA)",2021-06-09,12042
 "Apache Software Foundation",2020-10-14,43937
 "Apache Software Foundation",2020-10-19,44020
+"APIFVET - Associa��o Portuguesa da Ind�stria Farmac�utica de Medicamentos Veterin�rios",2021-05-10,230
 "Appinventiv",2020-10-25,43851
 "Appinventiv",2020-10-28,43862
 "Appinventiv",2020-10-30,43908
@@ -1303,6 +1080,21 @@ McKinsey & Company,2021-05-10,3908173
 "Appinventiv",2021-03-16,47217
 "Appinventiv",2021-03-20,47527
 "Appinventiv",2021-03-24,47828
+"Appinventiv",2021-03-30,48215
+"Appinventiv",2021-04-06,48535
+"Appinventiv",2021-04-10,48919
+"Appinventiv",2021-04-15,49166
+"Appinventiv",2021-04-20,49410
+"Appinventiv",2021-04-24,49524
+"Appinventiv",2021-04-28,49653
+"Appinventiv",2021-05-03,49750
+"Appinventiv",2021-05-07,49965
+"Appinventiv",2021-05-10,50057
+"Appinventiv",2021-05-14,50179
+"Appinventiv",2021-05-21,50415
+"Appinventiv",2021-05-26,50553
+"Appinventiv",2021-06-02,50845
+"Appinventiv",2021-06-09,51044
 "Apple",2021-01-19,13178103
 "Apple",2021-02-19,13375107
 "Apple",2021-03-06,13456489
@@ -1329,6 +1121,22 @@ McKinsey & Company,2021-05-10,3908173
 "Appriss",2021-03-10,5225
 "Appriss",2021-03-13,5233
 "Appriss",2021-03-20,5239
+"Appriss",2021-03-28,5354
+"Appriss",2021-03-31,5357
+"Appriss",2021-04-06,5371
+"Appriss",2021-04-10,5385
+"Appriss",2021-04-15,5403
+"Appriss",2021-04-20,5417
+"Appriss",2021-04-24,5433
+"Appriss",2021-04-28,5443
+"Appriss",2021-05-07,5465
+"Appriss",2021-05-10,5473
+"Appriss",2021-05-14,5485
+"Appriss",2021-05-21,5505
+"Appriss",2021-05-26,5515
+"Appriss",2021-05-31,5524
+"Appriss",2021-06-06,5541
+"Appriss",2021-06-09,5546
 "Appriss Health",2021-01-22,1087
 "Appriss Health",2021-01-25,1089
 "Appriss Health",2021-01-28,1095
@@ -1344,6 +1152,22 @@ McKinsey & Company,2021-05-10,3908173
 "Appriss Health",2021-03-10,1141
 "Appriss Health",2021-03-13,1147
 "Appriss Health",2021-03-20,1157
+"Appriss Health",2021-03-28,1280
+"Appriss Health",2021-03-31,1295
+"Appriss Health",2021-04-06,1317
+"Appriss Health",2021-04-10,1332
+"Appriss Health",2021-04-15,1345
+"Appriss Health",2021-04-20,1358
+"Appriss Health",2021-04-24,1371
+"Appriss Health",2021-04-28,1379
+"Appriss Health",2021-05-07,1412
+"Appriss Health",2021-05-10,1423
+"Appriss Health",2021-05-14,1455
+"Appriss Health",2021-05-21,1480
+"Appriss Health",2021-05-26,1488
+"Appriss Health",2021-05-31,1495
+"Appriss Health",2021-06-06,1506
+"Appriss Health",2021-06-09,1512
 "Appriss Insights",2021-01-22,1808
 "Appriss Insights",2021-01-25,1810
 "Appriss Insights",2021-01-28,1818
@@ -1359,6 +1183,22 @@ McKinsey & Company,2021-05-10,3908173
 "Appriss Insights",2021-03-10,1883
 "Appriss Insights",2021-03-13,1889
 "Appriss Insights",2021-03-20,1907
+"Appriss Insights",2021-03-28,1926
+"Appriss Insights",2021-03-31,1941
+"Appriss Insights",2021-04-06,1962
+"Appriss Insights",2021-04-10,1985
+"Appriss Insights",2021-04-15,1996
+"Appriss Insights",2021-04-20,2020
+"Appriss Insights",2021-04-24,2029
+"Appriss Insights",2021-04-28,2036
+"Appriss Insights",2021-05-07,2051
+"Appriss Insights",2021-05-10,2057
+"Appriss Insights",2021-05-14,2063
+"Appriss Insights",2021-05-21,2081
+"Appriss Insights",2021-05-26,2089
+"Appriss Insights",2021-05-31,2093
+"Appriss Insights",2021-06-06,2097
+"Appriss Insights",2021-06-09,2101
 "Appriss VINE",2021-01-22,899
 "Appriss VINE",2021-01-25,901
 "Appriss VINE",2021-01-28,903
@@ -1374,6 +1214,22 @@ McKinsey & Company,2021-05-10,3908173
 "Appriss VINE",2021-03-10,918
 "Appriss VINE",2021-03-13,921
 "Appriss VINE",2021-03-20,922
+"Appriss VINE",2021-03-28,929
+"Appriss VINE",2021-03-31,930
+"Appriss VINE",2021-04-06,931
+"Appriss VINE",2021-04-10,933
+"Appriss VINE",2021-04-15,937
+"Appriss VINE",2021-04-20,940
+"Appriss VINE",2021-04-24,942
+"Appriss VINE",2021-04-28,943
+"Appriss VINE",2021-05-07,946
+"Appriss VINE",2021-05-10,946
+"Appriss VINE",2021-05-14,947
+"Appriss VINE",2021-05-21,953
+"Appriss VINE",2021-05-26,955
+"Appriss VINE",2021-05-31,956
+"Appriss VINE",2021-06-06,958
+"Appriss VINE",2021-06-09,957
 "Apps IT Limited",2020-12-15,2063
 "Appsilon",2020-10-16,1182
 "Appsilon",2020-10-18,1183
@@ -1386,10 +1242,29 @@ McKinsey & Company,2021-05-10,3908173
 "Appsilon",2021-02-19,1450
 "Appsilon",2021-03-06,1473
 "Appsilon",2021-03-26,1526
+"AQMA ITALIA SPA",2021-05-10,463
+"ArkeUp Academy | Oc�an Indien",2021-06-02,944
+"ArkeUp Academy | Oc�an Indien",2021-06-09,947
 "ARRIVAL",2020-11-07,40971
 "ARRIVAL",2020-11-21,43476
 "ARRIVAL",2021-02-19,56889
 "ARRIVAL",2021-03-26,65393
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-03-28,82
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-03-31,83
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-04-06,83
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-04-10,84
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-04-15,84
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-04-20,84
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-04-24,85
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-04-28,85
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-05-07,88
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-05-10,88
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-05-14,90
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-05-21,92
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-05-26,93
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-05-31,94
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-06-06,94
+"Artificial Intelligence & Robotics Society University of Portsmouth",2021-06-09,95
 "Artificial Intelligence Hong Kong",2021-01-25,1964
 "Artificial Intelligence Hong Kong",2021-01-28,1970
 "Artificial Intelligence Hong Kong",2021-01-31,1968
@@ -1404,6 +1279,38 @@ McKinsey & Company,2021-05-10,3908173
 "Artificial Intelligence Hong Kong",2021-03-10,1972
 "Artificial Intelligence Hong Kong",2021-03-13,1973
 "Artificial Intelligence Hong Kong",2021-03-20,1980
+"Artificial Intelligence Hong Kong",2021-03-28,2000
+"Artificial Intelligence Hong Kong",2021-03-31,2000
+"Artificial Intelligence Hong Kong",2021-04-06,2002
+"Artificial Intelligence Hong Kong",2021-04-10,2004
+"Artificial Intelligence Hong Kong",2021-04-15,2005
+"Artificial Intelligence Hong Kong",2021-04-20,2006
+"Artificial Intelligence Hong Kong",2021-04-24,2007
+"Artificial Intelligence Hong Kong",2021-04-28,2007
+"Artificial Intelligence Hong Kong",2021-05-07,2011
+"Artificial Intelligence Hong Kong",2021-05-10,2012
+"Artificial Intelligence Hong Kong",2021-05-14,2016
+"Artificial Intelligence Hong Kong",2021-05-21,2015
+"Artificial Intelligence Hong Kong",2021-05-26,2015
+"Artificial Intelligence Hong Kong",2021-05-31,2015
+"Artificial Intelligence Hong Kong",2021-06-06,2015
+"Artificial Intelligence Hong Kong",2021-06-09,2018
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-28,76
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-31,76
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-06,78
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-10,79
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-15,82
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-20,84
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-24,86
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-28,89
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-05-07,93
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-05-10,93
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-05-14,95
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-05-21,102
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-05-26,105
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-05-31,108
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-06-06,112
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2021-06-09,117
 "Ascential",2020-10-16,37560
 "Ascential",2020-10-20,37592
 "Ascential",2020-10-21,37609
@@ -1429,6 +1336,22 @@ McKinsey & Company,2021-05-10,3908173
 "Ascential",2021-03-16,39945
 "Ascential",2021-03-20,40045
 "Ascential",2021-03-24,40100
+"Ascential",2021-03-30,40207
+"Ascential",2021-04-06,40272
+"Ascential",2021-04-10,40365
+"Ascential",2021-04-15,40466
+"Ascential",2021-04-20,40599
+"Ascential",2021-04-24,40685
+"Ascential",2021-04-28,40756
+"Ascential",2021-05-03,40858
+"Ascential",2021-05-07,40928
+"Ascential",2021-05-10,40971
+"Ascential",2021-05-14,41046
+"Ascential",2021-05-21,41136
+"Ascential",2021-05-26,41206
+"Ascential",2021-06-02,41335
+"Ascential",2021-06-09,41438
+"Association of Test Publishers (ATP)",2021-05-10,1178
 "Asystec Limited",2020-10-20,1954
 "Asystec Limited",2020-10-21,1954
 "Asystec Limited",2020-10-23,1955
@@ -1469,6 +1392,21 @@ McKinsey & Company,2021-05-10,3908173
 "Asystec Limited",2021-03-16,2139
 "Asystec Limited",2021-03-20,2150
 "Asystec Limited",2021-03-24,2166
+"Asystec Limited",2021-03-30,2184
+"Asystec Limited",2021-04-06,2196
+"Asystec Limited",2021-04-10,2228
+"Asystec Limited",2021-04-15,2243
+"Asystec Limited",2021-04-20,2252
+"Asystec Limited",2021-04-24,2254
+"Asystec Limited",2021-04-28,2257
+"Asystec Limited",2021-05-03,2268
+"Asystec Limited",2021-05-07,2278
+"Asystec Limited",2021-05-10,2279
+"Asystec Limited",2021-05-14,2289
+"Asystec Limited",2021-05-21,2301
+"Asystec Limited",2021-05-26,2305
+"Asystec Limited",2021-06-02,2305
+"Asystec Limited",2021-06-09,2309
 "ATRIBS",2021-01-22,4698
 "ATRIBS",2021-01-25,4705
 "ATRIBS",2021-01-28,4712
@@ -1484,6 +1422,38 @@ McKinsey & Company,2021-05-10,3908173
 "ATRIBS",2021-03-10,4791
 "ATRIBS",2021-03-13,4798
 "ATRIBS",2021-03-20,4844
+"ATRIBS",2021-03-28,4870
+"ATRIBS",2021-03-31,4879
+"ATRIBS",2021-04-06,4888
+"ATRIBS",2021-04-10,4890
+"ATRIBS",2021-04-15,4895
+"ATRIBS",2021-04-20,4901
+"ATRIBS",2021-04-24,4904
+"ATRIBS",2021-04-28,4913
+"ATRIBS",2021-05-07,4930
+"ATRIBS",2021-05-10,4933
+"ATRIBS",2021-05-14,4936
+"ATRIBS",2021-05-21,4942
+"ATRIBS",2021-05-26,4953
+"ATRIBS",2021-05-31,4962
+"ATRIBS",2021-06-06,4974
+"ATRIBS",2021-06-09,4983
+"AUB Computer Science Students Society",2021-03-28,105
+"AUB Computer Science Students Society",2021-03-31,105
+"AUB Computer Science Students Society",2021-04-06,105
+"AUB Computer Science Students Society",2021-04-10,105
+"AUB Computer Science Students Society",2021-04-15,105
+"AUB Computer Science Students Society",2021-04-20,105
+"AUB Computer Science Students Society",2021-04-24,105
+"AUB Computer Science Students Society",2021-04-28,105
+"AUB Computer Science Students Society",2021-05-07,106
+"AUB Computer Science Students Society",2021-05-10,106
+"AUB Computer Science Students Society",2021-05-14,106
+"AUB Computer Science Students Society",2021-05-21,106
+"AUB Computer Science Students Society",2021-05-26,106
+"AUB Computer Science Students Society",2021-05-31,106
+"AUB Computer Science Students Society",2021-06-06,106
+"AUB Computer Science Students Society",2021-06-09,106
 "AWS Databases",2020-10-15,106905
 "AWS Databases",2020-10-25,108191
 "AWS Databases",2020-10-28,108525
@@ -1522,6 +1492,24 @@ McKinsey & Company,2021-05-10,3908173
 "AWS Databases",2021-03-16,119099
 "AWS Databases",2021-03-20,119402
 "AWS Databases",2021-03-24,119651
+"AWS Databases",2021-03-30,120101
+"AWS Databases",2021-04-06,120447
+"AWS Databases",2021-04-10,120878
+"AWS Databases",2021-04-15,121368
+"AWS Databases",2021-04-20,121866
+"AWS Databases",2021-04-24,122236
+"AWS Databases",2021-04-28,122599
+"AWS Databases",2021-05-03,123144
+"AWS Databases",2021-05-07,123513
+"AWS Databases",2021-05-10,123800
+"AWS Databases",2021-05-14,124203
+"AWS Databases",2021-05-21,124997
+"AWS Databases & Analytics",2021-05-26,125721
+"AWS Databases & Analytics",2021-06-02,126831
+"AWS Databases & Analytics",2021-06-09,127911
+"Ayiti Analytics",2021-06-02,727
+"Ayiti Analytics",2021-06-09,728
+"B&I Capital",2021-05-10,241
 "Banach Technology Ltd",2020-10-16,512
 "Banach Technology Ltd",2020-10-20,512
 "Banach Technology Ltd",2020-10-21,511
@@ -1542,6 +1530,7 @@ McKinsey & Company,2021-05-10,3908173
 "Bank of America Merrill Lynch",2020-10-16,313400
 "Bank of America Merrill Lynch",2020-10-28,314040
 "Bank of America Merrill Lynch",2020-11-21,315194
+"Bantu Group",2021-05-10,2268
 "Baruch Data Science & Analytics Society",2021-01-31,251
 "Baruch Data Science & Analytics Society",2021-02-03,250
 "Baruch Data Science & Analytics Society",2021-02-07,250
@@ -1554,6 +1543,23 @@ McKinsey & Company,2021-05-10,3908173
 "Baruch Data Science & Analytics Society",2021-03-10,258
 "Baruch Data Science & Analytics Society",2021-03-13,258
 "Baruch Data Science & Analytics Society",2021-03-20,258
+"Baruch Data Science & Analytics Society",2021-03-28,258
+"Baruch Data Science & Analytics Society",2021-03-31,258
+"Baruch Data Science & Analytics Society",2021-04-06,258
+"Baruch Data Science & Analytics Society",2021-04-10,257
+"Baruch Data Science & Analytics Society",2021-04-15,259
+"Baruch Data Science & Analytics Society",2021-04-20,259
+"Baruch Data Science & Analytics Society",2021-04-24,261
+"Baruch Data Science & Analytics Society",2021-04-28,261
+"Baruch Data Science & Analytics Society",2021-05-07,263
+"Baruch Data Science & Analytics Society",2021-05-10,264
+"Baruch Data Science & Analytics Society",2021-05-14,264
+"Baruch Data Science & Analytics Society",2021-05-21,263
+"Baruch Data Science & Analytics Society",2021-05-26,263
+"Baruch Data Science & Analytics Society",2021-05-31,264
+"Baruch Data Science & Analytics Society",2021-06-06,266
+"Baruch Data Science & Analytics Society",2021-06-09,266
+"Basebuilder",2021-05-10,554
 "BASF",2021-02-19,1507763
 "BASF",2021-03-26,1534482
 "Bayanat for Mapping & Surveying Services LLC",2021-01-22,7382
@@ -1571,6 +1577,22 @@ McKinsey & Company,2021-05-10,3908173
 "Bayanat for Mapping & Surveying Services LLC",2021-03-10,7433
 "Bayanat for Mapping & Surveying Services LLC",2021-03-13,7436
 "Bayanat for Mapping & Surveying Services LLC",2021-03-20,7448
+"Bayanat for Mapping & Surveying Services LLC",2021-03-28,7469
+"Bayanat for Mapping & Surveying Services LLC",2021-03-31,7473
+"Bayanat for Mapping & Surveying Services LLC",2021-04-06,7474
+"Bayanat for Mapping & Surveying Services LLC",2021-04-10,7482
+"Bayanat for Mapping & Surveying Services LLC",2021-04-15,7503
+"Bayanat for Mapping & Surveying Services LLC",2021-04-20,7515
+"Bayanat for Mapping & Surveying Services LLC",2021-04-24,7523
+"Bayanat for Mapping & Surveying Services LLC",2021-04-28,7970
+"Bayanat for Mapping & Surveying Services LLC",2021-05-07,9142
+"Bayanat for Mapping & Surveying Services LLC",2021-05-10,9270
+"Bayanat for Mapping & Surveying Services LLC",2021-05-14,9355
+"Bayanat for Mapping & Surveying Services LLC",2021-05-21,9502
+"Bayanat for Mapping & Surveying Services LLC",2021-05-26,9593
+"Bayanat for Mapping & Surveying Services LLC",2021-05-31,9914
+"Bayanat for Mapping & Surveying Services LLC",2021-06-06,9970
+"Bayanat for Mapping & Surveying Services LLC",2021-06-09,10012
 "BBC News",2020-10-16,7126402
 "BBC News",2020-10-20,7139316
 "BBC News",2020-10-22,7150878
@@ -1617,7 +1639,41 @@ McKinsey & Company,2021-05-10,3908173
 "BCG Digital Ventures",2021-03-16,110777
 "BCG Digital Ventures",2021-03-20,111131
 "BCG Digital Ventures",2021-03-24,111403
+"BCG Digital Ventures",2021-03-30,111818
+"BCG Digital Ventures",2021-04-06,112188
+"BCG Digital Ventures",2021-04-10,112527
+"BCG Digital Ventures",2021-04-15,112799
+"BCG Digital Ventures",2021-04-20,113102
+"BCG Digital Ventures",2021-04-24,113367
+"BCG Digital Ventures",2021-04-28,113586
+"BCG Digital Ventures",2021-05-03,113830
+"BCG Digital Ventures",2021-05-07,114123
+"BCG Digital Ventures",2021-05-10,114275
+"BCG Digital Ventures",2021-05-14,114539
+"BCG Digital Ventures",2021-05-21,114933
+"BCG Digital Ventures",2021-05-26,115176
+"BCG Digital Ventures",2021-06-02,115598
+"BCG Digital Ventures",2021-06-09,115997
+"Be-cause Integrated Communications",2021-05-10,247
 "Beacon Biosignals",2021-03-26,282
+"Beacon IT Solutions Abu Dhabi",2021-03-28,60
+"Beacon IT Solutions Abu Dhabi",2021-03-31,60
+"Beacon IT Solutions Abu Dhabi",2021-04-06,61
+"Beacon IT Solutions Abu Dhabi",2021-04-10,63
+"Beacon IT Solutions Abu Dhabi",2021-04-15,64
+"Beacon IT Solutions Abu Dhabi",2021-04-20,65
+"Beacon IT Solutions Abu Dhabi",2021-04-24,66
+"Beacon IT Solutions Abu Dhabi",2021-04-28,66
+"Beacon IT Solutions Abu Dhabi",2021-05-07,66
+"Beacon IT Solutions Abu Dhabi",2021-05-10,66
+"Beacon IT Solutions Abu Dhabi",2021-05-14,68
+"Beacon IT Solutions Abu Dhabi",2021-05-21,69
+"Beacon IT Solutions Abu Dhabi",2021-05-26,69
+"Beacon IT Solutions Abu Dhabi",2021-05-31,70
+"Beacon IT Solutions Abu Dhabi",2021-06-06,71
+"Beacon IT Solutions Abu Dhabi",2021-06-09,73
+"Benin ThinkLab",2021-06-02,56
+"Benin ThinkLab",2021-06-09,56
 "Berkman Klein Center for Internet & Society at Harvard University",2020-10-16,6256
 "Berkman Klein Center for Internet & Society at Harvard University",2020-10-20,6280
 "Berkman Klein Center for Internet & Society at Harvard University",2020-10-21,6288
@@ -1631,2549 +1687,21 @@ McKinsey & Company,2021-05-10,3908173
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-08,6586
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-15,6631
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-27,6685
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-11-30,258
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-12-08,273
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-12-15,274
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2020-12-27,273
-"Betriebswirtschaftslehre an der Heinrich Heine Universität Düsseldorf",2021-01-19,276
-"Bill & Melinda Gates Foundation",2020-10-25,833834
-"Bill & Melinda Gates Foundation",2020-10-28,834944
-"Bill & Melinda Gates Foundation",2020-10-30,836021
-"Bill & Melinda Gates Foundation",2020-11-03,837153
-"Bill & Melinda Gates Foundation",2020-11-06,838193
-"Bill & Melinda Gates Foundation",2020-11-10,839530
-"Bill & Melinda Gates Foundation",2020-11-14,841214
-"Bill & Melinda Gates Foundation",2020-11-18,842788
-"Bill & Melinda Gates Foundation",2020-11-23,847871
-"Bill & Melinda Gates Foundation",2020-11-28,850290
-"Bill & Melinda Gates Foundation",2020-12-03,853166
-"Bill & Melinda Gates Foundation",2020-12-05,854055
-"Bill & Melinda Gates Foundation",2020-12-12,857381
-"Bill & Melinda Gates Foundation",2020-12-15,859456
-"Bill & Melinda Gates Foundation",2020-12-20,863054
-"Bill & Melinda Gates Foundation",2020-12-25,866128
-"Bill & Melinda Gates Foundation",2020-12-29,868432
-"Bill & Melinda Gates Foundation",2021-01-03,870393
-"Bill & Melinda Gates Foundation",2021-01-06,871594
-"Bill & Melinda Gates Foundation",2021-01-11,873277
-"Bill & Melinda Gates Foundation",2021-01-15,875139
-"Bill & Melinda Gates Foundation",2021-01-19,876586
-"Bill & Melinda Gates Foundation",2021-01-25,879275
-"Bill & Melinda Gates Foundation",2021-01-30,881517
-"Bill & Melinda Gates Foundation",2021-01-31,881742
-"Bill & Melinda Gates Foundation",2021-02-03,883346
-"Bill & Melinda Gates Foundation",2021-02-07,885527
-"Bill & Melinda Gates Foundation",2021-02-12,888022
-"Bill & Melinda Gates Foundation",2021-02-17,890066
-"Bill & Melinda Gates Foundation",2021-02-21,892434
-"Bill & Melinda Gates Foundation",2021-02-25,894416
-"Bill & Melinda Gates Foundation",2021-03-01,896161
-"Bill & Melinda Gates Foundation",2021-03-06,898458
-"Bill & Melinda Gates Foundation",2021-03-10,900181
-"Bill & Melinda Gates Foundation",2021-03-16,902303
-"Bill & Melinda Gates Foundation",2021-03-20,904214
-"Bill & Melinda Gates Foundation",2021-03-24,905482
-"Black Girls CODE",2020-10-06,19816
-"Black Girls CODE",2020-10-13,19922
-"Black Girls CODE",2020-10-16,19981
-"Black Girls CODE",2020-10-20,20038
-"Black Girls CODE",2020-10-21,20054
-"Black Girls CODE",2020-10-23,20094
-"Black Girls CODE",2020-10-25,20130
-"Black Girls CODE",2020-10-25,20145
-"Black Girls CODE",2020-10-28,20178
-"Black Girls CODE",2020-10-30,20219
-"Black Girls CODE",2020-11-03,20260
-"Black Girls CODE",2020-11-06,20311
-"Black Girls CODE",2020-11-10,20352
-"Black Girls CODE",2020-11-14,20384
-"Black Girls CODE",2020-11-18,20449
-"Black Girls CODE",2020-11-23,20609
-"Black Girls CODE",2020-11-28,20677
-"Black Girls CODE",2020-12-03,20749
-"Black Girls CODE",2020-12-05,20800
-"Black Girls CODE",2020-12-12,20919
-"Black Girls CODE",2020-12-15,20956
-"Black Girls CODE",2020-12-20,21039
-"Black Girls CODE",2020-12-25,21112
-"Black Girls CODE",2020-12-29,21159
-"Black Girls CODE",2021-01-03,21219
-"Black Girls CODE",2021-01-06,21264
-"Black Girls CODE",2021-01-11,21325
-"Black Girls CODE",2021-01-15,21439
-"Black Girls CODE",2021-01-19,21514
-"Black Girls CODE",2021-01-25,21616
-"Black Girls CODE",2021-01-30,21702
-"Black Girls CODE",2021-01-31,21703
-"Black Girls CODE",2021-02-03,21764
-"Black Girls CODE",2021-02-07,21894
-"Black Girls CODE",2021-02-12,22015
-"Black Girls CODE",2021-02-17,22076
-"Black Girls CODE",2021-02-21,22140
-"Black Girls CODE",2021-02-25,22213
-"Black Girls CODE",2021-03-01,22295
-"Black Girls CODE",2021-03-06,22392
-"Black Girls CODE",2021-03-10,22486
-"Black Girls CODE",2021-03-16,22569
-"Black Girls CODE",2021-03-20,22637
-"Black Girls CODE",2021-03-24,22718
-"BlewMinds - Believe. Be. Beyond",2020-10-16,15979
-"BlewMinds - Believe. Be. Beyond",2020-10-21,16118
-"BlewMinds - Believe. Be. Beyond",2020-10-24,16168
-"BlewMinds - Believe. Be. Beyond",2020-10-28,16285
-"BlewMinds - Believe. Be. Beyond",2020-11-07,16620
-"BlewMinds - Believe. Be. Beyond",2020-11-21,17210
-"Bloomberg Philanthropies",2020-10-25,36138
-"Bloomberg Philanthropies",2020-10-28,36215
-"Bloomberg Philanthropies",2020-10-30,36491
-"Bloomberg Philanthropies",2020-11-03,36705
-"Bloomberg Philanthropies",2020-11-06,36914
-"Bloomberg Philanthropies",2020-11-10,37102
-"Bloomberg Philanthropies",2020-11-14,37307
-"Bloomberg Philanthropies",2020-11-18,37446
-"Bloomberg Philanthropies",2020-11-23,37661
-"Bloomberg Philanthropies",2020-11-28,37757
-"Bloomberg Philanthropies",2020-12-03,37882
-"Bloomberg Philanthropies",2020-12-05,37960
-"Bloomberg Philanthropies",2020-12-12,38155
-"Bloomberg Philanthropies",2020-12-15,38236
-"Bloomberg Philanthropies",2020-12-20,38386
-"Bloomberg Philanthropies",2020-12-25,38472
-"Bloomberg Philanthropies",2020-12-29,38570
-"Bloomberg Philanthropies",2021-01-03,38660
-"Bloomberg Philanthropies",2021-01-06,38756
-"Bloomberg Philanthropies",2021-01-11,38853
-"Bloomberg Philanthropies",2021-01-15,39046
-"Bloomberg Philanthropies",2021-01-19,39154
-"Bloomberg Philanthropies",2021-01-25,39317
-"Bloomberg Philanthropies",2021-01-30,39464
-"Bloomberg Philanthropies",2021-01-31,39477
-"Bloomberg Philanthropies",2021-02-03,39551
-"Bloomberg Philanthropies",2021-02-07,39725
-"Bloomberg Philanthropies",2021-02-12,39917
-"Bloomberg Philanthropies",2021-02-17,40037
-"Bloomberg Philanthropies",2021-02-21,40136
-"Bloomberg Philanthropies",2021-02-25,40238
-"Bloomberg Philanthropies",2021-03-01,40336
-"Bloomberg Philanthropies",2021-03-06,40643
-"Bloomberg Philanthropies",2021-03-10,40776
-"Bloomberg Philanthropies",2021-03-16,41024
-"Bloomberg Philanthropies",2021-03-20,41311
-"Bloomberg Philanthropies",2021-03-24,41458
-"Blue Cross NC",2021-02-19,29214
-"Blue Cross NC",2021-03-06,29391
-"Blue Cross NC",2021-03-26,29587
-"Booster Box",2020-10-16,2319
-"Booster Box",2020-10-18,2320
-"Booster Box",2020-10-21,2323
-"Booster Box",2020-10-22,2324
-"Booster Box",2020-11-07,2345
-"Booster Box",2020-11-21,2417
-"Booster Box",2020-12-15,2561
-"Bosch",2020-12-27,782940
-"Bosch",2021-02-19,801529
-"Bosch",2021-03-26,813166
-"Boston Consulting Group (BCG)",2020-10-25,2432803
-"Boston Consulting Group (BCG)",2020-10-28,2437885
-"Boston Consulting Group (BCG)",2020-10-30,2442699
-"Boston Consulting Group (BCG)",2020-11-03,2448019
-"Boston Consulting Group (BCG)",2020-11-06,2453224
-"Boston Consulting Group (BCG)",2020-11-10,2459389
-"Boston Consulting Group (BCG)",2020-11-14,2465605
-"Boston Consulting Group (BCG)",2020-11-18,2472326
-"Boston Consulting Group (BCG)",2020-11-23,2484503
-"Boston Consulting Group (BCG)",2020-11-28,2490532
-"Boston Consulting Group (BCG)",2020-12-03,2499087
-"Boston Consulting Group (BCG)",2020-12-05,2503969
-"Boston Consulting Group (BCG)",2020-12-12,2515945
-"Boston Consulting Group (BCG)",2020-12-15,2521289
-"Boston Consulting Group (BCG)",2020-12-20,2529869
-"Boston Consulting Group (BCG)",2020-12-25,2538602
-"Boston Consulting Group (BCG)",2020-12-29,2545014
-"Boston Consulting Group (BCG)",2021-01-03,2551369
-"Boston Consulting Group (BCG)",2021-01-06,2557337
-"Boston Consulting Group (BCG)",2021-01-11,2565556
-"Boston Consulting Group (BCG)",2021-01-15,2573934
-"Boston Consulting Group (BCG)",2021-01-19,2578923
-"Boston Consulting Group (BCG)",2021-01-25,2586934
-"Boston Consulting Group (BCG)",2021-01-30,2592654
-"Boston Consulting Group (BCG)",2021-01-31,2593277
-"Boston Consulting Group (BCG)",2021-02-03,2597364
-"Boston Consulting Group (BCG)",2021-02-07,2603941
-"Boston Consulting Group (BCG)",2021-02-12,2612463
-"Boston Consulting Group (BCG)",2021-02-17,2619234
-"Boston Consulting Group (BCG)",2021-02-21,2627869
-"Boston Consulting Group (BCG)",2021-02-25,2636330
-"Boston Consulting Group (BCG)",2021-03-01,2643674
-"Boston Consulting Group (BCG)",2021-03-06,2653581
-"Boston Consulting Group (BCG)",2021-03-10,2660033
-"Boston Consulting Group (BCG)",2021-03-16,2666430
-"Boston Consulting Group (BCG)",2021-03-20,2672013
-"Boston Consulting Group (BCG)",2021-03-24,2675580
-"Boxfish",2020-10-20,448
-"Boxfish",2020-10-21,449
-"Boxfish",2020-10-23,449
-"Boxfish",2020-10-25,449
-"Boxfish",2020-10-28,449
-"Boxfish",2020-10-30,449
-"Boxfish",2020-11-03,449
-"Boxfish",2020-11-06,449
-"Boxfish",2020-11-10,449
-"Boxfish",2020-11-14,449
-"Boxfish",2020-11-18,449
-"Boxfish",2020-11-23,450
-"Boxfish",2020-11-28,450
-"Boxfish",2020-12-03,451
-"Boxfish",2020-12-05,451
-"Boxfish",2020-12-12,451
-"Boxfish",2020-12-15,451
-"Boxfish",2020-12-20,450
-"Boxfish",2020-12-25,450
-"Boxfish",2020-12-29,450
-"Boxfish",2021-01-03,450
-"Boxfish",2021-01-06,450
-"Boxfish",2021-01-11,450
-"Boxfish",2021-01-15,450
-"Boxfish",2021-01-19,450
-"Boxfish",2021-01-25,450
-"Boxfish",2021-01-30,450
-"Boxfish",2021-01-31,450
-"Boxfish",2021-02-03,450
-"Boxfish",2021-02-07,450
-"Boxfish",2021-02-12,450
-"Boxfish",2021-02-17,450
-"Boxfish",2021-02-21,450
-"Boxfish",2021-02-25,450
-"Boxfish",2021-03-01,450
-"Boxfish",2021-03-06,452
-"Boxfish",2021-03-10,452
-"Boxfish",2021-03-16,452
-"Boxfish",2021-03-20,452
-"Boxfish",2021-03-24,453
-"Brand Recruitment",2020-10-16,12836
-"Brand Recruitment",2020-10-20,12846
-"Brand Recruitment",2020-10-22,12875
-"Brand Recruitment",2020-10-28,12906
-"Brand Recruitment",2020-11-07,12951
-"Brand Recruitment",2020-11-12,12975
-"Brand Recruitment",2020-11-21,13014
-"Brand Recruitment",2021-02-19,13423
-"Brand Recruitment",2021-03-26,13536
-"Brightwater",2020-10-13,64355
-"Brightwater",2020-10-16,64510
-"Brightwater",2020-10-25,64938
-"Brightwater",2020-10-28,65060
-"Brightwater",2020-10-30,65263
-"Brightwater",2020-11-03,65472
-"Brightwater",2020-11-06,65697
-"Brightwater",2020-11-10,65966
-"Brightwater",2020-11-14,66254
-"Brightwater",2020-11-18,66466
-"Brightwater",2020-11-21,66593
-"Brightwater",2020-11-23,66713
-"Brightwater",2020-11-28,66876
-"Brightwater",2020-12-03,67057
-"Brightwater",2020-12-05,67126
-"Brightwater",2020-12-12,67359
-"Brightwater",2020-12-15,67437
-"Brightwater",2020-12-20,67586
-"Brightwater",2020-12-25,67683
-"Brightwater",2020-12-27,67705
-"Brightwater",2020-12-29,67756
-"Brightwater",2021-01-03,67865
-"Brightwater",2021-01-06,68015
-"Brightwater",2021-01-11,68221
-"Brightwater",2021-01-15,68415
-"Brightwater",2021-01-19,68541
-"Brightwater",2021-01-25,68834
-"Brightwater",2021-01-30,69047
-"Brightwater",2021-01-31,69089
-"Brightwater",2021-02-03,69288
-"Brightwater",2021-02-07,69642
-"Brightwater",2021-02-12,69980
-"Brightwater",2021-02-17,70240
-"Brightwater",2021-02-19,70426
-"Brightwater",2021-02-21,70493
-"Brightwater",2021-02-25,70774
-"Brightwater",2021-03-01,70946
-"Brightwater",2021-03-06,71296
-"Brightwater",2021-03-10,71514
-"Brightwater",2021-03-16,71771
-"Brightwater",2021-03-20,72060
-"Brightwater",2021-03-24,72296
-"Brightwater",2021-03-26,72466
-"Brinks Inc",2021-03-06,80797
-"Brinks Inc",2021-03-26,81962
-"Brink<U+0092>s Inc",2021-02-19,80008
-"Business International",2020-10-16,4580
-"Business International",2020-10-18,4583
-"Business International",2020-10-21,4588
-"Business International",2020-10-22,4592
-"Business International",2020-11-07,4647
-"Business International",2020-11-21,4739
-"Business International",2020-12-15,5267
-"Business Science",2020-10-16,7897
-"Business Science",2020-10-20,7907
-"Business Science",2020-10-28,7938
-"Business Science",2020-11-07,7982
-"Business Science",2020-11-21,8052
-"Business Science",2020-11-30,8100
-"Business Science",2020-12-08,8173
-"Business Science",2020-12-15,8203
-"Business Science",2020-12-27,8272
-"Business Science",2021-01-19,8395
-"Business Science",2021-02-19,8606
-"Business Science",2021-03-06,8698
-"Business Science",2021-03-26,8825
-"Canvas Intelligence",2020-10-20,7663
-"Canvas Intelligence",2020-10-21,7680
-"Canvas Intelligence",2020-10-23,7693
-"Canvas Intelligence",2020-10-25,7720
-"Canvas Intelligence",2020-10-25,7739
-"Canvas Intelligence",2020-10-28,7824
-"Canvas Intelligence",2020-10-30,7839
-"Canvas Intelligence",2020-11-03,7837
-"Canvas Intelligence",2020-11-06,7836
-"Canvas Intelligence",2020-11-10,7833
-"Canvas Intelligence",2020-11-14,7831
-"Canvas Intelligence",2020-11-18,7831
-"Canvas Intelligence",2020-11-23,7830
-"Canvas Intelligence",2020-11-28,7827
-"Canvas Intelligence",2020-12-03,7825
-"Canvas Intelligence",2020-12-05,7824
-"Canvas Intelligence",2020-12-12,7922
-"Canvas Intelligence",2020-12-15,7944
-"Canvas Intelligence",2020-12-20,7959
-"Canvas Intelligence",2020-12-25,7977
-"Canvas Intelligence",2020-12-29,8015
-"Canvas Intelligence",2021-01-03,8052
-"Canvas Intelligence",2021-01-06,8093
-"Canvas Intelligence",2021-01-11,8116
-"Canvas Intelligence",2021-01-15,8145
-"Canvas Intelligence",2021-01-19,8181
-"Canvas Intelligence",2021-01-25,8235
-"Canvas Intelligence",2021-01-30,8289
-"Canvas Intelligence",2021-01-31,8291
-"Canvas Intelligence",2021-02-03,8310
-"Canvas Intelligence",2021-02-07,8332
-"Canvas Intelligence",2021-02-12,8370
-"Canvas Intelligence",2021-02-17,8399
-"Canvas Intelligence",2021-02-21,8419
-"Canvas Intelligence",2021-02-25,8435
-"Canvas Intelligence",2021-03-01,8453
-"Canvas Intelligence",2021-03-06,8484
-"Canvas Intelligence",2021-03-10,8513
-"Canvas Intelligence",2021-03-16,8526
-"Canvas Intelligence",2021-03-20,8543
-"Canvas Intelligence",2021-03-24,8562
-"Capital Quant Agency",2021-01-22,356
-"Capital Quant Agency",2021-01-25,363
-"Capital Quant Agency",2021-01-28,365
-"Capital Quant Agency",2021-01-31,366
-"Capital Quant Agency",2021-02-03,368
-"Capital Quant Agency",2021-02-07,395
-"Capital Quant Agency",2021-02-12,427
-"Capital Quant Agency",2021-02-16,439
-"Capital Quant Agency",2021-02-21,453
-"Capital Quant Agency",2021-02-25,458
-"Capital Quant Agency",2021-03-01,466
-"Capital Quant Agency",2021-03-06,507
-"Capital Quant Agency",2021-03-10,517
-"Capital Quant Agency",2021-03-13,523
-"Capital Quant Agency",2021-03-20,536
-"Careers Service University of Oxford",2021-02-19,511
-"Careers Service University of Oxford",2021-03-06,554
-"CCS Global Tech",2021-02-19,9389
-"CCS Global Tech",2021-03-26,9988
-"Cegedim e-business",2020-10-16,1961
-"Cegedim e-business",2020-10-21,1969
-"Cegedim e-business",2020-10-24,1973
-"Cegedim e-business",2020-10-28,1980
-"Central Bank of Ireland",2020-10-20,50660
-"Changing Health",2021-01-19,1737
-"ChargePoint",2021-02-19,38483
-"ChargePoint",2021-03-06,39624
-"ChargePoint",2021-03-26,40976
-"Chasing Returns",2020-12-27,455
-"Chasing Returns",2021-02-19,467
-"Chasing Returns",2021-03-26,470
-"cienciadedatos.net",2020-11-07,572
-"cienciadedatos.net",2020-11-21,718
-"cienciadedatos.net",2020-11-30,800
-"cienciadedatos.net",2020-12-08,919
-"CivicDataLab",2020-10-25,1061
-"CivicDataLab",2020-10-28,1063
-"CivicDataLab",2020-10-30,1063
-"CivicDataLab",2020-11-03,1065
-"CivicDataLab",2020-11-06,1066
-"CivicDataLab",2020-11-10,1069
-"CivicDataLab",2020-11-14,1070
-"CivicDataLab",2020-11-18,1070
-"CivicDataLab",2020-11-23,1093
-"CivicDataLab",2020-11-28,1115
-"CivicDataLab",2020-12-03,1123
-"CivicDataLab",2020-12-05,1127
-"CivicDataLab",2020-12-12,1139
-"CivicDataLab",2020-12-15,1140
-"CivicDataLab",2020-12-20,1144
-"CivicDataLab",2020-12-25,1144
-"CivicDataLab",2020-12-29,1146
-"CivicDataLab",2021-01-03,1155
-"CivicDataLab",2021-01-06,1158
-"CivicDataLab",2021-01-11,1176
-"CivicDataLab",2021-01-15,1192
-"CivicDataLab",2021-01-19,1196
-"CivicDataLab",2021-01-25,1205
-"CivicDataLab",2021-01-30,1209
-"CivicDataLab",2021-01-31,1210
-"CivicDataLab",2021-02-03,1213
-"CivicDataLab",2021-02-07,1223
-"CivicDataLab",2021-02-12,1252
-"CivicDataLab",2021-02-17,1269
-"CivicDataLab",2021-02-21,1275
-"CivicDataLab",2021-02-25,1288
-"CivicDataLab",2021-03-01,1318
-"CivicDataLab",2021-03-06,1352
-"CivicDataLab",2021-03-10,1383
-"CivicDataLab",2021-03-16,1409
-"CivicDataLab",2021-03-20,1481
-"CivicDataLab",2021-03-24,1516
-"Clearstream",2020-10-16,17391
-"Clearstream",2020-10-18,17403
-"Clearstream",2020-10-21,17436
-"Clearstream",2020-10-24,17479
-"Clearstream",2020-10-28,17522
-"Clearstream",2020-11-07,17625
-"Clearstream",2020-11-21,17801
-"CleverTap",2021-01-19,18487
-"CleverTap",2021-02-19,19114
-"CleverTap",2021-03-06,19366
-"CleverTap",2021-03-26,20130
-"ClusterAI",2020-10-20,295
-"ClusterAI",2020-10-21,295
-"ClusterAI",2020-10-23,295
-"ClusterAI",2020-10-25,295
-"ClusterAI",2020-10-28,300
-"ClusterAI",2020-10-30,304
-"ClusterAI",2020-11-03,310
-"ClusterAI",2020-11-06,316
-"ClusterAI",2020-11-10,329
-"ClusterAI",2020-11-14,332
-"ClusterAI",2020-11-18,340
-"ClusterAI",2020-11-23,353
-"ClusterAI",2020-11-28,378
-"ClusterAI",2020-12-03,394
-"ClusterAI",2020-12-05,396
-"ClusterAI",2020-12-12,402
-"ClusterAI",2020-12-15,402
-"ClusterAI",2020-12-20,404
-"ClusterAI",2020-12-25,405
-"ClusterAI",2020-12-29,406
-"ClusterAI",2021-01-03,406
-"ClusterAI",2021-01-06,406
-"ClusterAI",2021-01-11,406
-"ClusterAI",2021-01-15,407
-"ClusterAI",2021-01-19,407
-"ClusterAI",2021-01-25,407
-"ClusterAI",2021-01-30,407
-"ClusterAI",2021-01-31,407
-"ClusterAI",2021-02-03,407
-"ClusterAI",2021-02-07,408
-"ClusterAI",2021-02-12,410
-"ClusterAI",2021-02-17,410
-"ClusterAI",2021-02-21,410
-"ClusterAI",2021-02-25,414
-"ClusterAI",2021-03-01,416
-"ClusterAI",2021-03-06,420
-"ClusterAI",2021-03-10,422
-"ClusterAI",2021-03-16,422
-"ClusterAI",2021-03-20,422
-"ClusterAI",2021-03-24,423
-"Codemonk",2020-10-16,1305
-"Codemonk",2020-10-18,1306
-"Codemonk",2020-10-21,1308
-"Codemonk",2020-10-24,1310
-"Codemonk",2020-10-28,1310
-"Codemonk",2020-11-07,1322
-"Codemonk",2020-11-21,1402
-"Codemonk",2020-12-27,1441
-"Codemonk",2021-02-19,1464
-"Codemonk",2021-03-26,1467
-"Codenation Innovation Labs",2021-01-19,13025
-"Codenation Innovation Labs",2021-02-19,15949
-"Codenation Innovation Labs",2021-03-06,16327
-"Codenation Innovation Labs",2021-03-26,16607
-"Coding Black Females",2021-01-11,3043
-"Coding Black Females",2021-01-15,3077
-"Coding Black Females",2021-01-19,3100
-"Coding Black Females",2021-01-25,3149
-"Coding Black Females",2021-01-30,3184
-"Coding Black Females",2021-01-31,3192
-"Coding Black Females",2021-02-03,3217
-"Coding Black Females",2021-02-07,3251
-"Coding Black Females",2021-02-12,3304
-"Coding Black Females",2021-02-17,3337
-"Coding Black Females",2021-02-21,3368
-"Coding Black Females",2021-02-25,3404
-"Coding Black Females",2021-03-01,3425
-"Coding Black Females",2021-03-06,3498
-"Coding Black Females",2021-03-10,3533
-"Coding Black Females",2021-03-16,3585
-"Coding Black Females",2021-03-20,3631
-"Coding Black Females",2021-03-24,3654
-"CoFounder",2021-02-19,625
-"CoFounder",2021-03-06,648
-"CoFounder",2021-03-26,664
-"Cognitect",2020-10-16,2593
-"Cognitect",2020-10-20,2598
-"Cognitect",2020-10-21,2598
-"Cognitect",2020-10-28,2601
-"Cognitect",2020-10-31,2603
-"Cognitect",2020-11-02,2602
-"Cognitect",2020-11-07,2603
-"Cognitect",2020-11-12,2605
-"Cognitect",2020-11-21,2612
-"Cognitect",2020-11-30,2613
-"Cognitect",2020-12-08,2618
-"Cognitect",2020-12-15,2626
-"Cognitect",2020-12-27,2635
-"Cognizant",2020-10-25,2908887
-"Cognizant",2020-10-28,2915918
-"Cognizant",2020-10-30,2923134
-"Cognizant",2020-11-03,2931031
-"Cognizant",2020-11-06,2938817
-"Cognizant",2020-11-10,2947538
-"Cognizant",2020-11-14,2955953
-"Cognizant",2020-11-18,2964038
-"Cognizant",2020-11-23,2979642
-"Cognizant",2020-11-28,2989350
-"Cognizant",2020-12-03,3003133
-"Cognizant",2020-12-05,3011343
-"Cognizant",2020-12-12,3031563
-"Cognizant",2020-12-15,3040870
-"Cognizant",2020-12-20,3056791
-"Cognizant",2020-12-25,3070860
-"Cognizant",2020-12-29,3083226
-"Cognizant",2021-01-03,3096654
-"Cognizant",2021-01-06,3108394
-"Cognizant",2021-01-11,3125849
-"Cognizant",2021-01-15,3141572
-"Cognizant",2021-01-19,3153829
-"Cognizant",2021-01-25,3177123
-"Cognizant",2021-01-30,3194394
-"Cognizant",2021-01-31,3196236
-"Cognizant",2021-02-03,3206051
-"Cognizant",2021-02-07,3220973
-"Cognizant",2021-02-12,3239763
-"Cognizant",2021-02-17,3253677
-"Cognizant",2021-02-21,3270196
-"Cognizant",2021-02-25,3284822
-"Cognizant",2021-03-01,3299312
-"Cognizant",2021-03-06,3321284
-"Cognizant",2021-03-10,3337248
-"Cognizant",2021-03-16,3355497
-"Cognizant",2021-03-20,3374648
-"Cognizant",2021-03-24,3388816
-"Coillte",2020-10-20,9787
-"Coillte",2020-10-20,9788
-"Coillte",2020-10-21,9793
-"Coillte",2020-10-23,9805
-"Coillte",2020-10-25,9824
-"Coillte",2020-10-25,9833
-"Coillte",2020-10-28,9860
-"Coillte",2020-10-30,9875
-"Coillte",2020-11-03,9894
-"Coillte",2020-11-06,9914
-"Coillte",2020-11-10,9929
-"Coillte",2020-11-14,9962
-"Coillte",2020-11-18,9983
-"Coillte",2020-11-23,10010
-"Coillte",2020-11-28,10044
-"Coillte",2020-12-03,10080
-"Coillte",2020-12-05,10095
-"Coillte",2020-12-12,10142
-"Coillte",2020-12-15,10194
-"Coillte",2020-12-20,10243
-"Coillte",2020-12-25,10275
-"Coillte",2020-12-29,10299
-"Coillte",2021-01-03,10336
-"Coillte",2021-01-06,10378
-"Coillte",2021-01-11,10417
-"Coillte",2021-01-15,10470
-"Coillte",2021-01-19,10503
-"Coillte",2021-01-25,10578
-"Coillte",2021-01-30,10640
-"Coillte",2021-01-31,10651
-"Coillte",2021-02-03,10686
-"Coillte",2021-02-07,10733
-"Coillte",2021-02-12,10797
-"Coillte",2021-02-17,10850
-"Coillte",2021-02-21,10891
-"Coillte",2021-02-25,10930
-"Coillte",2021-03-01,10969
-"Coillte",2021-03-06,11003
-"Coillte",2021-03-10,11024
-"Coillte",2021-03-16,11049
-"Coillte",2021-03-20,11075
-"Coillte",2021-03-24,11107
-"Collibra",2020-10-20,23338
-"Collibra",2020-10-21,23382
-"Collibra",2020-10-23,23469
-"Collibra",2020-10-25,23507
-"Collibra",2020-10-25,23535
-"Collibra",2020-10-28,23607
-"Collibra",2020-10-30,23679
-"Collibra",2020-11-03,23754
-"Collibra",2020-11-06,23852
-"Collibra",2020-11-10,23956
-"Collibra",2020-11-14,24078
-"Collibra",2020-11-18,24188
-"Collibra",2020-11-23,24361
-"Collibra",2020-11-28,24437
-"Collibra",2020-12-03,24544
-"Collibra",2020-12-05,24607
-"Collibra",2020-12-12,24806
-"Collibra",2020-12-15,24893
-"Collibra",2020-12-20,25025
-"Collibra",2020-12-25,25129
-"Collibra",2020-12-29,25216
-"Collibra",2021-01-03,25320
-"Collibra",2021-01-06,25402
-"Collibra",2021-01-11,25504
-"Collibra",2021-01-15,25631
-"Collibra",2021-01-19,25733
-"Collibra",2021-01-25,25904
-"Collibra",2021-01-30,26042
-"Collibra",2021-01-31,26066
-"Collibra",2021-02-03,26152
-"Collibra",2021-02-07,26327
-"Collibra",2021-02-12,26507
-"Collibra",2021-02-17,26658
-"Collibra",2021-02-21,26823
-"Collibra",2021-02-25,26974
-"Collibra",2021-03-01,27143
-"Collibra",2021-03-06,27376
-"Collibra",2021-03-10,27524
-"Collibra",2021-03-16,27679
-"Collibra",2021-03-20,27861
-"Collibra",2021-03-24,27961
-"Columbia Data Science Society",2021-01-22,348
-"Columbia Data Science Society",2021-01-25,349
-"Columbia Data Science Society",2021-01-28,350
-"Columbia Data Science Society",2021-01-31,351
-"Columbia Data Science Society",2021-02-03,352
-"Columbia Data Science Society",2021-02-07,353
-"Columbia Data Science Society",2021-02-12,357
-"Columbia Data Science Society",2021-02-16,359
-"Columbia Data Science Society",2021-02-21,363
-"Columbia Data Science Society",2021-02-25,365
-"Columbia Data Science Society",2021-03-01,369
-"Columbia Data Science Society",2021-03-06,375
-"Columbia Data Science Society",2021-03-10,380
-"Columbia Data Science Society",2021-03-13,382
-"Columbia Data Science Society",2021-03-20,395
-"Comunidad R Hispano",2020-11-30,252
-"Comunidad R Hispano",2020-12-08,262
-"Confluence",2020-10-16,5338
-"CONNECT Centre",2021-01-22,2396
-"CONNECT Centre",2021-01-25,2401
-"CONNECT Centre",2021-01-28,2405
-"CONNECT Centre",2021-01-31,2405
-"CONNECT Centre",2021-02-03,2430
-"CONNECT Centre",2021-02-07,2468
-"CONNECT Centre",2021-02-12,2500
-"CONNECT Centre",2021-02-16,2546
-"CONNECT Centre",2021-02-21,2554
-"CONNECT Centre",2021-02-25,2571
-"CONNECT Centre",2021-03-01,2593
-"CONNECT Centre",2021-03-06,2606
-"CONNECT Centre",2021-03-10,2611
-"CONNECT Centre",2021-03-13,2615
-"CONNECT Centre",2021-03-20,2630
-"Conning",2020-10-14,11215
-"Conning",2020-10-19,11222
-"Conning",2020-10-20,11221
-"Conning",2020-10-21,11228
-"Conning",2020-10-23,11236
-"Conning",2020-10-25,11243
-"Conning",2020-10-25,11249
-"Conning",2020-10-28,11258
-"Conning",2020-10-30,11262
-"Conning",2020-11-03,11266
-"Conning",2020-11-06,11273
-"Conning",2020-11-10,11278
-"Conning",2020-11-14,11280
-"Conning",2020-11-18,11279
-"Conning",2020-11-23,11281
-"Conning",2020-11-28,11277
-"Conning",2020-12-03,11280
-"Conning",2020-12-05,11279
-"Conning",2020-12-12,11290
-"Conning",2020-12-15,11291
-"Conning",2020-12-20,11307
-"Conning",2020-12-25,11323
-"Conning",2020-12-29,11336
-"Conning",2021-01-03,11345
-"Conning",2021-01-06,11352
-"Conning",2021-01-11,11352
-"Conning",2021-01-15,11357
-"Conning",2021-01-19,11361
-"Conning",2021-01-25,11365
-"Conning",2021-01-30,11367
-"Conning",2021-01-31,11368
-"Conning",2021-02-03,11365
-"Conning",2021-02-07,11370
-"Conning",2021-02-12,11374
-"Conning",2021-02-17,11379
-"Conning",2021-02-21,11389
-"Conning",2021-02-25,11407
-"Conning",2021-03-01,11416
-"Conning",2021-03-06,11435
-"Conning",2021-03-10,11466
-"Conning",2021-03-16,11490
-"Conning",2021-03-20,11502
-"Conning",2021-03-24,11509
-"Conrad N. Hilton Foundation",2021-02-17,8331
-"Conrad N. Hilton Foundation",2021-02-21,8351
-"Conrad N. Hilton Foundation",2021-02-25,8380
-"Conrad N. Hilton Foundation",2021-03-01,8396
-"Conrad N. Hilton Foundation",2021-03-06,8428
-"Conrad N. Hilton Foundation",2021-03-10,8458
-"Conrad N. Hilton Foundation",2021-03-16,8488
-"Conrad N. Hilton Foundation",2021-03-20,8518
-"Conrad N. Hilton Foundation",2021-03-24,8541
-"ConstructionBOS",2021-03-26,1355
-"Continuum Analytics",2020-10-20,5237
-"Continuum Analytics",2020-10-20,5238
-"Continuum Analytics",2020-11-21,5250
-"Continuum Analytics",2020-11-30,5256
-"Continuum Analytics",2020-12-08,5268
-"Continuum Analytics",2020-12-15,5271
-"Continuum Analytics",2020-12-27,5278
-"Continuum Analytics",2021-01-19,5284
-"ConversationStarter.net",2020-10-16,426
-"ConversationStarter.net",2020-10-21,429
-"ConversationStarter.net",2020-10-22,430
-"ConversationStarter.net",2020-11-02,442
-"ConversationStarter.net",2020-11-07,449
-"ConversationStarter.net",2020-11-21,470
-"ConversationStarter.net",2020-12-15,506
-"Coupang",2021-01-19,52569
-"Coursera",2020-10-07,657271
-"Coursera",2020-10-09,660720
-"Coursera",2020-10-10,661978
-"Coursera",2020-10-13,665652
-"Coursera",2020-10-16,670113
-"Coursera",2020-10-20,675275
-"Coursera",2020-10-21,676482
-"Coursera",2020-10-23,678866
-"Coursera",2020-10-25,680846
-"Coursera",2020-10-25,681885
-"Coursera",2020-10-28,684559
-"Coursera",2020-10-30,687182
-"Coursera",2020-11-03,690467
-"Coursera",2020-11-06,693704
-"Coursera",2020-11-10,697589
-"Coursera",2020-11-14,701596
-"Coursera",2020-11-18,706008
-"Coursera",2020-11-21,709687
-"Coursera",2020-11-23,713008
-"Coursera",2020-11-28,716828
-"Coursera",2020-11-30,718222
-"Coursera",2020-12-03,721421
-"Coursera",2020-12-05,723685
-"Coursera",2020-12-08,726546
-"Coursera",2020-12-12,729903
-"Coursera",2020-12-15,732846
-"Coursera",2020-12-15,732880
-"Coursera",2020-12-20,737610
-"Coursera",2020-12-25,741674
-"Coursera",2020-12-27,743172
-"Coursera",2020-12-29,745441
-"Coursera",2021-01-03,749478
-"Coursera",2021-01-06,752569
-"Coursera",2021-01-11,757614
-"Coursera",2021-01-15,762170
-"Coursera",2021-01-19,765918
-"Coursera",2021-01-19,765932
-"Coursera",2021-01-19,765953
-"Coursera",2021-01-25,772148
-"Coursera",2021-01-30,776545
-"Coursera",2021-01-31,777415
-"Coursera",2021-02-03,779936
-"Coursera",2021-02-07,783960
-"Coursera",2021-02-12,788800
-"Coursera",2021-02-17,792770
-"Coursera",2021-02-21,796813
-"Coursera",2021-02-25,800603
-"Coursera",2021-03-01,803914
-"Coursera",2021-03-06,808688
-"Coursera",2021-03-10,812546
-"Coursera",2021-03-16,817679
-"Coursera",2021-03-20,822270
-"Coursera",2021-03-24,825519
-"Covance",2021-02-19,269132
-"Covance",2021-03-26,277312
-"CPI Formations",2020-10-16,912
-"CPI Formations",2020-10-21,917
-"CPI Formations",2020-10-22,918
-"CPI Formations",2020-11-02,944
-"CPI Formations",2020-11-07,948
-"CPI Formations",2020-11-21,966
-"Cpl",2020-10-25,156857
-"Cpl",2020-10-28,157314
-"Cpl",2020-10-30,157750
-"Cpl",2020-11-03,158301
-"Cpl",2020-11-06,159108
-"Cpl",2020-11-10,159810
-"Cpl",2020-11-14,160595
-"Cpl",2020-11-18,161337
-"Cpl",2020-11-23,162577
-"Cpl",2020-11-28,163162
-"Cpl",2020-12-03,163793
-"Cpl",2020-12-05,164135
-"Cpl",2020-12-12,165124
-"Cpl",2020-12-15,165482
-"Cpl",2020-12-20,166048
-"Cpl",2020-12-25,166474
-"Cpl",2020-12-29,166871
-"Cpl",2021-01-03,167237
-"Cpl",2021-01-06,167677
-"Cpl",2021-01-11,168435
-"Cpl",2021-01-15,169323
-"Cpl",2021-01-19,169951
-"Cpl",2021-01-25,171108
-"Cpl",2021-01-30,171925
-"Cpl",2021-01-31,172054
-"Cpl",2021-02-03,172531
-"Cpl",2021-02-07,173136
-"Cpl",2021-02-12,173906
-"Cpl",2021-02-17,174492
-"Cpl",2021-02-21,175093
-"Cpl",2021-02-25,175873
-"Cpl",2021-03-01,176446
-"Cpl",2021-03-06,177406
-"Cpl",2021-03-10,178086
-"Cpl",2021-03-16,178792
-"Cpl",2021-03-20,179518
-"Cpl",2021-03-24,180021
-"CPL",2020-10-13,154540
-"CPL",2020-10-16,155163
-"Croatan Institute",2020-10-16,861
-"Croatan Institute",2020-10-20,879
-"Croatan Institute",2020-10-22,893
-"Croatan Institute",2020-10-28,926
-"Croatan Institute",2020-11-07,970
-"Croatan Institute",2020-11-12,982
-"Croatan Institute",2020-11-21,1000
-"Croatan Institute",2021-02-19,1123
-"Croatan Institute",2021-03-26,1245
-"CSO (Central Statistics Office Ireland)",2021-02-03,5139
-"CSO (Central Statistics Office Ireland)",2021-02-07,5152
-"CSO (Central Statistics Office Ireland)",2021-02-12,5167
-"CSO (Central Statistics Office Ireland)",2021-02-17,5184
-"CSO (Central Statistics Office Ireland)",2021-02-21,5194
-"CSO (Central Statistics Office Ireland)",2021-02-25,5202
-"CSO (Central Statistics Office Ireland)",2021-03-01,5220
-"CSO (Central Statistics Office Ireland)",2021-03-06,5239
-"CSO (Central Statistics Office Ireland)",2021-03-10,5245
-"CSO (Central Statistics Office Ireland)",2021-03-16,5255
-"CSO (Central Statistics Office Ireland)",2021-03-20,5263
-"CSO (Central Statistics Office Ireland)",2021-03-24,5274
-"CSO (Central Statistics Office)",2020-10-15,4818
-"CSO (Central Statistics Office)",2020-10-20,4830
-"CSO (Central Statistics Office)",2020-10-21,4832
-"CSO (Central Statistics Office)",2020-10-23,4837
-"CSO (Central Statistics Office)",2020-10-25,4843
-"CSO (Central Statistics Office)",2020-10-25,4848
-"CSO (Central Statistics Office)",2020-10-28,4859
-"CSO (Central Statistics Office)",2020-10-30,4867
-"CSO (Central Statistics Office)",2020-11-03,4878
-"CSO (Central Statistics Office)",2020-11-06,4896
-"CSO (Central Statistics Office)",2020-11-10,4912
-"CSO (Central Statistics Office)",2020-11-14,4928
-"CSO (Central Statistics Office)",2020-11-18,4948
-"CSO (Central Statistics Office)",2020-11-23,4978
-"CSO (Central Statistics Office)",2020-11-28,4994
-"CSO (Central Statistics Office)",2020-12-03,5010
-"CSO (Central Statistics Office)",2020-12-05,5013
-"CSO (Central Statistics Office)",2020-12-12,5033
-"CSO (Central Statistics Office)",2020-12-15,5038
-"CSO (Central Statistics Office)",2020-12-20,5050
-"CSO (Central Statistics Office)",2020-12-25,5057
-"CSO (Central Statistics Office)",2020-12-29,5062
-"CSO (Central Statistics Office)",2021-01-03,5064
-"CSO (Central Statistics Office)",2021-01-06,5071
-"CSO (Central Statistics Office)",2021-01-11,5083
-"CSO (Central Statistics Office)",2021-01-15,5094
-"CSO (Central Statistics Office)",2021-01-19,5103
-"CSO (Central Statistics Office)",2021-01-25,5119
-"CSO (Central Statistics Office)",2021-01-30,5128
-"CSO (Central Statistics Office)",2021-01-31,5128
-"CSR Europe",2020-10-16,10755
-"CSR Europe",2020-10-21,10872
-"CSR Europe",2020-10-22,10919
-"CSR Europe",2020-11-02,11272
-"CSR Europe",2020-11-07,11318
-"CSR Europe",2020-11-21,11415
-"CSR Europe",2020-12-15,11634
-"CSR Europe",2021-02-19,12283
-"CSR Europe",2021-03-26,12659
-"Cyntegrity | Data Science for Clinical Trials",2020-12-15,2980
-"Cyntegrity | Data Science for Clinical Trials",2020-12-27,3000
-"Cyntegrity | Data Science for Clinical Trials",2021-01-19,3051
-"DAIN Studios",2021-01-22,1302
-"DAIN Studios",2021-01-25,1307
-"DAIN Studios",2021-01-28,1324
-"DAIN Studios",2021-01-31,1346
-"DAIN Studios",2021-02-03,1369
-"DAIN Studios",2021-02-07,1374
-"DAIN Studios",2021-02-12,1394
-"DAIN Studios",2021-02-16,1406
-"DAIN Studios",2021-02-21,1414
-"DAIN Studios",2021-02-25,1418
-"DAIN Studios",2021-03-01,1423
-"DAIN Studios",2021-03-06,1427
-"DAIN Studios",2021-03-10,1432
-"DAIN Studios",2021-03-13,1434
-"DAIN Studios",2021-03-20,1453
-"Dalmia Bharat Limited",2021-02-19,26547
-"Dalmia Bharat Limited",2021-03-06,27073
-"Dalmia Bharat Limited",2021-03-26,27950
-"Dasa",2021-02-19,280273
-"Dasa",2021-03-26,304593
-"Data & Society Research Institute",2020-10-25,3078
-"Data & Society Research Institute",2020-10-28,3096
-"Data & Society Research Institute",2020-10-30,3105
-"Data & Society Research Institute",2020-11-03,3119
-"Data & Society Research Institute",2020-11-06,3141
-"Data & Society Research Institute",2020-11-10,3158
-"Data & Society Research Institute",2020-11-14,3181
-"Data & Society Research Institute",2020-11-18,3202
-"Data & Society Research Institute",2020-11-23,3240
-"Data & Society Research Institute",2020-11-28,3261
-"Data & Society Research Institute",2020-12-03,3278
-"Data & Society Research Institute",2020-12-05,3288
-"Data & Society Research Institute",2020-12-12,3328
-"Data & Society Research Institute",2020-12-15,3338
-"Data & Society Research Institute",2020-12-20,3361
-"Data & Society Research Institute",2020-12-25,3381
-"Data & Society Research Institute",2020-12-29,3394
-"Data & Society Research Institute",2021-01-03,3404
-"Data & Society Research Institute",2021-01-06,3425
-"Data & Society Research Institute",2021-01-11,3481
-"Data & Society Research Institute",2021-01-15,3523
-"Data & Society Research Institute",2021-01-19,3551
-"Data & Society Research Institute",2021-01-25,3597
-"Data & Society Research Institute",2021-01-30,3624
-"Data & Society Research Institute",2021-01-31,3625
-"Data & Society Research Institute",2021-02-03,3647
-"Data & Society Research Institute",2021-02-07,3663
-"Data & Society Research Institute",2021-02-12,3701
-"Data & Society Research Institute",2021-02-17,3725
-"Data & Society Research Institute",2021-02-21,3752
-"Data & Society Research Institute",2021-02-25,3776
-"Data & Society Research Institute",2021-03-01,3788
-"Data & Society Research Institute",2021-03-06,3837
-"Data & Society Research Institute",2021-03-10,3861
-"Data & Society Research Institute",2021-03-16,3897
-"Data & Society Research Institute",2021-03-20,3915
-"Data & Society Research Institute",2021-03-24,3930
-"Data for Good",2020-10-25,5074
-"Data for Good",2020-10-28,5088
-"Data for Good",2020-10-30,5103
-"Data for Good",2020-11-03,5115
-"Data for Good",2020-11-06,5130
-"Data for Good",2020-11-10,5156
-"Data for Good",2020-11-14,5191
-"Data for Good",2020-11-18,5208
-"Data for Good",2020-11-23,5249
-"Data for Good",2020-11-28,5268
-"Data for Good",2020-12-03,5293
-"Data for Good",2020-12-05,5308
-"Data for Good",2020-12-12,5340
-"Data for Good",2020-12-15,5355
-"Data for Good",2020-12-20,5393
-"Data for Good",2020-12-25,5405
-"Data for Good",2020-12-29,5417
-"Data for Good",2021-01-03,5432
-"Data for Good",2021-01-06,5446
-"Data for Good",2021-01-11,5472
-"Data for Good",2021-01-15,5490
-"Data for Good",2021-01-19,5515
-"Data for Good",2021-01-25,5560
-"Data for Good",2021-01-30,5586
-"Data for Good",2021-01-31,5589
-"Data for Good",2021-02-03,5601
-"Data for Good",2021-02-07,5630
-"Data for Good",2021-02-12,5662
-"Data for Good",2021-02-17,5695
-"Data for Good",2021-02-21,5729
-"Data for Good",2021-02-25,5762
-"Data for Good",2021-03-01,5796
-"Data for Good",2021-03-06,5835
-"Data for Good",2021-03-10,5861
-"Data for Good",2021-03-16,5896
-"Data for Good",2021-03-20,5921
-"Data for Good",2021-03-24,5936
-"Data For Good",2020-10-25,2898
-"Data For Good",2020-10-28,2911
-"Data For Good",2020-10-30,2925
-"Data For Good",2020-11-03,2940
-"Data For Good",2020-11-06,2969
-"Data For Good",2020-11-10,2998
-"Data For Good",2020-11-14,3024
-"Data For Good",2020-11-18,3049
-"Data For Good",2020-11-23,3098
-"Data For Good",2020-11-28,3132
-"Data For Good",2020-12-03,3161
-"Data For Good",2020-12-05,3185
-"Data For Good",2020-12-12,3235
-"Data For Good",2020-12-15,3251
-"Data For Good",2020-12-20,3325
-"Data For Good",2020-12-25,3353
-"Data For Good",2020-12-29,3368
-"Data For Good",2021-01-03,3395
-"Data For Good",2021-01-06,3408
-"Data For Good",2021-01-11,3443
-"Data For Good",2021-01-15,3458
-"Data For Good",2021-01-19,3477
-"Data For Good",2021-01-25,3505
-"Data For Good",2021-01-30,3569
-"Data For Good",2021-01-31,3573
-"Data For Good",2021-02-03,3590
-"Data For Good",2021-02-07,3612
-"Data For Good",2021-02-12,3655
-"Data For Good",2021-02-17,3703
-"Data For Good",2021-02-21,3731
-"Data For Good",2021-02-25,3769
-"Data For Good",2021-03-01,3806
-"Data For Good",2021-03-06,3835
-"Data For Good",2021-03-10,3880
-"Data For Good",2021-03-16,3909
-"Data For Good",2021-03-20,3940
-"Data For Good",2021-03-24,3957
-"Data for Good Foundation",2020-10-25,1042
-"Data for Good Foundation",2020-10-28,1045
-"Data for Good Foundation",2020-10-30,1049
-"Data for Good Foundation",2020-11-03,1051
-"Data for Good Foundation",2020-11-06,1054
-"Data for Good Foundation",2020-11-10,1056
-"Data for Good Foundation",2020-11-14,1063
-"Data for Good Foundation",2020-11-18,1066
-"Data for Good Foundation",2020-11-23,1080
-"Data for Good Foundation",2020-11-28,1085
-"Data for Good Foundation",2020-12-03,1092
-"Data for Good Foundation",2020-12-05,1093
-"Data for Good Foundation",2020-12-12,1100
-"Data for Good Foundation",2020-12-15,1103
-"Data for Good Foundation",2020-12-20,1109
-"Data for Good Foundation",2020-12-25,1112
-"Data for Good Foundation",2020-12-29,1113
-"Data for Good Foundation",2021-01-03,1119
-"Data for Good Foundation",2021-01-06,1124
-"Data for Good Foundation",2021-01-11,1129
-"Data for Good Foundation",2021-01-15,1144
-"Data for Good Foundation",2021-01-19,1147
-"Data for Good Foundation",2021-01-25,1159
-"Data for Good Foundation",2021-01-30,1168
-"Data for Good Foundation",2021-01-31,1168
-"Data for Good Foundation",2021-02-03,1175
-"Data for Good Foundation",2021-02-07,1178
-"Data for Good Foundation",2021-02-12,1185
-"Data for Good Foundation",2021-02-17,1190
-"Data for Good Foundation",2021-02-21,1193
-"Data for Good Foundation",2021-02-25,1195
-"Data for Good Foundation",2021-03-01,1199
-"Data for Good Foundation",2021-03-06,1205
-"Data for Good Foundation",2021-03-10,1207
-"Data for Good Foundation",2021-03-16,1216
-"Data for Good Foundation",2021-03-20,1223
-"Data for Good Foundation",2021-03-24,1223
-"Data Ireland",2020-10-20,761
-"Data Ireland",2020-10-21,761
-"Data Ireland",2020-10-23,761
-"Data Ireland",2020-10-25,761
-"Data Ireland",2020-10-28,761
-"Data Ireland",2020-10-30,761
-"Data Ireland",2020-11-03,763
-"Data Ireland",2020-11-06,765
-"Data Ireland",2020-11-10,765
-"Data Ireland",2020-11-14,764
-"Data Ireland",2020-11-18,763
-"Data Ireland",2020-11-23,762
-"Data Ireland",2020-11-28,764
-"Data Ireland",2020-12-03,765
-"Data Ireland",2020-12-05,765
-"Data Ireland",2020-12-12,765
-"Data Ireland",2020-12-15,765
-"Data Ireland",2020-12-20,767
-"Data Ireland",2020-12-25,767
-"Data Ireland",2020-12-29,767
-"Data Ireland",2021-01-03,766
-"Data Ireland",2021-01-06,767
-"Data Ireland",2021-01-11,768
-"Data Ireland",2021-01-15,771
-"Data Ireland",2021-01-19,771
-"Data Ireland",2021-01-25,773
-"Data Ireland",2021-01-30,774
-"Data Ireland",2021-01-31,774
-"Data Ireland",2021-02-03,774
-"Data Ireland",2021-02-07,774
-"Data Ireland",2021-02-12,774
-"Data Ireland",2021-02-17,775
-"Data Ireland",2021-02-21,775
-"Data Ireland",2021-02-25,776
-"Data Ireland",2021-03-01,776
-"Data Ireland",2021-03-06,776
-"Data Ireland",2021-03-10,775
-"Data Ireland",2021-03-16,774
-"Data Ireland",2021-03-20,775
-"Data Ireland",2021-03-24,773
-"Data Istanbul",2021-01-25,3977
-"Data Istanbul",2021-01-28,3976
-"Data Istanbul",2021-01-31,3976
-"Data Istanbul",2021-02-03,3978
-"Data Istanbul",2021-02-07,3978
-"Data Istanbul",2021-02-12,3978
-"Data Istanbul",2021-02-16,3977
-"Data Istanbul",2021-02-21,3976
-"Data Istanbul",2021-02-25,3978
-"Data Istanbul",2021-03-01,3978
-"Data Istanbul",2021-03-06,3974
-"Data Istanbul",2021-03-10,3973
-"Data Istanbul",2021-03-13,3971
-"Data Istanbul",2021-03-20,3968
-"Data Lille",2021-01-25,665
-"Data Lille",2021-01-28,667
-"Data Lille",2021-01-31,667
-"Data Lille",2021-02-03,667
-"Data Lille",2021-02-07,668
-"Data Lille",2021-02-12,672
-"Data Lille",2021-02-16,672
-"Data Lille",2021-02-21,673
-"Data Lille",2021-02-25,674
-"Data Lille",2021-03-01,674
-"Data Lille",2021-03-06,676
-"Data Lille",2021-03-10,677
-"Data Lille",2021-03-13,677
-"Data Lille",2021-03-20,678
-"Data Science Academy",2020-10-13,140451
-"Data Science Academy",2020-10-16,141466
-"Data Science Academy",2020-10-16,141567
-"Data Science Academy",2020-10-19,142158
-"Data Science Academy",2020-10-20,142400
-"Data Science Academy",2020-10-20,142512
-"Data Science Academy",2020-10-21,142742
-"Data Science Academy",2020-10-23,143193
-"Data Science Academy",2020-10-25,143622
-"Data Science Academy",2020-10-25,143831
-"Data Science Academy",2020-10-28,144363
-"Data Science Academy",2020-10-28,144436
-"Data Science Academy",2020-10-30,145073
-"Data Science Academy",2020-11-03,145730
-"Data Science Academy",2020-11-06,146502
-"Data Science Academy",2020-11-07,146724
-"Data Science Academy",2020-11-10,147313
-"Data Science Academy",2020-11-14,148254
-"Data Science Academy",2020-11-18,149421
-"Data Science Academy",2020-11-21,150377
-"Data Science Academy",2020-11-23,151233
-"Data Science Academy",2020-11-28,152273
-"Data Science Academy",2020-11-30,152550
-"Data Science Academy",2020-12-03,153616
-"Data Science Academy",2020-12-05,154306
-"Data Science Academy",2020-12-08,155278
-"Data Science Academy",2020-12-12,156309
-"Data Science Academy",2020-12-15,157156
-"Data Science Academy",2020-12-15,157164
-"Data Science Academy",2020-12-20,158556
-"Data Science Academy",2020-12-25,159645
-"Data Science Academy",2020-12-27,160004
-"Data Science Academy",2020-12-29,160697
-"Data Science Academy",2021-01-03,161794
-"Data Science Academy",2021-01-06,162973
-"Data Science Academy",2021-01-11,164579
-"Data Science Academy",2021-01-15,166340
-"Data Science Academy",2021-01-19,167624
-"Data Science Academy",2021-01-19,167641
-"Data Science Academy",2021-01-25,169796
-"Data Science Academy",2021-01-30,171642
-"Data Science Academy",2021-01-31,172003
-"Data Science Academy",2021-02-03,173074
-"Data Science Academy",2021-02-07,174608
-"Data Science Academy",2021-02-12,176525
-"Data Science Academy",2021-02-17,178275
-"Data Science Academy",2021-02-19,179356
-"Data Science Academy",2021-02-21,180022
-"Data Science Academy",2021-02-25,181715
-"Data Science Academy",2021-03-01,183680
-"Data Science Academy",2021-03-06,185790
-"Data Science Academy",2021-03-06,185796
-"Data Science Academy",2021-03-10,187118
-"Data Science Academy",2021-03-16,188751
-"Data Science Academy",2021-03-20,190518
-"Data Science Academy",2021-03-24,191538
-"Data Science Academy",2021-03-26,192553
-"Data Science and Ai Association of Australia | DSAi",2021-01-25,2902
-"Data Science and Ai Association of Australia | DSAi",2021-01-28,2909
-"Data Science and Ai Association of Australia | DSAi",2021-01-31,2923
-"Data Science and Ai Association of Australia | DSAi",2021-02-03,2942
-"Data Science and Ai Association of Australia | DSAi",2021-02-07,2961
-"Data Science and Ai Association of Australia | DSAi",2021-02-12,2984
-"Data Science and Ai Association of Australia | DSAi",2021-02-16,3000
-"Data Science and Ai Association of Australia | DSAi",2021-02-21,3024
-"Data Science and Ai Association of Australia | DSAi",2021-02-25,3039
-"Data Science and Ai Association of Australia | DSAi",2021-03-01,3049
-"Data Science and Ai Association of Australia | DSAi",2021-03-06,3071
-"Data Science and Ai Association of Australia | DSAi",2021-03-10,3082
-"Data Science and Ai Association of Australia | DSAi",2021-03-13,3096
-"Data Science and Ai Association of Australia | DSAi",2021-03-20,3134
-"Data Science by DataScientist.ca",2020-10-16,16113
-"Data Science by DataScientist.ca",2020-10-19,16181
-"Data Science by DataScientist.ca",2020-10-20,16211
-"Data Science by DataScientist.ca",2020-10-20,16223
-"Data Science by DataScientist.ca",2020-10-21,16239
-"Data Science by DataScientist.ca",2020-10-23,16281
-"Data Science by DataScientist.ca",2020-10-25,16328
-"Data Science by DataScientist.ca",2020-10-28,16431
-"Data Science by DataScientist.ca",2020-10-28,16447
-"Data Science by https://www.linkedin.com/redir/phishing-page?url=DataScientist%2eca",2020-10-25,16368
-"Data Science by https://www.linkedin.com/redir/phishing-page?url=DataScientist%2eca",2020-10-30,16516
-"Data Science Central",2020-10-06,187780
-"Data Science Central",2020-10-13,189430
-"Data Science Central",2020-10-16,190243
-"Data Science Central",2020-10-20,191148
-"Data Science Central",2020-10-21,191360
-"Data Science Central",2020-10-23,191771
-"Data Science Central",2020-10-25,192123
-"Data Science Central",2020-10-25,192345
-"Data Science Central",2020-10-28,192774
-"Data Science Central",2020-10-30,193229
-"Data Science Central",2020-11-03,193662
-"Data Science Central",2020-11-06,194127
-"Data Science Central",2020-11-10,194724
-"Data Science Central",2020-11-14,195371
-"Data Science Central",2020-11-18,196012
-"Data Science Central",2020-11-23,197061
-"Data Science Central",2020-11-28,197650
-"Data Science Central",2020-12-03,198641
-"Data Science Central",2020-12-05,199073
-"Data Science Central",2020-12-12,200146
-"Data Science Central",2020-12-15,200603
-"Data Science Central",2020-12-20,201297
-"Data Science Central",2020-12-25,201820
-"Data Science Central",2020-12-29,202547
-"Data Science Central",2021-01-03,203565
-"Data Science Central",2021-01-06,204310
-"Data Science Central",2021-01-11,205337
-"Data Science Central",2021-01-15,206274
-"Data Science Central",2021-01-19,207094
-"Data Science Central",2021-01-25,208484
-"Data Science Central",2021-01-30,209472
-"Data Science Central",2021-01-31,209660
-"Data Science Central",2021-02-03,210227
-"Data Science Central",2021-02-07,211002
-"Data Science Central",2021-02-12,212024
-"Data Science Central",2021-02-17,212845
-"Data Science Central",2021-02-21,213826
-"Data Science Central",2021-02-25,214659
-"Data Science Central",2021-03-01,215437
-"Data Science Central",2021-03-06,216446
-"Data Science Central",2021-03-10,217177
-"Data Science Central",2021-03-16,217870
-"Data Science Central",2021-03-20,218577
-"Data Science Central",2021-03-24,219118
-"Data Science Club at UTDallas",2021-01-22,946
-"Data Science Club at UTDallas",2021-01-25,946
-"Data Science Club at UTDallas",2021-01-28,948
-"Data Science Club at UTDallas",2021-01-31,950
-"Data Science Club at UTDallas",2021-02-03,952
-"Data Science Club at UTDallas",2021-02-07,952
-"Data Science Club at UTDallas",2021-02-12,953
-"Data Science Club at UTDallas",2021-02-16,956
-"Data Science Club at UTDallas",2021-02-21,959
-"Data Science Club at UTDallas",2021-02-25,960
-"Data Science Club at UTDallas",2021-03-01,961
-"Data Science Club at UTDallas",2021-03-06,969
-"Data Science Club at UTDallas",2021-03-10,970
-"Data Science Club at UTDallas",2021-03-13,972
-"Data Science Club at UTDallas",2021-03-20,976
-"Data Science Conference",2020-11-10,2169
-"Data Science Conference",2020-11-14,2209
-"Data Science Council of America",2020-10-15,44996
-"Data Science Council of America",2020-10-20,45117
-"Data Science Council of America",2020-10-20,45123
-"Data Science Council of America",2020-10-21,45142
-"Data Science Council of America",2020-10-23,45189
-"Data Science Council of America",2020-10-25,45247
-"Data Science Council of America",2020-10-25,45279
-"Data Science Council of America",2020-10-28,45373
-"Data Science Council of America",2020-10-30,45448
-"Data Science Council of America",2020-11-03,45592
-"Data Science Council of America",2020-11-06,45712
-"Data Science Council of America",2020-11-10,45897
-"Data Science Council of America",2020-11-14,46084
-"Data Science Council of America",2020-11-18,46305
-"Data Science Council of America",2020-11-23,46594
-"Data Science Council of America",2020-11-28,46755
-"Data Science Council of America",2020-12-03,46916
-"Data Science Council of America",2020-12-05,46942
-"Data Science Council of America",2020-12-12,47086
-"Data Science Council of America",2020-12-15,47156
-"Data Science Council of America",2020-12-20,47232
-"Data Science Council of America",2020-12-25,47321
-"Data Science Council of America",2020-12-29,47414
-"Data Science Council of America",2021-01-03,47529
-"Data Science Council of America",2021-01-06,47605
-"Data Science Council of America",2021-01-11,47740
-"Data Science Council of America",2021-01-15,47836
-"Data Science Council of America",2021-01-19,47899
-"Data Science Council of America",2021-01-25,48016
-"Data Science Council of America",2021-01-30,48104
-"Data Science Council of America",2021-01-31,48119
-"Data Science Council of America",2021-02-03,48174
-"Data Science Council of America",2021-02-07,48232
-"Data Science Council of America",2021-02-12,48333
-"Data Science Council of America",2021-02-17,48393
-"Data Science Council of America",2021-02-21,48486
-"Data Science Council of America",2021-02-25,48548
-"Data Science Council of America",2021-03-01,48618
-"Data Science Council of America",2021-03-06,48697
-"Data Science Council of America",2021-03-10,48759
-"Data Science Council of America",2021-03-16,48856
-"Data Science Council of America",2021-03-20,48981
-"Data Science Council of America",2021-03-24,49072
-"Data Science Dojo",2020-10-12,51933
-"Data Science Dojo",2020-10-15,52095
-"Data Science Dojo",2020-10-20,52315
-"Data Science Dojo",2020-10-20,52321
-"Data Science Dojo",2020-10-20,52333
-"Data Science Dojo",2020-10-21,52370
-"Data Science Dojo",2020-10-23,52444
-"Data Science Dojo",2020-10-25,52526
-"Data Science Dojo",2020-10-25,52577
-"Data Science Dojo",2020-10-28,52688
-"Data Science Dojo",2020-10-28,52705
-"Data Science Dojo",2020-10-30,52832
-"Data Science Dojo",2020-11-03,52958
-"Data Science Dojo",2020-11-06,53102
-"Data Science Dojo",2020-11-07,53162
-"Data Science Dojo",2020-11-10,53323
-"Data Science Dojo",2020-11-14,53528
-"Data Science Dojo",2020-11-18,53787
-"Data Science Dojo",2020-11-21,53984
-"Data Science Dojo",2020-11-23,54346
-"Data Science Dojo",2020-11-28,54726
-"Data Science Dojo",2020-11-30,54862
-"Data Science Dojo",2020-12-03,55238
-"Data Science Dojo",2020-12-05,55527
-"Data Science Dojo",2020-12-08,56088
-"Data Science Dojo",2020-12-12,56544
-"Data Science Dojo",2020-12-15,57016
-"Data Science Dojo",2020-12-15,57023
-"Data Science Dojo",2020-12-20,57837
-"Data Science Dojo",2020-12-25,58527
-"Data Science Dojo",2020-12-27,58839
-"Data Science Dojo",2020-12-29,59381
-"Data Science Dojo",2021-01-03,60513
-"Data Science Dojo",2021-01-06,61151
-"Data Science Dojo",2021-01-11,62058
-"Data Science Dojo",2021-01-15,62930
-"Data Science Dojo",2021-01-19,63637
-"Data Science Dojo",2021-01-19,63642
-"Data Science Dojo",2021-01-25,64694
-"Data Science Dojo",2021-01-30,65525
-"Data Science Dojo",2021-01-31,65779
-"Data Science Dojo",2021-02-03,66297
-"Data Science Dojo",2021-02-07,67018
-"Data Science Dojo",2021-02-12,68082
-"Data Science Dojo",2021-02-17,68995
-"Data Science Dojo",2021-02-19,69607
-"Data Science Dojo",2021-02-21,70070
-"Data Science Dojo",2021-02-25,71000
-"Data Science Dojo",2021-03-01,71809
-"Data Science Dojo",2021-03-06,72700
-"Data Science Dojo",2021-03-06,72710
-"Data Science Dojo",2021-03-10,73401
-"Data Science Dojo",2021-03-16,74268
-"Data Science Dojo",2021-03-20,74926
-"Data Science Dojo",2021-03-24,75456
-"Data Science Dojo",2021-03-26,75865
-"Data Science for Social Good Foundation",2020-10-25,1404
-"Data Science for Social Good Foundation",2020-10-28,1415
-"Data Science for Social Good Foundation",2020-10-30,1422
-"Data Science for Social Good Foundation",2020-11-03,1428
-"Data Science for Social Good Foundation",2020-11-06,1430
-"Data Science for Social Good Foundation",2020-11-10,1437
-"Data Science for Social Good Foundation",2020-11-14,1441
-"Data Science for Social Good Foundation",2020-11-18,1448
-"Data Science for Social Good Foundation",2020-11-23,1463
-"Data Science for Social Good Foundation",2020-11-28,1476
-"Data Science for Social Good Foundation",2020-12-03,1486
-"Data Science for Social Good Foundation",2020-12-05,1492
-"Data Science for Social Good Foundation",2020-12-12,1505
-"Data Science for Social Good Foundation",2020-12-15,1514
-"Data Science for Social Good Foundation",2020-12-20,1528
-"Data Science for Social Good Foundation",2020-12-25,1543
-"Data Science for Social Good Foundation",2020-12-29,1552
-"Data Science for Social Good Foundation",2021-01-03,1560
-"Data Science for Social Good Foundation",2021-01-06,1564
-"Data Science for Social Good Foundation",2021-01-11,1575
-"Data Science for Social Good Foundation",2021-01-15,1579
-"Data Science for Social Good Foundation",2021-01-19,1588
-"Data Science for Social Good Foundation",2021-01-25,1622
-"Data Science for Social Good Foundation",2021-01-30,1636
-"Data Science for Social Good Foundation",2021-01-31,1640
-"Data Science for Social Good Foundation",2021-02-03,1645
-"Data Science for Social Good Foundation",2021-02-07,1652
-"Data Science for Social Good Foundation",2021-02-12,1676
-"Data Science for Social Good Foundation",2021-02-17,1695
-"Data Science for Social Good Foundation",2021-02-21,1699
-"Data Science for Social Good Foundation",2021-02-25,1709
-"Data Science for Social Good Foundation",2021-03-01,1719
-"Data Science for Social Good Foundation",2021-03-06,1739
-"Data Science for Social Good Foundation",2021-03-10,1752
-"Data Science for Social Good Foundation",2021-03-16,1765
-"Data Science for Social Good Foundation",2021-03-20,1774
-"Data Science for Social Good Foundation",2021-03-24,1786
-"Data Science Indonesia",2021-01-25,3619
-"Data Science Indonesia",2021-01-28,3630
-"Data Science Indonesia",2021-01-31,3639
-"Data Science Indonesia",2021-02-03,3654
-"Data Science Indonesia",2021-02-07,3666
-"Data Science Indonesia",2021-02-12,3700
-"Data Science Indonesia",2021-02-16,3728
-"Data Science Indonesia",2021-02-21,3751
-"Data Science Indonesia",2021-02-25,3777
-"Data Science Indonesia",2021-03-01,3803
-"Data Science Indonesia",2021-03-06,3827
-"Data Science Indonesia",2021-03-10,3843
-"Data Science Indonesia",2021-03-13,3847
-"Data Science Indonesia",2021-03-20,3892
-"Data Science Institute",2020-10-20,5713
-"Data Science Institute",2020-10-21,5726
-"Data Science Institute",2020-10-23,5745
-"Data Science Institute",2020-10-25,5796
-"Data Science Institute",2020-10-25,5827
-"Data Science Institute",2020-10-28,5892
-"Data Science Institute",2020-10-30,5959
-"Data Science Institute",2020-11-03,6172
-"Data Science Institute",2020-11-06,6341
-"Data Science Institute",2020-11-10,6608
-"Data Science Institute",2020-11-14,6863
-"Data Science Institute",2020-11-18,7168
-"Data Science Institute",2020-11-23,7656
-"Data Science Institute",2020-11-28,7966
-"Data Science Institute",2020-12-03,8185
-"Data Science Institute",2020-12-05,8208
-"Data Science Institute",2020-12-12,8274
-"Data Science Institute",2020-12-15,8327
-"Data Science Institute",2020-12-20,8370
-"Data Science Institute",2020-12-25,8410
-"Data Science Institute",2020-12-29,8448
-"Data Science Institute",2021-01-03,8511
-"Data Science Institute",2021-01-06,8539
-"Data Science Institute",2021-01-11,8601
-"Data Science Institute",2021-01-15,8645
-"Data Science Institute",2021-01-19,8690
-"Data Science Institute",2021-01-25,8767
-"Data Science Institute",2021-01-25,8768
-"Data Science Institute",2021-01-28,8800
-"Data Science Institute",2021-01-30,8814
-"Data Science Institute",2021-01-31,8821
-"Data Science Institute",2021-01-31,8822
-"Data Science Institute",2021-02-03,8880
-"Data Science Institute",2021-02-03,8884
-"Data Science Institute",2021-02-07,8952
-"Data Science Institute",2021-02-07,8956
-"Data Science Institute",2021-02-12,9063
-"Data Science Institute",2021-02-16,9117
-"Data Science Institute",2021-02-17,9117
-"Data Science Institute",2021-02-21,9167
-"Data Science Institute",2021-02-25,9221
-"Data Science Institute",2021-02-25,9222
-"Data Science Institute",2021-03-01,9288
-"Data Science Institute",2021-03-01,9290
-"Data Science Institute",2021-03-06,9340
-"Data Science Institute",2021-03-10,9379
-"Data Science Institute",2021-03-10,9380
-"Data Science Institute",2021-03-13,9415
-"Data Science Institute",2021-03-16,9481
-"Data Science Institute",2021-03-20,9613
-"Data Science Institute",2021-03-20,9619
-"Data Science Institute",2021-03-24,9816
-"Data Science Milan",2020-10-16,597
-"Data Science Milan",2020-10-18,597
-"Data Science Milan",2020-10-21,598
-"Data Science Milan",2020-10-22,599
-"Data Science Milan",2020-11-02,601
-"Data Science Milan",2020-11-07,603
-"Data Science Milan",2020-11-21,611
-"Data Science Milan",2020-12-15,631
-"Data Science Milan",2021-01-25,674
-"Data Science Milan",2021-01-28,676
-"Data Science Milan",2021-01-31,676
-"Data Science Milan",2021-02-03,677
-"Data Science Milan",2021-02-07,680
-"Data Science Milan",2021-02-12,683
-"Data Science Milan",2021-02-16,685
-"Data Science Milan",2021-02-21,686
-"Data Science Milan",2021-02-25,687
-"Data Science Milan",2021-03-01,689
-"Data Science Milan",2021-03-06,695
-"Data Science Milan",2021-03-10,696
-"Data Science Milan",2021-03-13,701
-"Data Science Milan",2021-03-20,706
-"Data Science Nigeria",2021-01-25,3066
-"Data Science Nigeria",2021-01-28,3076
-"Data Science Nigeria",2021-01-31,3079
-"Data Science Nigeria",2021-02-03,3084
-"Data Science Nigeria",2021-02-07,3091
-"Data Science Nigeria",2021-02-12,3101
-"Data Science Nigeria",2021-02-16,3113
-"Data Science Nigeria",2021-02-21,3127
-"Data Science Nigeria",2021-02-25,3140
-"Data Science Nigeria",2021-03-01,3155
-"Data Science Nigeria",2021-03-06,3177
-"Data Science Nigeria",2021-03-10,3191
-"Data Science Nigeria",2021-03-13,3197
-"Data Science Nigeria",2021-03-20,3219
-"Data Science Portugal",2021-01-25,5856
-"Data Science Portugal",2021-01-28,5869
-"Data Science Portugal",2021-01-31,5874
-"Data Science Portugal",2021-02-03,5898
-"Data Science Portugal",2021-02-07,5916
-"Data Science Portugal",2021-02-12,5933
-"Data Science Portugal",2021-02-16,5947
-"Data Science Portugal",2021-02-21,6001
-"Data Science Portugal",2021-02-25,6043
-"Data Science Portugal",2021-03-01,6075
-"Data Science Portugal",2021-03-06,6138
-"Data Science Portugal",2021-03-10,6173
-"Data Science Portugal",2021-03-13,6183
-"Data Science Portugal",2021-03-20,6217
-"Data Science Research PerÃº",2021-02-25,4855
-"Data Science Research Perú",2021-01-25,4536
-"Data Science Research Perú",2021-01-28,4560
-"Data Science Research Perú",2021-01-31,4582
-"Data Science Research Perú",2021-02-03,4632
-"Data Science Research Perú",2021-02-07,4673
-"Data Science Research Perú",2021-02-12,4751
-"Data Science Research Perú",2021-02-16,4790
-"Data Science Research Perú",2021-02-21,4813
-"Data Science Research Perú",2021-02-25,4855
-"Data Science Research Perú",2021-03-01,4891
-"Data Science Research Perú",2021-03-06,4928
-"Data Science Research Perú",2021-03-10,4955
-"Data Science Research Perú",2021-03-13,4978
-"Data Science Research Perú",2021-03-20,5065
-"Data Science Society",2021-01-22,1199
-"Data Science Society",2021-01-25,1199
-"Data Science Society",2021-01-28,1197
-"Data Science Society",2021-01-31,1197
-"Data Science Society",2021-02-03,1230
-"Data Science Society",2021-02-07,1236
-"Data Science Society",2021-02-12,1243
-"Data Science Society",2021-02-16,1250
-"Data Science Society",2021-02-21,1252
-"Data Science Society",2021-02-25,1255
-"Data Science Society",2021-03-01,1258
-"Data Science Society",2021-03-06,1259
-"Data Science Society",2021-03-10,1259
-"Data Science Society",2021-03-13,1259
-"Data Science Society",2021-03-20,1262
-"Data Science Society at Berkeley",2021-01-22,534
-"Data Science Society at Berkeley",2021-01-25,534
-"Data Science Society at Berkeley",2021-01-28,536
-"Data Science Society at Berkeley",2021-01-31,537
-"Data Science Society at Berkeley",2021-02-03,538
-"Data Science Society at Berkeley",2021-02-07,541
-"Data Science Society at Berkeley",2021-02-12,547
-"Data Science Society at Berkeley",2021-02-16,548
-"Data Science Society at Berkeley",2021-02-21,551
-"Data Science Society at Berkeley",2021-02-25,555
-"Data Science Society at Berkeley",2021-03-01,554
-"Data Science Society at Berkeley",2021-03-06,557
-"Data Science Society at Berkeley",2021-03-10,558
-"Data Science Society at Berkeley",2021-03-13,558
-"Data Science Society at Berkeley",2021-03-20,562
-"Data Science Student Society at UCSD",2021-01-22,343
-"Data Science Student Society at UCSD",2021-01-25,343
-"Data Science Student Society at UCSD",2021-01-28,344
-"Data Science Student Society at UCSD",2021-01-31,343
-"Data Science Student Society at UCSD",2021-02-03,343
-"Data Science Student Society at UCSD",2021-02-07,345
-"Data Science Student Society at UCSD",2021-02-12,346
-"Data Science Student Society at UCSD",2021-02-16,346
-"Data Science Student Society at UCSD",2021-02-21,348
-"Data Science Student Society at UCSD",2021-02-25,351
-"Data Science Student Society at UCSD",2021-03-01,352
-"Data Science Student Society at UCSD",2021-03-06,356
-"Data Science Student Society at UCSD",2021-03-10,358
-"Data Science Student Society at UCSD",2021-03-13,360
-"Data Science Student Society at UCSD",2021-03-20,365
-"Data Visualization Blog",2020-12-15,2127
-"Data Visualization Blog",2020-12-27,2129
-"Data Visualization Blog",2021-01-19,2141
-"Data Visualization Society",2020-10-15,63552
-"Data Visualization Society",2020-10-16,63638
-"Data Visualization Society",2020-10-19,63790
-"Data Visualization Society",2020-10-20,63859
-"Data Visualization Society",2020-10-20,63891
-"Data Visualization Society",2020-10-21,63953
-"Data Visualization Society",2020-10-23,64065
-"Data Visualization Society",2020-10-25,64212
-"Data Visualization Society",2020-10-25,64290
-"Data Visualization Society",2020-10-28,64455
-"Data Visualization Society",2020-10-28,64472
-"Data Visualization Society",2020-10-30,64683
-"Data Visualization Society",2020-11-03,64961
-"Data Visualization Society",2020-11-06,65208
-"Data Visualization Society",2020-11-07,65287
-"Data Visualization Society",2020-11-10,65514
-"Data Visualization Society",2020-11-14,65896
-"Data Visualization Society",2020-11-18,66281
-"Data Visualization Society",2020-11-21,66618
-"Data Visualization Society",2020-11-23,66866
-"Data Visualization Society",2020-11-28,67220
-"Data Visualization Society",2020-11-30,67332
-"Data Visualization Society",2020-12-03,67505
-"Data Visualization Society",2020-12-05,67638
-"Data Visualization Society",2020-12-08,67838
-"Data Visualization Society",2020-12-12,68025
-"Data Visualization Society",2020-12-15,68258
-"Data Visualization Society",2020-12-20,68617
-"Data Visualization Society",2020-12-25,68883
-"Data Visualization Society",2020-12-27,68999
-"Data Visualization Society",2020-12-29,69147
-"Data Visualization Society",2021-01-03,69382
-"Data Visualization Society",2021-01-06,69621
-"Data Visualization Society",2021-01-11,69996
-"Data Visualization Society",2021-01-15,70376
-"Data Visualization Society",2021-01-19,70674
-"Data Visualization Society",2021-01-22,70948
-"Data Visualization Society",2021-01-25,71118
-"Data Visualization Society",2021-01-25,71120
-"Data Visualization Society",2021-01-28,71344
-"Data Visualization Society",2021-01-30,71479
-"Data Visualization Society",2021-01-31,71533
-"Data Visualization Society",2021-01-31,71552
-"Data Visualization Society",2021-02-03,71747
-"Data Visualization Society",2021-02-03,71775
-"Data Visualization Society",2021-02-07,72019
-"Data Visualization Society",2021-02-07,72022
-"Data Visualization Society",2021-02-12,72391
-"Data Visualization Society",2021-02-12,72398
-"Data Visualization Society",2021-02-16,72669
-"Data Visualization Society",2021-02-17,72679
-"Data Visualization Society",2021-02-19,72877
-"Data Visualization Society",2021-02-21,73006
-"Data Visualization Society",2021-02-21,73007
-"Data Visualization Society",2021-02-25,73343
-"Data Visualization Society",2021-02-25,73349
-"Data Visualization Society",2021-03-01,73603
-"Data Visualization Society",2021-03-01,73609
-"Data Visualization Society",2021-03-06,73992
-"Data Visualization Society",2021-03-06,73993
-"Data Visualization Society",2021-03-10,74320
-"Data Visualization Society",2021-03-10,74324
-"Data Visualization Society",2021-03-13,74531
-"Data Visualization Society",2021-03-16,74689
-"Data Visualization Society",2021-03-20,74970
-"Data Visualization Society",2021-03-20,74978
-"Data Visualization Society",2021-03-24,75253
-"Data Visualization Society",2021-03-26,75463
-"Data Visualization Society",2021-03-26,75464
-"Databricks",2020-10-11,168140
-"Databricks",2020-10-13,168642
-"Databricks",2020-10-14,169027
-"Databricks",2020-10-16,169700
-"Databricks",2020-10-19,170280
-"Databricks",2020-10-20,170583
-"Databricks",2020-10-21,170821
-"Databricks",2020-10-23,171335
-"Databricks",2020-10-25,171722
-"Databricks",2020-10-25,171926
-"Databricks",2020-10-28,172541
-"Databricks",2020-10-30,173112
-"Databricks",2020-11-03,173750
-"Databricks",2020-11-06,174306
-"Databricks",2020-11-10,174930
-"Databricks",2020-11-14,175745
-"Databricks",2020-11-18,176600
-"Databricks",2020-11-23,178004
-"Databricks",2020-11-28,178788
-"Databricks",2020-12-03,179943
-"Databricks",2020-12-05,180519
-"Databricks",2020-12-12,182053
-"Databricks",2020-12-15,182690
-"Databricks",2020-12-20,183804
-"Databricks",2020-12-25,184616
-"Databricks",2020-12-29,185287
-"Databricks",2021-01-03,186011
-"Databricks",2021-01-06,186618
-"Databricks",2021-01-11,187492
-"Databricks",2021-01-15,188372
-"Databricks",2021-01-19,189045
-"Databricks",2021-01-25,190474
-"Databricks",2021-01-30,192056
-"Databricks",2021-01-31,192258
-"Databricks",2021-02-03,194266
-"Databricks",2021-02-07,196112
-"Databricks",2021-02-12,197622
-"Databricks",2021-02-17,198889
-"Databricks",2021-02-21,200704
-"Databricks",2021-02-25,202152
-"Databricks",2021-03-01,203267
-"Databricks",2021-03-06,204902
-"Databricks",2021-03-10,206100
-"Databricks",2021-03-16,207563
-"Databricks",2021-03-20,208888
-"Databricks",2021-03-24,209687
-"DataCamp",2020-10-05,178112
-"DataCamp",2020-10-06,178223
-"DataCamp",2020-10-07,178437
-"DataCamp",2020-10-08,178647
-"DataCamp",2020-10-08,178792
-"DataCamp",2020-10-09,178994
-"DataCamp",2020-10-10,179137
-"DataCamp",2020-10-11,179280
-"DataCamp",2020-10-12,179541
-"DataCamp",2020-10-13,179798
-"DataCamp",2020-10-14,179972
-"DataCamp",2020-10-14,180020
-"DataCamp",2020-10-15,180232
-"DataCamp",2020-10-16,180445
-"DataCamp",2020-10-17,180694
-"DataCamp",2020-10-20,181209
-"DataCamp",2020-10-20,181266
-"DataCamp",2020-10-21,181462
-"DataCamp",2020-10-23,181858
-"DataCamp",2020-10-25,182270
-"DataCamp",2020-10-26,182500
-"DataCamp",2020-10-28,183087
-"DataCamp",2020-10-30,183615
-"DataCamp",2020-11-03,184268
-"DataCamp",2020-11-06,184875
-"DataCamp",2020-11-10,185629
-"DataCamp",2020-11-14,186433
-"DataCamp",2020-11-18,187295
-"DataCamp",2020-11-23,188630
-"DataCamp",2020-11-28,189571
-"DataCamp",2020-12-03,190475
-"DataCamp",2020-12-05,190886
-"DataCamp",2020-12-12,191873
-"DataCamp",2020-12-15,192375
-"DataCamp",2020-12-20,193214
-"DataCamp",2020-12-25,193961
-"DataCamp",2020-12-29,194750
-"DataCamp",2021-01-03,195641
-"DataCamp",2021-01-06,196253
-"DataCamp",2021-01-11,197165
-"DataCamp",2021-01-15,198033
-"DataCamp",2021-01-19,198875
-"DataCamp",2021-01-22,199604
-"DataCamp",2021-01-25,200098
-"DataCamp",2021-01-25,200115
-"DataCamp",2021-01-28,200694
-"DataCamp",2021-01-30,200981
-"DataCamp",2021-01-31,201077
-"DataCamp",2021-01-31,201110
-"DataCamp",2021-02-03,201594
-"DataCamp",2021-02-03,201692
-"DataCamp",2021-02-07,202368
-"DataCamp",2021-02-07,202380
-"DataCamp",2021-02-12,203370
-"DataCamp",2021-02-12,203390
-"DataCamp",2021-02-16,204188
-"DataCamp",2021-02-17,204197
-"DataCamp",2021-02-21,205028
-"DataCamp",2021-02-25,205705
-"DataCamp",2021-02-25,205717
-"DataCamp",2021-03-01,206355
-"DataCamp",2021-03-01,206370
-"DataCamp",2021-03-06,207315
-"DataCamp",2021-03-06,207316
-"DataCamp",2021-03-10,208024
-"DataCamp",2021-03-10,208027
-"DataCamp",2021-03-13,208479
-"DataCamp",2021-03-16,208907
-"DataCamp",2021-03-20,209871
-"DataCamp",2021-03-20,209890
-"DataCamp",2021-03-24,210540
-"DATAcated",2021-02-19,20995
-"DATAcated",2021-03-06,21245
-"DATAcated",2021-03-26,21547
-"DataDotOrg",2020-10-25,686
-"DataDotOrg",2020-10-28,688
-"DataDotOrg",2020-10-30,693
-"DataDotOrg",2020-11-03,694
-"DataDotOrg",2020-11-06,695
-"DataDotOrg",2020-11-10,698
-"DataDotOrg",2020-11-14,701
-"DataDotOrg",2020-11-18,703
-"DataDotOrg",2020-11-23,712
-"DataDotOrg",2020-11-28,727
-"DataDotOrg",2020-12-03,739
-"DataDotOrg",2020-12-05,750
-"DataDotOrg",2020-12-12,757
-"DataDotOrg",2020-12-15,760
-"DataDotOrg",2020-12-20,796
-"DataDotOrg",2020-12-25,814
-"DataDotOrg",2020-12-29,822
-"DataDotOrg",2021-01-03,826
-"DataDotOrg",2021-01-06,830
-"DataDotOrg",2021-01-11,844
-"DataDotOrg",2021-01-15,854
-"DataDotOrg",2021-01-19,857
-"DataDotOrg",2021-01-25,938
-"DataDotOrg",2021-01-30,961
-"DataDotOrg",2021-01-31,963
-"DataDotOrg",2021-02-03,968
-"DataDotOrg",2021-02-07,974
-"DataDotOrg",2021-02-12,987
-"DataDotOrg",2021-02-17,997
-"DataDotOrg",2021-02-21,1008
-"DataDotOrg",2021-02-25,1018
-"DataDotOrg",2021-03-01,1024
-"DataDotOrg",2021-03-06,1053
-"DataDotOrg",2021-03-10,1071
-"DataDotOrg",2021-03-16,1091
-"DataDotOrg",2021-03-20,1107
-"DataDotOrg",2021-03-24,1112
-"Datahug (acquired by CallidusCloud)",2020-10-20,3174
-"Datahug (acquired by CallidusCloud)",2020-10-21,3174
-"Datahug (acquired by CallidusCloud)",2020-10-23,3174
-"Datahug (acquired by CallidusCloud)",2020-10-25,3173
-"Datahug (acquired by CallidusCloud)",2020-10-28,3174
-"Datahug (acquired by CallidusCloud)",2020-10-30,3173
-"Datahug (acquired by CallidusCloud)",2020-11-03,3173
-"Datahug (acquired by CallidusCloud)",2020-11-06,3171
-"Datahug (acquired by CallidusCloud)",2020-11-10,3172
-"Datahug (acquired by CallidusCloud)",2020-11-14,3172
-"Datahug (acquired by CallidusCloud)",2020-11-18,3170
-"Datahug (acquired by CallidusCloud)",2020-11-23,3169
-"Datahug (acquired by CallidusCloud)",2020-11-28,3169
-"Datahug (acquired by CallidusCloud)",2020-12-03,3165
-"Datahug (acquired by CallidusCloud)",2020-12-05,3164
-"Datahug (acquired by CallidusCloud)",2020-12-12,3163
-"Datahug (acquired by CallidusCloud)",2020-12-15,3163
-"Datahug (acquired by CallidusCloud)",2020-12-20,3163
-"Datahug (acquired by CallidusCloud)",2020-12-25,3163
-"Datahug (acquired by CallidusCloud)",2020-12-29,3162
-"Datahug (acquired by CallidusCloud)",2021-01-03,3163
-"Datahug (acquired by CallidusCloud)",2021-01-06,3163
-"Datahug (acquired by CallidusCloud)",2021-01-11,3164
-"Datahug (acquired by CallidusCloud)",2021-01-15,3164
-"Datahug (acquired by CallidusCloud)",2021-01-19,3163
-"Datahug (acquired by CallidusCloud)",2021-01-25,3164
-"Datahug (acquired by CallidusCloud)",2021-01-30,3164
-"Datahug (acquired by CallidusCloud)",2021-01-31,3163
-"Datahug (acquired by CallidusCloud)",2021-02-03,3164
-"Datahug (acquired by CallidusCloud)",2021-02-07,3159
-"Datahug (acquired by CallidusCloud)",2021-02-12,3158
-"Datahug (acquired by CallidusCloud)",2021-02-17,3157
-"Datahug (acquired by CallidusCloud)",2021-02-21,3158
-"Datahug (acquired by CallidusCloud)",2021-02-25,3157
-"Datahug (acquired by CallidusCloud)",2021-03-01,3156
-"Datahug (acquired by CallidusCloud)",2021-03-06,3156
-"Datahug (acquired by CallidusCloud)",2021-03-10,3155
-"Datahug (acquired by CallidusCloud)",2021-03-16,3155
-"Datahug (acquired by CallidusCloud)",2021-03-20,3153
-"Datahug (acquired by CallidusCloud)",2021-03-24,3152
-"Dataiku",2020-10-14,55338
-"Dataiku",2020-10-16,55439
-"Dataiku",2020-10-18,55481
-"Dataiku",2020-10-20,55570
-"Dataiku",2020-10-21,55615
-"Dataiku",2020-10-21,55635
-"Dataiku",2020-10-22,55674
-"Dataiku",2020-10-23,55718
-"Dataiku",2020-10-25,55792
-"Dataiku",2020-10-25,55816
-"Dataiku",2020-10-28,55906
-"Dataiku",2020-10-30,56009
-"Dataiku",2020-11-02,56105
-"Dataiku",2020-11-03,56124
-"Dataiku",2020-11-06,56265
-"Dataiku",2020-11-07,56291
-"Dataiku",2020-11-10,56361
-"Dataiku",2020-11-14,56498
-"Dataiku",2020-11-18,56628
-"Dataiku",2020-11-21,56803
-"Dataiku",2020-11-23,56909
-"Dataiku",2020-11-28,57031
-"Dataiku",2020-12-03,57207
-"Dataiku",2020-12-05,57274
-"Dataiku",2020-12-12,57534
-"Dataiku",2020-12-15,57676
-"Dataiku",2020-12-20,57901
-"Dataiku",2020-12-25,58051
-"Dataiku",2020-12-29,58211
-"Dataiku",2021-01-03,58403
-"Dataiku",2021-01-06,58551
-"Dataiku",2021-01-11,58756
-"Dataiku",2021-01-15,58973
-"Dataiku",2021-01-19,59158
-"Dataiku",2021-01-25,59471
-"Dataiku",2021-01-30,59734
-"Dataiku",2021-01-31,59771
-"Dataiku",2021-02-03,59981
-"Dataiku",2021-02-07,60234
-"Dataiku",2021-02-12,60561
-"Dataiku",2021-02-17,60785
-"Dataiku",2021-02-21,61048
-"Dataiku",2021-02-25,61291
-"Dataiku",2021-03-01,61486
-"Dataiku",2021-03-06,61883
-"Dataiku",2021-03-10,62204
-"Dataiku",2021-03-16,62547
-"Dataiku",2021-03-20,62853
-"Dataiku",2021-03-24,63010
-"DataIQ",2020-10-25,6917
-"DataIQ",2020-10-28,6935
-"DataIQ",2020-10-30,7031
-"DataIQ",2020-11-03,7104
-"DataIQ",2020-11-06,7139
-"DataIQ",2020-11-10,7165
-"DataIQ",2020-11-14,7191
-"DataIQ",2020-11-18,7248
-"DataIQ",2020-11-23,7310
-"DataIQ",2020-11-28,7338
-"DataIQ",2020-12-03,7369
-"DataIQ",2020-12-05,7380
-"DataIQ",2020-12-12,7407
-"DataIQ",2020-12-15,7423
-"DataIQ",2020-12-20,7434
-"DataIQ",2020-12-25,7456
-"DataIQ",2020-12-29,7475
-"DataIQ",2021-01-03,7500
-"DataIQ",2021-01-06,7527
-"DataIQ",2021-01-11,7577
-"DataIQ",2021-01-15,7619
-"DataIQ",2021-01-19,7634
-"DataIQ",2021-01-25,7649
-"DataIQ",2021-01-30,7670
-"DataIQ",2021-01-31,7669
-"DataIQ",2021-02-03,7867
-"DataIQ",2021-02-07,8186
-"DataIQ",2021-02-12,8327
-"DataIQ",2021-02-17,8385
-"DataIQ",2021-02-21,8411
-"DataIQ",2021-02-25,8451
-"DataIQ",2021-03-01,8472
-"DataIQ",2021-03-06,8509
-"DataIQ",2021-03-10,8545
-"DataIQ",2021-03-16,8564
-"DataIQ",2021-03-20,8586
-"DataIQ",2021-03-24,8618
-"Datakind",2020-10-15,10694
-"Datakind",2020-10-20,10733
-"DataKind",2020-10-08,10631
-"DataKind",2020-10-13,10672
-"DataKind",2020-10-16,10699
-"DataKind",2020-10-19,10722
-"DataKind",2020-10-20,10734
-"DataKind",2020-10-20,10738
-"DataKind",2020-10-21,10750
-"DataKind",2020-10-23,10767
-"DataKind",2020-10-25,10790
-"DataKind",2020-10-25,10802
-"DataKind",2020-10-28,10827
-"DataKind",2020-10-30,10854
-"DataKind",2020-11-03,10869
-"DataKind",2020-11-06,10887
-"DataKind",2020-11-10,10911
-"DataKind",2020-11-14,10939
-"DataKind",2020-11-18,10968
-"DataKind",2020-11-23,11013
-"DataKind",2020-11-28,11063
-"DataKind",2020-12-03,11172
-"DataKind",2020-12-05,11197
-"DataKind",2020-12-12,11259
-"DataKind",2020-12-15,11290
-"DataKind",2020-12-20,11337
-"DataKind",2020-12-25,11374
-"DataKind",2020-12-29,11399
-"DataKind",2021-01-03,11424
-"DataKind",2021-01-06,11448
-"DataKind",2021-01-11,11480
-"DataKind",2021-01-15,11517
-"DataKind",2021-01-19,11545
-"DataKind",2021-01-25,11598
-"DataKind",2021-01-30,11638
-"DataKind",2021-01-31,11638
-"DataKind",2021-02-03,11665
-"DataKind",2021-02-07,11693
-"DataKind",2021-02-12,11745
-"DataKind",2021-02-17,11783
-"DataKind",2021-02-21,11828
-"DataKind",2021-02-25,11865
-"DataKind",2021-03-01,11902
-"DataKind",2021-03-06,11976
-"DataKind",2021-03-10,12057
-"DataKind",2021-03-16,12119
-"DataKind",2021-03-20,12206
-"DataKind",2021-03-24,12226
-"DataKind UK",2020-10-25,1568
-"DataKind UK",2020-10-28,1571
-"DataKind UK",2020-10-30,1575
-"DataKind UK",2020-11-03,1583
-"DataKind UK",2020-11-06,1586
-"DataKind UK",2020-11-10,1604
-"DataKind UK",2020-11-14,1610
-"DataKind UK",2020-11-18,1618
-"DataKind UK",2020-11-23,1631
-"DataKind UK",2020-11-28,1635
-"DataKind UK",2020-12-03,1647
-"DataKind UK",2020-12-05,1651
-"DataKind UK",2020-12-12,1664
-"DataKind UK",2020-12-15,1666
-"DataKind UK",2020-12-20,1671
-"DataKind UK",2020-12-25,1676
-"DataKind UK",2020-12-29,1682
-"DataKind UK",2021-01-03,1683
-"DataKind UK",2021-01-06,1687
-"DataKind UK",2021-01-11,1694
-"DataKind UK",2021-01-15,1704
-"DataKind UK",2021-01-19,1708
-"DataKind UK",2021-01-25,1714
-"DataKind UK",2021-01-30,1721
-"DataKind UK",2021-01-31,1721
-"DataKind UK",2021-02-03,1726
-"DataKind UK",2021-02-07,1728
-"DataKind UK",2021-02-12,1735
-"DataKind UK",2021-02-17,1746
-"DataKind UK",2021-02-21,1754
-"DataKind UK",2021-02-25,1757
-"DataKind UK",2021-03-01,1761
-"DataKind UK",2021-03-06,1769
-"DataKind UK",2021-03-10,1775
-"DataKind UK",2021-03-16,1795
-"DataKind UK",2021-03-20,1807
-"DataKind UK",2021-03-24,1811
-"DataLab USA",2021-02-19,2507
-"DataLab USA",2021-03-06,2535
-"DataLab USA",2021-03-26,2640
-"Datalytics",2020-10-16,6466
-"Datalytics",2020-10-25,6487
-"Datalytics",2020-10-28,6488
-"Datalytics",2020-10-30,6497
-"Datalytics",2020-11-03,6506
-"Datalytics",2020-11-06,6518
-"Datalytics",2020-11-10,6525
-"Datalytics",2020-11-14,6551
-"Datalytics",2020-11-18,6565
-"Datalytics",2020-11-23,6591
-"Datalytics",2020-11-28,6612
-"Datalytics",2020-12-03,6625
-"Datalytics",2020-12-05,6637
-"Datalytics",2020-12-12,6664
-"Datalytics",2020-12-15,6696
-"Datalytics",2020-12-20,6726
-"Datalytics",2020-12-25,6737
-"Datalytics",2020-12-29,6743
-"Datalytics",2021-01-03,6758
-"Datalytics",2021-01-06,6768
-"Datalytics",2021-01-11,6788
-"Datalytics",2021-01-15,6802
-"Datalytics",2021-01-19,6815
-"Datalytics",2021-01-25,6890
-"Datalytics",2021-01-30,6941
-"Datalytics",2021-01-31,6952
-"Datalytics",2021-02-03,7001
-"Datalytics",2021-02-07,7010
-"Datalytics",2021-02-12,7039
-"Datalytics",2021-02-17,7061
-"Datalytics",2021-02-21,7074
-"Datalytics",2021-02-25,7086
-"Datalytics",2021-03-01,7097
-"Datalytics",2021-03-06,7129
-"Datalytics",2021-03-10,7145
-"Datalytics",2021-03-16,7178
-"Datalytics",2021-03-20,7202
-"Datalytics",2021-03-24,7227
-"DataMuni",2021-01-22,347
-"DataMuni",2021-01-25,353
-"DataMuni",2021-01-28,358
-"DataMuni",2021-01-31,360
-"DataMuni",2021-02-03,364
-"DataMuni",2021-02-07,371
-"DataMuni",2021-02-12,380
-"DataMuni",2021-02-16,390
-"DataMuni",2021-02-21,402
-"DataMuni",2021-02-25,407
-"DataMuni",2021-03-01,414
-"DataMuni",2021-03-06,426
-"DataMuni",2021-03-10,432
-"DataMuni",2021-03-13,449
-"DataMuni",2021-03-20,487
-"Dataport AöR",2020-11-30,1830
-"Dataport AöR",2020-12-08,1874
-"Dataquest.io",2020-10-09,33686
-"Dataquest.io",2020-10-13,33723
-"Dataquest.io",2020-10-16,33756
-"Dataquest.io",2020-10-25,33829
-"Dataquest.io",2020-10-25,33830
-"Dataquest.io",2020-10-28,33849
-"Dataquest.io",2020-10-30,33873
-"Dataquest.io",2020-10-30,33874
-"Dataquest.io",2020-11-03,33897
-"Dataquest.io",2020-11-06,33942
-"Dataquest.io",2020-11-10,33978
-"Dataquest.io",2020-11-14,34028
-"Dataquest.io",2020-11-18,34080
-"Dataquest.io",2020-11-23,34140
-"Dataquest.io",2020-11-28,34184
-"Dataquest.io",2020-12-03,34226
-"Dataquest.io",2020-12-05,34244
-"Dataquest.io",2020-12-12,34397
-"Dataquest.io",2020-12-15,34470
-"Dataquest.io",2020-12-20,34541
-"Dataquest.io",2020-12-25,34644
-"Dataquest.io",2020-12-29,34733
-"Dataquest.io",2021-01-03,34798
-"Dataquest.io",2021-01-06,34853
-"Dataquest.io",2021-01-11,34939
-"Dataquest.io",2021-01-15,34990
-"Dataquest.io",2021-01-15,34991
-"Dataquest.io",2021-01-19,35026
-"Dataquest.io",2021-01-25,35099
-"Dataquest.io",2021-01-30,35170
-"Dataquest.io",2021-01-31,35173
-"Dataquest.io",2021-02-03,35203
-"Dataquest.io",2021-02-07,35244
-"Dataquest.io",2021-02-12,35315
-"Dataquest.io",2021-02-17,35370
-"Dataquest.io",2021-02-21,35408
-"Dataquest.io",2021-02-21,35409
-"Dataquest.io",2021-02-25,35457
-"Dataquest.io",2021-03-01,35496
-"Dataquest.io",2021-03-06,35579
-"Dataquest.io",2021-03-10,35637
-"Dataquest.io",2021-03-16,35698
-"Dataquest.io",2021-03-20,35788
-"Dataquest.io",2021-03-20,35789
-"Dataquest.io",2021-03-24,35835
-"DataRobot",2020-10-09,63823
-"DataRobot",2020-10-11,63889
-"DataRobot",2020-10-14,64059
-"DataRobot",2020-10-19,64728
-"DataRobot",2020-10-20,64371
-"DataRobot",2020-10-21,64423
-"DataRobot",2020-10-23,64551
-"DataRobot",2020-10-25,64637
-"DataRobot",2020-10-25,64663
-"DataRobot",2020-10-28,64792
-"DataRobot",2020-10-30,64925
-"DataRobot",2020-11-03,65047
-"DataRobot",2020-11-06,65191
-"DataRobot",2020-11-10,65313
-"DataRobot",2020-11-14,65558
-"DataRobot",2020-11-18,65967
-"DataRobot",2020-11-23,66517
-"DataRobot",2020-11-28,66721
-"DataRobot",2020-12-03,67020
-"DataRobot",2020-12-05,67136
-"DataRobot",2020-12-12,67579
-"DataRobot",2020-12-15,67766
-"DataRobot",2020-12-20,68113
-"DataRobot",2020-12-25,68334
-"DataRobot",2020-12-29,68500
-"DataRobot",2021-01-03,68683
-"DataRobot",2021-01-06,68843
-"DataRobot",2021-01-11,69366
-"DataRobot",2021-01-15,69649
-"DataRobot",2021-01-19,69861
-"DataRobot",2021-01-25,70245
-"DataRobot",2021-01-30,70623
-"DataRobot",2021-01-31,70670
-"DataRobot",2021-02-03,70887
-"DataRobot",2021-02-07,71179
-"DataRobot",2021-02-12,71592
-"DataRobot",2021-02-17,71849
-"DataRobot",2021-02-21,72144
-"DataRobot",2021-02-25,72450
-"DataRobot",2021-03-01,72808
-"DataRobot",2021-03-06,73165
-"DataRobot",2021-03-10,73457
-"DataRobot",2021-03-16,73778
-"DataRobot",2021-03-20,74084
-"DataRobot",2021-03-24,74272
-"DataSeries",2020-11-21,269
-"DataSeries",2020-11-30,284
-"DataSeries",2020-12-08,290
-"DataSoc",2020-10-20,417
-"DataSoc",2020-10-21,420
-"DataSoc",2020-10-23,426
-"DataSoc",2020-10-25,430
-"DataSoc",2020-10-25,437
-"DataSoc",2020-10-28,459
-"DataSoc",2020-10-30,479
-"DataSoc",2020-11-03,487
-"DataSoc",2020-11-06,498
-"DataSoc",2020-11-10,504
-"DataSoc",2020-11-14,511
-"DataSoc",2020-11-18,532
-"DataSoc",2020-11-23,547
-"DataSoc",2020-11-28,549
-"DataSoc",2020-12-03,555
-"DataSoc",2020-12-05,556
-"DataSoc",2020-12-12,560
-"DataSoc",2020-12-15,562
-"DataSoc",2020-12-20,565
-"DataSoc",2020-12-25,565
-"DataSoc",2020-12-29,568
-"DataSoc",2021-01-03,572
-"DataSoc",2021-01-06,573
-"DataSoc",2021-01-11,579
-"DataSoc",2021-01-15,580
-"DataSoc",2021-01-19,582
-"DataSoc",2021-01-22,586
-"DataSoc",2021-01-25,587
-"DataSoc",2021-01-28,590
-"DataSoc",2021-01-30,590
-"DataSoc",2021-01-31,591
-"DataSoc",2021-02-03,599
-"DataSoc",2021-02-07,599
-"DataSoc",2021-02-12,603
-"DataSoc",2021-02-12,604
-"DataSoc",2021-02-16,612
-"DataSoc",2021-02-17,613
-"DataSoc",2021-02-21,619
-"DataSoc",2021-02-25,622
-"DataSoc",2021-03-01,626
-"DataSoc",2021-03-06,646
-"DataSoc",2021-03-10,656
-"DataSoc",2021-03-13,659
-"DataSoc",2021-03-16,663
-"DataSoc",2021-03-20,666
-"DataSoc",2021-03-24,667
-"DataTalksClub",2020-12-27,378
-"DataTalksClub",2021-01-22,807
-"DataTalksClub",2021-01-25,852
-"DataTalksClub",2021-01-28,879
-"DataTalksClub",2021-01-31,913
-"DataTalksClub",2021-02-03,960
-"DataTalksClub",2021-02-07,988
-"DataTalksClub",2021-02-12,1039
-"DataTalksClub",2021-02-16,1088
-"DataTalksClub",2021-02-19,1186
-"DataTalksClub",2021-02-21,1201
-"DataTalksClub",2021-02-25,1288
-"DataTalksClub",2021-03-01,1311
-"DataTalksClub",2021-03-06,1338
-"DataTalksClub",2021-03-10,1363
-"DataTalksClub",2021-03-13,1384
-"DataTalksClub",2021-03-20,1457
-"DataTalksClub",2021-03-26,1570
-"Decision Inc.",2020-10-20,23822
-"Decision Inc.",2020-10-21,23829
-"Decision Inc.",2020-10-23,23849
-"Decision Inc.",2020-10-25,23858
-"Decision Inc.",2020-10-25,23865
-"Decision Inc.",2020-10-28,23883
-"Decision Inc.",2020-10-30,24081
-"Decision Inc.",2020-11-03,24117
-"Decision Inc.",2020-11-06,24126
-"Decision Inc.",2020-11-10,24127
-"Decision Inc.",2020-11-14,24149
-"Decision Inc.",2020-11-18,24153
-"Decision Inc.",2020-11-23,24226
-"Decision Inc.",2020-11-28,24253
-"Decision Inc.",2020-12-03,24337
-"Decision Inc.",2020-12-05,24389
-"Decision Inc.",2020-12-12,24491
-"Decision Inc.",2020-12-15,24497
-"Decision Inc.",2020-12-20,24502
-"Decision Inc.",2020-12-25,24516
-"Decision Inc.",2020-12-29,24523
-"Decision Inc.",2021-01-03,24534
-"Decision Inc.",2021-01-06,24535
-"Decision Inc.",2021-01-11,24535
-"Decision Inc.",2021-01-15,24578
-"Decision Inc.",2021-01-19,24592
-"Decision Inc.",2021-01-25,24669
-"Decision Inc.",2021-01-30,24696
-"Decision Inc.",2021-01-31,24689
-"Decision Inc.",2021-02-03,24719
-"Decision Inc.",2021-02-07,24758
-"Decision Inc.",2021-02-12,24896
-"Decision Inc.",2021-02-17,24935
-"Decision Inc.",2021-02-21,24989
-"Decision Inc.",2021-02-25,25022
-"Decision Inc.",2021-03-01,25024
-"Decision Inc.",2021-03-06,25037
-"Decision Inc.",2021-03-10,25120
-"Decision Inc.",2021-03-16,25173
-"Decision Inc.",2021-03-20,25206
-"Decision Inc.",2021-03-24,25231
-"deepkapha.ai",2020-12-27,38286
-"deepkapha.ai",2021-02-19,39033
-"deepkapha.ai",2021-03-26,41290
-"deeplearning.ai",2020-10-20,312154
-"deeplearning.ai",2020-10-21,312552
-"deeplearning.ai",2020-10-23,313313
-"deeplearning.ai",2020-10-25,313999
-"deeplearning.ai",2020-10-25,314377
-"deeplearning.ai",2020-10-28,315261
-"deeplearning.ai",2020-10-30,316100
-"deeplearning.ai",2020-11-03,317096
-"deeplearning.ai",2020-11-06,317997
-"deeplearning.ai",2020-11-10,319121
-"deeplearning.ai",2020-11-14,320603
-"deeplearning.ai",2020-11-18,322533
-"deeplearning.ai",2020-11-23,326022
-"deeplearning.ai",2020-11-28,328086
-"deeplearning.ai",2020-12-03,330023
-"deeplearning.ai",2020-12-05,330871
-"deeplearning.ai",2020-12-12,333220
-"deeplearning.ai",2020-12-15,334327
-"deeplearning.ai",2020-12-20,336093
-"deeplearning.ai",2020-12-25,337622
-"deeplearning.ai",2020-12-29,339457
-"deeplearning.ai",2021-01-03,341453
-"deeplearning.ai",2021-01-06,342748
-"deeplearning.ai",2021-01-11,344302
-"deeplearning.ai",2021-01-15,346694
-"deeplearning.ai",2021-01-19,348288
-"deeplearning.ai",2021-01-22,349632
-"deeplearning.ai",2021-01-25,350523
-"deeplearning.ai",2021-01-25,350544
-"deeplearning.ai",2021-01-28,351732
-"deeplearning.ai",2021-01-30,352258
-"deeplearning.ai",2021-01-31,352441
-"deeplearning.ai",2021-01-31,352491
-"deeplearning.ai",2021-02-03,353402
-"deeplearning.ai",2021-02-03,353557
-"deeplearning.ai",2021-02-07,354712
-"deeplearning.ai",2021-02-07,354729
-"DeepLearning.AI",2021-02-12,356793
-"DeepLearning.AI",2021-02-12,356829
-"DeepLearning.AI",2021-02-16,358529
-"DeepLearning.AI",2021-02-17,358589
-"DeepLearning.AI",2021-02-21,360265
-"DeepLearning.AI",2021-02-21,360276
-"DeepLearning.AI",2021-02-25,362016
-"DeepLearning.AI",2021-02-25,362037
-"DeepLearning.AI",2021-03-01,363523
-"DeepLearning.AI",2021-03-01,363555
-"DeepLearning.AI",2021-03-06,365231
-"DeepLearning.AI",2021-03-06,365234
-"DeepLearning.AI",2021-03-10,366680
-"DeepLearning.AI",2021-03-10,366682
-"DeepLearning.AI",2021-03-13,367644
-"DeepLearning.AI",2021-03-16,368515
-"DeepLearning.AI",2021-03-20,370718
-"DeepLearning.AI",2021-03-20,370762
-"DeepLearning.AI",2021-03-24,372581
-"Defence Forces of Ireland",2020-10-20,3833
-"Defence Forces of Ireland",2020-10-21,3833
-"Defence Forces of Ireland",2020-10-23,3833
-"Defence Forces of Ireland",2020-10-25,3834
-"Defence Forces of Ireland",2020-10-26,3834
-"Defence Forces of Ireland",2020-10-28,3833
-"Defence Forces of Ireland",2020-10-30,3834
-"Defence Forces of Ireland",2020-11-03,3836
-"Defence Forces of Ireland",2020-11-06,3840
-"Defence Forces of Ireland",2020-11-10,3842
-"Defence Forces of Ireland",2020-11-14,3844
-"Defence Forces of Ireland",2020-11-18,3843
-"Defence Forces of Ireland",2020-11-23,3849
-"Defence Forces of Ireland",2020-11-28,3850
-"Defence Forces of Ireland",2020-12-03,3854
-"Defence Forces of Ireland",2020-12-05,3859
-"Defence Forces of Ireland",2020-12-12,3861
-"Defence Forces of Ireland",2020-12-15,3860
-"Defence Forces of Ireland",2020-12-20,3864
-"Defence Forces of Ireland",2020-12-25,3865
-"Defence Forces of Ireland",2020-12-29,3868
-"Defence Forces of Ireland",2021-01-03,3872
-"Defence Forces of Ireland",2021-01-06,3873
-"Defence Forces of Ireland",2021-01-11,3878
-"Defence Forces of Ireland",2021-01-15,3879
-"Defence Forces of Ireland",2021-01-19,3881
-"Defence Forces of Ireland",2021-01-25,3887
-"Defence Forces of Ireland",2021-01-30,3892
-"Defence Forces of Ireland",2021-01-31,3892
-"Defence Forces of Ireland",2021-02-03,3896
-"Defence Forces of Ireland",2021-02-07,3907
-"Defence Forces of Ireland",2021-02-12,3909
-"Defence Forces of Ireland",2021-02-17,3913
-"Defence Forces of Ireland",2021-02-21,3913
-"Defence Forces of Ireland",2021-02-25,3916
-"Defence Forces of Ireland",2021-03-01,3917
-"Defence Forces of Ireland",2021-03-06,3920
-"Defence Forces of Ireland",2021-03-10,3922
-"Defence Forces of Ireland",2021-03-16,3927
-"Defence Forces of Ireland",2021-03-20,3932
-"Defence Forces of Ireland",2021-03-24,3935
-"Deloitte",2020-10-05,5370228
-"Deloitte",2020-10-13,5452316
-"Deloitte",2020-10-16,5562541
-"Deloitte Deutschland",2020-12-27,49294
-"Deloitte Deutschland",2021-02-19,52987
-"Deloitte Deutschland",2021-03-26,55939
-"Deloitte Insights",2020-10-13,76154
-"Deloitte Insights",2020-10-16,76271
-"Deserve",2021-02-19,6710
-"Deserve",2021-03-26,7185
-"Directi",2021-02-19,107954
-"Directi",2021-03-06,108312
-"Directi",2021-03-26,108683
-"diwo",2020-10-16,848
-"diwo",2020-10-28,851
-"diwo",2020-11-07,856
-"diwo",2020-11-21,863
-"diwo",2020-11-30,867
-"diwo",2020-12-08,875
-"diwo",2020-12-15,877
-"diwo",2020-12-27,890
-"diwo",2021-01-19,909
-"diwo",2021-02-19,955
-"diwo",2021-03-06,972
-"diwo",2021-03-26,1036
-"DMSS Software",2020-12-15,1278
-"DMSS Software",2020-12-27,1279
-"DMSS Software",2021-01-19,1282
-"Dnet - a social enterprise",2020-10-16,2927
-"Dnet - a social enterprise",2020-10-20,2929
-"Dnet - a social enterprise",2020-10-22,2934
-"Dnet - a social enterprise",2020-10-28,2937
-"Dnet - a social enterprise",2020-11-07,2944
-"Dnet - a social enterprise",2020-11-12,2945
-"Dnet - a social enterprise",2020-11-21,2946
-"Dnet - a social enterprise",2021-02-19,3006
-"Dnet - a social enterprise",2021-03-26,3032
-"DOF Subsea",2021-01-22,131255
-"DOF Subsea",2021-01-25,131380
-"DOF Subsea",2021-01-28,131533
-"DOF Subsea",2021-01-31,131630
-"DOF Subsea",2021-02-03,131783
-"DOF Subsea",2021-02-07,131965
-"DOF Subsea",2021-02-12,132193
-"DOF Subsea",2021-02-16,132311
-"DOF Subsea",2021-02-21,132455
-"DOF Subsea",2021-02-25,132603
-"DOF Subsea",2021-03-01,132772
-"DOF Subsea",2021-03-06,133003
-"DOF Subsea",2021-03-10,133154
-"DOF Subsea",2021-03-13,133284
-"DOF Subsea",2021-03-20,133614
-"Dogpatch Labs",2020-12-27,5122
-"Dogpatch Labs",2021-02-19,5491
-"Dogpatch Labs",2021-03-26,5720
-"Domino Data Lab",2020-10-16,8204
-"Domino Data Lab",2020-10-21,8247
-"Domino Data Lab",2020-10-23,8263
-"Domino Data Lab",2020-10-25,8270
-"Domino Data Lab",2020-10-25,8274
-"Domino Data Lab",2020-10-28,8283
-"Domino Data Lab",2020-10-30,8312
-"Domino Data Lab",2020-11-03,8328
-"Domino Data Lab",2020-11-06,8415
-"Domino Data Lab",2020-11-10,8556
-"Domino Data Lab",2020-11-14,8644
-"Domino Data Lab",2020-11-18,8715
-"Domino Data Lab",2020-11-23,8840
-"Domino Data Lab",2020-11-28,8901
-"Domino Data Lab",2020-12-03,9003
-"Domino Data Lab",2020-12-05,9053
-"Domino Data Lab",2020-12-12,9387
-"Domino Data Lab",2020-12-15,9466
-"Domino Data Lab",2020-12-20,9608
-"Domino Data Lab",2020-12-25,9691
-"Domino Data Lab",2020-12-29,9771
-"Domino Data Lab",2021-01-03,9811
-"Domino Data Lab",2021-01-06,9886
-"Domino Data Lab",2021-01-11,9970
-"Domino Data Lab",2021-01-15,10054
-"Domino Data Lab",2021-01-19,10089
-"Domino Data Lab",2021-01-25,10170
-"Domino Data Lab",2021-01-30,10513
-"Domino Data Lab",2021-01-31,10577
-"Domino Data Lab",2021-02-03,10782
-"Domino Data Lab",2021-02-07,11191
-"Domino Data Lab",2021-02-12,11454
-"Domino Data Lab",2021-02-17,11703
-"Domino Data Lab",2021-02-21,11891
-"Domino Data Lab",2021-02-25,12107
-"Domino Data Lab",2021-03-01,12198
-"Domino Data Lab",2021-03-06,12336
-"Domino Data Lab",2021-03-10,12444
-"Domino Data Lab",2021-03-16,12675
-"Domino Data Lab",2021-03-20,12824
-"Domino Data Lab",2021-03-24,12904
-"Doris Duke Charitable Foundation",2020-10-25,2201
-"Doris Duke Charitable Foundation",2020-10-28,2205
-"Doris Duke Charitable Foundation",2020-10-30,2206
-"Doris Duke Charitable Foundation",2020-11-03,2207
-"Doris Duke Charitable Foundation",2020-11-06,2207
-"Doris Duke Charitable Foundation",2020-11-10,2208
-"Doris Duke Charitable Foundation",2020-11-14,2220
-"Doris Duke Charitable Foundation",2020-11-18,2226
-"Doris Duke Charitable Foundation",2020-11-23,2238
-"Doris Duke Charitable Foundation",2020-11-28,2244
-"Doris Duke Charitable Foundation",2020-12-03,2247
-"Doris Duke Charitable Foundation",2020-12-05,2248
-"Doris Duke Charitable Foundation",2020-12-12,2254
-"Doris Duke Charitable Foundation",2020-12-15,2259
-"Doris Duke Charitable Foundation",2020-12-20,2265
-"Doris Duke Charitable Foundation",2020-12-25,2271
-"Doris Duke Charitable Foundation",2020-12-29,2276
-"Doris Duke Charitable Foundation",2021-01-03,2280
-"Doris Duke Charitable Foundation",2021-01-06,2286
-"Doris Duke Charitable Foundation",2021-01-11,2297
-"Doris Duke Charitable Foundation",2021-01-15,2315
-"Doris Duke Charitable Foundation",2021-01-19,2324
-"Doris Duke Charitable Foundation",2021-01-25,2332
-"Doris Duke Charitable Foundation",2021-01-30,2343
-"Doris Duke Charitable Foundation",2021-01-31,2344
-"Doris Duke Charitable Foundation",2021-02-03,2346
-"Doris Duke Charitable Foundation",2021-02-07,2353
-"Doris Duke Charitable Foundation",2021-02-12,2357
-"Doris Duke Charitable Foundation",2021-02-17,2361
-"Doris Duke Charitable Foundation",2021-02-21,2370
-"Doris Duke Charitable Foundation",2021-02-25,2377
-"Doris Duke Charitable Foundation",2021-03-01,2383
-"Doris Duke Charitable Foundation",2021-03-06,2396
-"Doris Duke Charitable Foundation",2021-03-10,2398
-"Doris Duke Charitable Foundation",2021-03-16,2404
-"Doris Duke Charitable Foundation",2021-03-20,2410
-"Doris Duke Charitable Foundation",2021-03-24,2413
-"Drop",2020-10-16,1185
-"Drop",2020-10-21,1189
-"Drop",2020-10-24,1190
-"Drop",2020-10-28,1192
-"Drop",2020-11-07,1196
-"Dubai Technologies",2021-01-22,3021
-"Dubai Technologies",2021-01-25,3033
-"Dubai Technologies",2021-01-28,3045
-"Dubai Technologies",2021-01-31,3052
-"Dubai Technologies",2021-02-03,3068
-"Dubai Technologies",2021-02-07,3074
-"Dubai Technologies",2021-02-12,3082
-"Dubai Technologies",2021-02-16,3097
-"Dubai Technologies",2021-02-21,3108
-"Dubai Technologies",2021-02-25,3130
-"Dubai Technologies",2021-03-01,3147
-"Dubai Technologies",2021-03-06,3169
-"Dubai Technologies",2021-03-10,3187
-"Dubai Technologies",2021-03-13,3206
-"Dubai Technologies",2021-03-20,3237
-"Dubai Technology Entrepreneur Campus - Dtec",2021-01-22,4161
-"Dubai Technology Entrepreneur Campus - Dtec",2021-01-25,4181
-"Dubai Technology Entrepreneur Campus - Dtec",2021-01-28,4190
-"Dubai Technology Entrepreneur Campus - Dtec",2021-01-31,4197
-"Dubai Technology Entrepreneur Campus - Dtec",2021-02-03,4201
-"Dubai Technology Entrepreneur Campus - Dtec",2021-02-07,4205
-"Dubai Technology Entrepreneur Campus - Dtec",2021-02-12,4222
-"Dubai Technology Entrepreneur Campus - Dtec",2021-02-16,4248
-"Dubai Technology Entrepreneur Campus - Dtec",2021-02-21,4263
-"Dubai Technology Entrepreneur Campus - Dtec",2021-02-25,4276
-"Dubai Technology Entrepreneur Campus - Dtec",2021-03-01,4297
-"Dubai Technology Entrepreneur Campus - Dtec",2021-03-06,4324
-"Dubai Technology Entrepreneur Campus - Dtec",2021-03-10,4340
-"Dubai Technology Entrepreneur Campus - Dtec",2021-03-13,4349
-"Dubai Technology Entrepreneur Campus - Dtec",2021-03-20,4383
+"Bernard van Leer Foundation",2021-04-20,6897
+"Bernard van Leer Foundation",2021-04-24,6929
+"Bernard van Leer Foundation",2021-04-28,6952
+"Bernard van Leer Foundation",2021-05-07,7020
+"Bernard van Leer Foundation",2021-05-10,7050
+"Bernard van Leer Foundation",2021-05-14,7082
+"Bernard van Leer Foundation",2021-05-21,7118
+"Bernard van Leer Foundation",2021-05-26,7143
+"Bernard van Leer Foundation",2021-05-31,7188
+"Bernard van Leer Foundation",2021-06-06,7244
+"Bernard van Leer Foundation",2021-06-09,7268
+"Betriebswirtschaftslehre an der Heinrich Heine Universit�t D�sseldorf",2020-11-30,258
+"Betriebswirtschaftslehre an der Heinrich Heine Universit�t D�sseldorf",2020-12-08,273
+"Betriebswirtschaftslehre an der Heinrich Heine Universit�t D�sseldorf",2020-12-15,274
+"Betriebswirtschaftslehre an der Heinrich Heine Universit�t D�sseldorf",2020-12-27,273
+"Betriebswirtschaftslehre an der Heinrich Heine Universit�t D�sseldorf",2021-01-19,276
+"Bhutan Data Scientists",2021-06-02,37
+"Bhutan Data Scientists",2021-06-09,37
