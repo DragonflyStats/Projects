@@ -13,9 +13,11 @@
 "Errigal","Donegal","Green"
 "Gortahork","Donegal","Green"
 "Carrick on Shannon","Leitrim","Green"
-"Malin Head","Donegal","Ireland"
-"Drumshambo","Leitrim","Green"
-"Ceide","Mayo","Red"
+"Malin Head","Donegal","Green"
+"Drumshambo","Leitrim","Brown"
+Strokestown,Roscommon,Brown
+Westport,Mayo,Brown
+"Ceide","Mayo","Brown
 "Easky","Sligo","Red"
 "Sligo","Sligo","Red"
 "Clara","Offaly","Maroon"
@@ -30,7 +32,7 @@
 "Abbeyfeale","Limerick","Orange"
 "Doneraile","Cork","Pink"
 "Macroom","Cork","Pink"
-"Sneed","Kerry","Pink"
+"Sneem","Kerry","Pink"
 "Valentia","Kerry","Pink"
 "Clifden","Galway","Purple"
 "Cong","Galway","Purple"
