@@ -3,66 +3,7 @@
 "Aengus O Snodaigh",2021-08-17,8688,8902
 "Aengus O Snodaigh",2021-09-21,8683,8898
 "Aengus O Snodaigh",2021-10-12,8670,8893
-Catherine Ardagh,2021-10-29,3120,3194
-Marc O Cathasaigh,2021-10-29,1223,1360
-Marie Sherlock,2021-10-29,791,919
-Matt Shanahan,2021-10-29,1317,1706
-Maura Hopkins,2021-10-29,4383,4429
-Michael Creed,2021-10-29,4054,4275
-Michael Fitzmaurice,2021-10-29,5402,5737
-Michael Martin,2021-10-29,25693,26482
-Michael McDowell,2021-10-29,425,438
-Michael McGrath,2021-10-29,13019,13548
-Michael Moynihan,2021-10-29,5294,5838
-Neale Richmond,2021-10-29,5308,5470
-Violet-Anne Wynne,2021-10-29,3129,3297
-Workers Party,2021-10-29,9112,9432
-Cathal Berry,2021-10-29,3081,3447
-Catherine Martin,2021-10-29,3748,4275
-Cavan Fine Gael,2021-10-29,306,313
-Chris Andrews,2021-10-29,2404,2536
-Clare Daly,2021-10-29,24261,26032
-Colm Brophy,2021-10-29,1473,1613
-Colm Burke,2021-10-29,2663,2818
-Constitution Of Ireland Trust,2021-10-29,6237,7015
-Direct Democracy Ireland,2021-10-29,9543,9341
-Eire Exposed,2021-10-29,2504,2594
-Waterford Social Democrats,2021-10-29,327,336
-Willie O'Dea,2021-10-29,6188,6429
-Helen Mc Entee,2021-10-29,14816,15933
-Hildegarde Naughton,2021-10-29,3186,3283
-Imelda Munster,2021-10-29,4595,4737
-Integrity Ireland,2021-10-29,12204,18429
-Ireland's Recovery,2021-10-29,7849,8106
-James Hope,2021-10-29,508,547
-Jim O'Callaghan,2021-10-29,2506,2660
-Josepha Madigan,2021-10-29,7031,7544
-Labour Youth,2021-10-29,3574,3802
-Lynn Boylan,2021-10-29,4876,5090
-Katherine Zappone,2021-10-29,11447,11663
-Regina Doherty,2021-10-29,9717,10020
-Rose Conway-Walsh,2021-10-29,11234,11822
-Save Kerry,2021-10-29,353,384
-Save Leitrim,2021-10-29,5408,5657
-Sean Canney,2021-10-29,4143,4324
-Social Democrats Kerry,2021-10-29,655,664
-Sorca Clarke,2021-10-29,3925,4143
-Tim Lombard,2021-10-29,6522,6824
-Vincent P. Martin,2021-10-29,844,936
-Roderic O'Gorman,2021-10-29,3426,3709
-Yellow Vest Ireland Coolock,2021-10-29,747,779
-Clare Fine Gael,2021-10-29,916,936
-Tom Healy Sinn Fein,2021-10-29,1299,1302
-Lucinda Creighton,2021-10-29,4784,4718
-Catherine Murphy,2021-10-29,10121,9954
-Connolly Youth Movement,2021-10-29,9702,10255
-Aengus O Snodaigh,2021-10-29,8665,8903
-Brid Smith,2021-10-29,16397,16872
-Claire Byrne,2021-10-29,1124,1147
-Paul Gavan,2021-10-29,3008,3226
-Social Democrats,2021-10-29,10774,10984
-Tir Na Saor - Land of the Free,2021-10-29,8549,8253
-Ben Scallan,2021-10-29,16209,17198
+"Aengus O Snodaigh",2021-10-29,8665,8903
 "AFA Ireland",2021-07-16,17415,18157
 "AFA Ireland",2021-08-19,17391,18147
 "AFA Ireland",2021-09-22,17351,18126
@@ -230,6 +171,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Ben Scallan",2021-09-07,16230,17220
 "Ben Scallan",2021-09-29,16245,17232
 "Ben Scallan",2021-10-15,16214,17200
+"Ben Scallan",2021-10-29,16209,17198
 "Bernard Durkan",2021-07-01,3629,3731
 "Bernard Durkan",2021-07-19,3638,3743
 "Bernard Durkan",2021-08-24,3641,3750
@@ -286,6 +228,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Brid Smith",2021-08-16,16429,16904
 "Brid Smith",2021-09-18,16441,16883
 "Brid Smith",2021-10-12,16405,16879
+"Brid Smith",2021-10-29,16397,16872
 "Call For A Revolution",2021-07-01,1244,1269
 "Call For A Revolution",2021-07-19,1235,1261
 "Call For A Revolution",2021-08-17,1286,1361
@@ -310,6 +253,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Cathal Berry",2021-07-19,3026,3373
 "Cathal Berry",2021-08-17,3043,3391
 "Cathal Berry",2021-09-22,3071,3424
+"Cathal Berry",2021-10-29,3081,3447
 "Cathal Byrne",2021-07-18,3993,4212
 "Cathal Byrne",2021-08-16,4006,4228
 "Cathal Byrne",2021-09-18,4011,4232
@@ -325,6 +269,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Catherine Ardagh",2021-09-07,3130,3202
 "Catherine Ardagh",2021-09-29,3128,3201
 "Catherine Ardagh",2021-10-15,3123,3197
+"Catherine Ardagh",2021-10-29,3120,3194
 "Catherine Connolly",2021-07-01,17158,18608
 "Catherine Connolly",2021-07-19,17385,18882
 "Catherine Connolly",2021-08-24,17428,18912
@@ -334,10 +279,12 @@ Ben Scallan,2021-10-29,16209,17198
 "Catherine Martin",2021-07-22,3569,3977
 "Catherine Martin",2021-08-26,3659,4112
 "Catherine Martin",2021-09-22,3696,4195
+"Catherine Martin",2021-10-29,3748,4275
 "Catherine Murphy",2021-07-16,10144,9971
 "Catherine Murphy",2021-08-15,10133,9959
 "Catherine Murphy",2021-09-07,10123,9948
 "Catherine Murphy",2021-10-05,10117,9943
+"Catherine Murphy",2021-10-29,10121,9954
 "Catherine Noone",2021-07-01,0,0
 "Catherine Noone",2021-07-18,0,0
 "Catherine Noone",2021-08-16,0,0
@@ -347,6 +294,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Cavan Fine Gael",2021-07-19,306,312
 "Cavan Fine Gael",2021-08-17,307,314
 "Cavan Fine Gael",2021-09-22,306,312
+"Cavan Fine Gael",2021-10-29,306,313
 "Charles Flanagan",2021-07-01,0,0
 "Charles Flanagan",2021-07-18,0,0
 "Charles Flanagan",2021-08-16,0,0
@@ -360,6 +308,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Chris Andrews",2021-07-22,2248,2361
 "Chris Andrews",2021-08-26,2380,2502
 "Chris Andrews",2021-09-22,2393,2521
+"Chris Andrews",2021-10-29,2404,2536
 "Chris Pender",2021-08-15,5107,5627
 "Chris Pender",2021-08-19,5115,5632
 "Chris Pender",2021-08-31,5135,5654
@@ -385,6 +334,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Claire Byrne",2021-08-15,1124,1148
 "Claire Byrne",2021-09-07,1124,1149
 "Claire Byrne",2021-10-12,1121,1144
+"Claire Byrne",2021-10-29,1124,1147
 "Claire Kerrane",2021-07-01,4113,4314
 "Claire Kerrane",2021-07-19,4129,4334
 "Claire Kerrane",2021-08-24,4180,4393
@@ -393,10 +343,12 @@ Ben Scallan,2021-10-29,16209,17198
 "Clare Daly",2021-07-22,24243,26003
 "Clare Daly",2021-08-26,24210,25969
 "Clare Daly",2021-09-22,24256,26024
+"Clare Daly",2021-10-29,24261,26032
 "Clare Fine Gael",2021-07-01,920,941
 "Clare Fine Gael",2021-07-22,920,941
 "Clare Fine Gael",2021-08-19,919,940
 "Clare Fine Gael",2021-09-22,916,936
+"Clare Fine Gael",2021-10-29,916,936
 "Colette Kelleher",2021-07-01,0,0
 "Colette Kelleher",2021-07-18,0,0
 "Colette Kelleher",2021-08-16,0,0
@@ -406,14 +358,17 @@ Ben Scallan,2021-10-29,16209,17198
 "Colm Brophy",2021-07-22,1456,1589
 "Colm Brophy",2021-08-26,1459,1594
 "Colm Brophy",2021-09-22,1464,1601
+"Colm Brophy",2021-10-29,1473,1613
 "Colm Burke",2021-07-01,2600,2748
 "Colm Burke",2021-07-22,2606,2756
 "Colm Burke",2021-08-26,2646,2795
 "Colm Burke",2021-09-22,2653,2801
+"Colm Burke",2021-10-29,2663,2818
 "Connolly Youth Movement",2021-07-16,9758,10282
 "Connolly Youth Movement",2021-08-15,9730,10256
 "Connolly Youth Movement",2021-09-07,9741,10269
 "Connolly Youth Movement",2021-10-08,9724,10264
+"Connolly Youth Movement",2021-10-29,9702,10255
 "Conor Sheehan",2021-07-01,1649,1740
 "Conor Sheehan",2021-07-22,1705,1797
 "Conor Sheehan",2021-08-25,1725,1816
@@ -431,6 +386,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Constitution Of Ireland Trust",2021-08-25,6271,7047
 "Constitution Of Ireland Trust",2021-09-29,6253,7035
 "Constitution Of Ireland Trust",2021-10-15,6246,7025
+"Constitution Of Ireland Trust",2021-10-29,6237,7015
 "Cork Social Democrats",2021-07-01,540,579
 "Cork Social Democrats",2021-07-22,539,578
 "Cork Social Democrats",2021-08-26,536,574
@@ -530,6 +486,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Direct Democracy Ireland",2021-08-16,9596,9394
 "Direct Democracy Ireland",2021-09-18,9577,9374
 "Direct Democracy Ireland",2021-10-15,9558,9355
+"Direct Democracy Ireland",2021-10-29,9543,9341
 "Dolores Cahill",2021-07-05,62365,125382
 "Dolores Cahill",2021-07-07,62494,125633
 "Dolores Cahill",2021-07-16,62823,126210
@@ -598,6 +555,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Eire Exposed",2021-08-16,2515,2605
 "Eire Exposed",2021-09-18,2511,2600
 "Eire Exposed",2021-10-15,2506,2596
+"Eire Exposed",2021-10-29,2504,2594
 "Eirigi",2021-07-16,29521,29388
 "Eirigi",2021-07-22,29509,29373
 "Eirigi",2021-08-26,29508,29374
@@ -775,9 +733,11 @@ Ben Scallan,2021-10-29,16209,17198
 "Helen Mc Entee",2021-08-16,14283,15363
 "Helen Mc Entee",2021-09-18,14307,15393
 "Helen Mc Entee",2021-09-20,14306,15394
+"Helen Mc Entee",2021-10-29,14816,15933
 "Hildegarde Naughton",2021-07-19,3144,3238
 "Hildegarde Naughton",2021-08-24,3175,3270
 "Hildegarde Naughton",2021-09-20,3184,3280
+"Hildegarde Naughton",2021-10-29,3186,3283
 "Holly Cairns",2021-07-16,9500,10096
 "Holly Cairns",2021-08-15,9585,10181
 "Holly Cairns",2021-09-07,9646,10258
@@ -791,9 +751,11 @@ Ben Scallan,2021-10-29,16209,17198
 "Imelda Munster",2021-07-16,4555,4695
 "Imelda Munster",2021-08-16,4568,4709
 "Imelda Munster",2021-09-20,4588,4731
+"Imelda Munster",2021-10-29,4595,4737
 "Integrity Ireland",2021-07-16,11166,13881
 "Integrity Ireland",2021-08-16,11163,13890
 "Integrity Ireland",2021-09-20,11207,13926
+"Integrity Ireland",2021-10-29,12204,18429
 "Iona Institute",2021-07-19,7693,7870
 "Iona Institute",2021-08-24,7683,7865
 "Iona Institute",2021-09-29,7674,7861
@@ -801,6 +763,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Ireland's Recovery",2021-07-18,7869,8116
 "Ireland's Recovery",2021-08-16,7861,8113
 "Ireland's Recovery",2021-09-20,7856,8112
+"Ireland's Recovery",2021-10-29,7849,8106
 "Ireland for Trump",2021-07-03,NA,NA
 "Ireland for Trump",2021-07-19,NA,NA
 "Ireland for Trump",2021-08-16,NA,NA
@@ -883,6 +846,7 @@ Ben Scallan,2021-10-29,16209,17198
 "James Hope",2021-07-18,502,541
 "James Hope",2021-08-16,502,541
 "James Hope",2021-09-20,502,538
+"James Hope",2021-10-29,508,547
 "James Lawless",2021-07-01,6608,6754
 "James Lawless",2021-07-20,6628,6782
 "James Lawless",2021-07-20,6628,6782
@@ -919,6 +883,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Jim O'Callaghan",2021-07-16,2498,2649
 "Jim O'Callaghan",2021-08-16,2497,2648
 "Jim O'Callaghan",2021-09-20,2495,2647
+"Jim O'Callaghan",2021-10-29,2506,2660
 "Joan Collins",2021-07-01,7487,7608
 "Joan Collins",2021-07-20,7488,7608
 "Joan Collins",2021-07-20,7487,7607
@@ -995,9 +960,11 @@ Ben Scallan,2021-10-29,16209,17198
 "Josepha Madigan",2021-07-16,6960,7409
 "Josepha Madigan",2021-08-16,6971,7434
 "Josepha Madigan",2021-09-20,6983,7476
+"Josepha Madigan",2021-10-29,7031,7544
 "Katherine Zappone",2021-08-19,11465,11675
 "Katherine Zappone",2021-09-22,11465,11678
 "Katherine Zappone",2021-10-15,11443,11658
+"Katherine Zappone",2021-10-29,11447,11663
 "Kathleen Funchion",2021-07-07,7326,7627
 "Kathleen Funchion",2021-08-15,7314,7625
 "Kathleen Funchion",2021-09-08,7384,7697
@@ -1031,6 +998,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Labour Youth",2021-07-18,3580,3796
 "Labour Youth",2021-08-16,3580,3798
 "Labour Youth",2021-09-20,3580,3799
+"Labour Youth",2021-10-29,3574,3802
 "Leo Varadkar",2021-07-01,94163,110642
 "Leo Varadkar",2021-07-07,94168,110657
 "Leo Varadkar",2021-07-22,94082,110558
@@ -1071,6 +1039,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Lucinda Creighton",2021-07-20,4804,4738
 "Lucinda Creighton",2021-08-25,4794,4728
 "Lucinda Creighton",2021-09-29,4789,4723
+"Lucinda Creighton",2021-10-29,4784,4718
 "Luke 'Ming' Flanagan",2021-07-07,66446,66820
 "Luke 'Ming' Flanagan",2021-08-14,66356,66737
 "Luke 'Ming' Flanagan",2021-08-26,66323,66702
@@ -1081,6 +1050,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Lynn Boylan",2021-07-18,4844,5063
 "Lynn Boylan",2021-08-16,4879,5094
 "Lynn Boylan",2021-09-20,4880,5092
+"Lynn Boylan",2021-10-29,4876,5090
 "Lynn Ruane",2021-07-07,6008,6148
 "Lynn Ruane",2021-08-15,6202,6368
 "Lynn Ruane",2021-09-08,6213,6377
@@ -1117,6 +1087,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Marc O Cathasaigh",2021-07-16,1214,1344
 "Marc O Cathasaigh",2021-08-16,1213,1345
 "Marc O Cathasaigh",2021-09-20,1219,1352
+"Marc O Cathasaigh",2021-10-29,1223,1360
 "Maria Byrne",2021-07-01,1447,1509
 "Maria Byrne",2021-07-20,1448,1511
 "Maria Byrne",2021-08-25,1448,1511
@@ -1137,6 +1108,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Marie Sherlock",2021-07-18,760,879
 "Marie Sherlock",2021-08-16,762,888
 "Marie Sherlock",2021-09-20,767,892
+"Marie Sherlock",2021-10-29,791,919
 "Mark Daly",2021-07-07,3437,3517
 "Mark Daly",2021-08-14,3436,3519
 "Mark Daly",2021-09-07,3435,3518
@@ -1196,6 +1168,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Matt Shanahan",2021-07-16,1213,1588
 "Matt Shanahan",2021-08-16,1241,1623
 "Matt Shanahan",2021-09-20,1276,1659
+"Matt Shanahan",2021-10-29,1317,1706
 "Mattie McGrath",2021-07-03,NA,NA
 "Mattie McGrath",2021-07-19,NA,NA
 "Mattie McGrath",2021-08-16,NA,NA
@@ -1204,6 +1177,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Maura Hopkins",2021-07-16,4349,4383
 "Maura Hopkins",2021-08-16,4366,4400
 "Maura Hopkins",2021-09-20,4372,4411
+"Maura Hopkins",2021-10-29,4383,4429
 "Maurice Quinlivan",2021-07-07,10807,11037
 "Maurice Quinlivan",2021-08-14,10884,11139
 "Maurice Quinlivan",2021-09-07,10914,11180
@@ -1216,9 +1190,11 @@ Ben Scallan,2021-10-29,16209,17198
 "Michael Creed",2021-07-16,4021,4225
 "Michael Creed",2021-08-16,4029,4234
 "Michael Creed",2021-09-20,4045,4253
+"Michael Creed",2021-10-29,4054,4275
 "Michael Fitzmaurice",2021-07-16,5314,5651
 "Michael Fitzmaurice",2021-08-16,5333,5669
 "Michael Fitzmaurice",2021-09-20,5349,5684
+"Michael Fitzmaurice",2021-10-29,5402,5737
 "Michael Healy-Rae",2021-07-18,28612,35588
 "Michael Healy-Rae",2021-08-17,28788,35846
 "Michael Healy-Rae",2021-08-26,28809,35873
@@ -1232,12 +1208,15 @@ Ben Scallan,2021-10-29,16209,17198
 "Michael Martin",2021-07-16,25479,26201
 "Michael Martin",2021-08-16,25550,26301
 "Michael Martin",2021-09-20,25599,26362
+"Michael Martin",2021-10-29,25693,26482
 "Michael McDowell",2021-07-16,422,435
 "Michael McDowell",2021-08-16,423,437
 "Michael McDowell",2021-09-20,424,437
+"Michael McDowell",2021-10-29,425,438
 "Michael McGrath",2021-07-16,12821,13292
 "Michael McGrath",2021-08-16,12959,13444
 "Michael McGrath",2021-09-20,12981,13486
+"Michael McGrath",2021-10-29,13019,13548
 "Michael McNamara",2021-07-16,18413,21734
 "Michael McNamara",2021-07-18,18565,21956
 "Michael McNamara",2021-08-17,19172,22704
@@ -1248,6 +1227,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Michael Moynihan",2021-07-16,5263,5792
 "Michael Moynihan",2021-08-16,5279,5810
 "Michael Moynihan",2021-09-20,5283,5819
+"Michael Moynihan",2021-10-29,5294,5838
 "Michael Pidgeon",2021-07-07,460,503
 "Michael Pidgeon",2021-08-14,468,512
 "Michael Pidgeon",2021-09-07,474,518
@@ -1282,6 +1262,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Neale Richmond",2021-07-16,5273,5417
 "Neale Richmond",2021-08-16,5293,5439
 "Neale Richmond",2021-09-20,5307,5459
+"Neale Richmond",2021-10-29,5308,5470
 "Neasa Hourigan",2021-07-16,864,971
 "Neasa Hourigan",2021-08-17,870,981
 "Neasa Hourigan",2021-09-22,878,988
@@ -1508,6 +1489,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Paul Gavan",2021-08-14,2940,3156
 "Paul Gavan",2021-09-07,2944,3160
 "Paul Gavan",2021-10-12,2997,3125
+"Paul Gavan",2021-10-29,3008,3226
 "Paul Kehoe",2021-07-01,7391,7512
 "Paul Kehoe",2021-07-22,7401,7519
 "Paul Kehoe",2021-08-26,7396,7517
@@ -1600,6 +1582,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Regina Doherty",2021-08-15,9733,10042
 "Regina Doherty",2021-09-18,9727,10034
 "Regina Doherty",2021-10-15,9718,10022
+"Regina Doherty",2021-10-29,9717,10020
 "Renua Ireland",2021-07-02,10943,11039
 "Renua Ireland",2021-08-14,10962,11057
 "Renua Ireland",2021-08-19,10958,11053
@@ -1633,6 +1616,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Roderic O'Gorman",2021-08-17,3203,3369
 "Roderic O'Gorman",2021-09-20,3240,3485
 "Roderic O'Gorman",2021-10-15,3294,3477
+"Roderic O'Gorman",2021-10-29,3426,3709
 "Roisin Garvey",2021-07-01,1400,1491
 "Roisin Garvey",2021-07-22,1399,1490
 "Roisin Garvey",2021-08-26,1403,1495
@@ -1649,6 +1633,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Rose Conway-Walsh",2021-07-07,11213,11788
 "Rose Conway-Walsh",2021-08-15,11211,11790
 "Rose Conway-Walsh",2021-09-18,11209,11789
+"Rose Conway-Walsh",2021-10-29,11234,11822
 "Ruairi O Murchu",2021-07-07,5069,5450
 "Ruairi O Murchu",2021-08-15,5122,5504
 "Ruairi O Murchu",2021-09-18,5452,5846
@@ -1667,13 +1652,16 @@ Ben Scallan,2021-10-29,16209,17198
 "Save Kerry",2021-07-07,349,376
 "Save Kerry",2021-08-15,349,378
 "Save Kerry",2021-09-18,349,379
+"Save Kerry",2021-10-29,353,384
 "Save Leitrim",2021-07-01,5387,5617
 "Save Leitrim",2021-07-22,5385,5616
 "Save Leitrim",2021-08-26,5395,5635
 "Save Leitrim",2021-09-18,5393,5638
+"Save Leitrim",2021-10-29,5408,5657
 "Sean Canney",2021-07-07,4128,4314
 "Sean Canney",2021-08-15,4138,4324
 "Sean Canney",2021-09-18,4141,4325
+"Sean Canney",2021-10-29,4143,4324
 "Sean Crowe",2021-07-01,4608,4641
 "Sean Crowe",2021-07-22,4608,4641
 "Sean Crowe",2021-08-26,4598,4632
@@ -1732,6 +1720,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Social Democrats",2021-08-17,10782,11023
 "Social Democrats",2021-09-20,10761,11005
 "Social Democrats",2021-10-15,10754,10094
+"Social Democrats",2021-10-29,10774,10984
 "Social Democrats Dublin Central",2021-07-18,505,519
 "Social Democrats Dublin Central",2021-08-17,505,519
 "Social Democrats Dublin Central",2021-09-20,502,514
@@ -1750,6 +1739,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Social Democrats Kerry",2021-07-07,648,658
 "Social Democrats Kerry",2021-08-15,655,665
 "Social Democrats Kerry",2021-09-18,654,662
+"Social Democrats Kerry",2021-10-29,655,664
 "Social Democrats Limerick City",2021-07-16,511,526
 "Social Democrats Limerick City",2021-08-17,514,530
 "Social Democrats Limerick City",2021-09-20,512,526
@@ -1774,6 +1764,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Sorca Clarke",2021-07-07,3899,4095
 "Sorca Clarke",2021-08-15,3912,4111
 "Sorca Clarke",2021-09-18,3916,4122
+"Sorca Clarke",2021-10-29,3925,4143
 "Sovereign Ireland",2021-07-03,NA,NA
 "Sovereign Ireland",2021-07-19,NA,NA
 "Sovereign Ireland",2021-08-16,NA,NA
@@ -1833,12 +1824,15 @@ Ben Scallan,2021-10-29,16209,17198
 "Tim Lombard",2021-07-07,6477,6732
 "Tim Lombard",2021-08-15,6494,6760
 "Tim Lombard",2021-09-18,6509,6787
+"Tim Lombard",2021-10-29,6522,6824
 "Tir Na Saor - Land of the Free",2021-08-14,8571,8279
 "Tir Na Saor - Land of the Free",2021-09-07,8565,8269
 "Tir Na Saor - Land of the Free",2021-10-12,8554,8259
+"Tir Na Saor - Land of the Free",2021-10-29,8549,8253
 "Tom Healy Sinn Fein",2021-07-18,1306,1310
 "Tom Healy Sinn Fein",2021-08-17,1305,1309
 "Tom Healy Sinn Fein",2021-09-22,1300,1303
+"Tom Healy Sinn Fein",2021-10-29,1299,1302
 "Tracey O'Mahony",2021-07-07,10751,11348
 "Tracey O'Mahony",2021-08-15,11466,12120
 "Tracey O'Mahony",2021-08-26,11747,12437
@@ -1868,19 +1862,24 @@ Ben Scallan,2021-10-29,16209,17198
 "Vincent P. Martin",2021-07-07,835,921
 "Vincent P. Martin",2021-08-15,838,925
 "Vincent P. Martin",2021-09-18,838,925
+"Vincent P. Martin",2021-10-29,844,936
 "Violet-Anne Wynne",2021-07-18,3096,3258
 "Violet-Anne Wynne",2021-08-16,3096,3254
 "Violet-Anne Wynne",2021-09-20,3117,3276
+"Violet-Anne Wynne",2021-10-29,3129,3297
 "Waterford Social Democrats",2021-07-07,312,323
 "Waterford Social Democrats",2021-08-15,323,334
 "Waterford Social Democrats",2021-09-18,323,332
+"Waterford Social Democrats",2021-10-29,327,336
 "Wicklow Greens",2021-10-08,172,201
 "Willie O'Dea",2021-07-07,6128,6344
 "Willie O'Dea",2021-08-15,6152,6369
 "Willie O'Dea",2021-09-18,6155,6386
+"Willie O'Dea",2021-10-29,6188,6429
 "Workers Party",2021-07-18,9120,9427
 "Workers Party",2021-08-16,9118,9428
 "Workers Party",2021-09-20,9117,9430
+"Workers Party",2021-10-29,9112,9432
 "Workers Solidarity Movement (Ireland)",2021-07-22,63436,63592
 "Workers Solidarity Movement (Ireland)",2021-08-26,63322,63510
 "Workers Solidarity Movement (Ireland)",2021-09-22,63242,63431
@@ -1918,6 +1917,7 @@ Ben Scallan,2021-10-29,16209,17198
 "Yellow Vest Ireland Coolock",2021-07-07,738,770
 "Yellow Vest Ireland Coolock",2021-08-15,758,793
 "Yellow Vest Ireland Coolock",2021-09-18,754,787
+"Yellow Vest Ireland Coolock",2021-10-29,747,779
 "Yellow Vest Ireland Cork",2021-07-16,1345,1421
 "Yellow Vest Ireland Cork",2021-08-17,1382,1459
 "Yellow Vest Ireland Cork",2021-09-22,1388,1462
