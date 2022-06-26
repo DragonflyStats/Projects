@@ -24,7 +24,7 @@
 "Aon Centre for Innovation and Analytics (ACIA)",2022-04-25,13647
 "Appriss",2022-02-01,6151
 "Appsilon",2022-04-25,2856
-"ArkeUp Academy | Océan Indien",2022-04-25,1167
+"ArkeUp Academy | Oc<e9>an Indien",2022-04-25,1167
 "Artificial Intelligence Hong Kong",2022-02-01,2049
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2022-02-01,271
 "Ascential",2022-04-25,47138
@@ -108,7 +108,7 @@
 "Data Science Meetup",2022-02-01,116
 "Data Science Milan",2022-02-01,854
 "Data Science Research Arab Team",2022-02-01,133
-"Data Science Research Perú",2022-02-01,10986
+"Data Science Research Per<fa>",2022-02-01,10986
 "Data Science Society",2022-02-01,163
 "Data Science Society",2022-02-01,1397
 "Data Science Society at Berkeley",2022-02-01,753
@@ -1528,7 +1528,7 @@
 "Meetup Machine Learning Qu<e9>bec",2021-12-14,61
 "Meetup Machine Learning Qu<e9>bec",2021-12-20,61
 "Meetup Machine Learning Qu<e9>bec",2021-12-26,61
-"Meetup Machine Learning Québec",2022-02-01,64
+"Meetup Machine Learning Qu<e9>bec",2022-02-01,64
 "meetup.ai",2021-10-17,385
 "meetup.ai",2021-10-29,385
 "meetup.ai",2021-11-20,385
@@ -1697,7 +1697,7 @@
 "Ni<e8>me Conseil",2021-12-20,318
 "Ni<e8>me Conseil",2021-12-26,322
 "Ni<e8>me Conseil",2021-12-31,322
-"Nième Conseil",2022-01-12,324
+"Ni<e8>me Conseil",2022-01-12,324
 "NIMBADATA",2021-10-17,4
 "NIMBADATA",2021-10-29,4
 "NIMBADATA",2021-11-06,4
@@ -1855,15 +1855,15 @@
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2021-12-30,90
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2021-12-31,90
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-03,90
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-04,90
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-06,91
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-07,91
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-10,91
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-14,91
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-18,91
-"Observatoire du Numérique en Haïti (ObNH)",2022-01-27,91
-"Observatoire du Numérique en Haïti (ObNH)",2022-02-01,92
-"Observatoire du Numérique en Haïti (ObNH)",2022-04-25,93
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-04,90
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-06,91
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-07,91
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-10,91
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-14,91
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-18,91
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-01-27,91
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-02-01,92
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-04-25,93
 "Oceaneering",2021-10-17,293607
 "Oceaneering",2021-10-29,295539
 "Oceaneering",2021-11-20,298393
@@ -5630,7 +5630,6 @@
 "UCD Investors and Entrepreneurs Society",2022-06-07,2022
 "UCD Investors and Entrepreneurs Society",2022-06-08,2022
 "UCD Investors and Entrepreneurs Society",2022-06-11,2024
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-02-01,298
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-14,275
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-26,276
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-09-02,276
@@ -5696,6 +5695,7 @@
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-14,295
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-18,295
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-27,297
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-01,298
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-01,298
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-16,297
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-20,299
@@ -8055,12 +8055,20 @@
 "Women in Data<U+00AE>",2021-12-31,16185
 "Women in Data<U+00AE>",2022-01-03,16195
 "Women in Data<U+00AE>",2022-01-04,16210
+"Women in Data<U+00AE>",2022-01-04,16210
+"Women in Data<U+00AE>",2022-01-06,16245
 "Women in Data<U+00AE>",2022-01-06,16245
 "Women in Data<U+00AE>",2022-01-07,16266
+"Women in Data<U+00AE>",2022-01-07,16266
+"Women in Data<U+00AE>",2022-01-10,16288
 "Women in Data<U+00AE>",2022-01-10,16288
 "Women in Data<U+00AE>",2022-01-14,16368
+"Women in Data<U+00AE>",2022-01-14,16368
+"Women in Data<U+00AE>",2022-01-18,16395
 "Women in Data<U+00AE>",2022-01-18,16395
 "Women in Data<U+00AE>",2022-01-27,16518
+"Women in Data<U+00AE>",2022-01-27,16518
+"Women in Data<U+00AE>",2022-02-01,16591
 "Women in Data<U+00AE>",2022-02-01,16591
 "Women in Data<U+00AE>",2022-02-20,16919
 "Women in Data<U+00AE>",2022-02-26,17022
@@ -8072,6 +8080,7 @@
 "Women in Data<U+00AE>",2022-04-11,18597
 "Women in Data<U+00AE>",2022-04-13,18675
 "Women in Data<U+00AE>",2022-04-19,18815
+"Women in Data<U+00AE>",2022-04-25,18947
 "Women in Data<U+00AE>",2022-04-25,18947
 "Women in Data<U+00AE>",2022-04-29,19100
 "Women in Data<U+00AE>",2022-05-05,19305
@@ -8086,15 +8095,6 @@
 "Women in Data<U+00AE>",2022-06-07,20506
 "Women in Data<U+00AE>",2022-06-08,20506
 "Women in Data<U+00AE>",2022-06-23,21234
-"Women in Data®",2022-01-04,16210
-"Women in Data®",2022-01-06,16245
-"Women in Data®",2022-01-07,16266
-"Women in Data®",2022-01-10,16288
-"Women in Data®",2022-01-14,16368
-"Women in Data®",2022-01-18,16395
-"Women in Data®",2022-01-27,16518
-"Women in Data®",2022-02-01,16591
-"Women in Data®",2022-04-25,18947
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-18,30
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-27,58
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-01,64
