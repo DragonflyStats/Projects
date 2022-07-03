@@ -1,5 +1,10 @@
-Area,Type,Name,Latitude,Longitude
-Wapping, Pub, The Docker's Inn, 51.5048793, -0.0573725
-Wapping, Pub, Turner's Old Star,51.505372,-0.0615917
-Wapping, Pub, Prospect of Whitby,51.5067276,-0.0517212
-Limehouse, Pub, The Grapes, 51.5087743,-0.0336283
+Name,Area,Type,Info1,Info2,Info3,Info4,Latitude,Longtitude
+St Annes Church (Soho),Soho,Church,Small Anglican Church in the heart of Soho,Home of the Annual Summer Fete,,,51.51224098749221,-0.13259906184791273
+School of Historic Dress,Lambeth,Theatre and Arts,,,,,51.497442496569995, -0.10819661508369491
+Cinema Museum,Lambeth,Theatre and Arts,Formerly the Lambeth Workhouse,Charlie Chaplin was held here when he was a child,,,51.4920859,-0.1056558
+Villa Garden Lodge,Earl's Court,Residence,Freddy Mercury's Mansion,,,,51.4942319,-0.1986089
+Zebrano,Soho,Venue,Previously the location of the famous Establishment Club, The Establishment Club was run by famous acotr and comedian Peter Cook,,, 51.51399201373349, -0.1306973756723536
+The Docker's Inn,Wapping, Pub,,,,,51.5048793, -0.0573725
+Turner's Old Star,Wapping, Pub,,,, 51.505372,-0.0615917
+Prospect of Whitby,Wapping, Pub,,,, 51.5067276,-0.0517212
+The Grapes,Limehouse, Pub,,,, 51.5087743,-0.0336283
