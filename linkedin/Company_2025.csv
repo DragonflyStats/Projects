@@ -1,4 +1,43 @@
 "Company","Date","Followers"
+"SwissAI",2021-06-16,355
+"SwissAI",2021-06-21,355
+"SwissAI",2021-06-29,354
+"SwissAI",2021-07-04,353
+"SwissAI",2021-07-09,353
+"SwissAI",2021-07-14,354
+"SwissAI",2021-07-22,355
+"SwissAI",2021-08-14,354
+"SwissAI",2021-08-26,354
+"SwissAI",2021-09-02,354
+"SwissAI",2021-09-09,353
+"SwissAI",2021-09-16,353
+"SwissAI",2021-10-17,356
+"SwissAI",2021-10-29,355
+"SwissAI",2021-11-20,354
+"SwissAI",2021-12-03,355
+"SwissAI",2021-12-14,355
+"SwissAI",2021-12-20,355
+"SwissAI",2021-12-31,355
+"SwissAI",2022-01-12,356
+"SwissAI",2022-02-01,357
+"SwissAI",2022-02-07,358
+"SwissAI",2022-02-16,358
+"SwissAI",2022-02-23,359
+"SwissAI",2022-02-26,359
+"SwissAI",2022-03-03,359
+"SwissAI",2022-03-20,358
+"SwissAI",2022-03-29,359
+"SwissAI",2022-04-11,360
+"SwissAI",2022-05-01,364
+"SwissAI",2022-05-05,359
+"SwissAI",2022-05-27,363
+"SwissAI",2022-05-30,363
+"SwissAI",2022-06-07,363
+"SwissAI",2022-06-08,363
+"SwissAI",2022-06-16,363
+"SwissAI",2022-06-23,363
+"SwissAI",2022-06-30,363
+"SwissAI",2022-07-02,363
 "Sydney Machine Learning Group",2021-06-16,149
 "Sydney Machine Learning Group",2021-06-21,149
 "Sydney Machine Learning Group",2021-06-29,149
@@ -19,6 +58,8 @@
 "Sydney Machine Learning Group",2021-12-31,159
 "Sydney Machine Learning Group",2022-01-12,160
 "Sydney Machine Learning Group",2022-02-01,162
+"Sydney Machine Learning Group",2022-02-07,163
+"Sydney Machine Learning Group",2022-02-12,163
 "Sydney Machine Learning Group",2022-02-16,164
 "Sydney Machine Learning Group",2022-02-23,164
 "Sydney Machine Learning Group",2022-02-26,164
@@ -58,6 +99,8 @@
 "Tableau",2022-01-18,705561
 "Tableau",2022-01-27,709496
 "Tableau",2022-02-01,711228
+"Tableau",2022-02-07,713206
+"Tableau",2022-02-12,715201
 "Tableau",2022-02-16,716642
 "Tableau",2022-02-20,718054
 "Tableau",2022-03-15,724232
@@ -108,6 +151,8 @@
 "Tableau Events and Webinars",2022-01-18,33108
 "Tableau Events and Webinars",2022-01-27,33193
 "Tableau Events and Webinars",2022-02-01,33261
+"Tableau Events and Webinars",2022-02-07,33344
+"Tableau Events and Webinars",2022-02-10,33404
 "Tableau Events and Webinars",2022-02-16,33466
 "Tableau Events and Webinars",2022-02-20,33510
 "Tableau Events and Webinars",2022-02-23,33541
@@ -191,6 +236,8 @@
 "Tag Ng",2022-01-18,223
 "Tag Ng",2022-01-27,223
 "Tag Ng",2022-02-01,224
+"Tag Ng",2022-02-10,224
+"Tag Ng",2022-02-12,224
 "Tag Ng",2022-02-16,225
 "Tag Ng",2022-02-20,248
 "Tag Ng",2022-02-23,255
@@ -223,6 +270,8 @@
 "Tag Ng",2022-07-01,641
 "Tag Ng",2022-07-02,646
 "Tag Ng",2022-07-04,675
+"Talentyon",2022-02-07,21
+"Talentyon",2022-02-12,21
 "Talentyon",2022-02-16,21
 "Talentyon",2022-02-20,21
 "Talentyon",2022-02-23,21
@@ -265,6 +314,7 @@
 "Tata Consultancy Services",2022-01-18,8388477
 "Tata Consultancy Services",2022-01-27,8468971
 "Tata Consultancy Services",2022-02-01,8520805
+"Tata Consultancy Services",2022-02-12,8620429
 "Tata Consultancy Services",2022-02-16,8653046
 "Tata Consultancy Services",2022-02-20,8689930
 "Tata Consultancy Services",2022-02-23,8724884
@@ -327,6 +377,8 @@
 "TazWorks LLC",2021-12-31,747
 "TazWorks LLC",2022-01-12,750
 "TazWorks LLC",2022-02-01,756
+"TazWorks LLC",2022-02-07,758
+"TazWorks LLC",2022-02-12,760
 "TazWorks LLC",2022-02-16,763
 "Thalesians Ltd",2021-06-16,3594
 "Thalesians Ltd",2021-06-21,3597
@@ -349,6 +401,8 @@
 "Thalesians Ltd",2021-12-31,4121
 "Thalesians Ltd",2022-01-12,4128
 "Thalesians Ltd",2022-02-01,4132
+"Thalesians Ltd",2022-02-07,4131
+"Thalesians Ltd",2022-02-12,4131
 "Thalesians Ltd",2022-02-16,4133
 "Thalesians Ltd",2022-02-26,4135
 "Thalesians Ltd",2022-03-03,4136
@@ -379,6 +433,9 @@
 "The Alan Turing Institute",2022-01-18,20252
 "The Alan Turing Institute",2022-01-27,20423
 "The Alan Turing Institute",2022-02-01,20545
+"The Alan Turing Institute",2022-02-07,20727
+"The Alan Turing Institute",2022-02-10,20796
+"The Alan Turing Institute",2022-02-12,20840
 "The Alan Turing Institute",2022-02-16,20929
 "The Alan Turing Institute",2022-02-26,21167
 "The Alan Turing Institute",2022-03-07,21398
@@ -439,6 +496,8 @@
 "The Analytics Institute of Ireland",2022-01-18,5360
 "The Analytics Institute of Ireland",2022-01-27,5376
 "The Analytics Institute of Ireland",2022-02-01,5397
+"The Analytics Institute of Ireland",2022-02-07,5405
+"The Analytics Institute of Ireland",2022-02-10,5412
 "The Analytics Institute of Ireland",2022-02-16,5417
 "The Analytics Institute of Ireland",2022-02-20,5420
 "The Analytics Institute of Ireland",2022-02-23,5429
@@ -499,6 +558,8 @@
 "The Andrew W. Mellon Foundation",2022-01-18,15850
 "The Andrew W. Mellon Foundation",2022-01-27,16002
 "The Andrew W. Mellon Foundation",2022-02-01,16109
+"The Andrew W. Mellon Foundation",2022-02-07,16209
+"The Andrew W. Mellon Foundation",2022-02-12,16293
 "The Andrew W. Mellon Foundation",2022-02-16,16377
 "The Andrew W. Mellon Foundation",2022-02-20,16472
 "The Andrew W. Mellon Foundation",2022-03-07,16776
@@ -534,6 +595,9 @@
 "The Apache Software Foundation",2022-01-18,56642
 "The Apache Software Foundation",2022-01-27,56784
 "The Apache Software Foundation",2022-02-01,56883
+"The Apache Software Foundation",2022-02-07,56966
+"The Apache Software Foundation",2022-02-10,57023
+"The Apache Software Foundation",2022-02-12,57049
 "The Apache Software Foundation",2022-02-16,57114
 "The Apache Software Foundation",2022-02-20,57199
 "The Apache Software Foundation",2022-02-23,57264
@@ -607,6 +671,8 @@
 "The Collective Impact Group For Guinea",2022-01-18,158
 "The Collective Impact Group For Guinea",2022-01-27,158
 "The Collective Impact Group For Guinea",2022-02-01,158
+"The Collective Impact Group For Guinea",2022-02-10,158
+"The Collective Impact Group For Guinea",2022-02-12,158
 "The Collective Impact Group For Guinea",2022-02-16,158
 "The Collective Impact Group For Guinea",2022-02-23,159
 "The Collective Impact Group For Guinea",2022-03-03,159
@@ -646,6 +712,8 @@
 "The Data Lab - Innovation Centre",2021-12-20,7863
 "The Data Lab - Innovation Centre",2021-12-26,7879
 "The Data Lab - Innovation Centre",2021-12-31,7881
+"The Data Lab - Innovation Centre",2022-02-07,8084
+"The Data Lab - Innovation Centre",2022-02-12,8124
 "The Data Lab - Innovation Centre",2022-02-16,8131
 "The Data Lab - Innovation Centre",2022-02-20,8150
 "The Data Lab - Innovation Centre",2022-02-23,8171
@@ -686,6 +754,7 @@
 "The Data Pub",2021-12-31,1592
 "The Data Pub",2022-01-12,1599
 "The Data Pub",2022-02-01,1657
+"The Data Pub",2022-02-12,1668
 "The Data Pub",2022-02-16,1669
 "The Data Pub",2022-02-23,1695
 "The Data Pub",2022-03-03,1704
@@ -723,6 +792,7 @@
 "The Data Science & Statistics Society",2021-12-26,125
 "The Data Science & Statistics Society",2021-12-31,126
 "The Data Science & Statistics Society",2022-01-12,126
+"The Data Science & Statistics Society",2022-02-12,131
 "The Data Science & Statistics Society",2022-02-20,132
 "The Data Science & Statistics Society",2022-02-23,133
 "The Data Science & Statistics Society",2022-02-26,133
@@ -772,6 +842,9 @@
 "The David and Lucile Packard Foundation",2022-01-18,18401
 "The David and Lucile Packard Foundation",2022-01-27,18566
 "The David and Lucile Packard Foundation",2022-02-01,18662
+"The David and Lucile Packard Foundation",2022-02-07,18770
+"The David and Lucile Packard Foundation",2022-02-10,18846
+"The David and Lucile Packard Foundation",2022-02-12,18866
 "The David and Lucile Packard Foundation",2022-02-20,18977
 "The David and Lucile Packard Foundation",2022-02-23,19016
 "The David and Lucile Packard Foundation",2022-02-26,19039
@@ -825,6 +898,8 @@
 "The Global Academy",2022-01-18,257
 "The Global Academy",2022-01-27,257
 "The Global Academy",2022-02-01,258
+"The Global Academy",2022-02-07,259
+"The Global Academy",2022-02-12,261
 "The Global Academy",2022-02-20,261
 "The Global Academy",2022-03-03,261
 "The Global Academy",2022-03-07,261
@@ -886,6 +961,9 @@
 "The James Irvine Foundation",2022-01-18,8317
 "The James Irvine Foundation",2022-01-27,8372
 "The James Irvine Foundation",2022-02-01,8402
+"The James Irvine Foundation",2022-02-07,8437
+"The James Irvine Foundation",2022-02-10,8473
+"The James Irvine Foundation",2022-02-12,8483
 "The James Irvine Foundation",2022-02-16,8504
 "The James Irvine Foundation",2022-02-20,8524
 "The James Irvine Foundation",2022-02-23,8538
@@ -949,6 +1027,11 @@
 "The Julia Language",2022-01-18,8288
 "The Julia Language",2022-01-27,8475
 "The Julia Language",2022-02-01,8635
+"The Julia Language",2022-02-07,8818
+"The Julia Language",2022-02-08,8852
+"The Julia Language",2022-02-09,8871
+"The Julia Language",2022-02-10,8894
+"The Julia Language",2022-02-12,9010
 "The Julia Language",2022-02-16,9149
 "The Julia Language",2022-02-20,9259
 "The Julia Language",2022-02-23,9346
@@ -1013,6 +1096,8 @@
 "The Kresge Foundation",2022-01-18,28485
 "The Kresge Foundation",2022-01-27,28696
 "The Kresge Foundation",2022-02-01,28813
+"The Kresge Foundation",2022-02-10,29047
+"The Kresge Foundation",2022-02-12,29089
 "The Kresge Foundation",2022-02-20,29270
 "The Kresge Foundation",2022-02-23,29320
 "The Kresge Foundation",2022-03-20,29810
@@ -1059,6 +1144,8 @@
 "The LEGO Foundation",2021-12-26,40041
 "The LEGO Foundation",2021-12-31,40155
 "The LEGO Foundation",2022-01-12,40617
+"The LEGO Foundation",2022-02-07,43065
+"The LEGO Foundation",2022-02-12,43428
 "The LEGO Foundation",2022-02-16,43669
 "The LEGO Foundation",2022-02-20,44307
 "The LEGO Foundation",2022-02-23,44687
@@ -1094,6 +1181,8 @@
 "The Machine Learning Institute Certificate in Finance (MLI)",2021-12-31,783
 "The Machine Learning Institute Certificate in Finance (MLI)",2022-01-12,787
 "The Machine Learning Institute Certificate in Finance (MLI)",2022-02-01,796
+"The Machine Learning Institute Certificate in Finance (MLI)",2022-02-07,798
+"The Machine Learning Institute Certificate in Finance (MLI)",2022-02-12,798
 "The Machine Learning Institute Certificate in Finance (MLI)",2022-02-16,798
 "The Machine Learning Institute Certificate in Finance (MLI)",2022-02-20,798
 "The Machine Learning Institute Certificate in Finance (MLI)",2022-02-23,798
@@ -1132,6 +1221,8 @@
 "The Michael J. Fox Foundation for Parkinson's Research",2021-12-26,16284
 "The Michael J. Fox Foundation for Parkinson's Research",2021-12-31,16313
 "The Michael J. Fox Foundation for Parkinson's Research",2022-02-01,16566
+"The Michael J. Fox Foundation for Parkinson's Research",2022-02-07,16621
+"The Michael J. Fox Foundation for Parkinson's Research",2022-02-12,16670
 "The Michael J. Fox Foundation for Parkinson's Research",2022-02-16,16702
 "The Michael J. Fox Foundation for Parkinson's Research",2022-02-20,16733
 "The Michael J. Fox Foundation for Parkinson's Research",2022-02-23,16756
@@ -1185,6 +1276,7 @@
 "The New York Community Trust",2022-01-18,2335
 "The New York Community Trust",2022-01-27,2370
 "The New York Community Trust",2022-02-01,2394
+"The New York Community Trust",2022-02-10,2419
 "The New York Community Trust",2022-02-16,2433
 "The New York Community Trust",2022-02-23,2446
 "The New York Community Trust",2022-02-26,2454
@@ -1245,6 +1337,9 @@
 "The R Foundation for Statistical Computing",2022-01-18,2116
 "The R Foundation for Statistical Computing",2022-01-27,2144
 "The R Foundation for Statistical Computing",2022-02-01,2163
+"The R Foundation for Statistical Computing",2022-02-07,2180
+"The R Foundation for Statistical Computing",2022-02-10,2186
+"The R Foundation for Statistical Computing",2022-02-12,2188
 "The R Foundation for Statistical Computing",2022-02-20,2230
 "The R Foundation for Statistical Computing",2022-02-26,2299
 "The R Foundation for Statistical Computing",2022-02-27,2308
@@ -1310,6 +1405,9 @@
 "The Rockefeller Foundation",2022-01-18,148091
 "The Rockefeller Foundation",2022-01-27,148933
 "The Rockefeller Foundation",2022-02-01,149416
+"The Rockefeller Foundation",2022-02-07,149965
+"The Rockefeller Foundation",2022-02-10,150245
+"The Rockefeller Foundation",2022-02-12,150384
 "The Rockefeller Foundation",2022-02-16,150707
 "The Rockefeller Foundation",2022-02-20,151104
 "The Rockefeller Foundation",2022-02-23,151397
@@ -1409,6 +1507,8 @@
 "The unbelievable Machine Company GmbH",2022-01-18,2137
 "The unbelievable Machine Company GmbH",2022-01-27,2143
 "The unbelievable Machine Company GmbH",2022-02-01,2152
+"The unbelievable Machine Company GmbH",2022-02-10,2164
+"The unbelievable Machine Company GmbH",2022-02-12,2164
 "The unbelievable Machine Company GmbH",2022-02-16,2168
 "The unbelievable Machine Company GmbH",2022-02-23,2180
 "The unbelievable Machine Company GmbH",2022-03-03,2184
@@ -1465,6 +1565,9 @@
 "Thimphu TechPark",2022-01-18,150
 "Thimphu TechPark",2022-01-27,155
 "Thimphu TechPark",2022-02-01,155
+"Thimphu TechPark",2022-02-07,155
+"Thimphu TechPark",2022-02-10,156
+"Thimphu TechPark",2022-02-12,156
 "Thimphu TechPark",2022-02-16,158
 "Thimphu TechPark",2022-03-03,161
 "Thimphu TechPark",2022-03-15,164
@@ -1523,6 +1626,8 @@
 "ThinkR (FR)",2022-01-18,546
 "ThinkR (FR)",2022-01-27,553
 "ThinkR (FR)",2022-02-01,555
+"ThinkR (FR)",2022-02-07,560
+"ThinkR (FR)",2022-02-10,560
 "ThinkR (FR)",2022-02-16,561
 "ThinkR (FR)",2022-02-20,563
 "ThinkR (FR)",2022-02-23,563
@@ -1587,6 +1692,9 @@
 "Tiger Analytics",2022-01-18,101597
 "Tiger Analytics",2022-01-27,103314
 "Tiger Analytics",2022-02-01,104529
+"Tiger Analytics",2022-02-07,105817
+"Tiger Analytics",2022-02-10,106600
+"Tiger Analytics",2022-02-12,106936
 "Tiger Analytics",2022-02-20,108328
 "Tiger Analytics",2022-02-23,109088
 "Tiger Analytics",2022-02-26,109910
@@ -1641,6 +1749,7 @@
 "Toronto Machine Learning Meetup",2021-12-31,184
 "Toronto Machine Learning Meetup",2022-01-12,184
 "Toronto Machine Learning Meetup",2022-02-01,186
+"Toronto Machine Learning Meetup",2022-02-07,186
 "Toronto Machine Learning Meetup",2022-02-16,188
 "Toronto Machine Learning Meetup",2022-02-23,188
 "Toronto Machine Learning Meetup",2022-02-26,188
@@ -1680,6 +1789,8 @@
 "Toronto Machine Learning Society (TMLS)",2021-12-31,7493
 "Toronto Machine Learning Society (TMLS)",2022-01-12,7517
 "Toronto Machine Learning Society (TMLS)",2022-02-01,7569
+"Toronto Machine Learning Society (TMLS)",2022-02-07,7581
+"Toronto Machine Learning Society (TMLS)",2022-02-12,7601
 "Toronto Machine Learning Society (TMLS)",2022-02-16,7619
 "Toronto Machine Learning Society (TMLS)",2022-02-26,7652
 "Toronto Machine Learning Society (TMLS)",2022-03-03,7672
@@ -1726,6 +1837,9 @@
 "Towards AI",2022-01-18,193178
 "Towards AI",2022-01-27,194545
 "Towards AI",2022-02-01,195458
+"Towards AI",2022-02-07,196410
+"Towards AI",2022-02-10,196903
+"Towards AI",2022-02-12,197165
 "Towards AI",2022-02-16,197729
 "Towards AI",2022-03-07,200212
 "Towards AI",2022-03-15,201185
@@ -1786,6 +1900,8 @@
 "Towards Data Science",2022-01-27,440102
 "Towards Data Science",2022-02-01,442401
 "Towards Data Science",2022-02-01,442274
+"Towards Data Science",2022-02-07,444687
+"Towards Data Science",2022-02-10,445972
 "Towards Data Science",2022-02-16,448123
 "Towards Data Science",2022-02-20,449582
 "Towards Data Science",2022-02-23,450998
@@ -1852,6 +1968,7 @@
 "Treemetrics Ltd",2022-01-18,1059
 "Treemetrics Ltd",2022-01-27,1062
 "Treemetrics Ltd",2022-02-01,1065
+"Treemetrics Ltd",2022-02-12,1071
 "Treemetrics Ltd",2022-02-26,1083
 "Treemetrics Ltd",2022-03-03,1093
 "Treemetrics Ltd",2022-03-07,1096
@@ -1908,6 +2025,7 @@
 "Tunis R User Group",2022-01-18,426
 "Tunis R User Group",2022-01-27,463
 "Tunis R User Group",2022-02-01,484
+"Tunis R User Group",2022-02-07,509
 "Tunis R User Group",2022-02-16,533
 "Tunis R User Group",2022-02-20,538
 "Tunis R User Group",2022-02-23,541
@@ -1964,6 +2082,9 @@
 "Twenty Billion Neurons",2022-01-18,3230
 "Twenty Billion Neurons",2022-01-27,3231
 "Twenty Billion Neurons",2022-02-01,3234
+"Twenty Billion Neurons",2022-02-07,3237
+"Twenty Billion Neurons",2022-02-10,3239
+"Twenty Billion Neurons",2022-02-12,3238
 "Twenty Billion Neurons",2022-02-16,3236
 "Twenty Billion Neurons",2022-02-20,3236
 "Twenty Billion Neurons",2022-02-23,3239
@@ -2143,6 +2264,8 @@
 "Two Sigma",2022-01-18,107138
 "Two Sigma",2022-01-27,107723
 "Two Sigma",2022-02-01,108053
+"Two Sigma",2022-02-07,108407
+"Two Sigma",2022-02-10,108607
 "Two Sigma",2022-02-16,108933
 "Two Sigma",2022-02-23,109355
 "Two Sigma",2022-02-26,109502
@@ -2213,6 +2336,7 @@
 "UBC Computer Science Student Society",2021-12-31,214
 "UBC Computer Science Student Society",2022-01-12,215
 "UBC Computer Science Student Society",2022-02-01,226
+"UBC Computer Science Student Society",2022-02-07,229
 "UBC Computer Science Student Society",2022-02-16,235
 "UBC Computer Science Student Society",2022-02-23,239
 "UBC Computer Science Student Society",2022-02-26,240
@@ -2295,6 +2419,7 @@
 "UCD I&E Student Managed Fund",2021-12-26,826
 "UCD I&E Student Managed Fund",2022-01-12,836
 "UCD I&E Student Managed Fund",2022-02-01,849
+"UCD I&E Student Managed Fund",2022-02-12,865
 "UCD I&E Student Managed Fund",2022-02-20,872
 "UCD I&E Student Managed Fund",2022-02-23,880
 "UCD I&E Student Managed Fund",2022-02-26,880
@@ -2362,6 +2487,8 @@
 "UCD Investors and Entrepreneurs Society",2021-12-31,1921
 "UCD Investors and Entrepreneurs Society",2022-01-12,1927
 "UCD Investors and Entrepreneurs Society",2022-02-01,1940
+"UCD Investors and Entrepreneurs Society",2022-02-07,1949
+"UCD Investors and Entrepreneurs Society",2022-02-12,1956
 "UCD Investors and Entrepreneurs Society",2022-02-16,1958
 "UCD Investors and Entrepreneurs Society",2022-02-23,1960
 "UCD Investors and Entrepreneurs Society",2022-02-26,1959
@@ -2380,9 +2507,6 @@
 "UCD Investors and Entrepreneurs Society",2022-06-23,2027
 "UCD Investors and Entrepreneurs Society",2022-06-30,2027
 "UCD Investors and Entrepreneurs Society",2022-07-02,2027
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-01,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-02,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-04,307
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-14,275
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-26,276
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-09-02,276
@@ -2449,6 +2573,9 @@
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-18,295
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-27,297
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-01,298
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-07,298
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-10,297
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-12,297
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-16,297
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-20,299
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-23,299
@@ -2480,6 +2607,9 @@
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-23,307
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-28,307
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-30,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-01,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-02,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-04,307
 "UCL Data Science Society",2021-01-22,717
 "UCL Data Science Society",2021-01-25,728
 "UCL Data Science Society",2021-01-28,730
@@ -2530,6 +2660,8 @@
 "UCL Data Science Society",2021-12-20,963
 "UCL Data Science Society",2021-12-26,965
 "UCL Data Science Society",2022-01-12,974
+"UCL Data Science Society",2022-02-07,982
+"UCL Data Science Society",2022-02-12,986
 "UCL Data Science Society",2022-02-16,991
 "UCL Data Science Society",2022-02-20,993
 "UCL Data Science Society",2022-02-23,994
@@ -2595,6 +2727,7 @@
 "UCSD Computer Science & Engineering Society",2021-12-14,121
 "UCSD Computer Science & Engineering Society",2021-12-20,120
 "UCSD Computer Science & Engineering Society",2022-01-12,121
+"UCSD Computer Science & Engineering Society",2022-02-07,124
 "UCSD Computer Science & Engineering Society",2022-02-16,126
 "UCSD Computer Science & Engineering Society",2022-02-20,126
 "UCSD Computer Science & Engineering Society",2022-02-23,127
@@ -2708,6 +2841,9 @@
 "Udemy",2022-01-18,821662
 "Udemy",2022-01-27,829564
 "Udemy",2022-02-01,834799
+"Udemy",2022-02-07,840245
+"Udemy",2022-02-10,843370
+"Udemy",2022-02-12,844751
 "Udemy",2022-02-16,847829
 "Udemy",2022-02-20,850963
 "Udemy",2022-03-03,859155
@@ -2825,6 +2961,9 @@
 "UK Statistics Authority",2022-01-18,1237
 "UK Statistics Authority",2022-01-27,1252
 "UK Statistics Authority",2022-02-01,1265
+"UK Statistics Authority",2022-02-07,1291
+"UK Statistics Authority",2022-02-10,1302
+"UK Statistics Authority",2022-02-12,1311
 "UK Statistics Authority",2022-02-16,1315
 "UK Statistics Authority",2022-02-20,1316
 "UK Statistics Authority",2022-02-23,1331
@@ -2880,6 +3019,7 @@
 "UL - Kemmy Business School (KBS) University of Limerick",2021-12-31,2361
 "UL - Kemmy Business School (KBS) University of Limerick",2022-01-12,2371
 "UL - Kemmy Business School (KBS) University of Limerick",2022-02-01,2397
+"UL - Kemmy Business School (KBS) University of Limerick",2022-02-12,2405
 "UL - Kemmy Business School (KBS) University of Limerick",2022-02-16,2416
 "UL - Kemmy Business School (KBS) University of Limerick",2022-02-23,2429
 "UL - Kemmy Business School (KBS) University of Limerick",2022-03-03,2440
@@ -2899,6 +3039,9 @@
 "UL - Kemmy Business School (KBS) University of Limerick",2022-07-02,2588
 "Ultimate",2022-01-27,5088
 "Ultimate",2022-02-01,5115
+"Ultimate",2022-02-07,5162
+"Ultimate",2022-02-10,5188
+"Ultimate",2022-02-12,5197
 "Ultimate",2022-02-16,5215
 "Ultimate",2022-02-20,5229
 "Ultimate",2022-02-23,5248
@@ -3052,6 +3195,9 @@
 "UNDP Guinea-Bissau",2022-01-18,2095
 "UNDP Guinea-Bissau",2022-01-27,2118
 "UNDP Guinea-Bissau",2022-02-01,2128
+"UNDP Guinea-Bissau",2022-02-07,2154
+"UNDP Guinea-Bissau",2022-02-10,2164
+"UNDP Guinea-Bissau",2022-02-12,2174
 "UNDP Guinea-Bissau",2022-02-16,2180
 "UNDP Guinea-Bissau",2022-02-20,2191
 "UNDP Guinea-Bissau",2022-02-23,2217
@@ -3100,6 +3246,9 @@
 "UNICEF Office of Research - Innocenti",2022-01-18,36537
 "UNICEF Office of Research - Innocenti",2022-01-27,37520
 "UNICEF Office of Research - Innocenti",2022-02-01,38304
+"UNICEF Office of Research - Innocenti",2022-02-07,39082
+"UNICEF Office of Research - Innocenti",2022-02-10,39481
+"UNICEF Office of Research - Innocenti",2022-02-12,39679
 "UNICEF Office of Research - Innocenti",2022-02-20,40412
 "UNICEF Office of Research - Innocenti",2022-02-23,40694
 "UNICEF Office of Research - Innocenti",2022-03-07,41565
@@ -3167,6 +3316,8 @@
 "United Nations Foundation",2022-01-18,119057
 "United Nations Foundation",2022-01-27,119517
 "United Nations Foundation",2022-02-01,119880
+"United Nations Foundation",2022-02-07,120255
+"United Nations Foundation",2022-02-10,120502
 "United Nations Foundation",2022-02-16,120791
 "United Nations Foundation",2022-02-23,121219
 "United Nations Foundation",2022-02-26,121376
@@ -3209,6 +3360,8 @@
 "United Nations Institute for Training and Research (UNITAR)",2022-01-18,227781
 "United Nations Institute for Training and Research (UNITAR)",2022-01-27,230585
 "United Nations Institute for Training and Research (UNITAR)",2022-02-01,231944
+"United Nations Institute for Training and Research (UNITAR)",2022-02-10,234142
+"United Nations Institute for Training and Research (UNITAR)",2022-02-12,234593
 "United Nations Institute for Training and Research (UNITAR)",2022-02-16,235525
 "United Nations Institute for Training and Research (UNITAR)",2022-02-23,237048
 "United Nations Institute for Training and Research (UNITAR)",2022-02-26,237661
@@ -3262,6 +3415,7 @@
 "United Nations Sustainable Development Group",2022-01-18,143248
 "United Nations Sustainable Development Group",2022-01-27,144008
 "United Nations Sustainable Development Group",2022-02-01,144572
+"United Nations Sustainable Development Group",2022-02-12,145709
 "United Nations Sustainable Development Group",2022-02-26,146130
 "United Nations Sustainable Development Group",2022-03-03,146319
 "United Nations Sustainable Development Group",2022-03-07,146421
@@ -3346,6 +3500,8 @@
 "University College Dublin",2021-12-26,239226
 "University College Dublin",2022-01-12,240552
 "University College Dublin",2022-02-01,242422
+"University College Dublin",2022-02-07,242969
+"University College Dublin",2022-02-12,243411
 "University College Dublin",2022-02-16,243704
 "University College Dublin",2022-02-20,243999
 "University College Dublin",2022-02-23,244296
@@ -3400,6 +3556,7 @@
 "University of Bristol Computer Science Society",2021-12-31,130
 "University of Bristol Computer Science Society",2022-01-12,130
 "University of Bristol Computer Science Society",2022-02-01,132
+"University of Bristol Computer Science Society",2022-02-12,132
 "University of Bristol Computer Science Society",2022-02-16,133
 "University of Bristol Computer Science Society",2022-02-23,133
 "University of Bristol Computer Science Society",2022-03-03,135
@@ -3442,6 +3599,7 @@
 "University of Limerick",2021-12-20,94765
 "University of Limerick",2021-12-26,94918
 "University of Limerick",2022-02-01,96051
+"University of Limerick",2022-02-07,96226
 "University of Limerick",2022-02-16,96502
 "University of Limerick",2022-02-20,96620
 "University of Limerick",2022-02-23,96735
@@ -3497,6 +3655,8 @@
 "University Of Sheffield Computer Science Society",2021-12-31,38
 "University Of Sheffield Computer Science Society",2022-01-12,38
 "University Of Sheffield Computer Science Society",2022-02-01,40
+"University Of Sheffield Computer Science Society",2022-02-07,41
+"University Of Sheffield Computer Science Society",2022-02-12,42
 "University Of Sheffield Computer Science Society",2022-02-16,42
 "University Of Sheffield Computer Science Society",2022-02-20,42
 "University Of Sheffield Computer Science Society",2022-02-23,42
@@ -3564,6 +3724,8 @@
 "UNSW Computer Science and Engineering Society (CSESoc)",2021-12-31,1087
 "UNSW Computer Science and Engineering Society (CSESoc)",2022-01-12,1095
 "UNSW Computer Science and Engineering Society (CSESoc)",2022-02-01,1109
+"UNSW Computer Science and Engineering Society (CSESoc)",2022-02-07,1115
+"UNSW Computer Science and Engineering Society (CSESoc)",2022-02-12,1122
 "UNSW Computer Science and Engineering Society (CSESoc)",2022-02-16,1131
 "UNSW Computer Science and Engineering Society (CSESoc)",2022-02-23,1143
 "UNSW Computer Science and Engineering Society (CSESoc)",2022-03-03,1156
@@ -3632,6 +3794,7 @@
 "UNSW Data Science Society (DataSoc)",2021-12-31,683
 "UNSW Data Science Society (DataSoc)",2022-01-12,686
 "UNSW Data Science Society (DataSoc)",2022-02-01,689
+"UNSW Data Science Society (DataSoc)",2022-02-12,694
 "UNSW Data Science Society (DataSoc)",2022-02-16,699
 "UNSW Data Science Society (DataSoc)",2022-02-23,702
 "UNSW Data Science Society (DataSoc)",2022-03-03,708
@@ -3773,6 +3936,9 @@
 "Ursa Labs",2022-01-18,445
 "Ursa Labs",2022-01-27,444
 "Ursa Labs",2022-02-01,444
+"Ursa Labs",2022-02-07,444
+"Ursa Labs",2022-02-10,445
+"Ursa Labs",2022-02-12,445
 "Ursa Labs",2022-02-16,444
 "Ursa Labs",2022-02-20,443
 "Ursa Labs",2022-02-26,443
@@ -3843,6 +4009,8 @@
 "USC Center for AI in Society's Student Branch (CAIS++)",2021-12-26,185
 "USC Center for AI in Society's Student Branch (CAIS++)",2021-12-31,185
 "USC Center for AI in Society's Student Branch (CAIS++)",2022-01-12,187
+"USC Center for AI in Society's Student Branch (CAIS++)",2022-02-07,190
+"USC Center for AI in Society's Student Branch (CAIS++)",2022-02-12,194
 "USC Center for AI in Society's Student Branch (CAIS++)",2022-02-16,194
 "USC Center for AI in Society's Student Branch (CAIS++)",2022-02-20,195
 "USC Center for AI in Society's Student Branch (CAIS++)",2022-02-23,195
@@ -3913,6 +4081,8 @@
 "useR! - The R User Conference",2021-12-26,1197
 "useR! - The R User Conference",2022-01-12,1211
 "useR! - The R User Conference",2022-02-01,1251
+"useR! - The R User Conference",2022-02-07,1257
+"useR! - The R User Conference",2022-02-12,1263
 "useR! - The R User Conference",2022-02-20,1278
 "useR! - The R User Conference",2022-02-23,1283
 "useR! - The R User Conference",2022-02-26,1293
@@ -3961,6 +4131,8 @@
 "UST Computer Science Society",2021-12-20,20
 "UST Computer Science Society",2021-12-26,20
 "UST Computer Science Society",2022-01-12,20
+"UST Computer Science Society",2022-02-07,23
+"UST Computer Science Society",2022-02-12,23
 "UST Computer Science Society",2022-02-16,23
 "UST Computer Science Society",2022-02-23,23
 "UST Computer Science Society",2022-03-03,23
@@ -4012,6 +4184,9 @@
 "VERDE",2022-01-18,128
 "VERDE",2022-01-27,129
 "VERDE",2022-02-01,131
+"VERDE",2022-02-07,131
+"VERDE",2022-02-10,147
+"VERDE",2022-02-12,154
 "VERDE",2022-02-23,160
 "VERDE",2022-02-26,160
 "VERDE",2022-03-07,163
@@ -4095,6 +4270,8 @@
 "vGIS",2021-12-31,11106
 "vGIS",2022-01-12,11188
 "vGIS",2022-02-01,11784
+"vGIS",2022-02-07,11864
+"vGIS",2022-02-12,11998
 "vGIS",2022-02-16,12070
 "vGIS",2022-02-20,12115
 "vGIS",2022-02-23,12146
@@ -4177,6 +4354,9 @@
 "ViennaR",2022-01-18,391
 "ViennaR",2022-01-27,391
 "ViennaR",2022-02-01,391
+"ViennaR",2022-02-07,391
+"ViennaR",2022-02-10,391
+"ViennaR",2022-02-12,391
 "ViennaR",2022-02-16,391
 "ViennaR",2022-02-20,392
 "ViennaR",2022-02-23,392
@@ -4281,6 +4461,8 @@
 "W.K. Kellogg Foundation",2022-01-18,40924
 "W.K. Kellogg Foundation",2022-01-27,41113
 "W.K. Kellogg Foundation",2022-02-01,41230
+"W.K. Kellogg Foundation",2022-02-07,41369
+"W.K. Kellogg Foundation",2022-02-10,41470
 "W.K. Kellogg Foundation",2022-02-16,41598
 "W.K. Kellogg Foundation",2022-02-20,41704
 "W.K. Kellogg Foundation",2022-02-23,41799
@@ -4370,6 +4552,8 @@
 "Walton Family Foundation",2022-01-18,41326
 "Walton Family Foundation",2022-01-27,41492
 "Walton Family Foundation",2022-02-01,41614
+"Walton Family Foundation",2022-02-07,41754
+"Walton Family Foundation",2022-02-12,41878
 "Walton Family Foundation",2022-02-16,41964
 "Walton Family Foundation",2022-02-23,42202
 "Walton Family Foundation",2022-02-26,42295
@@ -4450,6 +4634,7 @@
 "Warwick Data Science Society",2021-12-26,627
 "Warwick Data Science Society",2021-12-31,628
 "Warwick Data Science Society",2022-02-01,631
+"Warwick Data Science Society",2022-02-07,631
 "Warwick Data Science Society",2022-02-20,634
 "Warwick Data Science Society",2022-02-23,634
 "Warwick Data Science Society",2022-03-03,636
@@ -4479,6 +4664,9 @@
 "Weights & Biases",2022-01-18,9133
 "Weights & Biases",2022-01-27,9538
 "Weights & Biases",2022-02-01,9805
+"Weights & Biases",2022-02-07,10095
+"Weights & Biases",2022-02-10,10346
+"Weights & Biases",2022-02-12,10451
 "Weights & Biases",2022-02-16,10711
 "Weights & Biases",2022-02-20,10961
 "Weights & Biases",2022-02-23,11155
@@ -4554,6 +4742,9 @@
 "WellClever",2022-01-18,122
 "WellClever",2022-01-27,122
 "WellClever",2022-02-01,122
+"WellClever",2022-02-07,122
+"WellClever",2022-02-10,122
+"WellClever",2022-02-12,122
 "WellClever",2022-02-16,122
 "WellClever",2022-02-20,122
 "WellClever",2022-02-23,122
@@ -4707,6 +4898,9 @@
 "Why R?",2022-01-27,3338
 "Why R?",2022-02-01,3349
 "Why R?",2022-02-01,3348
+"Why R?",2022-02-07,3354
+"Why R?",2022-02-10,3356
+"Why R?",2022-02-12,3357
 "Why R?",2022-02-16,3362
 "Why R?",2022-02-20,3364
 "Why R?",2022-02-23,3370
@@ -4741,6 +4935,7 @@
 "Why R?",2022-07-01,3669
 "Why R?",2022-07-02,3669
 "Why R?",2022-07-04,3677
+"Why R? Foundation",2022-02-09,3355
 "William and Flora Hewlett Foundation",2020-10-25,12553
 "William and Flora Hewlett Foundation",2020-10-28,12602
 "William and Flora Hewlett Foundation",2021-01-06,13812
@@ -4809,6 +5004,9 @@
 "William and Flora Hewlett Foundation",2022-01-18,18980
 "William and Flora Hewlett Foundation",2022-01-27,19140
 "William and Flora Hewlett Foundation",2022-02-01,19283
+"William and Flora Hewlett Foundation",2022-02-07,19399
+"William and Flora Hewlett Foundation",2022-02-10,19477
+"William and Flora Hewlett Foundation",2022-02-12,19514
 "William and Flora Hewlett Foundation",2022-02-16,19592
 "William and Flora Hewlett Foundation",2022-02-20,19696
 "William and Flora Hewlett Foundation",2022-02-23,19752
@@ -4905,6 +5103,7 @@
 "Women in AI Ireland",2022-01-18,2563
 "Women in AI Ireland",2022-01-27,2564
 "Women in AI Ireland",2022-02-01,2571
+"Women in AI Ireland",2022-02-07,2588
 "Women in AI Ireland",2022-02-16,2614
 "Women in AI Ireland",2022-02-20,2637
 "Women in AI Ireland",2022-02-23,2669
@@ -4997,13 +5196,24 @@
 "Women in Data<U+00AE>",2021-12-31,16185
 "Women in Data<U+00AE>",2022-01-03,16195
 "Women in Data<U+00AE>",2022-01-04,16210
+"Women in Data<U+00AE>",2022-01-04,16210
+"Women in Data<U+00AE>",2022-01-06,16245
 "Women in Data<U+00AE>",2022-01-06,16245
 "Women in Data<U+00AE>",2022-01-07,16266
+"Women in Data<U+00AE>",2022-01-07,16266
+"Women in Data<U+00AE>",2022-01-10,16288
 "Women in Data<U+00AE>",2022-01-10,16288
 "Women in Data<U+00AE>",2022-01-14,16368
+"Women in Data<U+00AE>",2022-01-14,16368
+"Women in Data<U+00AE>",2022-01-18,16395
 "Women in Data<U+00AE>",2022-01-18,16395
 "Women in Data<U+00AE>",2022-01-27,16518
+"Women in Data<U+00AE>",2022-01-27,16518
 "Women in Data<U+00AE>",2022-02-01,16591
+"Women in Data<U+00AE>",2022-02-01,16591
+"Women in Data<U+00AE>",2022-02-07,16701
+"Women in Data<U+00AE>",2022-02-10,16756
+"Women in Data<U+00AE>",2022-02-12,16791
 "Women in Data<U+00AE>",2022-02-20,16919
 "Women in Data<U+00AE>",2022-02-26,17022
 "Women in Data<U+00AE>",2022-03-03,17164
@@ -5033,12 +5243,14 @@
 "Women in Data<U+00AE>",2022-06-24,21328
 "Women in Data<U+00AE>",2022-06-28,21512
 "Women in Data<U+00AE>",2022-06-30,21611
-"Women in Data®",2022-07-01,21714
-"Women in Data®",2022-07-02,21740
-"Women in Data®",2022-07-04,21831
+"Women in Data<U+00AE>",2022-07-01,21714
+"Women in Data<U+00AE>",2022-07-02,21740
+"Women in Data<U+00AE>",2022-07-04,21831
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-18,30
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-27,58
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-01,64
+"Women in Machine Learning and Data Science MAURITIUS",2022-02-10,74
+"Women in Machine Learning and Data Science MAURITIUS",2022-02-12,75
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-16,78
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-23,80
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-26,81
@@ -5163,6 +5375,8 @@
 "Women in Technology (WIT)",2022-01-18,166041
 "Women in Technology (WIT)",2022-01-27,167707
 "Women in Technology (WIT)",2022-02-01,168781
+"Women in Technology (WIT)",2022-02-07,170106
+"Women in Technology (WIT)",2022-02-12,172089
 "Women in Technology (WIT)",2022-02-16,173068
 "Women in Technology (WIT)",2022-02-23,174892
 "Women in Technology (WIT)",2022-02-26,176598
@@ -5256,6 +5470,9 @@
 "Women Who Code",2022-01-18,94957
 "Women Who Code",2022-01-27,95658
 "Women Who Code",2022-02-01,96109
+"Women Who Code",2022-02-07,96743
+"Women Who Code",2022-02-10,97087
+"Women Who Code",2022-02-12,97318
 "Women Who Code",2022-02-16,97693
 "Women Who Code",2022-03-03,99461
 "Women Who Code",2022-03-15,100762
@@ -5351,6 +5568,7 @@
 "WorldQuant",2022-01-18,44236
 "WorldQuant",2022-01-27,44466
 "WorldQuant",2022-02-01,44648
+"WorldQuant",2022-02-10,44917
 "WorldQuant",2022-02-16,45077
 "WorldQuant",2022-02-23,45300
 "WorldQuant",2022-02-26,45359
@@ -5429,6 +5647,9 @@
 "X-Europe Data Science",2022-01-18,75
 "X-Europe Data Science",2022-01-27,75
 "X-Europe Data Science",2022-02-01,75
+"X-Europe Data Science",2022-02-07,75
+"X-Europe Data Science",2022-02-10,75
+"X-Europe Data Science",2022-02-12,75
 "X-Europe Data Science",2022-02-16,75
 "X-Europe Data Science",2022-02-20,76
 "X-Europe Data Science",2022-02-23,76
@@ -5525,6 +5746,8 @@
 "Xanadu Consultancy",2022-01-18,2748
 "Xanadu Consultancy",2022-01-27,2753
 "Xanadu Consultancy",2022-02-01,2759
+"Xanadu Consultancy",2022-02-07,2762
+"Xanadu Consultancy",2022-02-10,2763
 "Xanadu Consultancy",2022-02-16,2766
 "Xanadu Consultancy",2022-02-23,2769
 "Xanadu Consultancy",2022-03-15,2786
@@ -5595,6 +5818,8 @@
 "Xava",2022-01-18,56
 "Xava",2022-01-27,56
 "Xava",2022-02-01,56
+"Xava",2022-02-10,56
+"Xava",2022-02-12,56
 "Xava",2022-02-16,56
 "Xava",2022-02-23,56
 "Xava",2022-03-03,56
@@ -5693,6 +5918,9 @@
 "Xuntos - Let's Get Together",2022-01-18,576
 "Xuntos - Let's Get Together",2022-01-27,582
 "Xuntos - Let's Get Together",2022-02-01,589
+"Xuntos - Let's Get Together",2022-02-07,591
+"Xuntos - Let's Get Together",2022-02-10,592
+"Xuntos - Let's Get Together",2022-02-12,592
 "Xuntos - Let's Get Together",2022-02-16,594
 "Xuntos - Let's Get Together",2022-02-20,595
 "Xuntos - Let's Get Together",2022-02-23,596
@@ -5797,6 +6025,8 @@
 "Zindi",2022-01-18,8307
 "Zindi",2022-01-27,8396
 "Zindi",2022-02-01,8447
+"Zindi",2022-02-07,8461
+"Zindi",2022-02-12,8542
 "Zindi",2022-02-26,8655
 "Zindi",2022-03-03,8691
 "Zindi",2022-03-07,8719
