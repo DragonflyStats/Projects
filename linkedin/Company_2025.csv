@@ -2734,12 +2734,6 @@
 "UCD Investors and Entrepreneurs Society",2022-07-05,2030
 "UCD Investors and Entrepreneurs Society",2022-07-13,2034
 "UCD Investors and Entrepreneurs Society",2022-07-18,2035
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-05,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-09,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-12,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-13,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-18,307
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-07-21,307
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-14,275
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-26,276
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-09-02,276
@@ -2843,6 +2837,12 @@
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-01,307
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-02,307
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-04,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-05,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-09,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-12,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-13,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-18,307
+"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-21,307
 "UCL Data Science Society",2021-01-22,717
 "UCL Data Science Society",2021-01-25,728
 "UCL Data Science Society",2021-01-28,730
@@ -5614,11 +5614,11 @@
 "Women in Data<U+00AE>",2022-07-01,21714
 "Women in Data<U+00AE>",2022-07-02,21740
 "Women in Data<U+00AE>",2022-07-04,21831
-"Women in Data®",2022-07-05,21920
-"Women in Data®",2022-07-09,22093
-"Women in Data®",2022-07-12,22208
-"Women in Data®",2022-07-18,22398
-"Women in Data®",2022-07-21,22559
+"Women in Data<U+00AE>",2022-07-05,21920
+"Women in Data<U+00AE>",2022-07-09,22093
+"Women in Data<U+00AE>",2022-07-12,22208
+"Women in Data<U+00AE>",2022-07-18,22398
+"Women in Data<U+00AE>",2022-07-21,22559
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-18,30
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-27,58
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-01,64
