@@ -1,1109 +1,60 @@
 "Company","Date","Followers"
+"Oceaneering",2021-06-16,282007
+"Oceaneering",2021-06-21,282406
+"Oceaneering",2021-06-29,283045
+"Oceaneering",2021-07-04,283579
+"Oceaneering",2021-07-09,283994
+"Oceaneering",2021-07-14,284407
+"Oceaneering",2021-07-22,285187
+"Oceaneering",2021-08-14,287092
+"Oceaneering",2021-08-26,288201
+"Oceaneering",2021-09-02,288780
+"Oceaneering",2021-09-09,289413
+"Oceaneering",2021-09-16,290079
+"Oceaneering",2021-10-17,293607
+"Oceaneering",2021-10-29,295539
+"Oceaneering",2021-11-20,298393
+"Oceaneering",2021-12-03,299875
+"Oceaneering",2021-12-20,302136
+"Oceaneering",2022-01-12,306493
+"Oceaneering",2022-02-01,310092
+"Oceaneering",2022-02-12,311839
+"Oceaneering",2022-02-16,312347
+"Oceaneering",2022-02-23,313426
+"Oceaneering",2022-03-03,314431
+"Oceaneering",2022-03-15,315912
+"Oceaneering",2022-03-20,316583
+"Oceaneering",2022-04-11,319458
+"Oceaneering",2022-04-13,319759
+"Oceaneering",2022-05-01,322701
+"Oceaneering",2022-05-27,328033
+"Oceaneering",2022-06-07,330490
+"Oceaneering",2022-06-08,330490
+"Oceaneering",2022-06-11,331267
+"Oceaneering",2022-06-16,332296
+"Oceaneering",2022-06-23,333951
+"Oceaneering",2022-06-24,334317
+"Oceaneering",2022-06-30,335365
+"Oceaneering",2022-07-02,335689
+"Oceaneering",2022-07-05,336298
+"Oceaneering",2022-07-13,337824
+"Oceaneering",2022-07-18,338782
+"Oceaneering",2022-07-23,339976
+"Oceaneering",2022-07-25,340448
+"Oceaneering",2022-08-02,342154
+"Oceaneering",2022-08-16,345821
+"Oceaneering",2022-08-20,347066
+"Oceaneering",2022-08-25,348227
+"Oceaneering",2022-08-28,348808
+"Oceaneering",2022-09-07,350834
+"Oceaneering",2022-09-10,351481
+"Oceaneering",2022-09-16,352860
+"Oceaneering",2022-09-22,354199
+"Oceaneering",2022-09-29,355776
 "Office for National Statistics",2021-06-16,41538
 "Office for National Statistics",2021-06-21,41625
 "Office for National Statistics",2021-06-29,41723
-"IBM",2022-09-29,14501006
-"Accenture",2022-09-29,9540207
-"Tata Consultancy Services",2022-09-29,10794850
-"McKinsey & Company",2022-09-29,4776530
-"SAS",2022-09-29,799148
-"Roche",2022-09-29,2742233
-"Cognizant",2022-09-29,5483840
-"Boston Consulting Group (BCG)",2022-09-29,3381615
-"Informatica",2022-09-29,238349
-"Ascential",2022-09-29,52481
-"Esri",2022-09-29,298476
-"Globant",2022-09-29,634491
-"Bill & Melinda Gates Foundation",2022-09-29,1042841
-"Nagarro",2022-09-29,465936
-"Newgen Software",2022-09-29,131172
-"Open Society Foundations",2022-09-29,178766
-"IUCN",2022-09-29,119861
-"Ford Foundation",2022-09-29,137907
-"Office for National Statistics",2022-09-29,55266
-"KIPP Foundation",2022-09-29,50251
-"Robert Wood Johnson Foundation",2022-09-29,64765
-"United Nations Foundation",2022-09-29,138806
-"Packt",2022-09-29,68566
-"MacArthur Foundation",2022-09-29,86110
-"Gordon and Betty Moore Foundation",2022-09-29,8699
-"Two Sigma",2022-09-29,127043
-"The David and Lucile Packard Foundation",2022-09-29,22894
-"Skoll Foundation",2022-09-29,36051
-"Analytic Partners",2022-09-29,10454
-"Conning",2022-09-29,13892
-"The James Irvine Foundation",2022-09-29,10643
-"William and Flora Hewlett Foundation",2022-09-29,24704
-"Elm Company",2022-09-29,440111
-"Doris Duke Charitable Foundation",2022-09-29,3907
-"Mellon Foundation",2022-09-29,22139
-"W.K. Kellogg Foundation",2022-09-29,48721
-"Rockefeller Philanthropy Advisors",2022-09-29,29269
-"G-Research",2022-09-29,28603
-"Brightwater",2022-09-29,110601
-"Idiro Analytics",2022-09-29,4882
-"Datalytics",2022-09-29,19994
-"Mango Solutions",2022-09-29,3845
-"Pluralsight",2022-09-29,162239
-"The Kresge Foundation",2022-09-29,34266
-"The New York Community Trust",2022-09-29,3149
-"Women In Technology (WIT)",2022-09-29,232444
-"Cpl",2022-09-29,243812
-"GlobalLogic",2022-09-29,660810
-"Susquehanna International Group LLP (SIG)",2022-09-29,100335
-"The Rockefeller Foundation",2022-09-29,174144
-"Tableau",2022-09-29,780409
-"Genpact",2022-09-29,2086646
-"i2 Inc.",2022-09-29,990
-"The Apache Software Foundation",2022-09-29,61754
-"WorldQuant",2022-09-29,52999
-"Collibra",2022-09-29,49859
-"Jump Trading LLC",2022-09-29,44495
-"Qualtrics",2022-09-29,202145
-"United Nations Institute for Training and Research (UNITAR)",2022-09-29,291325
-"Remsoft",2022-09-29,2996
-"RapidMiner",2022-09-29,18910
-"Geoscience Australia",2022-09-29,24113
-"Conrad N. Hilton Foundation",2022-09-29,13029
-"KNIME",2022-09-29,33808
-"Irish Centre for High-End Computing ICHEC",2022-09-29,1194
-"Udemy",2022-09-29,1017927
-"Pacific Whale Foundation",2022-09-29,1896
-"QuantumBlack AI by McKinsey",2022-09-29,176056
-"Alteryx",2022-09-29,219756
-"Datahug (acquired by CallidusCloud)",2022-09-29,3102
-"Stack Overflow",2022-09-29,1081937
-"The Analytics Institute of Ireland",2022-09-29,6305
-"NCX",2022-09-29,6025
-"Kaggle",2022-09-29,349863
-"Institute of Mathematics and its Applications",2022-09-29,21944
-"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-29,19514
-"Open Knowledge Foundation",2022-09-29,6163
-"Coillte",2022-09-29,15112
-"The unbelievable Machine Company GmbH",2022-09-29,2387
-"Lucid Software",2022-09-29,63367
-"Alfred P. Sloan Foundation",2022-09-29,2480
-"United Nations Sustainable Development Group",2022-09-29,176621
-"Bloomberg Philanthropies",2022-09-29,61113
-"GitHub",2022-09-29,2820855
-"Quovantis Technologies",2022-09-29,14151
-"r-programming.org",2022-09-29,2376
-"Jane Street",2022-09-29,98655
-"CSO (Central Statistics Office Ireland)",2022-09-29,7000
-"Ginkgo Management Consulting",2022-09-29,2865
-"RStudio PBC",2022-09-29,87931
-"Asystec (Now Ergo)",2022-09-29,2508
-"Tiger Analytics",2022-09-29,174697
-"Irish Defence Forces",2022-09-29,12020
-"African Institute for Mathematical Sciences (AIMS)",2022-09-29,14112
-"InSpire at St Peter's",2022-09-29,81
-"WellClever",2022-09-29,121
-"RegioData Research GmbH",2022-09-29,221
-"Boxfish",2022-09-29,443
-"Geospatial World",2022-09-29,29512
-"General Assembly",2022-09-29,183137
-"Data Ireland",2022-09-29,814
-"Walton Family Foundation",2022-09-29,48223
-"Coursera",2022-09-29,1414541
-"Flowminder",2022-09-29,1601
-"Economic and Social Research Institute (ESRI)",2022-09-29,12023
-"DataKind",2022-09-29,16303
-"Film Analytics",2022-09-29,219
-"Knoldus Inc",2022-09-29,14298
-"STATSports",2022-09-29,26051
-"DataRobot",2022-09-29,115650
-"Xava",2022-09-29,81
-"Dataiku",2022-09-29,121675
-"Senseforth.ai",2022-09-29,30684
-"H2O.ai",2022-09-29,116080
-"Falkonry",2022-09-29,3736
-"Gapminder Foundation",2022-09-29,15576
-"Open Data Institute",2022-09-29,13552
-"KatRisk LLC",2022-09-29,1732
-"Ixio Analytics",2022-09-29,769
-"Royal Statistical Society",2022-09-29,10036
-"Black Girls CODE",2022-09-29,39090
-"FutureLearn",2022-09-29,116709
-"dotConferences",2022-09-29,207
-"Xanadu Consultancy",2022-09-29,2877
-"ORRECO",2022-09-29,2659
-"Qatar Computing Research Institute",2022-09-29,11070
-"DataKind UK",2022-09-29,2738
-"DataCamp",2022-09-29,338107
-"Women Who Code",2022-09-29,122488
-"Kitman Labs",2022-09-29,9713
-"Plotly",2022-09-29,20753
-"Data for Good",2022-09-29,9249
-"Databricks",2022-09-29,368182
-"IBM Cloud",2022-09-29,202647
-"Appsilon",2022-09-29,3873
-"Domino Data Lab",2022-09-29,31130
-"BCG Digital Ventures",2022-09-29,148412
-"Aon Centre for Innovation and Analytics (ACIA)",2022-09-29,14962
-"Analytics Vidhya",2022-09-29,148174
-"ProCogia",2022-09-29,6726
-"Snowflake",2022-09-29,488827
-"Data Science Dojo",2022-09-29,223503
-"Fivetran",2022-09-29,64378
-"DataIQ",2022-09-29,13088
-"Data Science Institute",2022-09-29,16110
-"IBM Data and AI",2022-09-29,224971
-"Decision Inc.",2022-09-29,31519
-"GitLab",2022-09-29,715351
-"Sustainable Development Solutions Network",2022-09-29,48906
-"Python Software Foundation",2022-09-29,113143
-"Netcelero",2022-09-29,890
-"IHM Southern Africa",2022-09-29,1943
-"Major League Hacking",2022-09-29,26417
-"UK Statistics Authority ",2022-09-29,2351
-"Data Science Central",2022-09-29,266543
-"VERDE",2022-09-29,180
-"Noodle.ai",2022-09-29,22229
-"Global Partnership for Sustainable Development Data",2022-09-29,4356
-"Development Seed",2022-09-29,2327
-"Group on Earth Observations (GEO)",2022-09-29,5884
-"Squarepoint Capital",2022-09-29,14433
-"ADAPT Centre",2022-09-29,3258
-"Data & Society Research Institute",2022-09-29,7592
-"Appinventiv",2022-09-29,111784
-"Gower Street Analytics",2022-09-29,1875
-"Open Data Science Conference (ODSC)",2022-09-29,130947
-"Julia Computing",2022-09-29,14312
-"Python Ireland",2022-09-29,1383
-"ThinkR (FR)",2022-09-29,633
-"Sololearn",2022-09-29,120405
-"Data Science by Data Scientist Canada",2022-09-29,17341
-"Lander Analytics",2022-09-29,399
-"Dataquest.io",2022-09-29,41073
-"NumFOCUS",2022-09-29,3226
-"Ursa Labs",2022-09-29,448
-"The Alan Turing Institute",2022-09-29,28014
-"Klue",2022-09-29,14542
-"insight2impact",2022-09-29,1299
-"PyData Berlin",2022-09-29,595
-"Project Jupyter",2022-09-29,10391
-"Satellite Vu",2022-09-29,4246
-"Data Science Academy",2022-09-29,376521
-"Data For Good",2022-09-29,7917
-"Data Science Foundation International",2022-09-29,2825
-"Twenty Billion Neurons",2022-09-29,3245
-"Machine Learning Mastery",2022-09-29,249603
-"SuperDataScience",2022-09-29,84357
-"Big Data LDN",2022-09-29,5820
-"Xuntos - Let's Get Together",2022-09-29,649
-"Microsoft Power BI by Solution Systems",2022-09-29,72239
-"Ultimate",2022-09-29,6776
-"QuantStack",2022-09-29,958
-"Derilinx",2022-09-29,896
-"Radiant Earth Foundation",2022-09-29,6858
-"Global Fishing Watch",2022-09-29,4739
-"RSS Data Science and AI Section",2022-09-29,1680
-"Invenia Labs",2022-09-29,2324
-"The Global Academy",2022-09-29,292
-"Open Cadastre",2022-09-29,14
-"Sister Analyst",2022-09-29,471
-"SDG Academy",2022-09-29,21269
-"(WiMLDS) Women in Machine Learning & Data Science",2022-09-29,12175
-"Fathom Data",2022-09-29,427
-"ADF Haiti",2022-09-29,418
-"Alldus",2022-09-29,36935
-"AI Awards Ireland",2022-09-29,2899
-"Data for Good Foundation",2022-09-29,1880
-"Why R?",2022-09-29,4002
-"PyData Delhi",2022-09-29,1677
-"Bhutan Data Scientists",2022-09-29,51
-"Accenture The Dock",2022-09-29,8525
-"CivicDataLab",2022-09-29,3594
-"SCALEWORK",2022-09-29,1092
-"Data Visualization Society",2022-09-29,117153
-"Omdena",2022-09-29,27491
-"EcoAngola",2022-09-29,20665
-"Rust Programming Language",2022-09-29,5385
-"Age Of Geeks",2022-09-29,156874
-"R User Group Nepal",2022-09-29,80
-"Women in Machine Learning and Data Science MAURITIUS",2022-09-29,99
-"East Africa Research &Data Analysis",2022-09-29,15
-"Irish Air Corps",2022-09-29,1587
-"getINNOtized GmbH",2022-09-29,5309
-"Data Science Council of America",2022-09-29,57861
-"Obama Foundation",2022-09-29,150845
-"Geosaber",2022-09-29,3882
-"Real Consulting Data",2022-09-29,978
-"Machine Learning Prague conference",2022-09-29,269
-"Canvas Intelligence",2022-09-29,11755
-"NVIDIA AI",2022-09-29,386617
-"365 Data Science",2022-09-29,111241
-"Business Science",2022-09-29,13964
-"Treemetrics Ltd",2022-09-29,1228
-"CeADAR Ireland",2022-09-29,1596
-"Space4Good",2022-09-29,5319
-"Outreachy",2022-09-29,6745
-"DeepLearning.AI",2022-09-29,537662
-"UCL Data Science Society",2022-09-29,1305
-"Government Statistical Service",2022-09-29,6543
-"Bhutan Data Scientists Pvt Ltd",2022-09-29,84
-"Ginkgo Analytics",2022-09-29,1178
-"Government of Ireland",2022-09-29,39632
-"Weights & Biases",2022-09-29,22953
-"Quansight",2022-09-29,1709
-"DSN - Data Scientists Network/Data Science Nigeria",2022-09-29,9078
-"African Institute for Mathematical Sciences Ghana",2022-09-29,1312
-"Zindi",2022-09-29,10676
-"Data Science for Social Good Foundation",2022-09-29,3768
-"Coding Black Females",2022-09-29,10115
-"OpenTeams",2022-09-29,2136
-"ArkeUp Academy | Océan Indien",2022-09-29,1265
-"Google Summer of Code",2022-09-29,40354
-"Bissau Analytics ",2022-09-29,45
-"AWS Databases & Analytics",2022-09-29,233170
-"Dragon Coders Private Limited",2022-09-29,188
-"Jumping Rivers Ltd",2022-09-29,1064
-"Benin ThinkLab",2022-09-29,76
-"Towards Data Science",2022-09-29,520671
-"R Users Group - Ecuador",2022-09-29,287
-"R-Ladies Miami",2022-09-29,197
-"Anaconda Inc.",2022-09-29,48746
-"Quansight Initiate",2022-09-29,108
-"allspatial - Geospatial Software and Services",2022-09-29,15
-"Tableau Events and Webinars",2022-09-29,35931
-"Data Scientists Ltd",2022-09-29,30
-"LSBU Business School ",2022-09-29,2216
-"AI Inclusive",2022-09-29,3460
-"MachineX Intelligence",2022-09-29,1735
-"DataIQ School of Analysis",2022-09-29,140
-"Numeric Mind",2022-09-29,620
-"Women in Data®",2022-09-29,25922
-"Data2X United Nations Foundation",2022-09-29,3347
-"KerrySciTech",2022-09-29,2724
-"Observatoire du Numérique en Haïti (ObNH)",2022-09-29,102
-"UNICEF Office of Research - Innocenti",2022-09-29,53629
-"Radiant MLHub",2022-09-29,2472
-"ViennaR",2022-09-29,389
-"Olatunde Data Analytics",2022-09-29,803
-"ClusterAI",2022-09-29,456
-"JuliaCon 2022",2022-09-29,3300
-"Statistics Without Borders",2022-09-29,1337
-"Datalitics",2022-09-29,186
-"Towards AI",2022-09-29,225961
-"R Consortium",2022-09-29,3648
-"PyCaret",2022-09-29,15554
-"The Catalyst",2022-09-29,774
-"African Drone & Data Academy Powered By UNICEF",2022-09-29,1527
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-09-29,314
-"R User Community ",2022-09-29,9382
-"storytelling with data",2022-09-29,103238
-"Rose Data Studio LLC",2022-09-29,299
-"EuroPython",2022-09-29,1320
-"OpenStreetMap Ireland",2022-09-29,254
-"The Collective Impact Group For Guinea",2022-09-29,164
-"Women in AI Ireland",2022-09-29,3395
-"Sentient Projects",2022-09-29,662
-"Code for Cause",2022-09-29,22448
-"SDGs",2022-09-29,2796
-"InsideAIML",2022-09-29,9514
-"FreeLocalMappers",2022-09-29,900
-"Global Shapers Community - Thimphu Hub",2022-09-29,331
-"Fisheries Transparency Initiative (FiTI)",2022-09-29,649
-"Women+ in Geospatial",2022-09-29,17104
-"Ayiti Analytics",2022-09-29,1371
-"NIMBADATA",2022-09-29,4
-"Digital Earth Africa",2022-09-29,3918
-"Africa in Science",2022-09-29,2690
-"DataSoc",2022-09-29,828
-"UNDP Guinea-Bissau ",2022-09-29,2697
-"Amazon Science",2022-09-29,265923
-"NannyML",2022-09-29,2971
-"The R Foundation for Statistical Computing",2022-09-29,4780
-"DataDotOrg",2022-09-29,4085
-"Innovative Hub for Research in Africa",2022-09-29,166
-"R-Ladies Tunis",2022-09-29,733
-"The Julia Language",2022-09-29,12417
-"The Organization for Women in Science for the Developing World (OWSD)",2022-09-29,1116
-"Rx Studio™",2022-09-29,175
-"Girls In ICT Niger",2022-09-29,92
-"GORODATA",2022-09-29,1605
-"Tag Ng",2022-09-29,1645
-"BlackTIDES",2022-09-29,637
-"DATA MANSA",2022-09-29,178
-"Make Every Woman Count",2022-09-29,227
-"Catalyst Seychelles",2022-09-29,221
-"Thimphu TechPark",2022-09-29,206
-"Julius Technologies",2022-09-29,215
-"JuliaActuary",2022-09-29,1259
-"PyData Ireland",2022-09-29,20
-"Ishango.ai",2022-09-29,1156
-"Black in Data",2022-09-29,1697
-"DATA CENTRIC AFRICA",2022-09-29,1424
-"Outlier",2022-09-29,93
-"PyLadies Dublin",2022-09-29,240
-"Oman Data Science Organization ",2022-09-29,123
-"R-Ladies Saudi Arabia (Dammam)",2022-09-29,295
-"Software Insights Ireland",2022-09-29,1283
-"PyData Global",2022-09-29,3014
-"Danah Tech",2022-09-29,460
-"McKinsey Africa",2022-09-29,15935
-"Compylo",2022-09-29,1052
-"Statistics Globe",2022-09-29,4406
-"R-Ladies Gaborone",2022-09-29,357
-"X-Europe Data Science",2022-09-29,84
-"Tunis R User Group",2022-09-29,672
-"VISO Cyber Security",2022-09-29,645
-"DeepVidhya",2022-09-29,413
-"scikit-learn",2022-09-29,32045
-"Maolte Technical Solutions Limited",2022-09-29,219
-"Legato Health Technologies Ireland",2022-09-29,6668
-"Edmonton R User Group",2022-09-29,10
-"Commerce et Administration des Entreprises- INP-HB",2022-09-29,512
-"Expertise Data Vision (EDaVi)",2022-09-29,57
-"R-Ladies Paris",2022-09-29,479
-"Fujitsu",2022-09-29,748088
-"Dimension Data",2022-09-29,391045
-"Fugro",2022-09-29,239533
-"University College Dublin",2022-09-29,259548
-"Oceaneering",2022-09-29,355776
-"2K",2022-09-29,176210
-"Appriss",2022-09-29,6531
-"Foundation for Economic Education",2022-09-29,14573
-"Lumina Foundation",2022-09-29,19852
-"The Surfrider Foundation",2022-09-29,24211
-"Amherst H. Wilder Foundation",2022-09-29,6436
-"Aga Khan Foundation USA",2022-09-29,20632
-"The Michael J. Fox Foundation for Parkinson's Research",2022-09-29,19662
-"Katalyst Data Management",2022-09-29,3991
-"Kadme AS - Knowledge and Data Management Expertise",2022-09-29,1141
-"Neuralog",2022-09-29,1232
-"Subsea7",2022-09-29,614298
-"University of Limerick",2022-09-29,102661
-"Prospect 33",2022-09-29,20893
-"Bernard van Leer Foundation",2022-09-29,12219
-"ATRIBS GLOBAL ",2022-09-29,5772
-"DOF Subsea",2022-09-29,187518
-"Thalesians Ltd",2022-09-29,4243
-"geoLOGIC systems ltd.",2022-09-29,2847
-"Rocky Mountain Elk Foundation",2022-09-29,20784
-"Dubai Technologies",2022-09-29,8684
-"Publicjobs.ie",2022-09-29,117511
-"TazWorks",2022-09-29,888
-"MIT Technology Review",2022-09-29,1197967
-"gistec",2022-09-29,10569
-"TotalVerify",2022-09-29,3242
-"Adessium Foundation",2022-09-29,2843
-"PHILANTHROPY ADVISORS",2022-09-29,4350
-"Integra Data Systems Corp.",2022-09-29,109
-"Bayanat.AI",2022-09-29,26069
-"Gulf Business Solutions (GBS)",2022-09-29,906
-"DecisionBrain",2022-09-29,1967
-"Dubai Technology Entrepreneur Campus - Dtec",2022-09-29,8020
-"Nottingham Economics & Finance Society",2022-09-29,2837
-"DataCamp",2022-09-29,338108
-"Google Cloud",2022-09-29,1727348
-"Hackster.io",2022-09-29,32353
-"The Data Lab - Innovation Centre",2022-09-29,9390
-"Los Angeles Machine Learning Meetup",2022-09-29,10
-"Open Robotics",2022-09-29,54620
-"Data Science Society",2022-09-29,1503
-"Oak Foundation",2022-09-29,14541
-"Data Science Student Society at UCSD",2022-09-29,604
-"CONNECT Centre",2022-09-29,3689
-"Irish Student Consulting Group (ISCG)",2022-09-29,3488
-"McMaster Computer Science Society",2022-09-29,81
-"UCD Investors and Entrepreneurs Society",2022-09-29,2171
-"Cambridge University Data Science Society",2022-09-29,207
-"MicroMap IT & GIS Consultancy Abu Dhabi",2022-09-29,1198
-"HEDS Data Science",2022-09-29,507
-"AI Copenhagen",2022-09-29,307
-"Erde Technologies Inc.",2022-09-29,18
-"UL - Kemmy Business School (KBS) University of Limerick",2022-09-29,2678
-"The LEGO Foundation",2022-09-29,62627
-"DAIN Studios",2022-09-29,2979
-"Data Science Indonesia",2022-09-29,7383
-"Imperial College Data Science Society",2022-09-29,671
-"GULF TRAINING AND CONSULTATION CENTER",2022-09-29,154
-"Swiss Philanthropy Foundation",2022-09-29,4678
-"Nordic.AI",2022-09-29,586
-"Ryerson University Data Science Society",2022-09-29,218
-"Nième Conseil",2022-09-29,411
-"Data Science Ghent",2022-09-29,283
-"University of Bristol Computer Science Society",2022-09-29,184
-"OpenAI",2022-09-29,235808
-"Queen Mary Electronic Engineering & Computer Science Society",2022-09-29,50
-"Hugging Face",2022-09-29,104680
-"OpenDataScience [ods.ai]",2022-09-29,6784
-"Big Data and Artificial Intelligence Club",2022-09-29,249
-"vGIS",2022-09-29,14934
-"Data Science Portugal",2022-09-29,8035
-"Western Computer Science Undergraduate Society",2022-09-29,104
-"SwissAI",2022-09-29,365
-"Ankara University Computer Society",2022-09-29,195
-"UBC Computer Science Student Society",2022-09-29,377
-"Aalto Artificial Intelligence Society",2022-09-29,42
-"SAIS Sheffield Artificial Intelligence Society",2022-09-29,37
-"UCD I&E Student Managed Fund",2022-09-29,990
-"Data Science Research Perú",2022-09-29,15583
-"Finance Society at the University of Connecticut",2022-09-29,296
-"Dalhousie Computer Science Society",2022-09-29,93
-"Machine Learning at Berkeley",2022-09-29,3428
-"UoM AI and Machine Learning Society",2022-09-29,73
-"Data Science & Artificial Intelligence/AI South East London",2022-09-29,103
-"Artificial Intelligence Hong Kong",2022-09-29,2062
-"Hong Kong Data Science Society",2022-09-29,246
-"Beacon IT Solutions Abu Dhabi",2022-09-29,173
-"LSESU Machine Learning Society",2022-09-29,103
-"Kharagpur Data Analytics Group",2022-09-29,1063
-"Cologne AI and Machine Learning Meetup",2022-09-29,200
-"Computer Science Society (CSS) - University of Birmingham",2022-09-29,241
-"Lancaster University Computer Science Society",2022-09-29,71
-"Hong Kong Machine Learning",2022-09-29,2911
-"MLT",2022-09-29,8954
-"OpenCV",2022-09-29,97580
-"Machine Learning Society at MIM UW",2022-09-29,168
-"Dublin University Computer Science Society",2022-09-29,47
-"Evolution AI",2022-09-29,3347
-"SeismicZone",2022-09-29,491
-"Bamboo Health",2022-09-29,4876
-"McMaster Computer Science Society",2022-09-29,150
-"MAVA Foundation",2022-09-29,5018
-"Machine Learning Society",2022-09-29,20387
-"Data Istanbul",2022-09-29,3882
-"Fashion for Good",2022-09-29,84055
-"NVIDIA AI",2022-09-29,386619
-"Data Science Student Society at UJ",2022-09-29,89
-"UNSW Computer Science and Engineering Society (CSESoc)",2022-09-29,1390
-"UNSW Data Science Society (DataSoc)",2022-09-29,791
-"Leeds Data Science Society",2022-09-29,324
-"DeepLearning.AI",2022-09-29,537661
-"Data Science Society at Berkeley",2022-09-29,850
-"McMaster Artificial Intelligence Society",2022-09-29,915
-"CSUDH Finance Student Society",2022-09-29,60
-"Data Science Research Arab Team",2022-09-29,166
-"Columbia Data Science Society",2022-09-29,741
-"Neptune Energy",2022-09-29,67450
-"Sydney Machine Learning Group",2022-09-29,174
-"meetup.ai",2022-09-29,394
-"ICL Machine Learning Society",2022-09-29,87
-"ITU Data Science Society ",2022-09-29,1220
-"Centre for Sustainable Fashion",2022-09-29,73101
-"JerusML",2022-09-29,464
-"Otago Computer Science Society",2022-09-29,24
-"Integra Data and Analytic Solutions",2022-09-29,1651
-"Data Lille",2022-09-29,863
-"LSESU Data Science Society",2022-09-29,9
-"Sheffield Women in Computer Science Society",2022-09-29,54
-"Carleton Artificial Intelligence Society",2022-09-29,267
-"AUB Computer Science Student Society",2022-09-29,132
-"Data Science and Ai Association of Australia | DSAi",2022-09-29,4610
-"Data Science Club of UWA",2022-09-29,502
-"Pharos Platforms Inc.",2022-09-29,400
-"Data Science Club at UTDallas",2022-09-29,1758
-"Toronto Machine Learning Society (TMLS)",2022-09-29,9041
-"Silo AI",2022-09-29,8524
-"VINE",2022-09-29,1162
-"Warwick Data Science Society ",2022-09-29,693
-"Data Science Milan",2022-09-29,980
-"The Data Pub",2022-09-29,2049
-"Machine Learning & Data Science Meetup Roma",2022-09-29,226
-"Data Science Society",2022-09-29,193
-"USC Center for AI in Society's Student Branch (CAIS++)",2022-09-29,219
-"Artificial Intelligence & Robotics Society University of Portsmouth",2022-09-29,235
-"Machine Learning",2022-09-29,193940
-"The Machine Learning Institute Certificate in Finance (MLI)",2022-09-29,918
-"Artificial Intelligence in Medicine Student Society (AIMSS)",2022-09-29,554
-"Meetup Machine Learning Québec",2022-09-29,66
-"The Data Science & Statistics Society",2022-09-29,189
-"Machine Learning in Healthcare",2022-09-29,711
-"Bristol Data Science Society",2022-09-29,191
-"University Of Sheffield Computer Science Society",2022-09-29,54
-"DUBAI TECH",2022-09-29,50
-"Monash Data Science Society",2022-09-29,596
-"Data Residents",2022-09-29,50
-"Toronto Machine Learning Meetup",2022-09-29,203
-"Data Axle",2022-09-29,83730
-"Laudes Foundation",2022-09-29,15274
-"SFI Centre for Research Training in Artificial Intelligence ",2022-09-29,602
-"AI Hack 2021",2022-09-29,102
-"Buffalo State Data Science & Analytics (DSA)",2022-09-29,526
-"Data Science and AI Society - UTS",2022-09-29,236
-"KCL Data Science Society",2022-09-29,57
-"Erlangen Artificial Intelligence & Machine Learning Meetup",2022-09-29,495
-"UCSD Computer Science & Engineering Society",2022-09-29,161
-"City Data Science Society",2022-09-29,96
-"Machine Learning Porto Alegre",2022-09-29,483
-"Baruch Data Science & Analytics Society",2022-09-29,372
-"Capital Quant Agency",2022-09-29,1630
-"MLOps Community",2022-09-29,11122
-"Hertie School Data Science Society",2022-09-29,138
-"Paris Machine Learning Meetup",2022-09-29,349
-"Pumas-AI Inc.",2022-09-29,1663
-"Data Science Meetup",2022-09-29,137
-"Machine Learning and Data Analytics Lab at NTU EEE",2022-09-29,2312
-"Riga Data Science Club",2022-09-29,1676
-"MLOps",2022-09-29,1886
-"Keebo",2022-09-29,1960
-"LUMS Data Science Society",2022-09-29,775
-"Manchester University Data Science Society",2022-09-29,405
-"useR! - The R User Conference",2022-09-29,2789
-"Exeter Artificial Intelligence and Data Science Society (X-AI)",2022-09-29,55
-"LSESU Data Science Society",2022-09-29,297
-"DSCS GMU",2022-09-29,95
-"UST Computer Science Society",2022-09-29,30
-"simpl.study",2022-09-29,70
-"DataTalksClub",2022-09-29,9584
-"IrishITJobs.ie",2022-09-29,1100
-"AWS Machine Learning",2022-09-29,188098
-"PyTorch",2022-09-29,99612
-"INCRYPT MINING LTD",2022-09-29,53
 "Office for National Statistics",2021-07-02,41775
-"IBM",2022-09-10,14402243
-"Accenture",2022-09-10,9405025
-"Tata Consultancy Services",2022-09-10,10601555
-"McKinsey & Company",2022-09-10,4729310
-"SAS",2022-09-10,795823
-"Roche",2022-09-10,2721433
-"Cognizant",2022-09-10,5387932
-"Boston Consulting Group (BCG)",2022-09-10,3334938
-"Informatica",2022-09-10,234957
-"Ascential",2022-09-10,52220
-"Esri",2022-09-10,295565
-"Globant",2022-09-10,622523
-"Bill & Melinda Gates Foundation",2022-09-10,1036882
-"Nagarro",2022-09-10,445972
-"Newgen Software",2022-09-10,128612
-"Open Society Foundations",2022-09-10,176860
-"IUCN",2022-09-10,117604
-"Ford Foundation",2022-09-10,135976
-"Office for National Statistics",2022-09-10,54616
-"KIPP Foundation",2022-09-10,49976
-"Robert Wood Johnson Foundation",2022-09-10,63550
-"United Nations Foundation",2022-09-10,137044
-"Packt",2022-09-10,66699
-"MacArthur Foundation",2022-09-10,84778
-"Gordon and Betty Moore Foundation",2022-09-10,8572
-"Two Sigma",2022-09-10,125006
-"The David and Lucile Packard Foundation",2022-09-10,22412
-"Skoll Foundation",2022-09-10,35423
-"Analytic Partners",2022-09-10,10348
-"Conning",2022-09-10,13723
-"The James Irvine Foundation",2022-09-10,10381
-"William and Flora Hewlett Foundation",2022-09-10,24232
-"Elm Company",2022-09-10,433419
-"Doris Duke Charitable Foundation",2022-09-10,3838
-"Mellon Foundation",2022-09-10,21515
-"W.K. Kellogg Foundation",2022-09-10,47968
-"Rockefeller Philanthropy Advisors",2022-09-10,28585
-"G-Research",2022-09-10,28147
-"Brightwater",2022-09-10,107436
-"Idiro Analytics",2022-09-10,4866
-"Datalytics",2022-09-10,19367
-"Mango Solutions",2022-09-10,3837
-"Pluralsight",2022-09-10,160505
-"The Kresge Foundation",2022-09-10,33765
-"The New York Community Trust",2022-09-10,3101
-"Women In Technology (WIT)",2022-09-10,227924
-"Cpl",2022-09-10,241268
-"GlobalLogic",2022-09-10,641997
-"Susquehanna International Group LLP (SIG)",2022-09-10,98781
-"The Rockefeller Foundation",2022-09-10,171493
-"Tableau",2022-09-10,773844
-"Genpact",2022-09-10,2031132
-"i2 Inc.",2022-09-10,990
-"The Apache Software Foundation",2022-09-10,61236
-"WorldQuant",2022-09-10,51553
-"Collibra",2022-09-10,49090
-"Jump Trading LLC",2022-09-10,43683
-"Qualtrics",2022-09-10,200195
-"United Nations Institute for Training and Research (UNITAR)",2022-09-10,284867
-"Remsoft",2022-09-10,2983
-"RapidMiner",2022-09-10,18786
-"Geoscience Australia",2022-09-10,23843
-"Conrad N. Hilton Foundation",2022-09-10,12773
-"KNIME",2022-09-10,33336
-"Irish Centre for High-End Computing ICHEC",2022-09-10,1172
-"Udemy",2022-09-10,1001730
-"Pacific Whale Foundation",2022-09-10,1886
-"QuantumBlack AI by McKinsey",2022-09-10,174973
-"Alteryx",2022-09-10,215569
-"Datahug (acquired by CallidusCloud)",2022-09-10,3102
-"Stack Overflow",2022-09-10,1056776
-"The Analytics Institute of Ireland",2022-09-10,6279
-"NCX",2022-09-10,5757
-"Kaggle",2022-09-10,348813
-"Institute of Mathematics and its Applications",2022-09-10,21824
-"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-10,18983
-"Open Knowledge Foundation",2022-09-10,6084
-"Coillte",2022-09-10,14990
-"The unbelievable Machine Company GmbH",2022-09-10,2364
-"Lucid Software",2022-09-10,60656
-"Alfred P. Sloan Foundation",2022-09-10,2440
-"United Nations Sustainable Development Group",2022-09-10,170568
-"Bloomberg Philanthropies",2022-09-10,59744
-"GitHub",2022-09-10,2778233
-"Quovantis Technologies",2022-09-10,14121
-"r-programming.org",2022-09-10,2373
-"Jane Street",2022-09-10,96897
-"CSO (Central Statistics Office Ireland)",2022-09-10,6937
-"Ginkgo Management Consulting",2022-09-10,2815
-"RStudio PBC",2022-09-10,87346
-"Asystec (Now Ergo)",2022-09-10,2505
-"Tiger Analytics",2022-09-10,169165
-"Irish Defence Forces",2022-09-10,11899
-"African Institute for Mathematical Sciences (AIMS)",2022-09-10,14012
-"InSpire at St Peter's",2022-09-10,81
-"WellClever",2022-09-10,122
-"RegioData Research GmbH",2022-09-10,219
-"Boxfish",2022-09-10,444
-"Geospatial World",2022-09-10,28681
-"General Assembly",2022-09-10,181524
-"Data Ireland",2022-09-10,812
-"Walton Family Foundation",2022-09-10,47760
-"Coursera",2022-09-10,1399618
-"Flowminder",2022-09-10,1592
-"Economic and Social Research Institute (ESRI)",2022-09-10,11751
-"DataKind",2022-09-10,16161
-"Film Analytics",2022-09-10,219
-"Knoldus Inc",2022-09-10,13895
-"STATSports",2022-09-10,25684
-"DataRobot",2022-09-10,114696
-"Xava",2022-09-10,81
-"Dataiku",2022-09-10,119750
-"Senseforth.ai",2022-09-10,29830
-"H2O.ai",2022-09-10,115195
-"Falkonry",2022-09-10,3712
-"Gapminder Foundation",2022-09-10,15239
-"Open Data Institute",2022-09-10,13369
-"KatRisk LLC",2022-09-10,1687
-"Ixio Analytics",2022-09-10,765
-"Royal Statistical Society",2022-09-10,9845
-"Black Girls CODE",2022-09-10,38074
-"FutureLearn",2022-09-10,116250
-"dotConferences",2022-09-10,206
-"Xanadu Consultancy",2022-09-10,2868
-"ORRECO",2022-09-10,2621
-"Qatar Computing Research Institute",2022-09-10,10946
-"DataKind UK",2022-09-10,2696
-"DataCamp",2022-09-10,334095
-"Women Who Code",2022-09-10,120117
-"Kitman Labs",2022-09-10,9516
-"Plotly",2022-09-10,19381
-"Data for Good",2022-09-10,9058
-"Databricks",2022-09-10,361595
-"IBM Cloud",2022-09-10,201927
-"Appsilon",2022-09-10,3796
-"Domino Data Lab",2022-09-10,29680
-"BCG Digital Ventures",2022-09-10,146883
-"Aon Centre for Innovation and Analytics (ACIA)",2022-09-10,14901
-"Analytics Vidhya",2022-09-10,146702
-"ProCogia",2022-09-10,6690
-"Snowflake",2022-09-10,479080
-"Data Science Dojo",2022-09-10,219956
-"Fivetran",2022-09-10,61704
-"DataIQ",2022-09-10,12939
-"Data Science Institute",2022-09-10,15836
-"IBM Data and AI",2022-09-10,223714
-"Decision Inc.",2022-09-10,31312
-"GitLab",2022-09-10,703069
-"Sustainable Development Solutions Network",2022-09-10,47952
-"Python Software Foundation",2022-09-10,112032
-"Netcelero",2022-09-10,877
-"IHM Southern Africa",2022-09-10,1725
-"Major League Hacking",2022-09-10,25799
-"UK Statistics Authority ",2022-09-10,2280
-"Data Science Central",2022-09-10,265288
-"VERDE",2022-09-10,180
-"Noodle.ai",2022-09-10,22059
-"Global Partnership for Sustainable Development Data",2022-09-10,4214
-"Development Seed",2022-09-10,2258
-"Group on Earth Observations (GEO)",2022-09-10,5732
-"Squarepoint Capital",2022-09-10,14044
-"ADAPT Centre",2022-09-10,3193
-"Data & Society Research Institute",2022-09-10,7267
-"Appinventiv",2022-09-10,107271
-"Gower Street Analytics",2022-09-10,1872
-"Open Data Science Conference (ODSC)",2022-09-10,130062
-"Julia Computing",2022-09-10,13885
-"Python Ireland",2022-09-10,1353
-"ThinkR (FR)",2022-09-10,631
-"Sololearn",2022-09-10,117199
-"Data Science by Data Scientist Canada",2022-09-10,17260
-"Lander Analytics",2022-09-10,396
-"Dataquest.io",2022-09-10,40908
-"NumFOCUS",2022-09-10,3190
-"Ursa Labs",2022-09-10,449
-"The Alan Turing Institute",2022-09-10,27205
-"Klue",2022-09-10,14136
-"insight2impact",2022-09-10,1296
-"PyData Berlin",2022-09-10,590
-"Project Jupyter",2022-09-10,10235
-"Satellite Vu",2022-09-10,4093
-"Data Science Academy",2022-09-10,369494
-"Data For Good",2022-09-10,7742
-"Data Science Foundation International",2022-09-10,2811
-"Twenty Billion Neurons",2022-09-10,3244
-"Machine Learning Mastery",2022-09-10,246311
-"SuperDataScience",2022-09-10,83721
-"Big Data LDN",2022-09-10,4660
-"Xuntos - Let's Get Together",2022-09-10,652
-"Microsoft Power BI by Solution Systems",2022-09-10,70522
-"Ultimate",2022-09-10,6646
-"QuantStack",2022-09-10,953
-"Derilinx",2022-09-10,881
-"Radiant Earth Foundation",2022-09-10,6731
-"Global Fishing Watch",2022-09-10,4622
-"RSS Data Science and AI Section",2022-09-10,1658
-"Invenia Labs",2022-09-10,2288
-"The Global Academy",2022-09-10,291
-"Open Cadastre",2022-09-10,14
-"Sister Analyst",2022-09-10,466
-"SDG Academy",2022-09-10,20937
-"(WiMLDS) Women in Machine Learning & Data Science",2022-09-10,11941
-"Fathom Data",2022-09-10,425
-"ADF Haiti",2022-09-10,412
-"Alldus",2022-09-10,36336
-"AI Awards Ireland",2022-09-10,2842
-"Data for Good Foundation",2022-09-10,1851
-"Why R?",2022-09-10,3934
-"PyData Delhi",2022-09-10,1676
-"Bhutan Data Scientists",2022-09-10,52
-"Accenture The Dock",2022-09-10,8473
-"CivicDataLab",2022-09-10,3539
-"SCALEWORK",2022-09-10,1085
-"Data Visualization Society",2022-09-10,115147
-"Omdena",2022-09-10,26542
-"EcoAngola",2022-09-10,19849
-"Rust Programming Language",2022-09-10,5228
-"Age Of Geeks",2022-09-10,156550
-"R User Group Nepal",2022-09-10,77
-"Women in Machine Learning and Data Science MAURITIUS",2022-09-10,99
-"East Africa Research &Data Analysis",2022-09-10,15
-"Irish Air Corps",2022-09-10,1563
-"getINNOtized GmbH",2022-09-10,5127
-"Data Science Council of America",2022-09-10,57343
-"Obama Foundation",2022-09-10,146786
-"Geosaber",2022-09-10,3842
-"Real Consulting Data",2022-09-10,966
-"Machine Learning Prague conference",2022-09-10,267
-"Canvas Intelligence",2022-09-10,11721
-"NVIDIA AI",2022-09-10,380973
-"365 Data Science",2022-09-10,109693
-"Business Science",2022-09-10,13908
-"Treemetrics Ltd",2022-09-10,1219
-"CeADAR Ireland",2022-09-10,1566
-"Space4Good",2022-09-10,5138
-"Outreachy",2022-09-10,6612
-"DeepLearning.AI",2022-09-10,530017
-"UCL Data Science Society",2022-09-10,1285
-"Government Statistical Service",2022-09-10,6492
-"Bhutan Data Scientists Pvt Ltd",2022-09-10,82
-"Ginkgo Analytics",2022-09-10,1165
-"Government of Ireland",2022-09-10,39086
-"Weights & Biases",2022-09-10,21675
-"Quansight",2022-09-10,1674
-"DSN - Data Scientists Network/Data Science Nigeria",2022-09-10,8885
-"African Institute for Mathematical Sciences Ghana",2022-09-10,1288
-"Zindi",2022-09-10,10450
-"Data Science for Social Good Foundation",2022-09-10,3682
-"Coding Black Females",2022-09-10,9819
-"OpenTeams",2022-09-10,2115
-"ArkeUp Academy | Océan Indien",2022-09-10,1246
-"Google Summer of Code",2022-09-10,39557
-"Bissau Analytics ",2022-09-10,45
-"AWS Databases & Analytics",2022-09-10,227807
-"Dragon Coders Private Limited",2022-09-10,188
-"Jumping Rivers Ltd",2022-09-10,1041
-"Benin ThinkLab",2022-09-10,75
-"Towards Data Science",2022-09-10,515144
-"R Users Group - Ecuador",2022-09-10,285
-"R-Ladies Miami",2022-09-10,198
-"Anaconda Inc.",2022-09-10,46951
-"Quansight Initiate",2022-09-10,108
-"allspatial - Geospatial Software and Services",2022-09-10,15
-"Tableau Events and Webinars",2022-09-10,35661
-"Data Scientists Ltd",2022-09-10,27
-"LSBU Business School ",2022-09-10,2127
-"AI Inclusive",2022-09-10,3432
-"MachineX Intelligence",2022-09-10,1722
-"DataIQ School of Analysis",2022-09-10,140
-"Numeric Mind",2022-09-10,545
-"Women in Data®",2022-09-10,24805
-"Data2X United Nations Foundation",2022-09-10,3258
-"KerrySciTech",2022-09-10,2696
-"Observatoire du Numérique en Haïti (ObNH)",2022-09-10,98
-"UNICEF Office of Research - Innocenti",2022-09-10,52981
-"Radiant MLHub",2022-09-10,2349
-"ViennaR",2022-09-10,388
-"Olatunde Data Analytics",2022-09-10,796
-"ClusterAI",2022-09-10,456
-"JuliaCon 2022",2022-09-10,3274
-"Statistics Without Borders",2022-09-10,1303
-"Datalitics",2022-09-10,180
-"Towards AI",2022-09-10,223387
-"R Consortium",2022-09-10,3539
-"PyCaret",2022-09-10,15167
-"The Catalyst",2022-09-10,764
-"African Drone & Data Academy Powered By UNICEF",2022-09-10,1478
-"UCD Netsoc – UCD's Internet and Computer Science Society",2022-09-10,306
-"R User Community ",2022-09-10,8780
-"storytelling with data",2022-09-10,100651
-"Rose Data Studio LLC",2022-09-10,293
-"EuroPython",2022-09-10,1303
-"OpenStreetMap Ireland",2022-09-10,251
-"The Collective Impact Group For Guinea",2022-09-10,164
-"Women in AI Ireland",2022-09-10,3312
-"Sentient Projects",2022-09-10,662
-"Code for Cause",2022-09-10,22431
-"SDGs",2022-09-10,2685
-"InsideAIML",2022-09-10,9484
-"FreeLocalMappers",2022-09-10,901
-"Global Shapers Community - Thimphu Hub",2022-09-10,322
-"Fisheries Transparency Initiative (FiTI)",2022-09-10,634
-"Women+ in Geospatial",2022-09-10,16812
-"Ayiti Analytics",2022-09-10,1356
-"NIMBADATA",2022-09-10,4
-"Digital Earth Africa",2022-09-10,3841
-"Africa in Science",2022-09-10,2590
-"DataSoc",2022-09-10,822
-"UNDP Guinea-Bissau ",2022-09-10,2684
-"Amazon Science",2022-09-10,260765
-"NannyML",2022-09-10,2900
-"The R Foundation for Statistical Computing",2022-09-10,4631
-"DataDotOrg",2022-09-10,3934
-"Innovative Hub for Research in Africa",2022-09-10,163
-"R-Ladies Tunis",2022-09-10,734
-"The Julia Language",2022-09-10,12189
-"The Organization for Women in Science for the Developing World (OWSD)",2022-09-10,1068
-"Girls In ICT Niger",2022-09-10,87
-"GORODATA",2022-09-10,1606
-"Tag Ng",2022-09-10,1287
-"BlackTIDES",2022-09-10,629
-"DATA MANSA",2022-09-10,176
-"Make Every Woman Count",2022-09-10,218
-"Catalyst Seychelles",2022-09-10,218
-"Thimphu TechPark",2022-09-10,202
-"Julius Technologies",2022-09-10,213
-"JuliaActuary",2022-09-10,1171
-"PyData Ireland",2022-09-10,18
-"Ishango.ai",2022-09-10,1100
-"Black in Data",2022-09-10,1641
-"DATA CENTRIC AFRICA",2022-09-10,1418
-"Outlier",2022-09-10,93
-"PyLadies Dublin",2022-09-10,236
-"Oman Data Science Organization ",2022-09-10,123
-"R-Ladies Saudi Arabia (Dammam)",2022-09-10,287
-"Software Insights Ireland",2022-09-10,1281
-"PyData Global",2022-09-10,2890
-"Danah Tech",2022-09-10,459
-"McKinsey Africa",2022-09-10,15289
-"Compylo",2022-09-10,1051
-"Statistics Globe",2022-09-10,4304
-"R-Ladies Gaborone",2022-09-10,351
-"X-Europe Data Science",2022-09-10,83
-"Tunis R User Group",2022-09-10,668
-"VISO Cyber Security",2022-09-10,613
-"DeepVidhya",2022-09-10,413
-"scikit-learn",2022-09-10,27724
-"Maolte Technical Solutions Limited",2022-09-10,206
-"Legato Health Technologies Ireland",2022-09-10,6281
-"Edmonton R User Group",2022-09-10,10
-"Commerce et Administration des Entreprises- INP-HB",2022-09-10,493
-"R-Ladies Paris",2022-09-10,355
-"Fujitsu",2022-09-10,737778
-"Dimension Data",2022-09-10,370877
-"Fugro",2022-09-10,236293
-"University College Dublin",2022-09-10,257305
-"Oceaneering",2022-09-10,351481
-"2K",2022-09-10,171969
-"Appriss",2022-09-10,6509
-"Foundation for Economic Education",2022-09-10,14281
-"Lumina Foundation",2022-09-10,19610
-"The Surfrider Foundation",2022-09-10,23673
-"Amherst H. Wilder Foundation",2022-09-10,6382
-"Aga Khan Foundation USA",2022-09-10,20469
-"The Michael J. Fox Foundation for Parkinson's Research",2022-09-10,19436
-"Katalyst Data Management",2022-09-10,3967
-"Kadme AS - Knowledge and Data Management Expertise",2022-09-10,1129
-"Neuralog",2022-09-10,1200
-"Subsea7",2022-09-10,607064
-"University of Limerick",2022-09-10,101940
-"Prospect 33",2022-09-10,20891
-"Bernard van Leer Foundation",2022-09-10,12015
-"ATRIBS GLOBAL ",2022-09-10,5731
-"DOF Subsea",2022-09-10,184993
-"Thalesians Ltd",2022-09-10,4215
-"geoLOGIC systems ltd.",2022-09-10,2818
-"Rocky Mountain Elk Foundation",2022-09-10,20126
-"Dubai Technologies",2022-09-10,8565
-"Publicjobs.ie",2022-09-10,115626
-"TazWorks",2022-09-10,876
-"Stack Overflow",2022-09-10,1056778
-"MIT Technology Review",2022-09-10,1190514
-"gistec",2022-09-10,10487
-"TotalVerify",2022-09-10,3198
-"GitHub",2022-09-10,2778235
-"Adessium Foundation",2022-09-10,2817
-"PHILANTHROPY ADVISORS",2022-09-10,4278
-"Integra Data Systems Corp.",2022-09-10,108
-"Bayanat.AI",2022-09-10,25482
-"Gulf Business Solutions (GBS)",2022-09-10,894
-"DecisionBrain",2022-09-10,1949
-"Dubai Technology Entrepreneur Campus - Dtec",2022-09-10,7882
-"Nottingham Economics & Finance Society",2022-09-10,2814
-"Google Cloud",2022-09-10,1706243
-"Data Science Dojo",2022-09-10,219957
-"Hackster.io",2022-09-10,31824
-"The Data Lab - Innovation Centre",2022-09-10,9294
-"Data Science Institute",2022-09-10,15837
-"Los Angeles Machine Learning Meetup",2022-09-10,10
-"Open Robotics",2022-09-10,52409
-"Data Science Society",2022-09-10,1497
-"Oak Foundation",2022-09-10,14001
-"Data Science Student Society at UCSD",2022-09-10,595
-"CONNECT Centre",2022-09-10,3606
-"Irish Student Consulting Group (ISCG)",2022-09-10,3441
-"McMaster Computer Science Society",2022-09-10,81
-"UCD Investors and Entrepreneurs Society",2022-09-10,2057
-"Cambridge University Data Science Society",2022-09-10,206
-"MicroMap IT & GIS Consultancy Abu Dhabi",2022-09-10,1183
-"HEDS Data Science",2022-09-10,508
-"AI Copenhagen",2022-09-10,306
-"Erde Technologies Inc.",2022-09-10,18
-"UL - Kemmy Business School (KBS) University of Limerick",2022-09-10,2657
-"The LEGO Foundation",2022-09-10,61214
-"DAIN Studios",2022-09-10,2913
-"Data Science Indonesia",2022-09-10,7220
-"Imperial College Data Science Society",2022-09-10,660
-"GULF TRAINING AND CONSULTATION CENTER",2022-09-10,150
-"Swiss Philanthropy Foundation",2022-09-10,4609
-"Nordic.AI",2022-09-10,580
-"Ryerson University Data Science Society",2022-09-10,215
-"Nième Conseil",2022-09-10,406
-"Data Science Ghent",2022-09-10,283
-"University of Bristol Computer Science Society",2022-09-10,177
-"OpenAI",2022-09-10,224200
-"Queen Mary Electronic Engineering & Computer Science Society",2022-09-10,50
-"Hugging Face",2022-09-10,98717
-"OpenDataScience [ods.ai]",2022-09-10,6761
-"Big Data and Artificial Intelligence Club",2022-09-10,245
-"vGIS",2022-09-10,13948
-"Data Science Portugal",2022-09-10,7930
-"Western Computer Science Undergraduate Society",2022-09-10,100
-"SwissAI",2022-09-10,365
-"Ankara University Computer Society",2022-09-10,190
-"UBC Computer Science Student Society",2022-09-10,362
-"Aalto Artificial Intelligence Society",2022-09-10,41
-"SAIS Sheffield Artificial Intelligence Society",2022-09-10,37
-"UCD I&E Student Managed Fund",2022-09-10,971
-"Data Science Research Perú",2022-09-10,15161
-"Finance Society at the University of Connecticut",2022-09-10,278
-"Dalhousie Computer Science Society",2022-09-10,89
-"Machine Learning at Berkeley",2022-09-10,3357
-"UoM AI and Machine Learning Society",2022-09-10,73
-"Data Science & Artificial Intelligence/AI South East London",2022-09-10,101
-"Artificial Intelligence Hong Kong",2022-09-10,2060
-"Hong Kong Data Science Society",2022-09-10,245
-"Beacon IT Solutions Abu Dhabi",2022-09-10,171
-"LSESU Machine Learning Society",2022-09-10,100
-"Kharagpur Data Analytics Group",2022-09-10,1039
-"Cologne AI and Machine Learning Meetup",2022-09-10,198
-"Computer Science Society (CSS) - University of Birmingham",2022-09-10,234
-"Lancaster University Computer Science Society",2022-09-10,71
-"Hong Kong Machine Learning",2022-09-10,2883
-"MLT",2022-09-10,8942
-"OpenCV",2022-09-10,91655
-"Machine Learning Society at MIM UW",2022-09-10,166
-"Dublin University Computer Science Society",2022-09-10,45
-"Evolution AI",2022-09-10,3336
-"SeismicZone",2022-09-10,485
-"Bamboo Health",2022-09-10,4692
-"McMaster Computer Science Society",2022-09-10,149
-"MAVA Foundation",2022-09-10,4909
-"Machine Learning Society",2022-09-10,20199
-"Data Istanbul",2022-09-10,3888
-"Fashion for Good",2022-09-10,82979
-"Data Science Student Society at UJ",2022-09-10,87
-"UNSW Computer Science and Engineering Society (CSESoc)",2022-09-10,1380
-"UNSW Data Science Society (DataSoc)",2022-09-10,783
-"Leeds Data Science Society",2022-09-10,322
-"Data Science Society at Berkeley",2022-09-10,842
-"McMaster Artificial Intelligence Society",2022-09-10,913
-"CSUDH Finance Student Society",2022-09-10,60
-"Data Science Research Arab Team",2022-09-10,162
-"Columbia Data Science Society",2022-09-10,733
-"Neptune Energy",2022-09-10,66428
-"Sydney Machine Learning Group",2022-09-10,172
-"meetup.ai",2022-09-10,393
-"ICL Machine Learning Society",2022-09-10,87
-"ITU Data Science Society ",2022-09-10,1213
-"Centre for Sustainable Fashion",2022-09-10,71978
-"JerusML",2022-09-10,456
-"Otago Computer Science Society",2022-09-10,21
-"Integra Data and Analytic Solutions",2022-09-10,1650
-"Data Lille",2022-09-10,855
-"LSESU Data Science Society",2022-09-10,9
-"Sheffield Women in Computer Science Society",2022-09-10,53
-"Carleton Artificial Intelligence Society",2022-09-10,261
-"AUB Computer Science Student Society",2022-09-10,130
-"Data Science and Ai Association of Australia | DSAi",2022-09-10,4580
-"Data Science Club of UWA",2022-09-10,497
-"Pharos Platforms Inc.",2022-09-10,338
-"Data Science Club at UTDallas",2022-09-10,1728
-"Towards Data Science",2022-09-10,515145
-"Toronto Machine Learning Society (TMLS)",2022-09-10,8942
-"Silo AI",2022-09-10,8367
-"VINE",2022-09-10,1151
-"Warwick Data Science Society ",2022-09-10,684
-"Data Science Milan",2022-09-10,975
-"The Data Pub",2022-09-10,2028
-"Machine Learning & Data Science Meetup Roma",2022-09-10,217
-"Data Science Society",2022-09-10,191
-"USC Center for AI in Society's Student Branch (CAIS++)",2022-09-10,211
-"Artificial Intelligence & Robotics Society University of Portsmouth",2022-09-10,231
-"Machine Learning",2022-09-10,190886
-"The Machine Learning Institute Certificate in Finance (MLI)",2022-09-10,910
-"Artificial Intelligence in Medicine Student Society (AIMSS)",2022-09-10,530
-"Meetup Machine Learning Québec",2022-09-10,67
-"The Data Science & Statistics Society",2022-09-10,178
-"Machine Learning in Healthcare",2022-09-10,702
-"Bristol Data Science Society",2022-09-10,180
-"University Of Sheffield Computer Science Society",2022-09-10,52
-"DUBAI TECH",2022-09-10,48
-"Monash Data Science Society",2022-09-10,583
-"Data Residents",2022-09-10,49
-"Toronto Machine Learning Meetup",2022-09-10,199
-"Data Axle",2022-09-10,81689
-"Laudes Foundation",2022-09-10,14934
-"SFI Centre for Research Training in Artificial Intelligence ",2022-09-10,589
-"AI Hack 2021",2022-09-10,103
-"Buffalo State Data Science & Analytics (DSA)",2022-09-10,520
-"Data Science and AI Society - UTS",2022-09-10,234
-"KCL Data Science Society",2022-09-10,56
-"Erlangen Artificial Intelligence & Machine Learning Meetup",2022-09-10,492
-"UCSD Computer Science & Engineering Society",2022-09-10,161
-"City Data Science Society",2022-09-10,96
-"Machine Learning Porto Alegre",2022-09-10,483
-"Baruch Data Science & Analytics Society",2022-09-10,366
-"Capital Quant Agency",2022-09-10,1618
-"MLOps Community",2022-09-10,10459
-"Hertie School Data Science Society",2022-09-10,131
-"Paris Machine Learning Meetup",2022-09-10,332
-"Pumas-AI Inc.",2022-09-10,1587
-"Data Science Meetup",2022-09-10,135
-"Machine Learning and Data Analytics Lab at NTU EEE",2022-09-10,2201
-"Riga Data Science Club",2022-09-10,1671
-"MLOps",2022-09-10,1814
-"Keebo",2022-09-10,1920
-"LUMS Data Science Society",2022-09-10,753
-"MUDSS Data Science Society",2022-09-10,278
-"useR! - The R User Conference",2022-09-10,2764
-"Exeter Artificial Intelligence and Data Science Society (X-AI)",2022-09-10,55
-"LSESU Data Science Society",2022-09-10,288
-"DSCS GMU",2022-09-10,92
-"UST Computer Science Society",2022-09-10,30
-"simpl.study",2022-09-10,70
-"DataTalksClub",2022-09-10,8751
-"IrishITJobs.ie",2022-09-10,1101
-"AWS Machine Learning",2022-09-10,176439
-"PyTorch",2022-09-10,91082
-"scikit-learn",2022-09-10,27725
-"INCRYPT MINING LTD",2022-09-10,51
 "Office for National Statistics",2021-07-04,41796
 "Office for National Statistics",2021-07-09,41903
 "Office for National Statistics",2021-07-14,41998
@@ -1178,6 +129,10 @@
 "Office for National Statistics",2022-08-28,54139
 "Office for National Statistics",2022-09-01,54307
 "Office for National Statistics",2022-09-07,54501
+"Office for National Statistics",2022-09-10,54616
+"Office for National Statistics",2022-09-16,54799
+"Office for National Statistics",2022-09-22,54980
+"Office for National Statistics",2022-09-29,55266
 "Olatunde Data Analytics",2021-06-16,530
 "Olatunde Data Analytics",2021-06-21,532
 "Olatunde Data Analytics",2021-06-29,530
@@ -1262,6 +217,10 @@
 "Olatunde Data Analytics",2022-08-28,789
 "Olatunde Data Analytics",2022-09-01,791
 "Olatunde Data Analytics",2022-09-07,795
+"Olatunde Data Analytics",2022-09-10,796
+"Olatunde Data Analytics",2022-09-16,798
+"Olatunde Data Analytics",2022-09-22,800
+"Olatunde Data Analytics",2022-09-29,803
 "Oman Data Science Organization",2021-06-16,97
 "Oman Data Science Organization",2021-06-21,97
 "Oman Data Science Organization",2021-06-29,97
@@ -1345,6 +304,10 @@
 "Oman Data Science Organization",2022-08-28,123
 "Oman Data Science Organization",2022-09-01,123
 "Oman Data Science Organization",2022-09-07,123
+"Oman Data Science Organization",2022-09-10,123
+"Oman Data Science Organization",2022-09-16,123
+"Oman Data Science Organization",2022-09-22,123
+"Oman Data Science Organization",2022-09-29,123
 "Omdena",2022-02-07,21203
 "Omdena",2022-02-16,21370
 "Omdena",2022-02-23,21535
@@ -1389,6 +352,10 @@
 "Omdena",2022-08-28,26264
 "Omdena",2022-09-01,26350
 "Omdena",2022-09-07,26482
+"Omdena",2022-09-10,26542
+"Omdena",2022-09-16,27097
+"Omdena",2022-09-22,27310
+"Omdena",2022-09-29,27491
 "Open Cadastre",2022-03-03,14
 "Open Cadastre",2022-03-07,14
 "Open Cadastre",2022-03-15,14
@@ -1432,6 +399,10 @@
 "Open Cadastre",2022-08-28,14
 "Open Cadastre",2022-09-01,14
 "Open Cadastre",2022-09-07,14
+"Open Cadastre",2022-09-10,14
+"Open Cadastre",2022-09-16,14
+"Open Cadastre",2022-09-22,14
+"Open Cadastre",2022-09-29,14
 "Open Data Institute",2021-06-16,9473
 "Open Data Institute",2021-06-21,9494
 "Open Data Institute",2021-06-29,9533
@@ -1515,6 +486,10 @@
 "Open Data Institute",2022-08-28,13248
 "Open Data Institute",2022-09-01,13274
 "Open Data Institute",2022-09-07,13318
+"Open Data Institute",2022-09-10,13369
+"Open Data Institute",2022-09-16,13426
+"Open Data Institute",2022-09-22,13477
+"Open Data Institute",2022-09-29,13552
 "Open Data Science Conference (ODSC)",2021-06-16,105020
 "Open Data Science Conference (ODSC)",2021-06-21,105380
 "Open Data Science Conference (ODSC)",2021-06-29,105930
@@ -1609,6 +584,10 @@
 "Open Data Science Conference (ODSC)",2022-08-28,129394
 "Open Data Science Conference (ODSC)",2022-09-01,129623
 "Open Data Science Conference (ODSC)",2022-09-07,129897
+"Open Data Science Conference (ODSC)",2022-09-10,130062
+"Open Data Science Conference (ODSC)",2022-09-16,130331
+"Open Data Science Conference (ODSC)",2022-09-22,130622
+"Open Data Science Conference (ODSC)",2022-09-29,130947
 "Open Knowledge Foundation",2022-07-05,5822
 "Open Knowledge Foundation",2022-07-09,5832
 "Open Knowledge Foundation",2022-07-12,5847
@@ -1624,6 +603,10 @@
 "Open Knowledge Foundation",2022-08-28,6055
 "Open Knowledge Foundation",2022-09-01,6062
 "Open Knowledge Foundation",2022-09-07,6076
+"Open Knowledge Foundation",2022-09-10,6084
+"Open Knowledge Foundation",2022-09-16,6110
+"Open Knowledge Foundation",2022-09-22,6137
+"Open Knowledge Foundation",2022-09-29,6163
 "Open Robotics",2022-01-12,25993
 "Open Robotics",2022-02-07,28314
 "Open Robotics",2022-02-16,29302
@@ -1656,6 +639,10 @@
 "Open Robotics",2022-08-25,50909
 "Open Robotics",2022-08-28,51175
 "Open Robotics",2022-09-07,52120
+"Open Robotics",2022-09-10,52409
+"Open Robotics",2022-09-16,53098
+"Open Robotics",2022-09-22,53806
+"Open Robotics",2022-09-29,54620
 "Open Society Foundations",2021-06-16,146545
 "Open Society Foundations",2021-06-21,146779
 "Open Society Foundations",2021-06-29,147201
@@ -1731,6 +718,10 @@
 "Open Society Foundations",2022-08-28,175744
 "Open Society Foundations",2022-09-01,176183
 "Open Society Foundations",2022-09-07,176589
+"Open Society Foundations",2022-09-10,176860
+"Open Society Foundations",2022-09-16,177410
+"Open Society Foundations",2022-09-22,177982
+"Open Society Foundations",2022-09-29,178766
 "OpenAI",2022-01-12,126770
 "OpenAI",2022-02-01,131921
 "OpenAI",2022-02-07,134415
@@ -1764,6 +755,10 @@
 "OpenAI",2022-08-25,215288
 "OpenAI",2022-08-28,216815
 "OpenAI",2022-09-07,222721
+"OpenAI",2022-09-10,224200
+"OpenAI",2022-09-16,227722
+"OpenAI",2022-09-22,231316
+"OpenAI",2022-09-29,235808
 "OpenCV",2022-01-12,47041
 "OpenCV",2022-02-07,52114
 "OpenCV",2022-02-16,54518
@@ -1797,6 +792,10 @@
 "OpenCV",2022-08-25,88035
 "OpenCV",2022-08-28,88596
 "OpenCV",2022-09-07,90872
+"OpenCV",2022-09-10,91655
+"OpenCV",2022-09-16,93676
+"OpenCV",2022-09-22,95592
+"OpenCV",2022-09-29,97580
 "OpenDataScience [ods.ai]",2021-06-16,6007
 "OpenDataScience [ods.ai]",2021-06-21,6021
 "OpenDataScience [ods.ai]",2021-06-29,6036
@@ -1848,6 +847,10 @@
 "OpenDataScience [ods.ai]",2022-08-25,6747
 "OpenDataScience [ods.ai]",2022-08-28,6749
 "OpenDataScience [ods.ai]",2022-09-07,6761
+"OpenDataScience [ods.ai]",2022-09-10,6761
+"OpenDataScience [ods.ai]",2022-09-16,6766
+"OpenDataScience [ods.ai]",2022-09-22,6774
+"OpenDataScience [ods.ai]",2022-09-29,6784
 "OpenStreetMap Ireland",2021-06-16,230
 "OpenStreetMap Ireland",2021-06-21,230
 "OpenStreetMap Ireland",2021-06-29,230
@@ -1932,6 +935,10 @@
 "OpenStreetMap Ireland",2022-08-28,249
 "OpenStreetMap Ireland",2022-09-01,250
 "OpenStreetMap Ireland",2022-09-07,251
+"OpenStreetMap Ireland",2022-09-10,251
+"OpenStreetMap Ireland",2022-09-16,251
+"OpenStreetMap Ireland",2022-09-22,252
+"OpenStreetMap Ireland",2022-09-29,254
 "OpenTeams",2021-06-16,990
 "OpenTeams",2021-06-21,992
 "OpenTeams",2021-06-29,1019
@@ -2008,6 +1015,10 @@
 "OpenTeams",2022-08-28,2105
 "OpenTeams",2022-09-01,2110
 "OpenTeams",2022-09-07,2111
+"OpenTeams",2022-09-10,2115
+"OpenTeams",2022-09-16,2122
+"OpenTeams",2022-09-22,2128
+"OpenTeams",2022-09-29,2136
 "ORRECO",2021-06-16,1714
 "ORRECO",2021-06-21,1720
 "ORRECO",2021-06-29,1726
@@ -2093,6 +1104,10 @@
 "ORRECO",2022-08-28,2603
 "ORRECO",2022-09-01,2606
 "ORRECO",2022-09-07,2611
+"ORRECO",2022-09-10,2621
+"ORRECO",2022-09-16,2638
+"ORRECO",2022-09-22,2650
+"ORRECO",2022-09-29,2659
 "Otago Computer Science Society",2021-06-16,17
 "Otago Computer Science Society",2021-06-21,17
 "Otago Computer Science Society",2021-06-29,17
@@ -2149,6 +1164,10 @@
 "Otago Computer Science Society",2022-08-25,21
 "Otago Computer Science Society",2022-08-28,21
 "Otago Computer Science Society",2022-09-07,21
+"Otago Computer Science Society",2022-09-10,21
+"Otago Computer Science Society",2022-09-16,21
+"Otago Computer Science Society",2022-09-22,21
+"Otago Computer Science Society",2022-09-29,24
 "Outlier",2021-06-16,38
 "Outlier",2021-06-21,38
 "Outlier",2021-06-29,38
@@ -2234,6 +1253,10 @@
 "Outlier",2022-08-28,94
 "Outlier",2022-09-01,94
 "Outlier",2022-09-07,94
+"Outlier",2022-09-10,93
+"Outlier",2022-09-16,93
+"Outlier",2022-09-22,93
+"Outlier",2022-09-29,93
 "OutpostLE",2021-12-05,1540
 "OutpostLE",2022-02-27,1760
 "Outreachy",2021-06-16,3527
@@ -2315,6 +1338,10 @@
 "Outreachy",2022-08-28,6470
 "Outreachy",2022-09-01,6527
 "Outreachy",2022-09-07,6574
+"Outreachy",2022-09-10,6612
+"Outreachy",2022-09-16,6648
+"Outreachy",2022-09-22,6691
+"Outreachy",2022-09-29,6745
 "Pacific Whale Foundation",2021-06-16,1485
 "Pacific Whale Foundation",2021-06-21,1490
 "Pacific Whale Foundation",2021-06-29,1499
@@ -2395,6 +1422,10 @@
 "Pacific Whale Foundation",2022-08-28,1882
 "Pacific Whale Foundation",2022-09-01,1883
 "Pacific Whale Foundation",2022-09-07,1884
+"Pacific Whale Foundation",2022-09-10,1886
+"Pacific Whale Foundation",2022-09-16,1888
+"Pacific Whale Foundation",2022-09-22,1893
+"Pacific Whale Foundation",2022-09-29,1896
 "Packt",2021-07-18,24416
 "Packt",2021-07-22,24786
 "Packt",2021-08-14,26795
@@ -2466,6 +1497,10 @@
 "Packt",2022-08-28,65304
 "Packt",2022-09-01,65699
 "Packt",2022-09-07,66424
+"Packt",2022-09-10,66699
+"Packt",2022-09-16,67312
+"Packt",2022-09-22,67866
+"Packt",2022-09-29,68566
 "Paris Machine Learning Meetup",2021-06-16,150
 "Paris Machine Learning Meetup",2021-06-21,150
 "Paris Machine Learning Meetup",2021-06-29,154
@@ -2515,6 +1550,10 @@
 "Paris Machine Learning Meetup",2022-08-25,324
 "Paris Machine Learning Meetup",2022-08-28,324
 "Paris Machine Learning Meetup",2022-09-07,329
+"Paris Machine Learning Meetup",2022-09-10,332
+"Paris Machine Learning Meetup",2022-09-16,343
+"Paris Machine Learning Meetup",2022-09-22,345
+"Paris Machine Learning Meetup",2022-09-29,349
 "Pharos Platforms Inc.",2021-06-16,259
 "Pharos Platforms Inc.",2021-06-21,259
 "Pharos Platforms Inc.",2021-06-29,259
@@ -2567,6 +1606,10 @@
 "Pharos Platforms Inc.",2022-08-25,303
 "Pharos Platforms Inc.",2022-08-28,303
 "Pharos Platforms Inc.",2022-09-07,306
+"Pharos Platforms Inc.",2022-09-10,338
+"Pharos Platforms Inc.",2022-09-16,373
+"Pharos Platforms Inc.",2022-09-22,387
+"Pharos Platforms Inc.",2022-09-29,400
 "PHILANTHROPY ADVISORS",2021-06-16,2682
 "PHILANTHROPY ADVISORS",2021-06-21,2694
 "PHILANTHROPY ADVISORS",2021-06-29,2704
@@ -2616,6 +1659,10 @@
 "PHILANTHROPY ADVISORS",2022-08-25,4223
 "PHILANTHROPY ADVISORS",2022-08-28,4234
 "PHILANTHROPY ADVISORS",2022-09-07,4271
+"PHILANTHROPY ADVISORS",2022-09-10,4278
+"PHILANTHROPY ADVISORS",2022-09-16,4299
+"PHILANTHROPY ADVISORS",2022-09-22,4324
+"PHILANTHROPY ADVISORS",2022-09-29,4350
 "Plotly",2021-06-16,8263
 "Plotly",2021-06-21,8312
 "Plotly",2021-06-29,8447
@@ -2696,6 +1743,10 @@
 "Plotly",2022-08-28,18979
 "Plotly",2022-09-01,19130
 "Plotly",2022-09-07,19276
+"Plotly",2022-09-10,19381
+"Plotly",2022-09-16,19880
+"Plotly",2022-09-22,20361
+"Plotly",2022-09-29,20753
 "Pluralsight",2021-06-16,119353
 "Pluralsight",2021-06-21,119729
 "Pluralsight",2021-06-29,120239
@@ -2775,6 +1826,10 @@
 "Pluralsight",2022-08-28,158695
 "Pluralsight",2022-09-01,159489
 "Pluralsight",2022-09-07,160170
+"Pluralsight",2022-09-10,160505
+"Pluralsight",2022-09-16,161128
+"Pluralsight",2022-09-22,161600
+"Pluralsight",2022-09-29,162239
 "ProCogia",2021-06-16,5938
 "ProCogia",2021-06-21,5943
 "ProCogia",2021-06-29,5942
@@ -2855,6 +1910,10 @@
 "ProCogia",2022-08-28,6675
 "ProCogia",2022-09-01,6684
 "ProCogia",2022-09-07,6687
+"ProCogia",2022-09-10,6690
+"ProCogia",2022-09-16,6700
+"ProCogia",2022-09-22,6701
+"ProCogia",2022-09-29,6726
 "Project Jupyter",2021-06-16,6894
 "Project Jupyter",2021-06-21,6934
 "Project Jupyter",2021-06-29,6979
@@ -2938,6 +1997,10 @@
 "Project Jupyter",2022-08-28,10146
 "Project Jupyter",2022-09-01,10180
 "Project Jupyter",2022-09-07,10207
+"Project Jupyter",2022-09-10,10235
+"Project Jupyter",2022-09-16,10274
+"Project Jupyter",2022-09-22,10327
+"Project Jupyter",2022-09-29,10391
 "Prospect 33",2021-06-16,20674
 "Prospect 33",2021-06-21,20665
 "Prospect 33",2021-06-29,20671
@@ -2988,6 +2051,10 @@
 "Prospect 33",2022-08-25,20873
 "Prospect 33",2022-08-28,20880
 "Prospect 33",2022-09-07,20888
+"Prospect 33",2022-09-10,20891
+"Prospect 33",2022-09-16,20897
+"Prospect 33",2022-09-22,20892
+"Prospect 33",2022-09-29,20893
 "Publicjobs.ie",2021-06-16,84835
 "Publicjobs.ie",2021-06-21,85116
 "Publicjobs.ie",2021-06-29,85560
@@ -3040,6 +2107,10 @@
 "Publicjobs.ie",2022-08-25,114516
 "Publicjobs.ie",2022-08-28,114661
 "Publicjobs.ie",2022-09-07,115383
+"Publicjobs.ie",2022-09-10,115626
+"Publicjobs.ie",2022-09-16,116247
+"Publicjobs.ie",2022-09-22,116910
+"Publicjobs.ie",2022-09-29,117511
 "Pumas-AI Inc.",2021-12-05,853
 "Pumas-AI Inc.",2022-03-03,997
 "Pumas-AI Inc.",2022-03-15,1012
@@ -3067,6 +2138,10 @@
 "Pumas-AI Inc.",2022-08-25,1524
 "Pumas-AI Inc.",2022-08-28,1530
 "Pumas-AI Inc.",2022-09-07,1574
+"Pumas-AI Inc.",2022-09-10,1587
+"Pumas-AI Inc.",2022-09-16,1602
+"Pumas-AI Inc.",2022-09-22,1633
+"Pumas-AI Inc.",2022-09-29,1663
 "Pumas-AI, Inc.",2022-02-27,990
 "PyCaret",2021-08-14,5912
 "PyCaret",2021-08-26,6013
@@ -3139,6 +2214,10 @@
 "PyCaret",2022-08-28,14846
 "PyCaret",2022-09-01,14948
 "PyCaret",2022-09-07,15110
+"PyCaret",2022-09-10,15167
+"PyCaret",2022-09-16,15301
+"PyCaret",2022-09-22,15435
+"PyCaret",2022-09-29,15554
 "PyData Berlin",2021-06-16,441
 "PyData Berlin",2021-06-21,442
 "PyData Berlin",2021-06-29,441
@@ -3215,6 +2294,10 @@
 "PyData Berlin",2022-08-28,584
 "PyData Berlin",2022-09-01,588
 "PyData Berlin",2022-09-07,589
+"PyData Berlin",2022-09-10,590
+"PyData Berlin",2022-09-16,591
+"PyData Berlin",2022-09-22,593
+"PyData Berlin",2022-09-29,595
 "PyData Delhi",2021-07-09,1586
 "PyData Delhi",2021-07-14,1587
 "PyData Delhi",2021-07-18,1587
@@ -3291,6 +2374,10 @@
 "PyData Delhi",2022-08-28,1675
 "PyData Delhi",2022-09-01,1676
 "PyData Delhi",2022-09-07,1677
+"PyData Delhi",2022-09-10,1676
+"PyData Delhi",2022-09-16,1677
+"PyData Delhi",2022-09-22,1676
+"PyData Delhi",2022-09-29,1677
 "PyData Global",2021-07-09,31
 "PyData Global",2021-07-14,59
 "PyData Global",2021-07-18,64
@@ -3377,6 +2464,10 @@
 "PyData Global",2022-08-28,2817
 "PyData Global",2022-09-01,2845
 "PyData Global",2022-09-07,2873
+"PyData Global",2022-09-10,2890
+"PyData Global",2022-09-16,2927
+"PyData Global",2022-09-22,2978
+"PyData Global",2022-09-29,3014
 "PyData Ireland",2021-06-16,5
 "PyData Ireland",2021-06-21,5
 "PyData Ireland",2021-06-29,5
@@ -3461,6 +2552,10 @@
 "PyData Ireland",2022-08-28,18
 "PyData Ireland",2022-09-01,18
 "PyData Ireland",2022-09-07,18
+"PyData Ireland",2022-09-10,18
+"PyData Ireland",2022-09-16,19
+"PyData Ireland",2022-09-22,20
+"PyData Ireland",2022-09-29,20
 "PyLadies Dublin",2021-06-16,81
 "PyLadies Dublin",2021-06-21,81
 "PyLadies Dublin",2021-06-29,81
@@ -3540,6 +2635,10 @@
 "PyLadies Dublin",2022-08-28,229
 "PyLadies Dublin",2022-09-01,232
 "PyLadies Dublin",2022-09-07,234
+"PyLadies Dublin",2022-09-10,236
+"PyLadies Dublin",2022-09-16,236
+"PyLadies Dublin",2022-09-22,237
+"PyLadies Dublin",2022-09-29,240
 "Python Barcelona",2022-02-27,560
 "Python Brazil Association",2022-02-27,1400
 "Python HUB - London based MeetUp",2022-02-27,31
@@ -3634,6 +2733,10 @@
 "Python Ireland",2022-08-28,1324
 "Python Ireland",2022-09-01,1330
 "Python Ireland",2022-09-07,1341
+"Python Ireland",2022-09-10,1353
+"Python Ireland",2022-09-16,1367
+"Python Ireland",2022-09-22,1374
+"Python Ireland",2022-09-29,1383
 "Python posts you might have missed!",2021-12-05,11726
 "Python Software Foundation",2021-06-16,82904
 "Python Software Foundation",2021-06-21,83194
@@ -3729,6 +2832,10 @@
 "Python Software Foundation",2022-08-28,111353
 "Python Software Foundation",2022-09-01,111622
 "Python Software Foundation",2022-09-07,111886
+"Python Software Foundation",2022-09-10,112032
+"Python Software Foundation",2022-09-16,112354
+"Python Software Foundation",2022-09-22,112682
+"Python Software Foundation",2022-09-29,113143
 "PyTorch",2022-01-12,37008
 "PyTorch",2022-02-01,43542
 "PyTorch",2022-02-12,45087
@@ -3759,6 +2866,10 @@
 "PyTorch",2022-08-25,88143
 "PyTorch",2022-08-28,88709
 "PyTorch",2022-09-07,90629
+"PyTorch",2022-09-10,91082
+"PyTorch",2022-09-16,95570
+"PyTorch",2022-09-22,97757
+"PyTorch",2022-09-29,99612
 "Qatar Computing Research Institute",2021-07-22,8524
 "Qatar Computing Research Institute",2021-08-14,8591
 "Qatar Computing Research Institute",2021-08-26,8642
@@ -3829,6 +2940,10 @@
 "Qatar Computing Research Institute",2022-08-28,10874
 "Qatar Computing Research Institute",2022-09-01,10899
 "Qatar Computing Research Institute",2022-09-07,10927
+"Qatar Computing Research Institute",2022-09-10,10946
+"Qatar Computing Research Institute",2022-09-16,10970
+"Qatar Computing Research Institute",2022-09-22,11005
+"Qatar Computing Research Institute",2022-09-29,11070
 "Qualtrics",2021-06-16,155110
 "Qualtrics",2021-06-21,155468
 "Qualtrics",2021-06-29,156096
@@ -3914,6 +3029,10 @@
 "Qualtrics",2022-08-28,198899
 "Qualtrics",2022-09-01,199402
 "Qualtrics",2022-09-07,199869
+"Qualtrics",2022-09-10,200195
+"Qualtrics",2022-09-16,200860
+"Qualtrics",2022-09-22,201435
+"Qualtrics",2022-09-29,202145
 "Quansight",2021-06-16,935
 "Quansight",2021-06-21,937
 "Quansight",2021-06-29,946
@@ -3996,6 +3115,10 @@
 "Quansight",2022-08-28,1659
 "Quansight",2022-09-01,1667
 "Quansight",2022-09-07,1671
+"Quansight",2022-09-10,1674
+"Quansight",2022-09-16,1685
+"Quansight",2022-09-22,1694
+"Quansight",2022-09-29,1709
 "Quansight Initiate",2021-06-16,88
 "Quansight Initiate",2021-06-21,88
 "Quansight Initiate",2021-06-29,89
@@ -4081,6 +3204,10 @@
 "Quansight Initiate",2022-08-28,107
 "Quansight Initiate",2022-09-01,108
 "Quansight Initiate",2022-09-07,108
+"Quansight Initiate",2022-09-10,108
+"Quansight Initiate",2022-09-16,108
+"Quansight Initiate",2022-09-22,108
+"Quansight Initiate",2022-09-29,108
 "QuantStack",2021-06-16,648
 "QuantStack",2021-06-21,652
 "QuantStack",2021-06-29,656
@@ -4162,6 +3289,10 @@
 "QuantStack",2022-08-28,946
 "QuantStack",2022-09-01,951
 "QuantStack",2022-09-07,951
+"QuantStack",2022-09-10,953
+"QuantStack",2022-09-16,953
+"QuantStack",2022-09-22,957
+"QuantStack",2022-09-29,958
 "QuantumBlack",2021-06-16,35354
 "QuantumBlack",2021-06-21,35479
 "QuantumBlack",2021-06-29,35648
@@ -4244,6 +3375,10 @@
 "QuantumBlack AI by McKinsey",2022-08-28,174084
 "QuantumBlack AI by McKinsey",2022-09-01,174420
 "QuantumBlack AI by McKinsey",2022-09-07,174784
+"QuantumBlack AI by McKinsey",2022-09-10,174973
+"QuantumBlack AI by McKinsey",2022-09-16,175353
+"QuantumBlack AI by McKinsey",2022-09-22,175660
+"QuantumBlack AI by McKinsey",2022-09-29,176056
 "Queen Mary Electronic Engineering & Computer Science Society",2021-06-16,39
 "Queen Mary Electronic Engineering & Computer Science Society",2021-06-21,40
 "Queen Mary Electronic Engineering & Computer Science Society",2021-06-29,40
@@ -4294,6 +3429,10 @@
 "Queen Mary Electronic Engineering & Computer Science Society",2022-08-25,50
 "Queen Mary Electronic Engineering & Computer Science Society",2022-08-28,50
 "Queen Mary Electronic Engineering & Computer Science Society",2022-09-07,50
+"Queen Mary Electronic Engineering & Computer Science Society",2022-09-10,50
+"Queen Mary Electronic Engineering & Computer Science Society",2022-09-16,50
+"Queen Mary Electronic Engineering & Computer Science Society",2022-09-22,50
+"Queen Mary Electronic Engineering & Computer Science Society",2022-09-29,50
 "Quovantis Technologies",2021-06-16,9492
 "Quovantis Technologies",2021-06-21,9572
 "Quovantis Technologies",2021-06-29,9673
@@ -4374,6 +3513,10 @@
 "Quovantis Technologies",2022-08-28,14114
 "Quovantis Technologies",2022-09-01,14117
 "Quovantis Technologies",2022-09-07,14122
+"Quovantis Technologies",2022-09-10,14121
+"Quovantis Technologies",2022-09-16,14135
+"Quovantis Technologies",2022-09-22,14140
+"Quovantis Technologies",2022-09-29,14151
 "R-Ladies Gaborone",2022-02-01,96
 "R-Ladies Gaborone",2022-02-07,103
 "R-Ladies Gaborone",2022-02-16,126
@@ -4418,6 +3561,10 @@
 "R-Ladies Gaborone",2022-08-28,346
 "R-Ladies Gaborone",2022-09-01,346
 "R-Ladies Gaborone",2022-09-07,347
+"R-Ladies Gaborone",2022-09-10,351
+"R-Ladies Gaborone",2022-09-16,355
+"R-Ladies Gaborone",2022-09-22,357
+"R-Ladies Gaborone",2022-09-29,357
 "R-Ladies Global",2021-12-05,4622
 "R-Ladies Global",2022-02-27,4819
 "R-Ladies Miami",2022-03-03,198
@@ -4464,6 +3611,10 @@
 "R-Ladies Miami",2022-08-28,199
 "R-Ladies Miami",2022-09-01,198
 "R-Ladies Miami",2022-09-07,198
+"R-Ladies Miami",2022-09-10,198
+"R-Ladies Miami",2022-09-16,198
+"R-Ladies Miami",2022-09-22,197
+"R-Ladies Miami",2022-09-29,197
 "R-Ladies Paris",2022-08-01,141
 "R-Ladies Paris",2022-08-08,196
 "R-Ladies Paris",2022-08-16,241
@@ -4472,6 +3623,10 @@
 "R-Ladies Paris",2022-08-28,289
 "R-Ladies Paris",2022-09-01,298
 "R-Ladies Paris",2022-09-07,318
+"R-Ladies Paris",2022-09-10,355
+"R-Ladies Paris",2022-09-16,433
+"R-Ladies Paris",2022-09-22,449
+"R-Ladies Paris",2022-09-29,479
 "R-Ladies Saudi Arabia (Dammam)",2022-03-20,244
 "R-Ladies Saudi Arabia (Dammam)",2022-03-31,247
 "R-Ladies Saudi Arabia (Dammam)",2022-04-09,249
@@ -4510,6 +3665,10 @@
 "R-Ladies Saudi Arabia (Dammam)",2022-08-28,284
 "R-Ladies Saudi Arabia (Dammam)",2022-09-01,285
 "R-Ladies Saudi Arabia (Dammam)",2022-09-07,287
+"R-Ladies Saudi Arabia (Dammam)",2022-09-10,287
+"R-Ladies Saudi Arabia (Dammam)",2022-09-16,287
+"R-Ladies Saudi Arabia (Dammam)",2022-09-22,292
+"R-Ladies Saudi Arabia (Dammam)",2022-09-29,295
 "R-Ladies Tunis",2021-06-16,643
 "R-Ladies Tunis",2021-06-21,643
 "R-Ladies Tunis",2021-06-29,647
@@ -4588,6 +3747,10 @@
 "R-Ladies Tunis",2022-08-28,734
 "R-Ladies Tunis",2022-09-01,734
 "R-Ladies Tunis",2022-09-07,734
+"R-Ladies Tunis",2022-09-10,734
+"R-Ladies Tunis",2022-09-16,734
+"R-Ladies Tunis",2022-09-22,734
+"R-Ladies Tunis",2022-09-29,733
 "r-programming.org",2021-06-16,2290
 "r-programming.org",2021-06-21,2288
 "r-programming.org",2021-06-29,2288
@@ -4673,6 +3836,10 @@
 "r-programming.org",2022-08-28,2367
 "r-programming.org",2022-09-01,2369
 "r-programming.org",2022-09-07,2370
+"r-programming.org",2022-09-10,2373
+"r-programming.org",2022-09-16,2373
+"r-programming.org",2022-09-22,2375
+"r-programming.org",2022-09-29,2376
 "R Consortium",2021-06-16,490
 "R Consortium",2021-06-21,491
 "R Consortium",2021-06-29,494
@@ -4755,6 +3922,10 @@
 "R Consortium",2022-08-28,3457
 "R Consortium",2022-09-01,3488
 "R Consortium",2022-09-07,3513
+"R Consortium",2022-09-10,3539
+"R Consortium",2022-09-16,3592
+"R Consortium",2022-09-22,3622
+"R Consortium",2022-09-29,3648
 "R language-online-training",2021-12-05,947
 "R language-online-training",2022-02-27,993
 "R Nepal",2021-07-14,31
@@ -4845,6 +4016,10 @@
 "R User Community",2022-08-28,8318
 "R User Community",2022-09-01,8487
 "R User Community",2022-09-07,8699
+"R User Community",2022-09-10,8780
+"R User Community",2022-09-16,8969
+"R User Community",2022-09-22,9153
+"R User Community",2022-09-29,9382
 "R User Group Nepal",2021-07-18,36
 "R User Group Nepal",2021-07-22,40
 "R User Group Nepal",2021-08-14,55
@@ -4917,6 +4092,10 @@
 "R User Group Nepal",2022-08-28,76
 "R User Group Nepal",2022-09-01,76
 "R User Group Nepal",2022-09-07,77
+"R User Group Nepal",2022-09-10,77
+"R User Group Nepal",2022-09-16,76
+"R User Group Nepal",2022-09-22,80
+"R User Group Nepal",2022-09-29,80
 "R Users Group - Ecuador",2021-06-16,130
 "R Users Group - Ecuador",2021-06-21,140
 "R Users Group - Ecuador",2021-06-29,143
@@ -5000,12 +4179,20 @@
 "R Users Group - Ecuador",2022-08-28,285
 "R Users Group - Ecuador",2022-09-01,285
 "R Users Group - Ecuador",2022-09-07,285
+"R Users Group - Ecuador",2022-09-10,285
+"R Users Group - Ecuador",2022-09-16,286
+"R Users Group - Ecuador",2022-09-22,286
+"R Users Group - Ecuador",2022-09-29,287
 "Radiant Earth Foundation",2022-08-16,6362
 "Radiant Earth Foundation",2022-08-20,6381
 "Radiant Earth Foundation",2022-08-25,6412
 "Radiant Earth Foundation",2022-08-28,6423
 "Radiant Earth Foundation",2022-09-01,6638
 "Radiant Earth Foundation",2022-09-07,6695
+"Radiant Earth Foundation",2022-09-10,6731
+"Radiant Earth Foundation",2022-09-16,6796
+"Radiant Earth Foundation",2022-09-22,6821
+"Radiant Earth Foundation",2022-09-29,6858
 "Radiant MLHub",2022-02-10,1083
 "Radiant MLHub",2022-02-12,1117
 "Radiant MLHub",2022-02-16,1150
@@ -5053,6 +4240,10 @@
 "Radiant MLHub",2022-08-28,2149
 "Radiant MLHub",2022-09-01,2174
 "Radiant MLHub",2022-09-07,2244
+"Radiant MLHub",2022-09-10,2349
+"Radiant MLHub",2022-09-16,2406
+"Radiant MLHub",2022-09-22,2454
+"Radiant MLHub",2022-09-29,2472
 "RapidMiner",2021-06-16,13527
 "RapidMiner",2021-06-21,13564
 "RapidMiner",2021-06-29,13626
@@ -5131,6 +4322,10 @@
 "RapidMiner",2022-08-28,18737
 "RapidMiner",2022-09-01,18755
 "RapidMiner",2022-09-07,18773
+"RapidMiner",2022-09-10,18786
+"RapidMiner",2022-09-16,18830
+"RapidMiner",2022-09-22,18877
+"RapidMiner",2022-09-29,18910
 "Real Consulting Data",2021-06-16,431
 "Real Consulting Data",2021-06-21,436
 "Real Consulting Data",2021-06-29,437
@@ -5212,6 +4407,10 @@
 "Real Consulting Data",2022-08-28,961
 "Real Consulting Data",2022-09-01,963
 "Real Consulting Data",2022-09-07,963
+"Real Consulting Data",2022-09-10,966
+"Real Consulting Data",2022-09-16,972
+"Real Consulting Data",2022-09-22,974
+"Real Consulting Data",2022-09-29,978
 "Real Python",2021-12-05,106406
 "RegioData Research GmbH",2021-06-16,113
 "RegioData Research GmbH",2021-06-21,113
@@ -5293,12 +4492,20 @@
 "RegioData Research GmbH",2022-08-28,216
 "RegioData Research GmbH",2022-09-01,217
 "RegioData Research GmbH",2022-09-07,219
+"RegioData Research GmbH",2022-09-10,219
+"RegioData Research GmbH",2022-09-16,220
+"RegioData Research GmbH",2022-09-22,220
+"RegioData Research GmbH",2022-09-29,221
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-16,18012
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-20,18146
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-25,18258
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-28,18391
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-01,18656
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-07,18889
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-10,18983
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-16,19140
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-22,19305
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-09-29,19514
 "Remsoft",2021-06-16,2511
 "Remsoft",2021-06-21,2524
 "Remsoft",2021-06-29,2536
@@ -5380,6 +4587,10 @@
 "Remsoft",2022-08-28,2971
 "Remsoft",2022-09-01,2972
 "Remsoft",2022-09-07,2981
+"Remsoft",2022-09-10,2983
+"Remsoft",2022-09-16,2991
+"Remsoft",2022-09-22,2993
+"Remsoft",2022-09-29,2996
 "Riga Data Science Club",2021-06-16,1378
 "Riga Data Science Club",2021-06-21,1382
 "Riga Data Science Club",2021-06-29,1386
@@ -5432,6 +4643,10 @@
 "Riga Data Science Club",2022-08-25,1665
 "Riga Data Science Club",2022-08-28,1665
 "Riga Data Science Club",2022-09-07,1670
+"Riga Data Science Club",2022-09-10,1671
+"Riga Data Science Club",2022-09-16,1671
+"Riga Data Science Club",2022-09-22,1672
+"Riga Data Science Club",2022-09-29,1676
 "Robert Wood Johnson Foundation",2021-06-16,49046
 "Robert Wood Johnson Foundation",2021-06-21,49154
 "Robert Wood Johnson Foundation",2021-06-29,49285
@@ -5515,6 +4730,10 @@
 "Robert Wood Johnson Foundation",2022-08-28,62796
 "Robert Wood Johnson Foundation",2022-09-01,63107
 "Robert Wood Johnson Foundation",2022-09-07,63368
+"Robert Wood Johnson Foundation",2022-09-10,63550
+"Robert Wood Johnson Foundation",2022-09-16,63974
+"Robert Wood Johnson Foundation",2022-09-22,64378
+"Robert Wood Johnson Foundation",2022-09-29,64765
 "Roche",2021-06-16,2300740
 "Roche",2021-06-21,2305735
 "Roche",2021-06-29,2313564
@@ -5598,6 +4817,10 @@
 "Roche",2022-08-28,2707018
 "Roche",2022-09-01,2712221
 "Roche",2022-09-07,2717953
+"Roche",2022-09-10,2721433
+"Roche",2022-09-16,2728796
+"Roche",2022-09-22,2735116
+"Roche",2022-09-29,2742233
 "Rockefeller Philanthropy Advisors",2021-06-16,22047
 "Rockefeller Philanthropy Advisors",2021-06-21,22090
 "Rockefeller Philanthropy Advisors",2021-06-29,22139
@@ -5681,6 +4904,10 @@
 "Rockefeller Philanthropy Advisors",2022-08-28,28194
 "Rockefeller Philanthropy Advisors",2022-09-01,28350
 "Rockefeller Philanthropy Advisors",2022-09-07,28518
+"Rockefeller Philanthropy Advisors",2022-09-10,28585
+"Rockefeller Philanthropy Advisors",2022-09-16,28785
+"Rockefeller Philanthropy Advisors",2022-09-22,29027
+"Rockefeller Philanthropy Advisors",2022-09-29,29269
 "Rocky Mountain Elk Foundation",2021-06-16,13275
 "Rocky Mountain Elk Foundation",2021-06-21,13297
 "Rocky Mountain Elk Foundation",2021-06-29,13349
@@ -5732,6 +4959,10 @@
 "Rocky Mountain Elk Foundation",2022-08-25,19790
 "Rocky Mountain Elk Foundation",2022-08-28,19823
 "Rocky Mountain Elk Foundation",2022-09-07,20013
+"Rocky Mountain Elk Foundation",2022-09-10,20126
+"Rocky Mountain Elk Foundation",2022-09-16,20324
+"Rocky Mountain Elk Foundation",2022-09-22,20552
+"Rocky Mountain Elk Foundation",2022-09-29,20784
 "Rose Data Studio LLC",2021-06-16,106
 "Rose Data Studio LLC",2021-06-21,109
 "Rose Data Studio LLC",2021-06-29,111
@@ -5808,6 +5039,10 @@
 "Rose Data Studio LLC",2022-08-28,287
 "Rose Data Studio LLC",2022-09-01,291
 "Rose Data Studio LLC",2022-09-07,293
+"Rose Data Studio LLC",2022-09-10,293
+"Rose Data Studio LLC",2022-09-16,297
+"Rose Data Studio LLC",2022-09-22,299
+"Rose Data Studio LLC",2022-09-29,299
 "Royal Statistical Society",2021-06-16,6881
 "Royal Statistical Society",2021-06-21,6895
 "Royal Statistical Society",2021-06-29,6927
@@ -5885,6 +5120,10 @@
 "Royal Statistical Society",2022-08-28,9751
 "Royal Statistical Society",2022-09-01,9789
 "Royal Statistical Society",2022-09-07,9805
+"Royal Statistical Society",2022-09-10,9845
+"Royal Statistical Society",2022-09-16,9916
+"Royal Statistical Society",2022-09-22,9977
+"Royal Statistical Society",2022-09-29,10036
 "RSS Data Science and AI Section",2021-09-16,1167
 "RSS Data Science and AI Section",2021-10-17,1198
 "RSS Data Science and AI Section",2021-10-29,1205
@@ -5952,6 +5191,10 @@
 "RSS Data Science and AI Section",2022-08-28,1628
 "RSS Data Science and AI Section",2022-09-01,1631
 "RSS Data Science and AI Section",2022-09-07,1646
+"RSS Data Science and AI Section",2022-09-10,1658
+"RSS Data Science and AI Section",2022-09-16,1665
+"RSS Data Science and AI Section",2022-09-22,1674
+"RSS Data Science and AI Section",2022-09-29,1680
 "RSS Data Science Section",2021-06-16,1028
 "RSS Data Science Section",2021-06-21,1044
 "RSS Data Science Section",2021-06-29,1059
@@ -6062,6 +5305,10 @@
 "RStudio PBC",2022-08-28,86917
 "RStudio PBC",2022-09-01,87080
 "RStudio PBC",2022-09-07,87251
+"RStudio PBC",2022-09-10,87346
+"RStudio PBC",2022-09-16,87557
+"RStudio PBC",2022-09-22,87726
+"RStudio PBC",2022-09-29,87931
 "Rust Foundation",2021-12-05,1634
 "Rust Foundation",2022-02-27,2326
 "Rust Programming Language",2021-06-16,2764
@@ -6142,6 +5389,13 @@
 "Rust Programming Language",2022-08-28,5147
 "Rust Programming Language",2022-09-01,5180
 "Rust Programming Language",2022-09-07,5214
+"Rust Programming Language",2022-09-10,5228
+"Rust Programming Language",2022-09-16,5270
+"Rust Programming Language",2022-09-22,5305
+"Rust Programming Language",2022-09-29,5385
+"Rx Studio�",2022-09-16,156
+"Rx Studio�",2022-09-22,167
+"Rx Studio�",2022-09-29,175
 "Ryerson University Data Science Society",2021-06-16,168
 "Ryerson University Data Science Society",2021-06-21,172
 "Ryerson University Data Science Society",2021-06-29,173
@@ -6188,6 +5442,10 @@
 "Ryerson University Data Science Society",2022-08-25,215
 "Ryerson University Data Science Society",2022-08-28,215
 "Ryerson University Data Science Society",2022-09-07,215
+"Ryerson University Data Science Society",2022-09-10,215
+"Ryerson University Data Science Society",2022-09-16,217
+"Ryerson University Data Science Society",2022-09-22,217
+"Ryerson University Data Science Society",2022-09-29,218
 "Sahel DataBank",2021-06-16,14
 "Sahel DataBank",2021-06-21,14
 "Sahel DataBank",2021-06-29,14
@@ -6278,6 +5536,10 @@
 "SAIS Sheffield Artificial Intelligence Society",2022-08-25,37
 "SAIS Sheffield Artificial Intelligence Society",2022-08-28,37
 "SAIS Sheffield Artificial Intelligence Society",2022-09-07,37
+"SAIS Sheffield Artificial Intelligence Society",2022-09-10,37
+"SAIS Sheffield Artificial Intelligence Society",2022-09-16,37
+"SAIS Sheffield Artificial Intelligence Society",2022-09-22,37
+"SAIS Sheffield Artificial Intelligence Society",2022-09-29,37
 "SAS",2021-06-16,728360
 "SAS",2021-06-21,729042
 "SAS",2021-06-29,730171
@@ -6362,12 +5624,20 @@
 "SAS",2022-08-28,793713
 "SAS",2022-09-01,794435
 "SAS",2022-09-07,795273
+"SAS",2022-09-10,795823
+"SAS",2022-09-16,796929
+"SAS",2022-09-22,797955
+"SAS",2022-09-29,799148
 "Satellite Vu",2022-08-16,3855
 "Satellite Vu",2022-08-20,3899
 "Satellite Vu",2022-08-25,3935
 "Satellite Vu",2022-08-28,3957
 "Satellite Vu",2022-09-01,4004
 "Satellite Vu",2022-09-07,4065
+"Satellite Vu",2022-09-10,4093
+"Satellite Vu",2022-09-16,4133
+"Satellite Vu",2022-09-22,4166
+"Satellite Vu",2022-09-29,4246
 "SatRdays",2022-02-27,180
 "SCALEWORK",2022-01-14,824
 "SCALEWORK",2022-01-18,826
@@ -6421,6 +5691,10 @@
 "SCALEWORK",2022-08-28,1082
 "SCALEWORK",2022-09-01,1083
 "SCALEWORK",2022-09-07,1085
+"SCALEWORK",2022-09-10,1085
+"SCALEWORK",2022-09-16,1089
+"SCALEWORK",2022-09-22,1089
+"SCALEWORK",2022-09-29,1092
 "scikit-learn",2022-04-25,4174
 "scikit-learn",2022-04-29,4436
 "scikit-learn",2022-05-05,4920
@@ -6467,6 +5741,13 @@
 "scikit-learn",2022-08-28,25345
 "scikit-learn",2022-09-01,26211
 "scikit-learn",2022-09-07,27128
+"scikit-learn",2022-09-10,27724
+"scikit-learn",2022-09-10,27725
+"scikit-learn",2022-09-16,29035
+"scikit-learn",2022-09-16,29036
+"scikit-learn",2022-09-22,30483
+"scikit-learn",2022-09-22,30484
+"scikit-learn",2022-09-29,32045
 "SDG Academy",2021-09-16,13131
 "SDG Academy",2021-10-17,14120
 "SDG Academy",2021-10-29,14360
@@ -6531,6 +5812,10 @@
 "SDG Academy",2022-08-28,20744
 "SDG Academy",2022-09-01,20821
 "SDG Academy",2022-09-07,20886
+"SDG Academy",2022-09-10,20937
+"SDG Academy",2022-09-16,21036
+"SDG Academy",2022-09-22,21161
+"SDG Academy",2022-09-29,21269
 "SDGs",2021-08-14,1030
 "SDGs",2021-08-26,1073
 "SDGs",2021-09-02,1099
@@ -6594,6 +5879,10 @@
 "SDGs",2022-08-28,2619
 "SDGs",2022-09-01,2639
 "SDGs",2022-09-07,2664
+"SDGs",2022-09-10,2685
+"SDGs",2022-09-16,2725
+"SDGs",2022-09-22,2752
+"SDGs",2022-09-29,2796
 "Securitec Screening Solutions Inc.",2021-12-03,294
 "Securitec Screening Solutions Inc.",2021-12-14,294
 "Securitec Screening Solutions Inc.",2021-12-20,294
@@ -6647,6 +5936,10 @@
 "SeismicZone",2022-08-25,472
 "SeismicZone",2022-08-28,471
 "SeismicZone",2022-09-07,485
+"SeismicZone",2022-09-10,485
+"SeismicZone",2022-09-16,490
+"SeismicZone",2022-09-22,490
+"SeismicZone",2022-09-29,491
 "Senseforth.ai",2021-06-16,17608
 "Senseforth.ai",2021-06-21,17674
 "Senseforth.ai",2021-06-29,17754
@@ -6724,6 +6017,10 @@
 "Senseforth.ai",2022-08-28,29371
 "Senseforth.ai",2022-09-01,29534
 "Senseforth.ai",2022-09-07,29726
+"Senseforth.ai",2022-09-10,29830
+"Senseforth.ai",2022-09-16,30041
+"Senseforth.ai",2022-09-22,30339
+"Senseforth.ai",2022-09-29,30684
 "Sentient Projects",2021-06-16,652
 "Sentient Projects",2021-06-21,653
 "Sentient Projects",2021-06-29,655
@@ -6807,6 +6104,10 @@
 "Sentient Projects",2022-08-28,662
 "Sentient Projects",2022-09-01,662
 "Sentient Projects",2022-09-07,662
+"Sentient Projects",2022-09-10,662
+"Sentient Projects",2022-09-16,662
+"Sentient Projects",2022-09-22,663
+"Sentient Projects",2022-09-29,662
 "SFI Centre for Research Training in Artificial Intelligence",2021-06-16,230
 "SFI Centre for Research Training in Artificial Intelligence",2021-06-21,234
 "SFI Centre for Research Training in Artificial Intelligence",2021-06-29,236
@@ -6854,6 +6155,10 @@
 "SFI Centre for Research Training in Artificial Intelligence",2022-08-25,582
 "SFI Centre for Research Training in Artificial Intelligence",2022-08-28,582
 "SFI Centre for Research Training in Artificial Intelligence",2022-09-07,585
+"SFI Centre for Research Training in Artificial Intelligence",2022-09-10,589
+"SFI Centre for Research Training in Artificial Intelligence",2022-09-16,594
+"SFI Centre for Research Training in Artificial Intelligence",2022-09-22,598
+"SFI Centre for Research Training in Artificial Intelligence",2022-09-29,602
 "Sheffield Women in Computer Science Society",2021-06-16,46
 "Sheffield Women in Computer Science Society",2021-06-21,46
 "Sheffield Women in Computer Science Society",2021-06-29,46
@@ -6901,6 +6206,10 @@
 "Sheffield Women in Computer Science Society",2022-08-25,52
 "Sheffield Women in Computer Science Society",2022-08-28,52
 "Sheffield Women in Computer Science Society",2022-09-07,53
+"Sheffield Women in Computer Science Society",2022-09-10,53
+"Sheffield Women in Computer Science Society",2022-09-16,53
+"Sheffield Women in Computer Science Society",2022-09-22,53
+"Sheffield Women in Computer Science Society",2022-09-29,54
 "Silo AI",2021-06-16,5013
 "Silo AI",2021-06-21,5066
 "Silo AI",2021-06-29,5120
@@ -6951,6 +6260,10 @@
 "Silo AI",2022-08-25,8239
 "Silo AI",2022-08-28,8253
 "Silo AI",2022-09-07,8347
+"Silo AI",2022-09-10,8367
+"Silo AI",2022-09-16,8451
+"Silo AI",2022-09-22,8492
+"Silo AI",2022-09-29,8524
 "simpl.study",2021-06-16,72
 "simpl.study",2021-06-21,72
 "simpl.study",2021-06-29,72
@@ -7001,6 +6314,10 @@
 "simpl.study",2022-08-25,70
 "simpl.study",2022-08-28,70
 "simpl.study",2022-09-07,70
+"simpl.study",2022-09-10,70
+"simpl.study",2022-09-16,70
+"simpl.study",2022-09-22,70
+"simpl.study",2022-09-29,70
 "Sister Analyst",2022-03-15,147
 "Sister Analyst",2022-03-20,157
 "Sister Analyst",2022-03-29,184
@@ -7041,6 +6358,10 @@
 "Sister Analyst",2022-08-28,463
 "Sister Analyst",2022-09-01,464
 "Sister Analyst",2022-09-07,465
+"Sister Analyst",2022-09-10,466
+"Sister Analyst",2022-09-16,467
+"Sister Analyst",2022-09-22,469
+"Sister Analyst",2022-09-29,471
 "Skoll Foundation",2021-06-16,26048
 "Skoll Foundation",2021-06-21,26115
 "Skoll Foundation",2021-06-29,26195
@@ -7122,6 +6443,10 @@
 "Skoll Foundation",2022-08-28,35086
 "Skoll Foundation",2022-09-01,35227
 "Skoll Foundation",2022-09-07,35343
+"Skoll Foundation",2022-09-10,35423
+"Skoll Foundation",2022-09-16,35577
+"Skoll Foundation",2022-09-22,35757
+"Skoll Foundation",2022-09-29,36051
 "Snowflake",2022-02-10,381008
 "Snowflake",2022-02-12,381924
 "Snowflake",2022-02-20,385476
@@ -7164,6 +6489,10 @@
 "Snowflake",2022-08-28,473180
 "Snowflake",2022-09-01,475357
 "Snowflake",2022-09-07,477610
+"Snowflake",2022-09-10,479080
+"Snowflake",2022-09-16,482224
+"Snowflake",2022-09-22,485352
+"Snowflake",2022-09-29,488827
 "Software Insights Ireland",2021-06-16,1257
 "Software Insights Ireland",2021-06-21,1259
 "Software Insights Ireland",2021-06-29,1263
@@ -7237,6 +6566,10 @@
 "Software Insights Ireland",2022-08-28,1281
 "Software Insights Ireland",2022-09-01,1280
 "Software Insights Ireland",2022-09-07,1281
+"Software Insights Ireland",2022-09-10,1281
+"Software Insights Ireland",2022-09-16,1280
+"Software Insights Ireland",2022-09-22,1280
+"Software Insights Ireland",2022-09-29,1283
 "Sololearn",2021-07-02,71978
 "Sololearn",2021-07-04,72158
 "Sololearn",2021-07-09,72592
@@ -7331,6 +6664,11 @@
 "Sololearn",2022-08-28,115035
 "Sololearn",2022-09-01,115647
 "Sololearn",2022-09-07,116701
+"Sololearn",2022-09-10,117199
+"Sololearn",2022-09-16,118338
+"Sololearn",2022-09-16,118339
+"Sololearn",2022-09-22,119343
+"Sololearn",2022-09-29,120405
 "SoloLearn",2021-06-16,70205
 "SoloLearn",2021-06-21,70767
 "SoloLearn",2021-06-29,71583
@@ -7341,6 +6679,10 @@
 "Space4Good",2022-08-28,4952
 "Space4Good",2022-09-01,5019
 "Space4Good",2022-09-07,5106
+"Space4Good",2022-09-10,5138
+"Space4Good",2022-09-16,5214
+"Space4Good",2022-09-22,5279
+"Space4Good",2022-09-29,5319
 "Squarepoint Capital",2021-06-16,8857
 "Squarepoint Capital",2021-06-21,8880
 "Squarepoint Capital",2021-06-29,8932
@@ -7422,6 +6764,10 @@
 "Squarepoint Capital",2022-08-28,13750
 "Squarepoint Capital",2022-09-01,13849
 "Squarepoint Capital",2022-09-07,13957
+"Squarepoint Capital",2022-09-10,14044
+"Squarepoint Capital",2022-09-16,14215
+"Squarepoint Capital",2022-09-22,14343
+"Squarepoint Capital",2022-09-29,14433
 "Stack Overflow",2021-06-16,735152
 "Stack Overflow",2021-06-21,736883
 "Stack Overflow",2021-06-29,739363
@@ -7518,6 +6864,13 @@
 "Stack Overflow",2022-09-01,1047731
 "Stack Overflow",2022-09-07,1053793
 "Stack Overflow",2022-09-07,1053794
+"Stack Overflow",2022-09-10,1056776
+"Stack Overflow",2022-09-10,1056778
+"Stack Overflow",2022-09-16,1064659
+"Stack Overflow",2022-09-16,1064662
+"Stack Overflow",2022-09-22,1072211
+"Stack Overflow",2022-09-22,1072213
+"Stack Overflow",2022-09-29,1081937
 "Statistics Globe",2021-06-21,1860
 "Statistics Globe",2021-06-29,1918
 "Statistics Globe",2021-07-02,1949
@@ -7595,6 +6948,10 @@
 "Statistics Globe",2022-08-28,4190
 "Statistics Globe",2022-09-01,4262
 "Statistics Globe",2022-09-07,4290
+"Statistics Globe",2022-09-10,4304
+"Statistics Globe",2022-09-16,4332
+"Statistics Globe",2022-09-22,4371
+"Statistics Globe",2022-09-29,4406
 "Statistics Without Borders",2021-06-16,638
 "Statistics Without Borders",2021-06-21,641
 "Statistics Without Borders",2021-06-29,648
@@ -7678,6 +7035,10 @@
 "Statistics Without Borders",2022-08-28,1278
 "Statistics Without Borders",2022-09-01,1287
 "Statistics Without Borders",2022-09-07,1295
+"Statistics Without Borders",2022-09-10,1303
+"Statistics Without Borders",2022-09-16,1310
+"Statistics Without Borders",2022-09-22,1323
+"Statistics Without Borders",2022-09-29,1337
 "STATSports",2021-06-16,16647
 "STATSports",2021-06-21,16699
 "STATSports",2021-06-29,16804
@@ -7763,6 +7124,10 @@
 "STATSports",2022-08-28,25457
 "STATSports",2022-09-01,25545
 "STATSports",2022-09-07,25642
+"STATSports",2022-09-10,25684
+"STATSports",2022-09-16,25802
+"STATSports",2022-09-22,25910
+"STATSports",2022-09-29,26051
 "storytelling with data",2021-06-16,60140
 "storytelling with data",2021-06-21,60410
 "storytelling with data",2021-06-29,60827
@@ -7854,6 +7219,11 @@
 "storytelling with data",2022-08-28,99377
 "storytelling with data",2022-09-01,99864
 "storytelling with data",2022-09-07,100379
+"storytelling with data",2022-09-10,100651
+"storytelling with data",2022-09-16,101435
+"storytelling with data",2022-09-16,101436
+"storytelling with data",2022-09-22,102263
+"storytelling with data",2022-09-29,103238
 "Subsea 7",2021-06-16,485860
 "Subsea 7",2021-06-21,486842
 "Subsea 7",2021-06-29,488249
@@ -7903,6 +7273,10 @@
 "Subsea 7",2022-08-25,600676
 "Subsea 7",2022-08-28,601585
 "Subsea 7",2022-09-07,606003
+"Subsea7",2022-09-10,607064
+"Subsea7",2022-09-16,609463
+"Subsea7",2022-09-22,611652
+"Subsea7",2022-09-29,614298
 "SuperDataScience",2021-06-16,67308
 "SuperDataScience",2021-06-21,67602
 "SuperDataScience",2021-06-29,67981
@@ -7995,6 +7369,11 @@
 "SuperDataScience",2022-08-28,83326
 "SuperDataScience",2022-09-01,83487
 "SuperDataScience",2022-09-07,83637
+"SuperDataScience",2022-09-10,83721
+"SuperDataScience",2022-09-16,83954
+"SuperDataScience",2022-09-22,84136
+"SuperDataScience",2022-09-22,84137
+"SuperDataScience",2022-09-29,84357
 "Susquehanna International Group LLP (SIG)",2021-06-16,79640
 "Susquehanna International Group LLP (SIG)",2021-06-21,79768
 "Susquehanna International Group LLP (SIG)",2021-06-29,80167
@@ -8077,6 +7456,10 @@
 "Susquehanna International Group LLP (SIG)",2022-08-28,97661
 "Susquehanna International Group LLP (SIG)",2022-09-01,98125
 "Susquehanna International Group LLP (SIG)",2022-09-07,98538
+"Susquehanna International Group LLP (SIG)",2022-09-10,98781
+"Susquehanna International Group LLP (SIG)",2022-09-16,99279
+"Susquehanna International Group LLP (SIG)",2022-09-22,99759
+"Susquehanna International Group LLP (SIG)",2022-09-29,100335
 "Sustainable Development Solutions Network",2021-07-14,30571
 "Sustainable Development Solutions Network",2021-07-18,30688
 "Sustainable Development Solutions Network",2021-07-22,30831
@@ -8153,6 +7536,10 @@
 "Sustainable Development Solutions Network",2022-08-28,47478
 "Sustainable Development Solutions Network",2022-09-01,47635
 "Sustainable Development Solutions Network",2022-09-07,47812
+"Sustainable Development Solutions Network",2022-09-10,47952
+"Sustainable Development Solutions Network",2022-09-16,48331
+"Sustainable Development Solutions Network",2022-09-22,48629
+"Sustainable Development Solutions Network",2022-09-29,48906
 "Swiss Philanthropy Foundation",2021-06-16,3093
 "Swiss Philanthropy Foundation",2021-06-21,3097
 "Swiss Philanthropy Foundation",2021-06-29,3107
@@ -8201,6 +7588,10 @@
 "Swiss Philanthropy Foundation",2022-08-25,4503
 "Swiss Philanthropy Foundation",2022-08-28,4521
 "Swiss Philanthropy Foundation",2022-09-07,4597
+"Swiss Philanthropy Foundation",2022-09-10,4609
+"Swiss Philanthropy Foundation",2022-09-16,4635
+"Swiss Philanthropy Foundation",2022-09-22,4655
+"Swiss Philanthropy Foundation",2022-09-29,4678
 "SwissAI",2021-06-16,355
 "SwissAI",2021-06-21,355
 "SwissAI",2021-06-29,354
@@ -8251,52 +7642,7 @@
 "SwissAI",2022-08-25,365
 "SwissAI",2022-08-28,365
 "SwissAI",2022-09-07,365
-"Sydney Machine Learning Group",2021-06-16,149
-"Sydney Machine Learning Group",2021-06-21,149
-"Sydney Machine Learning Group",2021-06-29,149
-"Sydney Machine Learning Group",2021-07-04,150
-"Sydney Machine Learning Group",2021-07-09,150
-"Sydney Machine Learning Group",2021-07-14,150
-"Sydney Machine Learning Group",2021-07-22,151
-"Sydney Machine Learning Group",2021-08-14,153
-"Sydney Machine Learning Group",2021-08-26,154
-"Sydney Machine Learning Group",2021-09-02,155
-"Sydney Machine Learning Group",2021-09-09,155
-"Sydney Machine Learning Group",2021-09-16,156
-"Sydney Machine Learning Group",2021-10-17,157
-"Sydney Machine Learning Group",2021-10-29,158
-"Sydney Machine Learning Group",2021-11-20,158
-"Sydney Machine Learning Group",2021-12-14,158
-"Sydney Machine Learning Group",2021-12-26,159
-"Sydney Machine Learning Group",2021-12-31,159
-"Sydney Machine Learning Group",2022-01-12,160
-"Sydney Machine Learning Group",2022-02-01,162
-"Sydney Machine Learning Group",2022-02-07,163
-"Sydney Machine Learning Group",2022-02-12,163
-"Sydney Machine Learning Group",2022-02-16,164
-"Sydney Machine Learning Group",2022-02-23,164
-"Sydney Machine Learning Group",2022-02-26,164
-"Sydney Machine Learning Group",2022-03-03,164
-"Sydney Machine Learning Group",2022-03-15,164
-"Sydney Machine Learning Group",2022-04-11,166
-"Sydney Machine Learning Group",2022-05-05,164
-"Sydney Machine Learning Group",2022-05-27,165
-"Sydney Machine Learning Group",2022-05-30,165
-"Sydney Machine Learning Group",2022-06-07,165
-"Sydney Machine Learning Group",2022-06-08,165
-"Sydney Machine Learning Group",2022-06-11,165
-"Sydney Machine Learning Group",2022-06-16,165
-"Sydney Machine Learning Group",2022-06-23,165
-"Sydney Machine Learning Group",2022-06-30,165
-"Sydney Machine Learning Group",2022-07-02,166
-"Sydney Machine Learning Group",2022-07-05,166
-"Sydney Machine Learning Group",2022-07-13,166
-"Sydney Machine Learning Group",2022-07-18,166
-"Sydney Machine Learning Group",2022-07-23,166
-"Sydney Machine Learning Group",2022-07-25,166
-"Sydney Machine Learning Group",2022-08-02,166
-"Sydney Machine Learning Group",2022-08-16,169
-"Sydney Machine Learning Group",2022-08-20,169
-"Sydney Machine Learning Group",2022-08-25,170
-"Sydney Machine Learning Group",2022-08-28,171
-"Sydney Machine Learning Group",2022-09-07,172
+"SwissAI",2022-09-10,365
+"SwissAI",2022-09-16,365
+"SwissAI",2022-09-22,365
+"SwissAI",2022-09-29,365
