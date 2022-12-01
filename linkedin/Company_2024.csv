@@ -1,6 +1,563 @@
 "Company","Date","Followers"
 "Globant",2020-10-25,265982
 "Globant",2020-10-28,266714
+"IBM",2022-12-01,14757183
+"Accenture",2022-12-01,9873451
+"Tata Consultancy Services",2022-12-01,11325343
+"McKinsey & Company",2022-12-01,4904721
+"SAS",2022-12-01,811989
+"Roche",2022-12-01,2801903
+"Cognizant",2022-12-01,5728090
+"Boston Consulting Group (BCG)",2022-12-01,3475472
+"Informatica",2022-12-01,244111
+"Ascential",2022-12-01,53304
+"Esri",2022-12-01,308925
+"Globant",2022-12-01,672267
+"Bill & Melinda Gates Foundation",2022-12-01,1059970
+"Nagarro",2022-12-01,543117
+"Newgen Software",2022-12-01,137358
+"Open Society Foundations",2022-12-01,184955
+"IUCN",2022-12-01,126100
+"Ford Foundation",2022-12-01,143832
+"Office for National Statistics",2022-12-01,58615
+"KIPP Foundation",2022-12-01,50948
+"Robert Wood Johnson Foundation",2022-12-01,68416
+"United Nations Foundation",2022-12-01,144239
+"Packt",2022-12-01,73459
+"MacArthur Foundation",2022-12-01,90308
+"Gordon and Betty Moore Foundation",2022-12-01,9179
+"Two Sigma",2022-12-01,132842
+"The David and Lucile Packard Foundation",2022-12-01,24871
+"Skoll Foundation",2022-12-01,38393
+"Analytic Partners",2022-12-01,10749
+"Conning",2022-12-01,14095
+"The James Irvine Foundation",2022-12-01,11429
+"William and Flora Hewlett Foundation",2022-12-01,26521
+"Elm Company",2022-12-01,458251
+"Doris Duke Charitable Foundation",2022-12-01,4120
+"Mellon Foundation",2022-12-01,24230
+"W.K. Kellogg Foundation",2022-12-01,51111
+"Rockefeller Philanthropy Advisors",2022-12-01,31213
+"G-Research",2022-12-01,29991
+"Brightwater",2022-12-01,117184
+"Idiro Analytics",2022-12-01,5054
+"Datalytics",2022-12-01,21960
+"Mango Solutions",2022-12-01,3849
+"Pluralsight",2022-12-01,167326
+"The Kresge Foundation",2022-12-01,35795
+"New York Community Trust",2022-12-01,3310
+"Women In Technology (WIT)",2022-12-01,246879
+"Cpl",2022-12-01,264386
+"GlobalLogic",2022-12-01,691366
+"Susquehanna International Group LLP (SIG)",2022-12-01,105053
+"The Rockefeller Foundation",2022-12-01,181963
+"Tableau",2022-12-01,800104
+"Genpact",2022-12-01,2259178
+"i2 Inc.",2022-12-01,994
+"The Apache Software Foundation",2022-12-01,63480
+"WorldQuant",2022-12-01,56208
+"Collibra",2022-12-01,52494
+"Jump Trading LLC",2022-12-01,47152
+"Qualtrics",2022-12-01,209062
+"United Nations Institute for Training and Research (UNITAR)",2022-12-01,305911
+"Remsoft",2022-12-01,3062
+"RapidMiner",2022-12-01,19347
+"Geoscience Australia",2022-12-01,24906
+"Conrad N. Hilton Foundation",2022-12-01,14223
+"KNIME",2022-12-01,36025
+"Irish Centre for High-End Computing ICHEC",2022-12-01,1253
+"Udemy",2022-12-01,1063896
+"Pacific Whale Foundation",2022-12-01,2022
+"QuantumBlack AI by McKinsey",2022-12-01,179999
+"Alteryx",2022-12-01,231358
+"Datahug (acquired by CallidusCloud)",2022-12-01,3103
+"Stack Overflow",2022-12-01,1166393
+"The Analytics Institute of Ireland",2022-12-01,6730
+"NCX",2022-12-01,6746
+"Kaggle",2022-12-01,356330
+"Institute of Mathematics and its Applications",2022-12-01,22296
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2022-12-01,21124
+"Open Knowledge Foundation",2022-12-01,6371
+"Coillte",2022-12-01,15675
+"The unbelievable Machine Company GmbH",2022-12-01,2408
+"Lucid Software",2022-12-01,70019
+"Alfred P. Sloan Foundation",2022-12-01,2561
+"United Nations Sustainable Development Group",2022-12-01,195106
+"Bloomberg Philanthropies",2022-12-01,65842
+"GitHub",2022-12-01,2953980
+"Quovantis Technologies",2022-12-01,14271
+"r-programming.org",2022-12-01,2384
+"Jane Street",2022-12-01,106026
+"CSO (Central Statistics Office Ireland)",2022-12-01,9368
+"Ginkgo Management Consulting",2022-12-01,3042
+"Posit PBC",2022-12-01,90278
+"Asystec (Now Ergo)",2022-12-01,2510
+"Tiger Analytics",2022-12-01,201703
+"Irish Defence Forces",2022-12-01,12379
+"African Institute for Mathematical Sciences (AIMS)",2022-12-01,14651
+"InSpire at St Peter's",2022-12-01,83
+"WellClever",2022-12-01,121
+"RegioData Research GmbH",2022-12-01,227
+"Geospatial World",2022-12-01,31759
+"General Assembly",2022-12-01,187714
+"Data Ireland",2022-12-01,813
+"Walton Family Foundation",2022-12-01,49837
+"Coursera",2022-12-01,1465827
+"Flowminder",2022-12-01,1640
+"Economic and Social Research Institute (ESRI)",2022-12-01,12970
+"DataKind",2022-12-01,16925
+"Film Analytics",2022-12-01,219
+"Knoldus Inc",2022-12-01,16491
+"STATSports",2022-12-01,27264
+"DataRobot",2022-12-01,118428
+"Xava",2022-12-01,95
+"Dataiku",2022-12-01,128851
+"Senseforth.ai",2022-12-01,33595
+"H2O.ai",2022-12-01,119451
+"Falkonry",2022-12-01,3850
+"Gapminder Foundation",2022-12-01,16228
+"Open Data Institute",2022-12-01,14201
+"KatRisk LLC",2022-12-01,1833
+"Ixio Analytics",2022-12-01,775
+"Royal Statistical Society",2022-12-01,10611
+"Black Girls CODE",2022-12-01,41979
+"FutureLearn",2022-12-01,118098
+"dotConferences",2022-12-01,206
+"Xanadu Consultancy",2022-12-01,2895
+"ORRECO",2022-12-01,2789
+"Qatar Computing Research Institute",2022-12-01,11433
+"DataKind UK",2022-12-01,2851
+"DataCamp",2022-12-01,352500
+"Women Who Code",2022-12-01,129399
+"Kitman Labs",2022-12-01,10308
+"Plotly",2022-12-01,24326
+"Data for Good",2022-12-01,9667
+"Databricks",2022-12-01,389353
+"IBM Cloud",2022-12-01,204395
+"Appsilon",2022-12-01,4403
+"Domino Data Lab",2022-12-01,33048
+"BCG Digital Ventures",2022-12-01,151569
+"Aon Centre for Innovation and Analytics (ACIA)",2022-12-01,15170
+"Analytics Vidhya",2022-12-01,152968
+"ProCogia",2022-12-01,6904
+"Snowflake",2022-12-01,523205
+"Data Science Dojo",2022-12-01,237593
+"Fivetran",2022-12-01,70926
+"DataIQ",2022-12-01,14239
+"Data Science Institute",2022-12-01,17757
+"IBM Data AI & Automation",2022-12-01,228568
+"Decision Inc.",2022-12-01,32129
+"GitLab",2022-12-01,752829
+"Sustainable Development Solutions Network",2022-12-01,51287
+"Python Software Foundation",2022-12-01,118231
+"Netcelero",2022-12-01,1023
+"IHM Southern Africa",2022-12-01,1999
+"Major League Hacking",2022-12-01,28215
+"UK Statistics Authority ",2022-12-01,2870
+"Data Science Central",2022-12-01,270400
+"VERDE",2022-12-01,183
+"Noodle.ai",2022-12-01,22752
+"Global Partnership for Sustainable Development Data",2022-12-01,4717
+"Development Seed",2022-12-01,2464
+"Group on Earth Observations (GEO)",2022-12-01,6463
+"Squarepoint Capital",2022-12-01,15537
+"ADAPT Centre",2022-12-01,3509
+"Data & Society Research Institute",2022-12-01,8917
+"Appinventiv",2022-12-01,122449
+"Gower Street Analytics",2022-12-01,1886
+"Open Data Science Conference (ODSC)",2022-12-01,133375
+"JuliaHub",2022-12-01,15878
+"Python Ireland",2022-12-01,1733
+"ThinkR (FR)",2022-12-01,646
+"Sololearn",2022-12-01,128133
+"Data Science by Data Scientist Canada",2022-12-01,17562
+"Lander Analytics",2022-12-01,421
+"Dataquest.io",2022-12-01,41619
+"NumFOCUS",2022-12-01,3449
+"Ursa Labs",2022-12-01,451
+"The Alan Turing Institute",2022-12-01,31109
+"Klue",2022-12-01,15667
+"insight2impact",2022-12-01,1314
+"PyData Berlin",2022-12-01,605
+"Project Jupyter",2022-12-01,11121
+"Satellite Vu",2022-12-01,4846
+"Data Science Academy",2022-12-01,394276
+"Data For Good",2022-12-01,8572
+"Data Science Foundation International",2022-12-01,2909
+"Twenty Billion Neurons",2022-12-01,3239
+"Machine Learning Mastery",2022-12-01,258862
+"SuperDataScience",2022-12-01,86976
+"Big Data LDN",2022-12-01,6313
+"Xuntos - Let's Get Together",2022-12-01,653
+"Microsoft Power BI by Solution Systems",2022-12-01,77597
+"Ultimate",2022-12-01,7472
+"QuantStack",2022-12-01,991
+"Derilinx",2022-12-01,954
+"Radiant Earth Foundation",2022-12-01,7156
+"Global Fishing Watch",2022-12-01,5061
+"RSS Data Science and AI Section",2022-12-01,1751
+"Invenia Labs",2022-12-01,2381
+"The Global Academy",2022-12-01,302
+"Open Cadastre",2022-12-01,14
+"Sister Analyst",2022-12-01,513
+"SDG Academy",2022-12-01,21766
+"PyData Amsterdam",2022-12-01,284
+"(WiMLDS) Women in Machine Learning & Data Science",2022-12-01,13105
+"Fathom Data",2022-12-01,429
+"ADF Haiti",2022-12-01,428
+"Alldus",2022-12-01,39828
+"AI Awards Ireland",2022-12-01,3263
+"Data for Good Foundation",2022-12-01,2023
+"Why R?",2022-12-01,4206
+"PyData Delhi",2022-12-01,1693
+"Bhutan Data Scientists",2022-12-01,52
+"Accenture The Dock",2022-12-01,8733
+"CivicDataLab",2022-12-01,3744
+"SCALEWORK",2022-12-01,1109
+"Data Visualization Society",2022-12-01,124033
+"Omdena",2022-12-01,29312
+"EcoAngola",2022-12-01,22531
+"Rust Programming Language",2022-12-01,6054
+"Age Of Geeks",2022-12-01,156905
+"R User Group Nepal",2022-12-01,82
+"Women in Machine Learning and Data Science MAURITIUS",2022-12-01,100
+"East Africa Research &Data Analysis",2022-12-01,15
+"Irish Air Corps",2022-12-01,1661
+"getINNOtized GmbH",2022-12-01,6185
+"Data Science Council of America",2022-12-01,60146
+"Obama Foundation",2022-12-01,165222
+"Geosaber",2022-12-01,4465
+"Real Consulting Data",2022-12-01,994
+"Machine Learning Prague conference",2022-12-01,277
+"Canvas Intelligence",2022-12-01,11872
+"NVIDIA AI",2022-12-01,400161
+"365 Data Science",2022-12-01,123510
+"Business Science",2022-12-01,14235
+"Treemetrics Ltd",2022-12-01,1330
+"CeADAR Ireland",2022-12-01,1717
+"Space4Good",2022-12-01,5844
+"Outreachy",2022-12-01,7360
+"DeepLearning.AI",2022-12-01,556417
+"UCL Data Science Society",2022-12-01,1380
+"Government Statistical Service",2022-12-01,6976
+"Bhutan Data Scientists Pvt Ltd",2022-12-01,89
+"Ginkgo Analytics",2022-12-01,1229
+"Government of Ireland",2022-12-01,41211
+"Weights & Biases",2022-12-01,27262
+"Quansight",2022-12-01,1825
+"DSN - Data Scientists Network/Data Science Nigeria",2022-12-01,9669
+"African Institute for Mathematical Sciences Ghana",2022-12-01,1387
+"Zindi",2022-12-01,11326
+"Data Science for Social Good Foundation",2022-12-01,4037
+"Coding Black Females",2022-12-01,11337
+"OpenTeams",2022-12-01,2218
+"ArkeUp Academy | Océan Indien",2022-12-01,1315
+"Google Summer of Code",2022-12-01,42645
+"Bissau Analytics ",2022-12-01,48
+"AWS Databases & Analytics",2022-12-01,244812
+"Dragon Coders Private Limited",2022-12-01,190
+"Jumping Rivers Ltd",2022-12-01,1240
+"Benin ThinkLab",2022-12-01,77
+"Towards Data Science",2022-12-01,535386
+"R Users Group - Ecuador",2022-12-01,289
+"R-Ladies Miami",2022-12-01,199
+"Anaconda Inc.",2022-12-01,54349
+"Quansight Initiate",2022-12-01,111
+"allspatial - Geospatial Software and Services",2022-12-01,15
+"PyData",2022-12-01,99
+"Tableau Events and Webinars",2022-12-01,37397
+"Data Scientists Ltd",2022-12-01,33
+"LSBU Business School ",2022-12-01,2379
+"AI Inclusive",2022-12-01,3494
+"MachineX Intelligence",2022-12-01,1747
+"DataIQ School of Analysis",2022-12-01,140
+"Numeric Mind",2022-12-01,709
+"Women in Data®",2022-12-01,29860
+"Data2X United Nations Foundation",2022-12-01,3530
+"KerrySciTech",2022-12-01,2810
+"Observatoire du Numérique en Haïti (ObNH)",2022-12-01,102
+"UNICEF Office of Research - Innocenti",2022-12-01,55903
+"Radiant MLHub",2022-12-01,2661
+"ViennaR",2022-12-01,390
+"Olatunde Data Analytics",2022-12-01,807
+"JULIACON-Africa",2022-12-01,2
+"ClusterAI",2022-12-01,458
+"JuliaCon 2023",2022-12-01,3414
+"Statistics Without Borders",2022-12-01,1407
+"Datalitics",2022-12-01,194
+"Towards AI",2022-12-01,233348
+"R Consortium",2022-12-01,4012
+"PyCaret",2022-12-01,16543
+"The Catalyst",2022-12-01,831
+"African Drone & Data Academy Powered By UNICEF",2022-12-01,1680
+"UCD Netsoc – UCD's Internet and Computer Science Society",2022-12-01,329
+"R User Community ",2022-12-01,11611
+"storytelling with data",2022-12-01,112512
+"Rose Data Studio LLC",2022-12-01,307
+"EuroPython",2022-12-01,1424
+"OpenStreetMap Ireland",2022-12-01,254
+"The Collective Impact Group For Guinea",2022-12-01,163
+"Women in AI Ireland",2022-12-01,3650
+"Sentient Projects",2022-12-01,660
+"Code for Cause",2022-12-01,22464
+"SDGs",2022-12-01,3050
+"InsideAIML",2022-12-01,9851
+"FreeLocalMappers",2022-12-01,936
+"Global Shapers Community - Thimphu Hub",2022-12-01,364
+"Fisheries Transparency Initiative (FiTI)",2022-12-01,769
+"Women+ in Geospatial",2022-12-01,18211
+"Ayiti Analytics",2022-12-01,1408
+"NIMBADATA",2022-12-01,4
+"Digital Earth Africa",2022-12-01,4382
+"Africa in Science",2022-12-01,3272
+"DataSoc",2022-12-01,847
+"UNDP Guinea-Bissau ",2022-12-01,2847
+"Amazon Science",2022-12-01,277832
+"NannyML",2022-12-01,3562
+"The R Foundation for Statistical Computing",2022-12-01,5702
+"DataDotOrg",2022-12-01,4459
+"Innovative Hub for Research in Africa",2022-12-01,174
+"R-Ladies Tunis",2022-12-01,739
+"The Julia Language",2022-12-01,13102
+"The Organization for Women in Science for the Developing World (OWSD)",2022-12-01,1266
+"Rx Studio™",2022-12-01,368
+"Girls In ICT Niger",2022-12-01,139
+"GORODATA",2022-12-01,1614
+"Tag Ng",2022-12-01,2165
+"BlackTIDES",2022-12-01,738
+"DATA MANSA",2022-12-01,182
+"Make Every Woman Count",2022-12-01,246
+"Catalyst Seychelles",2022-12-01,222
+"Thimphu TechPark",2022-12-01,228
+"Julius Technologies",2022-12-01,218
+"JuliaActuary",2022-12-01,1501
+"PyData Ireland",2022-12-01,23
+"Ishango.ai",2022-12-01,1388
+"Black in Data",2022-12-01,2129
+"DATA CENTRIC AFRICA",2022-12-01,1437
+"Outlier",2022-12-01,93
+"PyLadies Dublin",2022-12-01,257
+"Oman Data Science Organization ",2022-12-01,125
+"R-Ladies Saudi Arabia (Dammam)",2022-12-01,314
+"Software Insights Ireland",2022-12-01,1282
+"PyData Global",2022-12-01,3550
+"Danah Tech",2022-12-01,462
+"McKinsey Africa",2022-12-01,18160
+"Compylo",2022-12-01,1128
+"Statistics Globe",2022-12-01,4764
+"R-Ladies Gaborone",2022-12-01,384
+"X-Europe Data Science",2022-12-01,82
+"Tunis R User Group",2022-12-01,680
+"VISO Cyber Security",2022-12-01,688
+"DeepVidhya",2022-12-01,413
+"scikit-learn",2022-12-01,54706
+"Maolte Technical Solutions Limited",2022-12-01,332
+"Legato Health Technologies Ireland",2022-12-01,7661
+"Applied Epi",2022-12-01,1340
+"Edmonton R User Group",2022-12-01,12
+"Commerce et Administration des Entreprises- INP-HB",2022-12-01,530
+"Expertise Data Vision (EDaVi)",2022-12-01,68
+"R-Ladies Paris",2022-12-01,717
+"BCG X",2022-12-01,200795
+"Fujitsu",2022-12-01,781664
+"Dimension Data",2022-12-01,396471
+"Fugro",2022-12-01,246980
+"University College Dublin",2022-12-01,264895
+"Oceaneering",2022-12-01,368281
+"2K",2022-12-01,187541
+"Appriss",2022-12-01,6607
+"Foundation for Economic Education",2022-12-01,16357
+"Lumina Foundation",2022-12-01,20443
+"The Surfrider Foundation",2022-12-01,25634
+"Amherst H. Wilder Foundation",2022-12-01,6666
+"Aga Khan Foundation USA",2022-12-01,21142
+"The Michael J. Fox Foundation for Parkinson's Research",2022-12-01,21432
+"Katalyst Data Management",2022-12-01,4077
+"Kadme AS - Knowledge and Data Management Expertise",2022-12-01,1154
+"Neuralog",2022-12-01,1257
+"Subsea7",2022-12-01,632535
+"University of Limerick",2022-12-01,104728
+"Prospect 33",2022-12-01,20897
+"Bernard van Leer Foundation",2022-12-01,13177
+"ATRIBS GLOBAL ",2022-12-01,5895
+"DOF Subsea",2022-12-01,195229
+"Thalesians Ltd",2022-12-01,4278
+"geoLOGIC systems ltd.",2022-12-01,2932
+"Rocky Mountain Elk Foundation",2022-12-01,22569
+"Dubai Technologies",2022-12-01,9626
+"Publicjobs.ie",2022-12-01,123903
+"TazWorks",2022-12-01,899
+"Stack Overflow",2022-12-01,1166394
+"MIT Technology Review",2022-12-01,1216791
+"gistec",2022-12-01,11060
+"TotalVerify",2022-12-01,3334
+"GitHub",2022-12-01,2953982
+"Adessium Foundation",2022-12-01,2937
+"PHILANTHROPY ADVISORS",2022-12-01,4502
+"Integra Data Systems Corp.",2022-12-01,111
+"Bayanat.AI",2022-12-01,32724
+"Gulf Business Solutions (GBS)",2022-12-01,930
+"DecisionBrain",2022-12-01,2108
+"Dubai Technology Entrepreneur Campus - Dtec",2022-12-01,9091
+"Nottingham Economics & Finance Society",2022-12-01,3102
+"DataCamp",2022-12-01,352501
+"Google Cloud",2022-12-01,1784495
+"Hackster.io",2022-12-01,34315
+"The Data Lab - Innovation Centre",2022-12-01,10006
+"Los Angeles Machine Learning Meetup",2022-12-01,10
+"Open Robotics",2022-12-01,61871
+"Data Science Society",2022-12-01,1531
+"Oak Foundation",2022-12-01,15976
+"Data Science Student Society at UCSD",2022-12-01,660
+"CONNECT Centre",2022-12-01,3776
+"Irish Student Consulting Group (ISCG)",2022-12-01,3585
+"McMaster Computer Science Society",2022-12-01,81
+"UCD Investors and Entrepreneurs Society",2022-12-01,2324
+"Cambridge University Data Science Society",2022-12-01,214
+"MicroMap IT & GIS Consultancy Abu Dhabi",2022-12-01,1282
+"HEDS Data Science",2022-12-01,506
+"AI Copenhagen",2022-12-01,307
+"Erde Technologies Inc.",2022-12-01,18
+"UL - Kemmy Business School (KBS) University of Limerick",2022-12-01,2738
+"The LEGO Foundation",2022-12-01,66602
+"DAIN Studios",2022-12-01,3160
+"Data Science Indonesia",2022-12-01,7792
+"Imperial College Data Science Society",2022-12-01,751
+"GULF TRAINING AND CONSULTATION CENTER",2022-12-01,159
+"Swiss Philanthropy Foundation",2022-12-01,4953
+"Nordic.AI",2022-12-01,595
+"Ryerson University Data Science Society",2022-12-01,223
+"Nième Conseil",2022-12-01,428
+"Data Science Ghent",2022-12-01,282
+"University of Bristol Computer Science Society",2022-12-01,194
+"OpenAI",2022-12-01,276655
+"Queen Mary Electronic Engineering & Computer Science Society",2022-12-01,51
+"Hugging Face",2022-12-01,124550
+"OpenDataScience [ods.ai]",2022-12-01,6856
+"Big Data and Artificial Intelligence Club",2022-12-01,279
+"vGIS",2022-12-01,16288
+"Data Science Portugal",2022-12-01,8287
+"Western Computer Science Undergraduate Society",2022-12-01,123
+"SwissAI",2022-12-01,369
+"Ankara University Computer Society",2022-12-01,231
+"UBC Computer Science Student Society",2022-12-01,405
+"Aalto Artificial Intelligence Society",2022-12-01,45
+"SAIS Sheffield Artificial Intelligence Society",2022-12-01,39
+"UCD I&E Student Managed Fund",2022-12-01,1095
+"Data Science Research Perú",2022-12-01,17155
+"Finance Society at the University of Connecticut",2022-12-01,326
+"Dalhousie Computer Science Society",2022-12-01,98
+"Machine Learning at Berkeley",2022-12-01,3583
+"UoM AI and Machine Learning Society",2022-12-01,76
+"Data Science & Artificial Intelligence/AI South East London",2022-12-01,109
+"Artificial Intelligence Hong Kong",2022-12-01,2075
+"Hong Kong Data Science Society",2022-12-01,249
+"Beacon IT Solutions Abu Dhabi",2022-12-01,181
+"LSESU Machine Learning Society",2022-12-01,108
+"Kharagpur Data Analytics Group",2022-12-01,1144
+"Cologne AI and Machine Learning Meetup",2022-12-01,213
+"Computer Science Society (CSS) - University of Birmingham",2022-12-01,246
+"Lancaster University Computer Science Society",2022-12-01,74
+"Hong Kong Machine Learning",2022-12-01,2961
+"MLT",2022-12-01,9061
+"OpenCV",2022-12-01,112245
+"Machine Learning Society at MIM UW",2022-12-01,195
+"Dublin University Computer Science Society",2022-12-01,50
+"Evolution AI",2022-12-01,3389
+"SeismicZone",2022-12-01,512
+"Bamboo Health",2022-12-01,5390
+"McMaster Computer Science Society",2022-12-01,158
+"MAVA Foundation",2022-12-01,5466
+"Machine Learning Society",2022-12-01,20534
+"Data Istanbul",2022-12-01,3868
+"Fashion for Good",2022-12-01,87262
+"NVIDIA AI",2022-12-01,400162
+"Data Science Student Society at UJ",2022-12-01,96
+"UNSW Computer Science and Engineering Society (CSESoc)",2022-12-01,1458
+"UNSW Data Science Society (DataSoc)",2022-12-01,815
+"Leeds Data Science Society",2022-12-01,328
+"Data Science Society at Berkeley",2022-12-01,897
+"McMaster Artificial Intelligence Society",2022-12-01,922
+"CSUDH Finance Student Society",2022-12-01,60
+"Data Science Research Arab Team",2022-12-01,175
+"Columbia Data Science Society",2022-12-01,766
+"Neptune Energy",2022-12-01,70156
+"Sydney Machine Learning Group",2022-12-01,175
+"meetup.ai",2022-12-01,397
+"ICL Machine Learning Society",2022-12-01,91
+"ITU Data Science Society ",2022-12-01,1328
+"Centre for Sustainable Fashion",2022-12-01,75633
+"JerusML",2022-12-01,483
+"PyData Warsaw",2022-12-01,220
+"Otago Computer Science Society",2022-12-01,27
+"Integra Data and Analytic Solutions",2022-12-01,1663
+"Data Lille",2022-12-01,914
+"LSESU Data Science Society",2022-12-01,9
+"Sheffield Women in Computer Science Society",2022-12-01,58
+"Carleton Artificial Intelligence Society",2022-12-01,275
+"AUB Computer Science Student Society",2022-12-01,133
+"Data Science and Ai Association of Australia | DSAi",2022-12-01,4739
+"Data Science Club of UWA",2022-12-01,521
+"Pharos Platforms Inc.",2022-12-01,440
+"Data Science Club at UTDallas",2022-12-01,1803
+"Toronto Machine Learning Society (TMLS)",2022-12-01,9715
+"Silo AI",2022-12-01,8967
+"VINE",2022-12-01,1189
+"Warwick Data Science Society ",2022-12-01,777
+"Data Science Milan",2022-12-01,1004
+"The Data Pub",2022-12-01,2213
+"Machine Learning & Data Science Meetup Roma",2022-12-01,243
+"Data Science Society",2022-12-01,199
+"USC Center for AI in Society's Student Branch (CAIS++)",2022-12-01,229
+"Artificial Intelligence & Robotics Society University of Portsmouth",2022-12-01,250
+"Data Lakehouse",2022-12-01,199659
+"The Machine Learning Institute Certificate in Finance (MLI)",2022-12-01,946
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2022-12-01,606
+"Meetup Machine Learning Québec",2022-12-01,65
+"The Data Science & Statistics Society",2022-12-01,215
+"Machine Learning in Healthcare",2022-12-01,743
+"Bristol Data Science Society",2022-12-01,222
+"University Of Sheffield Computer Science Society",2022-12-01,61
+"DUBAI TECH",2022-12-01,60
+"Monash Data Science Society",2022-12-01,628
+"Data Residents",2022-12-01,51
+"Toronto Machine Learning Meetup",2022-12-01,209
+"Data Axle",2022-12-01,88372
+"Laudes Foundation",2022-12-01,16180
+"SFI Centre for Research Training in Artificial Intelligence ",2022-12-01,640
+"AI Hack 2021",2022-12-01,103
+"Buffalo State Data Science & Analytics (DSA)",2022-12-01,539
+"Data Science and AI Society - UTS",2022-12-01,272
+"KCL Data Science Society",2022-12-01,59
+"Erlangen Artificial Intelligence & Machine Learning Meetup",2022-12-01,511
+"UCSD Computer Science & Engineering Society",2022-12-01,180
+"City Data Science Society",2022-12-01,96
+"Machine Learning Porto Alegre",2022-12-01,488
+"Baruch Data Science & Analytics Society",2022-12-01,383
+"Capital Quant Agency",2022-12-01,1695
+"MLOps Community",2022-12-01,13164
+"Hertie School Data Science Society",2022-12-01,154
+"Paris Machine Learning Meetup",2022-12-01,374
+"Pumas-AI Inc.",2022-12-01,1849
+"Data Science Meetup",2022-12-01,139
+"Machine Learning and Data Analytics Lab at NTU EEE",2022-12-01,2479
+"Riga Data Science Club",2022-12-01,1673
+"MLOps",2022-12-01,2078
+"Keebo",2022-12-01,2153
+"LUMS Data Science Society",2022-12-01,816
+"Manchester University Data Science Society",2022-12-01,584
+"useR! - The R User Conference",2022-12-01,2983
+"Exeter Artificial Intelligence and Data Science Society (X-AI)",2022-12-01,59
+"LSESU Data Science Society",2022-12-01,374
+"DSCS George Mason University",2022-12-01,96
+"UST Computer Science Society",2022-12-01,31
+"simpl.study",2022-12-01,70
+"DataTalksClub",2022-12-01,10468
+"IrishITJobs.ie",2022-12-01,1105
+"AWS Machine Learning",2022-12-01,216278
+"PyTorch",2022-12-01,115074
+"INCRYPT MINING LTD",2022-12-01,64
+"TensorFlow",2022-12-01,71338
 "Globant",2020-10-30,267648
 "Globant",2020-11-03,268248
 "Globant",2020-11-06,269201
