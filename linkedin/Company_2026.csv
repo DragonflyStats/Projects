@@ -1,13 +1,4 @@
 "Company","Date","Followers"
-"Observatoire du Numérique en Haïti (ObNH)",2022-10-28,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-11-03,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-11-06,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-11-14,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-11-20,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-11-24,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-12-01,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-12-08,102
-"Observatoire du Numérique en Haïti (ObNH)",2022-12-14,102
 "Oceaneering",2021-01-22,269679
 "Oceaneering",2021-01-25,269912
 "Oceaneering",2021-01-28,270214
@@ -105,6 +96,8 @@
 "Oceaneering",2022-12-01,368281
 "Oceaneering",2022-12-08,369333
 "Oceaneering",2022-12-14,370367
+"Oceaneering",2022-12-27,372637
+"Oceaneering",2023-01-01,373411
 "Office for National Statistics",2020-10-20,33714
 "Office for National Statistics",2020-10-21,33748
 "Office for National Statistics",2020-10-23,33807
@@ -257,6 +250,8 @@
 "Office for National Statistics",2022-12-01,58615
 "Office for National Statistics",2022-12-08,58867
 "Office for National Statistics",2022-12-14,59099
+"Office for National Statistics",2022-12-27,59475
+"Office for National Statistics",2023-01-01,59600
 "OFpassiON",2020-10-21,913
 "OFpassiON",2020-10-22,913
 "OFpassiON",2020-11-02,921
@@ -367,6 +362,8 @@
 "Olatunde Data Analytics",2022-12-01,807
 "Olatunde Data Analytics",2022-12-08,809
 "Olatunde Data Analytics",2022-12-14,809
+"Olatunde Data Analytics",2022-12-27,812
+"Olatunde Data Analytics",2023-01-01,813
 "Oman Data Science Organization",2021-06-02,96
 "Oman Data Science Organization",2021-06-09,96
 "Oman Data Science Organization",2021-06-16,97
@@ -470,6 +467,8 @@
 "Oman Data Science Organization",2022-12-01,125
 "Oman Data Science Organization",2022-12-08,125
 "Oman Data Science Organization",2022-12-14,126
+"Oman Data Science Organization",2022-12-27,128
+"Oman Data Science Organization",2023-01-01,128
 "Omdena",2022-02-07,21203
 "Omdena",2022-02-16,21370
 "Omdena",2022-02-23,21535
@@ -532,6 +531,8 @@
 "Omdena",2022-12-01,29312
 "Omdena",2022-12-08,29451
 "Omdena",2022-12-14,29836
+"Omdena",2022-12-27,30245
+"Omdena",2023-01-01,30410
 "Open Cadastre",2022-03-03,14
 "Open Cadastre",2022-03-07,14
 "Open Cadastre",2022-03-15,14
@@ -593,6 +594,8 @@
 "Open Cadastre",2022-12-01,14
 "Open Cadastre",2022-12-08,14
 "Open Cadastre",2022-12-14,14
+"Open Cadastre",2022-12-27,14
+"Open Cadastre",2023-01-01,14
 "Open Data Institute",2020-10-20,7756
 "Open Data Institute",2020-10-21,7756
 "Open Data Institute",2020-10-23,7768
@@ -750,6 +753,8 @@
 "Open Data Institute",2022-12-01,14201
 "Open Data Institute",2022-12-08,14281
 "Open Data Institute",2022-12-14,14333
+"Open Data Institute",2022-12-27,14436
+"Open Data Institute",2023-01-01,14462
 "Open Data Science Conference (ODSC)",2020-10-06,84385
 "Open Data Science Conference (ODSC)",2020-10-07,84500
 "Open Data Science Conference (ODSC)",2020-10-12,84991
@@ -935,6 +940,9 @@
 "Open Data Science Conference (ODSC)",2022-12-01,133375
 "Open Data Science Conference (ODSC)",2022-12-08,133604
 "Open Data Science Conference (ODSC)",2022-12-14,133780
+"Open Data Science Conference (ODSC)",2022-12-27,134111
+"Open Data Science Conference (ODSC)",2022-12-27,134112
+"Open Data Science Conference (ODSC)",2023-01-01,134250
 "Open Knowledge Foundation",2022-07-05,5822
 "Open Knowledge Foundation",2022-07-09,5832
 "Open Knowledge Foundation",2022-07-12,5847
@@ -968,6 +976,8 @@
 "Open Knowledge Foundation",2022-12-01,6371
 "Open Knowledge Foundation",2022-12-08,6389
 "Open Knowledge Foundation",2022-12-14,6406
+"Open Knowledge Foundation",2022-12-27,6436
+"Open Knowledge Foundation",2023-01-01,6440
 "Open Robotics",2022-01-12,25993
 "Open Robotics",2022-02-07,28314
 "Open Robotics",2022-02-16,29302
@@ -1018,6 +1028,8 @@
 "Open Robotics",2022-12-01,61871
 "Open Robotics",2022-12-08,62443
 "Open Robotics",2022-12-14,62959
+"Open Robotics",2022-12-27,64398
+"Open Robotics",2023-01-01,64927
 "Open Society Foundations",2020-10-25,130382
 "Open Society Foundations",2020-10-28,130632
 "Open Society Foundations",2020-10-30,130848
@@ -1163,6 +1175,8 @@
 "Open Society Foundations",2022-12-01,184955
 "Open Society Foundations",2022-12-08,185403
 "Open Society Foundations",2022-12-14,185783
+"Open Society Foundations",2022-12-27,186382
+"Open Society Foundations",2023-01-01,186718
 "Open Source",2021-01-19,5194
 "OpenAI",2022-01-12,126770
 "OpenAI",2022-02-01,131921
@@ -1215,6 +1229,8 @@
 "OpenAI",2022-12-01,276655
 "OpenAI",2022-12-08,296052
 "OpenAI",2022-12-14,313933
+"OpenAI",2022-12-27,344411
+"OpenAI",2023-01-01,358299
 "OpenCV",2022-01-12,47041
 "OpenCV",2022-02-07,52114
 "OpenCV",2022-02-16,54518
@@ -1266,6 +1282,8 @@
 "OpenCV",2022-12-01,112245
 "OpenCV",2022-12-08,114098
 "OpenCV",2022-12-14,115438
+"OpenCV",2022-12-27,117865
+"OpenCV",2023-01-01,119333
 "OpenDataScience [ods.ai]",2021-01-22,5713
 "OpenDataScience [ods.ai]",2021-01-25,5720
 "OpenDataScience [ods.ai]",2021-01-28,5726
@@ -1366,6 +1384,8 @@
 "OpenDataScience [ods.ai]",2022-12-01,6856
 "OpenDataScience [ods.ai]",2022-12-08,6857
 "OpenDataScience [ods.ai]",2022-12-14,6866
+"OpenDataScience [ods.ai]",2022-12-27,6871
+"OpenDataScience [ods.ai]",2023-01-01,6875
 "OpenFOAM Workshop",2021-05-10,527
 "OpenFOAM.ir",2021-05-10,276
 "OpenStreetMap Ireland",2021-03-30,219
@@ -1485,6 +1505,8 @@
 "OpenStreetMap Ireland",2022-12-01,254
 "OpenStreetMap Ireland",2022-12-08,254
 "OpenStreetMap Ireland",2022-12-14,254
+"OpenStreetMap Ireland",2022-12-27,254
+"OpenStreetMap Ireland",2023-01-01,254
 "OpenTeams",2020-10-16,772
 "OpenTeams",2020-10-20,775
 "OpenTeams",2020-10-21,778
@@ -1642,6 +1664,8 @@
 "OpenTeams",2022-12-01,2218
 "OpenTeams",2022-12-08,2235
 "OpenTeams",2022-12-14,2261
+"OpenTeams",2022-12-27,2286
+"OpenTeams",2023-01-01,2291
 "Oracle",2020-10-06,5960475
 "Oracle",2020-10-13,5984980
 "Oracle",2020-10-19,6006422
@@ -1796,6 +1820,8 @@
 "ORRECO",2022-12-01,2789
 "ORRECO",2022-12-08,2810
 "ORRECO",2022-12-14,2813
+"ORRECO",2022-12-27,2828
+"ORRECO",2023-01-01,2828
 "Otago Computer Science Society",2021-03-28,16
 "Otago Computer Science Society",2021-03-31,16
 "Otago Computer Science Society",2021-04-06,16
@@ -1885,6 +1911,8 @@
 "Otago Computer Science Society",2022-12-01,27
 "Otago Computer Science Society",2022-12-08,27
 "Otago Computer Science Society",2022-12-14,27
+"Otago Computer Science Society",2022-12-27,27
+"Otago Computer Science Society",2023-01-01,27
 "Otrum AS",2020-12-15,1932
 "OUR CHOICE Fashion",2021-05-10,1192
 "Outlier",2021-06-02,29
@@ -1992,6 +2020,8 @@
 "Outlier",2022-12-01,93
 "Outlier",2022-12-08,93
 "Outlier",2022-12-14,93
+"Outlier",2022-12-27,93
+"Outlier",2023-01-01,93
 "OutpostLE",2021-12-05,1540
 "OutpostLE",2022-02-27,1760
 "Outreachy",2021-06-02,3345
@@ -2093,6 +2123,8 @@
 "Outreachy",2022-12-01,7360
 "Outreachy",2022-12-08,7441
 "Outreachy",2022-12-14,7510
+"Outreachy",2022-12-27,7612
+"Outreachy",2023-01-01,7670
 "Pacific Whale Foundation",2020-10-20,1331
 "Pacific Whale Foundation",2020-10-21,1333
 "Pacific Whale Foundation",2020-10-23,1334
@@ -2246,6 +2278,8 @@
 "Pacific Whale Foundation",2022-12-01,2022
 "Pacific Whale Foundation",2022-12-08,2028
 "Pacific Whale Foundation",2022-12-14,2035
+"Pacific Whale Foundation",2022-12-27,2061
+"Pacific Whale Foundation",2023-01-01,2073
 "Packaging and Recycling Association for Indonesia Sustainable Environment (PRAISE)",2020-11-21,305
 "Packaging and Recycling Association for Indonesia Sustainable Environment (PRAISE)",2020-12-27,340
 "Packt",2021-07-18,24416
@@ -2337,6 +2371,8 @@
 "Packt",2022-12-01,73459
 "Packt",2022-12-08,73837
 "Packt",2022-12-14,74301
+"Packt",2022-12-27,75312
+"Packt",2023-01-01,75651
 "parcelLab",2020-12-27,4156
 "parcelLab",2021-02-19,4398
 "parcelLab",2021-03-26,4559
@@ -2422,6 +2458,8 @@
 "Paris Machine Learning Meetup",2022-12-01,374
 "Paris Machine Learning Meetup",2022-12-08,378
 "Paris Machine Learning Meetup",2022-12-14,379
+"Paris Machine Learning Meetup",2022-12-27,385
+"Paris Machine Learning Meetup",2023-01-01,386
 "Parque Cientifico de la UMH - Elche",2020-10-16,3885
 "Parque Cientifico de la UMH - Elche",2020-10-21,3893
 "Parque Cientifico de la UMH - Elche",2020-10-22,3895
@@ -2522,6 +2560,8 @@
 "Pharos Platforms Inc.",2022-12-01,440
 "Pharos Platforms Inc.",2022-12-08,443
 "Pharos Platforms Inc.",2022-12-14,448
+"Pharos Platforms Inc.",2022-12-27,464
+"Pharos Platforms Inc.",2023-01-01,464
 "PHILANTHROPY ADVISORS",2021-04-20,2568
 "PHILANTHROPY ADVISORS",2021-04-24,2576
 "PHILANTHROPY ADVISORS",2021-04-28,2580
@@ -2600,6 +2640,8 @@
 "PHILANTHROPY ADVISORS",2022-12-01,4502
 "PHILANTHROPY ADVISORS",2022-12-08,4512
 "PHILANTHROPY ADVISORS",2022-12-14,4520
+"PHILANTHROPY ADVISORS",2022-12-27,4542
+"PHILANTHROPY ADVISORS",2023-01-01,4552
 "Pirelli",2020-10-16,499184
 "Pirelli",2020-10-21,500046
 "Pirelli",2020-10-22,500326
@@ -2770,6 +2812,8 @@
 "Plotly",2022-12-01,24326
 "Plotly",2022-12-08,24691
 "Plotly",2022-12-14,24935
+"Plotly",2022-12-27,25346
+"Plotly",2023-01-01,25538
 "Pluralsight",2020-10-07,103400
 "Pluralsight",2020-10-13,103704
 "Pluralsight",2020-10-16,103922
@@ -2928,6 +2972,8 @@
 "Pluralsight",2022-12-01,167326
 "Pluralsight",2022-12-08,167832
 "Pluralsight",2022-12-14,168424
+"Pluralsight",2022-12-27,169125
+"Pluralsight",2023-01-01,169364
 "Pointwise Inc.",2020-10-16,2831
 "Pointwise Inc.",2020-10-20,2837
 "Pointwise Inc.",2020-10-21,2837
@@ -2949,6 +2995,8 @@
 "Posit PBC",2022-12-01,90278
 "Posit PBC",2022-12-08,90485
 "Posit PBC",2022-12-14,90623
+"Posit PBC",2022-12-27,90895
+"Posit PBC",2023-01-01,90938
 "Postman",2021-01-19,173819
 "Postman",2021-02-19,184669
 "Postman",2021-03-06,189981
@@ -3128,6 +3176,8 @@
 "ProCogia",2022-12-01,6904
 "ProCogia",2022-12-08,6927
 "ProCogia",2022-12-14,6945
+"ProCogia",2022-12-27,6966
+"ProCogia",2023-01-01,6976
 "Project Jupyter",2020-10-08,5348
 "Project Jupyter",2020-10-13,5373
 "Project Jupyter",2020-10-16,5390
@@ -3292,6 +3342,8 @@
 "Project Jupyter",2022-12-01,11121
 "Project Jupyter",2022-12-08,11187
 "Project Jupyter",2022-12-14,11277
+"Project Jupyter",2022-12-27,11409
+"Project Jupyter",2023-01-01,11438
 "ProjectEDU",2021-04-06,55
 "ProjectEDU",2021-04-10,57
 "ProjectEDU",2021-04-15,64
@@ -3395,6 +3447,8 @@
 "Prospect 33",2022-12-01,20897
 "Prospect 33",2022-12-08,20894
 "Prospect 33",2022-12-14,20893
+"Prospect 33",2022-12-27,20893
+"Prospect 33",2023-01-01,20891
 "Psychometric Society",2021-05-10,843
 "PT Global Urban Esensial",2020-10-16,570
 "PT Global Urban Esensial",2020-10-21,569
@@ -3481,6 +3535,8 @@
 "Publicjobs.ie",2022-12-01,123903
 "Publicjobs.ie",2022-12-08,124431
 "Publicjobs.ie",2022-12-14,124842
+"Publicjobs.ie",2022-12-27,125439
+"Publicjobs.ie",2023-01-01,125688
 "Publicjobs.ie - Public Appointments Service",2021-01-22,74031
 "Publicjobs.ie - Public Appointments Service",2021-01-25,74242
 "Publicjobs.ie - Public Appointments Service",2021-01-28,74578
@@ -3562,6 +3618,8 @@
 "Pumas-AI Inc.",2022-12-01,1849
 "Pumas-AI Inc.",2022-12-08,1868
 "Pumas-AI Inc.",2022-12-14,1891
+"Pumas-AI Inc.",2022-12-27,1974
+"Pumas-AI Inc.",2023-01-01,1981
 "Pumas-AI, Inc.",2022-02-27,990
 "PuneJob",2020-11-07,31711
 "PuneJob",2020-11-21,32460
@@ -3661,6 +3719,8 @@
 "PyCaret",2022-12-01,16543
 "PyCaret",2022-12-08,16625
 "PyCaret",2022-12-14,16737
+"PyCaret",2022-12-27,16896
+"PyCaret",2023-01-01,16963
 "PyCon India 2020",2020-11-07,4228
 "PyCon India 2020",2020-11-21,4456
 "PyCon India 2020",2020-12-27,4488
@@ -3676,6 +3736,8 @@
 "PyData",2022-12-01,99
 "PyData",2022-12-08,103
 "PyData",2022-12-14,106
+"PyData",2022-12-27,110
+"PyData",2023-01-01,110
 "PyData Amsterdam",2022-11-03,245
 "PyData Amsterdam",2022-11-06,247
 "PyData Amsterdam",2022-11-14,250
@@ -3684,6 +3746,8 @@
 "PyData Amsterdam",2022-12-01,284
 "PyData Amsterdam",2022-12-08,292
 "PyData Amsterdam",2022-12-14,297
+"PyData Amsterdam",2022-12-27,301
+"PyData Amsterdam",2023-01-01,301
 "PyData Berlin",2020-10-30,413
 "PyData Berlin",2020-11-03,412
 "PyData Berlin",2020-11-06,412
@@ -3828,6 +3892,8 @@
 "PyData Berlin",2022-12-01,605
 "PyData Berlin",2022-12-08,606
 "PyData Berlin",2022-12-14,607
+"PyData Berlin",2022-12-27,609
+"PyData Berlin",2023-01-01,609
 "PyData Delhi",2021-07-09,1586
 "PyData Delhi",2021-07-14,1587
 "PyData Delhi",2021-07-18,1587
@@ -3922,6 +3988,8 @@
 "PyData Delhi",2022-12-01,1693
 "PyData Delhi",2022-12-08,1698
 "PyData Delhi",2022-12-14,1700
+"PyData Delhi",2022-12-27,1701
+"PyData Delhi",2023-01-01,1701
 "PyData Global",2021-07-09,31
 "PyData Global",2021-07-14,59
 "PyData Global",2021-07-18,64
@@ -4026,6 +4094,8 @@
 "PyData Global",2022-12-01,3550
 "PyData Global",2022-12-08,3702
 "PyData Global",2022-12-14,3771
+"PyData Global",2022-12-27,3822
+"PyData Global",2023-01-01,3839
 "PyData Ireland",2021-03-30,2
 "PyData Ireland",2021-04-06,2
 "PyData Ireland",2021-04-10,2
@@ -4143,12 +4213,16 @@
 "PyData Ireland",2022-12-01,23
 "PyData Ireland",2022-12-08,23
 "PyData Ireland",2022-12-14,23
+"PyData Ireland",2022-12-27,41
+"PyData Ireland",2023-01-01,41
 "PyData Warsaw",2022-11-14,217
 "PyData Warsaw",2022-11-20,218
 "PyData Warsaw",2022-11-24,218
 "PyData Warsaw",2022-12-01,220
 "PyData Warsaw",2022-12-08,220
 "PyData Warsaw",2022-12-14,221
+"PyData Warsaw",2022-12-27,221
+"PyData Warsaw",2023-01-01,221
 "PyLadies Dublin",2021-03-30,61
 "PyLadies Dublin",2021-04-10,63
 "PyLadies Dublin",2021-04-15,64
@@ -4260,6 +4334,8 @@
 "PyLadies Dublin",2022-12-01,257
 "PyLadies Dublin",2022-12-08,258
 "PyLadies Dublin",2022-12-14,261
+"PyLadies Dublin",2022-12-27,263
+"PyLadies Dublin",2023-01-01,265
 "Python-online-training",2020-12-27,614
 "Python-online-training",2021-01-19,637
 "Python Academy",2020-10-31,8965
@@ -4475,2823 +4551,2825 @@
 "Python Ireland",2022-12-01,1733
 "Python Ireland",2022-12-08,1748
 "Python Ireland",2022-12-14,1763
-"Python Ireland 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Python Ireland",2022-12-27,1786
+"Python Ireland",2023-01-01,1792
+"Python Ireland 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          Your company",2020-11-21,663
-"Python Ireland 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Python Ireland 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          Your company",2020-11-21,663
 "Python Jobs",2020-11-07,2553
 "Python Jobs",2020-11-21,2562
@@ -7535,6 +7613,8 @@
 "Python Software Foundation",2022-12-01,118231
 "Python Software Foundation",2022-12-08,118778
 "Python Software Foundation",2022-12-14,119140
+"Python Software Foundation",2022-12-27,119659
+"Python Software Foundation",2023-01-01,119860
 "PyTorch",2022-01-12,37008
 "PyTorch",2022-02-01,43542
 "PyTorch",2022-02-12,45087
@@ -7582,6 +7662,8 @@
 "PyTorch",2022-12-01,115074
 "PyTorch",2022-12-08,119594
 "PyTorch",2022-12-14,121449
+"PyTorch",2022-12-27,124483
+"PyTorch",2023-01-01,126101
 "PyTorch Lightning",2021-01-19,2390
 "PyTorch Scholarship Challenge NanoDegree",2021-01-19,1922
 "PyTorch Scholarship Challenge NanoDegree",2021-02-19,2030
@@ -7681,6 +7763,8 @@
 "Qatar Computing Research Institute",2022-12-01,11433
 "Qatar Computing Research Institute",2022-12-08,11472
 "Qatar Computing Research Institute",2022-12-14,11491
+"Qatar Computing Research Institute",2022-12-27,11546
+"Qatar Computing Research Institute",2023-01-01,11559
 "QHotels",2021-05-10,9681
 "Qualtrics",2020-10-16,135941
 "Qualtrics",2020-10-20,136180
@@ -7842,6 +7926,8 @@
 "Qualtrics",2022-12-01,209062
 "Qualtrics",2022-12-08,209752
 "Qualtrics",2022-12-14,210339
+"Qualtrics",2022-12-27,211520
+"Qualtrics",2023-01-01,211869
 "Quansight",2020-10-19,669
 "Quansight",2020-10-20,675
 "Quansight",2020-10-25,694
@@ -7996,6 +8082,8 @@
 "Quansight",2022-12-01,1825
 "Quansight",2022-12-08,1845
 "Quansight",2022-12-14,1851
+"Quansight",2022-12-27,1867
+"Quansight",2023-01-01,1880
 "Quansight Initiate",2021-03-30,86
 "Quansight Initiate",2021-04-06,86
 "Quansight Initiate",2021-04-10,86
@@ -8114,6 +8202,8 @@
 "Quansight Initiate",2022-12-01,111
 "Quansight Initiate",2022-12-08,111
 "Quansight Initiate",2022-12-14,111
+"Quansight Initiate",2022-12-27,112
+"Quansight Initiate",2023-01-01,112
 "Quantiful",2020-10-16,737
 "Quantiful",2020-10-20,758
 "Quantiful",2020-10-22,767
@@ -8286,6 +8376,8 @@
 "QuantStack",2022-12-01,991
 "QuantStack",2022-12-08,992
 "QuantStack",2022-12-14,996
+"QuantStack",2022-12-27,1002
+"QuantStack",2023-01-01,1003
 "QuantumBlack",2020-10-13,27990
 "QuantumBlack",2020-10-19,28143
 "QuantumBlack",2020-10-25,28311
@@ -8440,6 +8532,8 @@
 "QuantumBlack AI by McKinsey",2022-12-01,179999
 "QuantumBlack AI by McKinsey",2022-12-08,180440
 "QuantumBlack AI by McKinsey",2022-12-14,180752
+"QuantumBlack AI by McKinsey",2022-12-27,181466
+"QuantumBlack AI by McKinsey",2023-01-01,181803
 "Queen Mary Electronic Engineering & Computer Science Society",2021-03-28,37
 "Queen Mary Electronic Engineering & Computer Science Society",2021-03-31,37
 "Queen Mary Electronic Engineering & Computer Science Society",2021-04-06,38
@@ -8524,6 +8618,8 @@
 "Queen Mary Electronic Engineering & Computer Science Society",2022-12-01,51
 "Queen Mary Electronic Engineering & Computer Science Society",2022-12-08,51
 "Queen Mary Electronic Engineering & Computer Science Society",2022-12-14,51
+"Queen Mary Electronic Engineering & Computer Science Society",2022-12-27,51
+"Queen Mary Electronic Engineering & Computer Science Society",2023-01-01,51
 "Quovantis Technologies",2020-10-25,7336
 "Quovantis Technologies",2020-10-28,7344
 "Quovantis Technologies",2020-10-30,7366
@@ -8674,6 +8770,8 @@
 "Quovantis Technologies",2022-12-01,14271
 "Quovantis Technologies",2022-12-08,14278
 "Quovantis Technologies",2022-12-14,14288
+"Quovantis Technologies",2022-12-27,14295
+"Quovantis Technologies",2023-01-01,14299
 "R-Ladies",2020-11-02,3239
 "R-Ladies",2020-11-07,3255
 "R-Ladies",2020-11-12,3266
@@ -8753,6 +8851,8 @@
 "R-Ladies Gaborone",2022-12-01,384
 "R-Ladies Gaborone",2022-12-08,386
 "R-Ladies Gaborone",2022-12-14,388
+"R-Ladies Gaborone",2022-12-27,388
+"R-Ladies Gaborone",2023-01-01,389
 "R-Ladies Global",2021-05-10,3951
 "R-Ladies Global",2021-12-05,4622
 "R-Ladies Global",2022-02-27,4819
@@ -8818,6 +8918,8 @@
 "R-Ladies Miami",2022-12-01,199
 "R-Ladies Miami",2022-12-08,199
 "R-Ladies Miami",2022-12-14,199
+"R-Ladies Miami",2022-12-27,198
+"R-Ladies Miami",2023-01-01,198
 "R-Ladies Paris",2022-08-01,141
 "R-Ladies Paris",2022-08-08,196
 "R-Ladies Paris",2022-08-16,241
@@ -8844,6 +8946,8 @@
 "R-Ladies Paris",2022-12-01,717
 "R-Ladies Paris",2022-12-08,741
 "R-Ladies Paris",2022-12-14,754
+"R-Ladies Paris",2022-12-27,773
+"R-Ladies Paris",2023-01-01,780
 "R-Ladies Saudi Arabia (Dammam)",2022-03-20,244
 "R-Ladies Saudi Arabia (Dammam)",2022-03-31,247
 "R-Ladies Saudi Arabia (Dammam)",2022-04-09,249
@@ -8900,6 +9004,8 @@
 "R-Ladies Saudi Arabia (Dammam)",2022-12-01,314
 "R-Ladies Saudi Arabia (Dammam)",2022-12-08,316
 "R-Ladies Saudi Arabia (Dammam)",2022-12-14,316
+"R-Ladies Saudi Arabia (Dammam)",2022-12-27,320
+"R-Ladies Saudi Arabia (Dammam)",2023-01-01,322
 "R-Ladies Tunis",2020-11-07,402
 "R-Ladies Tunis",2020-11-10,413
 "R-Ladies Tunis",2020-11-14,424
@@ -9045,6 +9151,8 @@
 "R-Ladies Tunis",2022-12-01,739
 "R-Ladies Tunis",2022-12-08,739
 "R-Ladies Tunis",2022-12-14,739
+"R-Ladies Tunis",2022-12-27,738
+"R-Ladies Tunis",2023-01-01,738
 "R-Programming Academy",2021-05-10,211
 "r-programming.org",2020-10-30,2205
 "r-programming.org",2020-11-03,2208
@@ -9205,6 +9313,8 @@
 "r-programming.org",2022-12-01,2384
 "r-programming.org",2022-12-08,2387
 "r-programming.org",2022-12-14,2390
+"r-programming.org",2022-12-27,2394
+"r-programming.org",2023-01-01,2397
 "R Consortium",2021-03-30,156
 "R Consortium",2021-04-06,157
 "R Consortium",2021-04-10,157
@@ -9320,6 +9430,8 @@
 "R Consortium",2022-12-01,4012
 "R Consortium",2022-12-08,4057
 "R Consortium",2022-12-14,4150
+"R Consortium",2022-12-27,4213
+"R Consortium",2023-01-01,4239
 "R language-online-training",2020-12-27,724
 "R language-online-training",2021-01-19,733
 "R language-online-training",2021-02-19,757
@@ -9484,3 +9596,97 @@
 "R User Community",2022-12-01,11611
 "R User Community",2022-12-08,11802
 "R User Community",2022-12-14,11987
+"R User Community",2022-12-27,12255
+"R User Community",2023-01-01,12351
+"R User Group Nepal",2021-07-18,36
+"R User Group Nepal",2021-07-22,40
+"R User Group Nepal",2021-08-14,55
+"R User Group Nepal",2021-08-26,57
+"R User Group Nepal",2021-09-02,57
+"R User Group Nepal",2021-09-16,57
+"R User Group Nepal",2021-10-17,58
+"R User Group Nepal",2021-10-29,59
+"R User Group Nepal",2021-11-06,60
+"R User Group Nepal",2021-11-20,60
+"R User Group Nepal",2021-12-07,62
+"R User Group Nepal",2021-12-14,62
+"R User Group Nepal",2021-12-20,62
+"R User Group Nepal",2021-12-26,62
+"R User Group Nepal",2021-12-30,62
+"R User Group Nepal",2021-12-31,62
+"R User Group Nepal",2022-01-03,62
+"R User Group Nepal",2022-01-04,62
+"R User Group Nepal",2022-01-06,62
+"R User Group Nepal",2022-01-07,62
+"R User Group Nepal",2022-01-10,62
+"R User Group Nepal",2022-01-14,62
+"R User Group Nepal",2022-01-18,62
+"R User Group Nepal",2022-01-27,62
+"R User Group Nepal",2022-02-01,62
+"R User Group Nepal",2022-02-10,62
+"R User Group Nepal",2022-02-12,63
+"R User Group Nepal",2022-02-16,63
+"R User Group Nepal",2022-02-20,63
+"R User Group Nepal",2022-02-23,63
+"R User Group Nepal",2022-02-26,63
+"R User Group Nepal",2022-03-15,63
+"R User Group Nepal",2022-03-20,64
+"R User Group Nepal",2022-04-13,65
+"R User Group Nepal",2022-04-25,65
+"R User Group Nepal",2022-04-29,65
+"R User Group Nepal",2022-05-05,66
+"R User Group Nepal",2022-05-12,68
+"R User Group Nepal",2022-05-22,68
+"R User Group Nepal",2022-05-23,68
+"R User Group Nepal",2022-05-25,68
+"R User Group Nepal",2022-05-27,68
+"R User Group Nepal",2022-05-30,68
+"R User Group Nepal",2022-06-01,68
+"R User Group Nepal",2022-06-03,68
+"R User Group Nepal",2022-06-11,69
+"R User Group Nepal",2022-06-13,69
+"R User Group Nepal",2022-06-15,72
+"R User Group Nepal",2022-06-16,73
+"R User Group Nepal",2022-06-22,74
+"R User Group Nepal",2022-06-23,74
+"R User Group Nepal",2022-06-24,74
+"R User Group Nepal",2022-06-28,74
+"R User Group Nepal",2022-06-30,74
+"R User Group Nepal",2022-07-01,75
+"R User Group Nepal",2022-07-02,75
+"R User Group Nepal",2022-07-04,75
+"R User Group Nepal",2022-07-05,75
+"R User Group Nepal",2022-07-09,75
+"R User Group Nepal",2022-07-12,75
+"R User Group Nepal",2022-07-18,75
+"R User Group Nepal",2022-07-21,76
+"R User Group Nepal",2022-07-23,76
+"R User Group Nepal",2022-07-25,76
+"R User Group Nepal",2022-08-01,76
+"R User Group Nepal",2022-08-08,76
+"R User Group Nepal",2022-08-16,76
+"R User Group Nepal",2022-08-20,76
+"R User Group Nepal",2022-08-25,76
+"R User Group Nepal",2022-08-28,76
+"R User Group Nepal",2022-09-01,76
+"R User Group Nepal",2022-09-07,77
+"R User Group Nepal",2022-09-10,77
+"R User Group Nepal",2022-09-16,76
+"R User Group Nepal",2022-09-22,80
+"R User Group Nepal",2022-09-29,80
+"R User Group Nepal",2022-10-03,80
+"R User Group Nepal",2022-10-09,80
+"R User Group Nepal",2022-10-12,80
+"R User Group Nepal",2022-10-16,81
+"R User Group Nepal",2022-10-22,81
+"R User Group Nepal",2022-10-28,81
+"R User Group Nepal",2022-11-03,81
+"R User Group Nepal",2022-11-06,81
+"R User Group Nepal",2022-11-14,81
+"R User Group Nepal",2022-11-20,81
+"R User Group Nepal",2022-11-24,82
+"R User Group Nepal",2022-12-01,82
+"R User Group Nepal",2022-12-08,82
+"R User Group Nepal",2022-12-14,82
+"R User Group Nepal",2022-12-27,82
+"R User Group Nepal",2023-01-01,82
