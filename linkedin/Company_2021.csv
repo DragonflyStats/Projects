@@ -1,4 +1,5 @@
 "Company","Date","Followers"
+"(ISC)²",2023-02-10,241729
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-06,6723
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-13,6785
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-15,6797
@@ -166,6 +167,10 @@
 "(WiMLDS) Women in Machine Learning & Data Science",2022-12-14,13232
 "(WiMLDS) Women in Machine Learning & Data Science",2022-12-27,13348
 "(WiMLDS) Women in Machine Learning & Data Science",2023-01-01,13396
+"(WiMLDS) Women in Machine Learning & Data Science",2023-01-05,13448
+"(WiMLDS) Women in Machine Learning & Data Science",2023-01-09,13492
+"(WiMLDS) Women in Machine Learning & Data Science",2023-02-13,13778
+"(WiMLDS) Women in Machine Learning & Data Science",2023-02-24,13901
 "(Woowa Bros.)",2021-02-19,17149
 "?? CSO (Central Statistics Office Ireland)",2021-12-20,5903
 "?? CSO (Central Statistics Office Ireland)",2021-12-26,5929
@@ -212,6 +217,8 @@
 "2K",2022-12-14,189355
 "2K",2022-12-27,190881
 "2K",2023-01-01,191474
+"2K",2023-01-05,192238
+"2K",2023-01-09,193374
 "365 Data Science",2020-10-15,35444
 "365 Data Science",2020-10-20,35758
 "365 Data Science",2021-06-29,54972
@@ -317,6 +324,10 @@
 "365 Data Science",2022-12-14,125069
 "365 Data Science",2022-12-27,126257
 "365 Data Science",2023-01-01,126827
+"365 Data Science",2023-01-05,127268
+"365 Data Science",2023-01-09,127906
+"365 Data Science",2023-02-13,130919
+"365 Data Science",2023-02-24,131698
 "3radical",2020-10-16,2219
 "3radical",2020-10-20,2220
 "3radical",2020-10-21,2220
@@ -335,6 +346,7 @@
 "87%",2020-11-21,423
 "87%",2020-11-30,424
 "87%",2020-12-08,429
+"A10 Networks Inc",2023-02-10,47023
 "Aalto Artificial Intelligence Society",2021-03-28,33
 "Aalto Artificial Intelligence Society",2021-03-31,33
 "Aalto Artificial Intelligence Society",2021-04-06,33
@@ -417,6 +429,8 @@
 "Aalto Artificial Intelligence Society",2022-12-14,45
 "Aalto Artificial Intelligence Society",2022-12-27,45
 "Aalto Artificial Intelligence Society",2023-01-01,45
+"Aalto Artificial Intelligence Society",2023-01-05,46
+"Aalto Artificial Intelligence Society",2023-01-09,46
 "ABEJA Inc.",2020-12-08,2894
 "ABEJA Inc.",2020-12-15,2898
 "ABEJA Inc.",2020-12-27,2905
@@ -600,6 +614,11 @@
 "Accenture",2022-12-14,9933548
 "Accenture",2022-12-27,9985462
 "Accenture",2023-01-01,10006435
+"Accenture",2023-01-05,10027448
+"Accenture",2023-01-09,10047312
+"Accenture",2023-02-10,10251978
+"Accenture",2023-02-13,10265697
+"Accenture",2023-02-24,10315499
 "Accenture Technology",2020-10-13,100123
 "Accenture Technology",2020-10-15,100351
 "Accenture Technology",2020-10-20,100894
@@ -864,9 +883,17 @@
 "Accenture The Dock",2022-12-14,8760
 "Accenture The Dock",2022-12-27,8774
 "Accenture The Dock",2023-01-01,8777
+"Accenture The Dock",2023-01-05,8783
+"Accenture The Dock",2023-01-09,8786
+"Accenture The Dock",2023-02-13,8839
+"Accenture The Dock",2023-02-24,8848
 "Accenture6",2021-02-07,314604
+"AccuStaff",2023-02-10,1274
+"ACLU",2023-02-10,119640
+"ACLU of Florida",2023-02-10,1539
 "Actelion (now Janssen Pulmonary Hypertension)",2021-02-19,50536
 "Actelion (now Janssen Pulmonary Hypertension)",2021-03-26,50658
+"ActiGraph",2023-02-10,2881
 "Actinvision",2020-12-15,1946
 "ActiveViam",2021-01-19,2730
 "ActiveViam",2021-02-19,2782
@@ -875,6 +902,7 @@
 "Actuators Educational Institute",2021-02-19,4093
 "Actuators Educational Institute",2021-03-06,4149
 "Actuators Educational Institute",2021-03-26,4243
+"Ad Age",2023-02-10,1087119
 "ADAPT Centre",2020-10-20,1730
 "ADAPT Centre",2020-10-21,1731
 "ADAPT Centre",2020-10-23,1733
@@ -1039,6 +1067,10 @@
 "ADAPT Centre",2022-12-14,3525
 "ADAPT Centre",2022-12-27,3543
 "ADAPT Centre",2023-01-01,3549
+"ADAPT Centre",2023-01-05,3558
+"ADAPT Centre",2023-01-09,3564
+"ADAPT Centre",2023-02-13,3705
+"ADAPT Centre",2023-02-24,3739
 "Addex Therapeutics",2021-02-19,3053
 "Addex Therapeutics",2021-03-26,3188
 "Adessium Foundation",2021-04-20,2119
@@ -1122,6 +1154,8 @@
 "Adessium Foundation",2022-12-14,2956
 "Adessium Foundation",2022-12-27,2970
 "Adessium Foundation",2023-01-01,3042
+"Adessium Foundation",2023-01-05,3093
+"Adessium Foundation",2023-01-09,3106
 "ADF Haiti",2021-06-02,326
 "ADF Haiti",2021-06-09,327
 "ADF Haiti",2021-06-16,327
@@ -1223,9 +1257,17 @@
 "ADF Haiti",2022-12-14,430
 "ADF Haiti",2022-12-27,432
 "ADF Haiti",2023-01-01,435
+"ADF Haiti",2023-01-05,435
+"ADF Haiti",2023-01-09,435
+"ADF Haiti",2023-02-13,441
+"ADF Haiti",2023-02-24,443
+"Adobe",2023-02-10,3950271
 "Adopta Un Abuelo",2020-12-08,2957
 "Advanced Accelerator Applications",2021-02-19,22596
 "Advanced Accelerator Applications",2021-03-26,23062
+"Aerojet Rocketdyne",2023-02-10,117259
+"Aerospace Industries Association",2023-02-10,18903
+"Aerospace Industries Association of Canada (AIAC)",2023-02-10,11318
 "Africa in Science",2021-11-06,1109
 "Africa in Science",2021-11-20,1153
 "Africa in Science",2021-12-07,1204
@@ -1311,6 +1353,10 @@
 "Africa in Science",2022-12-14,3391
 "Africa in Science",2022-12-27,3425
 "Africa in Science",2023-01-01,3460
+"Africa in Science",2023-01-05,3508
+"Africa in Science",2023-01-09,3532
+"Africa in Science",2023-02-13,3703
+"Africa in Science",2023-02-24,3735
 "African Drone & Data Academy Powered By UNICEF",2021-08-14,548
 "African Drone & Data Academy Powered By UNICEF",2021-08-26,576
 "African Drone & Data Academy Powered By UNICEF",2021-09-02,588
@@ -1407,6 +1453,10 @@
 "African Drone & Data Academy Powered By UNICEF",2022-12-14,1712
 "African Drone & Data Academy Powered By UNICEF",2022-12-27,1732
 "African Drone & Data Academy Powered By UNICEF",2023-01-01,1743
+"African Drone & Data Academy Powered By UNICEF",2023-01-05,1758
+"African Drone & Data Academy Powered By UNICEF",2023-01-09,1768
+"African Drone & Data Academy Powered By UNICEF",2023-02-13,1832
+"African Drone & Data Academy Powered By UNICEF",2023-02-24,1856
 "African Institute for Mathematical Sciences (AIMS)",2021-06-09,9003
 "African Institute for Mathematical Sciences (AIMS)",2021-06-16,9031
 "African Institute for Mathematical Sciences (AIMS)",2021-06-21,9056
@@ -1507,6 +1557,11 @@
 "African Institute for Mathematical Sciences (AIMS)",2022-12-14,14722
 "African Institute for Mathematical Sciences (AIMS)",2022-12-27,14791
 "African Institute for Mathematical Sciences (AIMS)",2023-01-01,14825
+"African Institute for Mathematical Sciences (AIMS)",2023-01-05,14849
+"African Institute for Mathematical Sciences (AIMS)",2023-01-09,15001
+"African Institute for Mathematical Sciences (AIMS)",2023-02-10,15365
+"African Institute for Mathematical Sciences (AIMS)",2023-02-13,15387
+"African Institute for Mathematical Sciences (AIMS)",2023-02-24,15465
 "African Institute for Mathematical Sciences Ghana",2021-06-09,648
 "African Institute for Mathematical Sciences Ghana",2021-06-16,655
 "African Institute for Mathematical Sciences Ghana",2021-06-21,661
@@ -1606,6 +1661,10 @@
 "African Institute for Mathematical Sciences Ghana",2022-12-14,1399
 "African Institute for Mathematical Sciences Ghana",2022-12-27,1409
 "African Institute for Mathematical Sciences Ghana",2023-01-01,1410
+"African Institute for Mathematical Sciences Ghana",2023-01-05,1411
+"African Institute for Mathematical Sciences Ghana",2023-01-09,1426
+"African Institute for Mathematical Sciences Ghana",2023-02-13,1481
+"African Institute for Mathematical Sciences Ghana",2023-02-24,1490
 "Aga Khan Foundation USA",2021-04-20,16890
 "Aga Khan Foundation USA",2021-04-24,16920
 "Aga Khan Foundation USA",2021-04-28,16935
@@ -1686,6 +1745,8 @@
 "Aga Khan Foundation USA",2022-12-14,21261
 "Aga Khan Foundation USA",2022-12-27,21343
 "Aga Khan Foundation USA",2023-01-01,21381
+"Aga Khan Foundation USA",2023-01-05,21424
+"Aga Khan Foundation USA",2023-01-09,21453
 "Age Of Geeks",2022-05-12,154345
 "Age Of Geeks",2022-05-22,154579
 "Age Of Geeks",2022-05-23,154588
@@ -1745,6 +1806,10 @@
 "Age Of Geeks",2022-12-14,156874
 "Age Of Geeks",2022-12-27,156844
 "Age Of Geeks",2023-01-01,156817
+"Age Of Geeks",2023-01-05,156801
+"Age Of Geeks",2023-01-09,156794
+"Age Of Geeks",2023-02-13,156927
+"Age Of Geeks",2023-02-24,157073
 "AgriProtein",2022-02-27,14730
 "AgriSat Iberia S.L.",2020-10-16,338
 "AgriSat Iberia S.L.",2020-10-18,338
@@ -1907,6 +1972,10 @@
 "AI Awards Ireland",2022-12-14,3289
 "AI Awards Ireland",2022-12-27,3303
 "AI Awards Ireland",2023-01-01,3304
+"AI Awards Ireland",2023-01-05,3309
+"AI Awards Ireland",2023-01-09,3314
+"AI Awards Ireland",2023-02-13,3367
+"AI Awards Ireland",2023-02-24,3375
 "AI Commons",2021-02-19,521
 "AI Commons",2021-03-06,541
 "AI Commons",2021-03-26,555
@@ -2008,6 +2077,8 @@
 "AI Copenhagen",2022-12-14,307
 "AI Copenhagen",2022-12-27,307
 "AI Copenhagen",2023-01-01,307
+"AI Copenhagen",2023-01-05,307
+"AI Copenhagen",2023-01-09,307
 "AI Hack 2021",2021-03-28,84
 "AI Hack 2021",2021-03-31,85
 "AI Hack 2021",2021-04-06,86
@@ -2094,6 +2165,8 @@
 "AI Hack 2021",2022-12-14,103
 "AI Hack 2021",2022-12-27,103
 "AI Hack 2021",2023-01-01,103
+"AI Hack 2021",2023-01-05,103
+"AI Hack 2021",2023-01-09,103
 "AI Inclusive",2020-10-20,359
 "AI Inclusive",2020-10-21,365
 "AI Inclusive",2020-10-23,376
@@ -2255,6 +2328,15 @@
 "AI Inclusive",2022-12-14,3501
 "AI Inclusive",2022-12-27,3505
 "AI Inclusive",2023-01-01,3508
+"AI Inclusive",2023-01-05,3509
+"AI Inclusive",2023-01-09,3509
+"AI Inclusive",2023-02-13,3529
+"AI Inclusive",2023-02-24,3535
+"AIAA",2023-02-10,35435
+"Air Force",2023-02-10,15420
+"Air Force Civilian Service",2023-02-10,127748
+"Air Force Research Laboratory",2023-02-10,122992
+"Akamai Technologies",2023-02-10,256972
 "AlCircleBiz",2021-05-10,2510
 "Aleph News",2021-02-19,14684
 "Aleph News",2021-03-06,15496
@@ -2417,6 +2499,10 @@
 "Alfred P. Sloan Foundation",2022-12-14,2576
 "Alfred P. Sloan Foundation",2022-12-27,2586
 "Alfred P. Sloan Foundation",2023-01-01,2593
+"Alfred P. Sloan Foundation",2023-01-05,2604
+"Alfred P. Sloan Foundation",2023-01-09,2613
+"Alfred P. Sloan Foundation",2023-02-13,2681
+"Alfred P. Sloan Foundation",2023-02-24,2746
 "ALFYMA",2020-12-15,811
 "ALFYMA",2021-02-19,860
 "ALFYMA",2021-03-26,888
@@ -2433,6 +2519,7 @@
 "Alice Insights Inc.",2021-05-14,257
 "Alice Insights Inc.",2021-05-21,257
 "Alice Insights Inc.",2021-05-26,256
+"AllBusiness.com",2023-02-10,33412
 "Alldus",2020-10-20,21527
 "Alldus",2020-10-20,21532
 "Alldus",2020-10-20,21533
@@ -2588,6 +2675,10 @@
 "Alldus",2022-12-14,40435
 "Alldus",2022-12-27,40899
 "Alldus",2023-01-01,41004
+"Alldus",2023-01-05,41300
+"Alldus",2023-01-09,41496
+"Alldus",2023-02-13,44314
+"Alldus",2023-02-24,45720
 "Allianz Global Corporate & Specialty (AGCS)",2021-02-19,81733
 "Allianz Global Corporate & Specialty (AGCS)",2021-03-26,83219
 "allspatial - Geospatial Software and Services",2021-06-02,9
@@ -2688,6 +2779,10 @@
 "allspatial - Geospatial Software and Services",2022-12-14,15
 "allspatial - Geospatial Software and Services",2022-12-27,15
 "allspatial - Geospatial Software and Services",2023-01-01,15
+"allspatial - Geospatial Software and Services",2023-01-05,15
+"allspatial - Geospatial Software and Services",2023-01-09,15
+"allspatial - Geospatial Software and Services",2023-02-13,15
+"allspatial - Geospatial Software and Services",2023-02-24,15
 "Alteryx",2020-10-20,128109
 "Alteryx",2020-10-21,128210
 "Alteryx",2020-10-23,128401
@@ -2848,11 +2943,16 @@
 "Alteryx",2022-12-14,233314
 "Alteryx",2022-12-27,234733
 "Alteryx",2023-01-01,235152
+"Alteryx",2023-01-05,235667
+"Alteryx",2023-01-09,236233
+"Alteryx",2023-02-13,243038
+"Alteryx",2023-02-24,244993
 "altizem",2021-02-19,6282
 "altizem",2021-03-26,6479
 "ALX Oncology",2021-02-19,1267
 "ALX Oncology",2021-03-06,1308
 "ALX Oncology",2021-03-26,1355
+"Amazon",2023-02-10,29394797
 "Amazon Science",2020-10-16,19900
 "Amazon Science",2020-10-25,21570
 "Amazon Science",2020-10-28,21976
@@ -3000,12 +3100,27 @@
 "Amazon Science",2022-12-14,279972
 "Amazon Science",2022-12-27,281877
 "Amazon Science",2023-01-01,283139
+"Amazon Science",2023-01-05,283956
+"Amazon Science",2023-01-09,284692
+"Amazon Science",2023-02-13,289938
+"Amazon Science",2023-02-24,291212
+"Amazon Web Services (AWS)",2023-02-10,7942616
 "AMD",2020-12-27,566682
 "AMD",2021-02-19,597068
 "AMD",2021-03-26,615670
+"AMD",2023-02-10,1029268
 "Amdocs",2021-02-19,482522
 "Amdocs",2021-03-26,489288
+"American Express",2023-02-10,1827235
+"American Express Business",2023-02-10,88511
+"American Federation for Children",2023-02-10,1283
+"American Immigration Lawyers Association",2023-02-10,28974
+"American Institute of Physics",2023-02-10,21260
+"American Psychiatric Association",2023-02-10,292298
+"American Psychological Association",2023-02-10,829650
+"American Red Cross Central Florida Region",2023-02-10,3063
 "American Statistical Association - ASA",2020-10-20,6321
+"American University",2023-02-10,182986
 "Amherst H. Wilder Foundation",2021-04-20,5242
 "Amherst H. Wilder Foundation",2021-04-24,5249
 "Amherst H. Wilder Foundation",2021-04-28,5258
@@ -3088,6 +3203,9 @@
 "Amherst H. Wilder Foundation",2022-12-14,6724
 "Amherst H. Wilder Foundation",2022-12-27,6773
 "Amherst H. Wilder Foundation",2023-01-01,6782
+"Amherst H. Wilder Foundation",2023-01-05,6800
+"Amherst H. Wilder Foundation",2023-01-09,6811
+"Amtrak",2023-02-10,115776
 "Anaconda",2020-10-08,19338
 "Anaconda",2020-10-08,19344
 "Anaconda",2020-10-10,19364
@@ -3276,6 +3394,11 @@
 "Anaconda Inc.",2022-12-27,56096
 "Anaconda Inc.",2022-12-27,56097
 "Anaconda Inc.",2023-01-01,56440
+"Anaconda Inc.",2023-01-05,56683
+"Anaconda Inc.",2023-01-09,56969
+"Anaconda Inc.",2023-02-13,59619
+"Anaconda Inc.",2023-02-24,60246
+"Analog Devices",2023-02-10,290952
 "Analytic Partners",2020-10-20,7377
 "Analytic Partners",2020-10-20,7378
 "Analytic Partners",2020-10-21,7378
@@ -3432,6 +3555,10 @@
 "Analytic Partners",2022-12-14,10834
 "Analytic Partners",2022-12-27,10861
 "Analytic Partners",2023-01-01,10870
+"Analytic Partners",2023-01-05,10892
+"Analytic Partners",2023-01-09,10907
+"Analytic Partners",2023-02-13,11085
+"Analytic Partners",2023-02-24,11142
 "Analytics Vidhya",2022-07-18,142337
 "Analytics Vidhya",2022-07-21,142617
 "Analytics Vidhya",2022-07-23,142757
@@ -3464,10 +3591,15 @@
 "Analytics Vidhya",2022-12-14,153681
 "Analytics Vidhya",2022-12-27,154399
 "Analytics Vidhya",2023-01-01,154704
+"Analytics Vidhya",2023-01-05,155155
+"Analytics Vidhya",2023-01-09,155453
+"Analytics Vidhya",2023-02-13,158299
+"Analytics Vidhya",2023-02-24,159234
 "Anand Rathi Wealth Management",2021-02-19,1612
 "Anand Rathi Wealth Management",2021-03-06,1648
 "Anand Rathi Wealth Management",2021-03-26,1694
 "Andaluc<ed>a Agrotech DIH",2020-12-15,260
+"Android News",2023-02-10,52927
 "Ankara University Computer Society",2021-03-28,101
 "Ankara University Computer Society",2021-03-31,116
 "Ankara University Computer Society",2021-04-06,123
@@ -3554,6 +3686,8 @@
 "Ankara University Computer Society",2022-12-14,239
 "Ankara University Computer Society",2022-12-27,287
 "Ankara University Computer Society",2023-01-01,302
+"Ankara University Computer Society",2023-01-05,305
+"Ankara University Computer Society",2023-01-09,307
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-20,10911
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-21,10916
 "Aon Centre for Innovation and Analytics (ACIA)",2020-10-23,10941
@@ -3713,8 +3847,13 @@
 "Aon Centre for Innovation and Analytics (ACIA)",2022-12-14,15202
 "Aon Centre for Innovation and Analytics (ACIA)",2022-12-27,15219
 "Aon Centre for Innovation and Analytics (ACIA)",2023-01-01,15225
+"Aon Centre for Innovation and Analytics (ACIA)",2023-01-05,15238
+"Aon Centre for Innovation and Analytics (ACIA)",2023-01-09,15254
+"Aon Centre for Innovation and Analytics (ACIA)",2023-02-13,15370
+"Aon Centre for Innovation and Analytics (ACIA)",2023-02-24,15441
 "Apache Software Foundation",2020-10-14,43937
 "Apache Software Foundation",2020-10-19,44020
+"Apex Systems",2023-02-10,1101927
 "APIFVET - Associa<e7><e3>o Portuguesa da Ind<fa>stria Farmac<ea>utica de Medicamentos Veterin<e1>rios",2021-05-10,230
 "Appinventiv",2020-10-25,43851
 "Appinventiv",2020-10-28,43862
@@ -3871,14 +4010,20 @@
 "Appinventiv",2022-12-14,128489
 "Appinventiv",2022-12-27,131516
 "Appinventiv",2023-01-01,131874
+"Appinventiv",2023-01-05,133613
+"Appinventiv",2023-01-09,135562
+"Appinventiv",2023-02-13,154597
+"Appinventiv",2023-02-24,161703
 "Apple",2021-01-19,13178103
 "Apple",2021-02-19,13375107
 "Apple",2021-03-06,13456489
 "Apple",2021-03-26,13554922
+"Apple",2023-02-10,18174230
 "APPLE MUSIC CO. INC.",2021-01-19,353
 "APPLE MUSIC CO. INC.",2021-02-19,354
 "APPLE MUSIC CO. INC.",2021-03-06,356
 "APPLE MUSIC CO. INC.",2021-03-26,355
+"Appleyard Agency",2023-02-10,537
 "Applied Epi",2022-11-03,1205
 "Applied Epi",2022-11-06,1218
 "Applied Epi",2022-11-14,1263
@@ -3889,6 +4034,11 @@
 "Applied Epi",2022-12-14,1507
 "Applied Epi",2022-12-27,1602
 "Applied Epi",2023-01-01,1618
+"Applied Epi",2023-01-05,1639
+"Applied Epi",2023-01-09,1736
+"Applied Epi",2023-02-13,1873
+"Applied Epi",2023-02-24,1891
+"Applied Materials",2023-02-10,354268
 "Applied Statistics & Management Inc.",2020-12-15,823
 "Applied Statistics & Management Inc.",2020-12-27,823
 "Applied Statistics & Management Inc.",2021-01-19,842
@@ -3990,6 +4140,8 @@
 "Appriss",2022-12-14,6615
 "Appriss",2022-12-27,6625
 "Appriss",2023-01-01,6630
+"Appriss",2023-01-05,6636
+"Appriss",2023-01-09,6638
 "Appriss Health",2021-01-22,1087
 "Appriss Health",2021-01-25,1089
 "Appriss Health",2021-01-28,1095
@@ -4189,6 +4341,7 @@
 "Appriss VINE",2022-02-26,1062
 "Appriss VINE",2022-03-03,1063
 "Appriss VINE",2022-05-05,1062
+"AppRiver",2023-02-10,5208
 "Apps IT Limited",2020-12-15,2063
 "Appsilon",2020-10-16,1182
 "Appsilon",2020-10-18,1183
@@ -4271,7 +4424,13 @@
 "Appsilon",2022-12-14,4476
 "Appsilon",2022-12-27,4536
 "Appsilon",2023-01-01,4562
+"Appsilon",2023-01-05,4598
+"Appsilon",2023-01-09,4625
+"Appsilon",2023-02-13,4875
+"Appsilon",2023-02-24,4978
 "AQMA ITALIA SPA",2021-05-10,463
+"Aqueduct Technologies Inc.",2023-02-10,7957
+"Arctic Wolf",2023-02-10,49756
 "ArkeUp Academy | Oc<e9>an Indien",2021-06-02,944
 "ArkeUp Academy | Oc<e9>an Indien",2021-06-09,947
 "ArkeUp Academy | Oc<e9>an Indien",2021-06-16,947
@@ -4368,8 +4527,15 @@
 "ArkeUp Academy | Oc<e9>an Indien",2022-12-01,1315
 "ArkeUp Academy | Oc<e9>an Indien",2022-12-08,1326
 "ArkeUp Academy | Oc<e9>an Indien",2022-12-14,1333
-"ArkeUp Academy | Océan Indien",2022-12-27,1346
+"ArkeUp Academy | Oc<e9>an Indien",2022-12-27,1346
+"ArkeUp Academy | Oc<e9>an Indien",2023-01-01,1350
 "ArkeUp Academy | Océan Indien",2023-01-01,1350
+"ArkeUp Academy | Océan Indien",2023-01-05,1354
+"ArkeUp Academy | Océan Indien",2023-01-09,1355
+"ArkeUp Academy | Océan Indien",2023-02-13,1385
+"ArkeUp Academy | Océan Indien",2023-02-24,1399
+"Armajaro Asset Management LLP",2023-02-10,1204
+"Armor Defense",2023-02-10,16059
 "ARRIVAL",2020-11-07,40971
 "ARRIVAL",2020-11-21,43476
 "ARRIVAL",2021-02-19,56889
@@ -4457,6 +4623,8 @@
 "Artificial Intelligence & Robotics Society University of Portsmouth",2022-12-14,257
 "Artificial Intelligence & Robotics Society University of Portsmouth",2022-12-27,258
 "Artificial Intelligence & Robotics Society University of Portsmouth",2023-01-01,262
+"Artificial Intelligence & Robotics Society University of Portsmouth",2023-01-05,262
+"Artificial Intelligence & Robotics Society University of Portsmouth",2023-01-09,262
 "Artificial Intelligence Hong Kong",2021-01-25,1964
 "Artificial Intelligence Hong Kong",2021-01-28,1970
 "Artificial Intelligence Hong Kong",2021-01-31,1968
@@ -4554,6 +4722,8 @@
 "Artificial Intelligence Hong Kong",2022-12-14,2074
 "Artificial Intelligence Hong Kong",2022-12-27,2080
 "Artificial Intelligence Hong Kong",2023-01-01,2080
+"Artificial Intelligence Hong Kong",2023-01-05,2082
+"Artificial Intelligence Hong Kong",2023-01-09,2082
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-28,76
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-31,76
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-06,78
@@ -4640,6 +4810,10 @@
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2022-12-14,611
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2022-12-27,621
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2023-01-01,627
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2023-01-05,628
+"Artificial Intelligence in Medicine Student Society (AIMSS)",2023-01-09,633
+"Aruba a Hewlett Packard Enterprise company",2023-02-10,209225
+"ASAE: The Center for Association Leadership",2023-02-10,26897
 "Ascential",2020-10-16,37560
 "Ascential",2020-10-20,37592
 "Ascential",2020-10-21,37609
@@ -4784,7 +4958,13 @@
 "Ascential",2022-12-14,53449
 "Ascential",2022-12-27,53586
 "Ascential",2023-01-01,53662
+"Ascential",2023-01-05,53763
+"Ascential",2023-01-09,53841
+"Ascential",2023-02-13,54817
+"Ascential",2023-02-24,55144
+"ASI by Rocket Lab",2023-02-10,2711
 "Association of Test Publishers (ATP)",2021-05-10,1178
+"Astrobotic",2023-02-10,20175
 "Asystec (Now Ergo)",2022-06-28,2497
 "Asystec (Now Ergo)",2022-06-30,2497
 "Asystec (Now Ergo)",2022-07-01,2497
@@ -4825,6 +5005,10 @@
 "Asystec (Now Ergo)",2022-12-14,2513
 "Asystec (Now Ergo)",2022-12-27,2514
 "Asystec (Now Ergo)",2023-01-01,2514
+"Asystec (Now Ergo)",2023-01-05,2514
+"Asystec (Now Ergo)",2023-01-09,2514
+"Asystec (Now Ergo)",2023-02-13,2515
+"Asystec (Now Ergo)",2023-02-24,2513
 "Asystec Limited",2020-10-20,1954
 "Asystec Limited",2020-10-21,1954
 "Asystec Limited",2020-10-23,1955
@@ -4934,6 +5118,9 @@
 "Asystec Limited",2022-06-11,2488
 "Asystec Limited",2022-06-13,2488
 "Asystec Limited",2022-06-20,2493
+"athenahealth",2023-02-10,150474
+"Atlas Venture",2023-02-10,18848
+"Atlassian",2023-02-10,860790
 "ATRIBS",2021-01-22,4698
 "ATRIBS",2021-01-25,4705
 "ATRIBS",2021-01-28,4712
@@ -5031,6 +5218,8 @@
 "ATRIBS GLOBAL",2022-12-14,5908
 "ATRIBS GLOBAL",2022-12-27,5927
 "ATRIBS GLOBAL",2023-01-01,5931
+"ATRIBS GLOBAL",2023-01-05,5937
+"ATRIBS GLOBAL",2023-01-09,5942
 "ATRIBS GROUP",2021-10-17,5164
 "ATRIBS GROUP",2021-10-29,5180
 "AUB Computer Science Student Society",2021-10-29,111
@@ -5088,6 +5277,8 @@
 "AUB Computer Science Student Society",2022-12-14,132
 "AUB Computer Science Student Society",2022-12-27,132
 "AUB Computer Science Student Society",2023-01-01,132
+"AUB Computer Science Student Society",2023-01-05,132
+"AUB Computer Science Student Society",2023-01-09,132
 "AUB Computer Science Students Society",2021-03-28,105
 "AUB Computer Science Students Society",2021-03-31,105
 "AUB Computer Science Students Society",2021-04-06,105
@@ -5117,6 +5308,8 @@
 "AUB Computer Science Students Society",2021-09-09,110
 "AUB Computer Science Students Society",2021-09-16,110
 "AUB Computer Science Students Society",2021-10-17,110
+"Australian Information Security Association (AISA)",2023-02-10,23033
+"Automotive News",2023-02-10,578187
 "AWS Databases",2020-10-15,106905
 "AWS Databases",2020-10-25,108191
 "AWS Databases",2020-10-28,108525
@@ -5266,6 +5459,10 @@
 "AWS Databases & Analytics",2022-12-14,246545
 "AWS Databases & Analytics",2022-12-27,247697
 "AWS Databases & Analytics",2023-01-01,248154
+"AWS Databases & Analytics",2023-01-05,248573
+"AWS Databases & Analytics",2023-01-09,248897
+"AWS Databases & Analytics",2023-02-13,252069
+"AWS Databases & Analytics",2023-02-24,252859
 "AWS Machine Learning",2022-02-01,82105
 "AWS Machine Learning",2022-02-07,84773
 "AWS Machine Learning",2022-02-12,86999
@@ -5314,6 +5511,8 @@
 "AWS Machine Learning",2022-12-14,220469
 "AWS Machine Learning",2022-12-27,223689
 "AWS Machine Learning",2023-01-01,224911
+"AWS Machine Learning",2023-01-05,225894
+"AWS Machine Learning",2023-01-09,226886
 "Ayiti Analytics",2021-06-02,727
 "Ayiti Analytics",2021-06-09,728
 "Ayiti Analytics",2021-06-16,729
@@ -5419,7 +5618,15 @@
 "Ayiti Analytics",2022-12-14,1409
 "Ayiti Analytics",2022-12-27,1416
 "Ayiti Analytics",2023-01-01,1448
+"Ayiti Analytics",2023-01-05,1459
+"Ayiti Analytics",2023-01-09,1466
+"Ayiti Analytics",2023-02-13,1494
+"Ayiti Analytics",2023-02-24,1501
 "B&I Capital",2021-05-10,241
+"BAE Systems Digital Intelligence",2023-02-10,113900
+"BAE Systems Inc.",2023-02-10,224774
+"Bain & Company",2023-02-10,1609647
+"Ball Aerospace",2023-02-10,87742
 "Bamboo Health",2021-09-02,1788
 "Bamboo Health",2021-09-09,1847
 "Bamboo Health",2021-09-16,1927
@@ -5480,6 +5687,9 @@
 "Bamboo Health",2022-12-14,5470
 "Bamboo Health",2022-12-27,5560
 "Bamboo Health",2023-01-01,5606
+"Bamboo Health",2023-01-05,5624
+"Bamboo Health",2023-01-09,5644
+"BambooHR",2023-02-10,94316
 "Banach Technology Ltd",2020-10-16,512
 "Banach Technology Ltd",2020-10-20,512
 "Banach Technology Ltd",2020-10-21,511
@@ -5497,10 +5707,13 @@
 "Bangko Sentral ng Pilipinas",2021-02-19,23819
 "Bangko Sentral ng Pilipinas",2021-03-06,24394
 "Bangko Sentral ng Pilipinas",2021-03-26,25279
+"Bank of America",2023-02-10,2406118
 "Bank of America Merrill Lynch",2020-10-16,313400
 "Bank of America Merrill Lynch",2020-10-28,314040
 "Bank of America Merrill Lynch",2020-11-21,315194
+"Bank of Pensacola",2023-02-10,160
 "Bantu Group",2021-05-10,2268
+"Baptist Health Care",2023-02-10,15810
 "Baruch Data Science & Analytics Society",2021-01-31,251
 "Baruch Data Science & Analytics Society",2021-02-03,250
 "Baruch Data Science & Analytics Society",2021-02-07,250
@@ -5601,6 +5814,8 @@
 "Baruch Data Science & Analytics Society",2022-12-14,388
 "Baruch Data Science & Analytics Society",2022-12-27,388
 "Baruch Data Science & Analytics Society",2023-01-01,389
+"Baruch Data Science & Analytics Society",2023-01-05,390
+"Baruch Data Science & Analytics Society",2023-01-09,390
 "Basebuilder",2021-05-10,554
 "BASF",2021-02-19,1507763
 "BASF",2021-03-26,1534482
@@ -5702,6 +5917,9 @@
 "Bayanat.AI",2022-12-14,33263
 "Bayanat.AI",2022-12-27,33327
 "Bayanat.AI",2023-01-01,33344
+"Bayanat.AI",2023-01-05,33477
+"Bayanat.AI",2023-01-09,33556
+"BB&T",2023-02-10,132716
 "BBC News",2020-10-16,7126402
 "BBC News",2020-10-20,7139316
 "BBC News",2020-10-22,7150878
@@ -5711,6 +5929,7 @@
 "BBC News",2020-11-21,7263052
 "BBC News",2021-02-19,7528577
 "BBC News",2021-03-26,7616829
+"BBVA",2023-02-10,891647
 "BCG Digital Ventures",2020-10-25,100986
 "BCG Digital Ventures",2020-10-28,101168
 "BCG Digital Ventures",2020-10-30,101361
@@ -5866,11 +6085,19 @@
 "BCG Digital Ventures",2022-12-14,152227
 "BCG Digital Ventures",2022-12-27,152542
 "BCG Digital Ventures",2023-01-01,152636
+"BCG Digital Ventures",2023-01-05,152813
+"BCG Digital Ventures",2023-01-09,153106
+"BCG Digital Ventures",2023-02-13,154296
+"BCG Digital Ventures",2023-02-24,154642
 "BCG X",2022-12-01,200795
 "BCG X",2022-12-08,202170
 "BCG X",2022-12-14,202496
 "BCG X",2022-12-27,202953
 "BCG X",2023-01-01,203142
+"BCG X",2023-01-05,203340
+"BCG X",2023-01-09,203518
+"BCG X",2023-02-13,205597
+"BCG X",2023-02-24,206292
 "Be-cause Integrated Communications",2021-05-10,247
 "Beacon Biosignals",2021-03-26,282
 "Beacon IT Solutions Abu Dhabi",2021-03-28,60
@@ -5958,6 +6185,9 @@
 "Beacon IT Solutions Abu Dhabi",2022-12-14,183
 "Beacon IT Solutions Abu Dhabi",2022-12-27,184
 "Beacon IT Solutions Abu Dhabi",2023-01-01,185
+"Beacon IT Solutions Abu Dhabi",2023-01-05,186
+"Beacon IT Solutions Abu Dhabi",2023-01-09,186
+"Beck Partners",2023-02-10,856
 "Benin ThinkLab",2021-06-02,56
 "Benin ThinkLab",2021-06-09,56
 "Benin ThinkLab",2021-06-16,56
@@ -6060,6 +6290,10 @@
 "Benin ThinkLab",2022-12-14,77
 "Benin ThinkLab",2022-12-27,77
 "Benin ThinkLab",2023-01-01,77
+"Benin ThinkLab",2023-01-05,77
+"Benin ThinkLab",2023-01-09,77
+"Benin ThinkLab",2023-02-13,77
+"Benin ThinkLab",2023-02-24,80
 "Berkman Klein Center for Internet & Society at Harvard University",2020-10-16,6256
 "Berkman Klein Center for Internet & Society at Harvard University",2020-10-20,6280
 "Berkman Klein Center for Internet & Society at Harvard University",2020-10-21,6288
@@ -6073,6 +6307,7 @@
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-08,6586
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-15,6631
 "Berkman Klein Center for Internet & Society at Harvard University",2020-12-27,6685
+"Berkshire Bank",2023-02-10,9459
 "Bernard van Leer Foundation",2021-04-20,6897
 "Bernard van Leer Foundation",2021-04-24,6929
 "Bernard van Leer Foundation",2021-04-28,6952
@@ -6154,6 +6389,8 @@
 "Bernard van Leer Foundation",2022-12-14,13464
 "Bernard van Leer Foundation",2022-12-27,13717
 "Bernard van Leer Foundation",2023-01-01,13767
+"Bernard van Leer Foundation",2023-01-05,13813
+"Bernard van Leer Foundation",2023-01-09,13865
 "Betriebswirtschaftslehre an der Heinrich Heine Universit<e4>t D<fc>sseldorf",2020-11-30,258
 "Betriebswirtschaftslehre an der Heinrich Heine Universit<e4>t D<fc>sseldorf",2020-12-08,273
 "Betriebswirtschaftslehre an der Heinrich Heine Universit<e4>t D<fc>sseldorf",2020-12-15,274
@@ -6258,6 +6495,10 @@
 "Bhutan Data Scientists",2022-12-14,52
 "Bhutan Data Scientists",2022-12-27,52
 "Bhutan Data Scientists",2023-01-01,52
+"Bhutan Data Scientists",2023-01-05,52
+"Bhutan Data Scientists",2023-01-09,52
+"Bhutan Data Scientists",2023-02-13,53
+"Bhutan Data Scientists",2023-02-24,53
 "Bhutan Data Scientists Pvt Ltd",2021-03-30,42
 "Bhutan Data Scientists Pvt Ltd",2021-04-06,43
 "Bhutan Data Scientists Pvt Ltd",2021-04-10,43
@@ -6381,6 +6622,10 @@
 "Bhutan Data Scientists Pvt Ltd",2022-12-14,91
 "Bhutan Data Scientists Pvt Ltd",2022-12-27,91
 "Bhutan Data Scientists Pvt Ltd",2023-01-01,91
+"Bhutan Data Scientists Pvt Ltd",2023-01-05,91
+"Bhutan Data Scientists Pvt Ltd",2023-01-09,91
+"Bhutan Data Scientists Pvt Ltd",2023-02-13,93
+"Bhutan Data Scientists Pvt Ltd",2023-02-24,93
 "Big Data and Artificial Intelligence Club",2021-03-28,175
 "Big Data and Artificial Intelligence Club",2021-03-31,176
 "Big Data and Artificial Intelligence Club",2021-04-06,177
@@ -6468,6 +6713,8 @@
 "Big Data and Artificial Intelligence Club",2022-12-14,280
 "Big Data and Artificial Intelligence Club",2022-12-27,282
 "Big Data and Artificial Intelligence Club",2023-01-01,283
+"Big Data and Artificial Intelligence Club",2023-01-05,283
+"Big Data and Artificial Intelligence Club",2023-01-09,285
 "Big Data LDN",2022-04-25,3861
 "Big Data LDN",2022-04-29,3872
 "Big Data LDN",2022-05-22,3898
@@ -6522,6 +6769,10 @@
 "Big Data LDN",2022-12-14,6333
 "Big Data LDN",2022-12-27,6346
 "Big Data LDN",2023-01-01,6347
+"Big Data LDN",2023-01-05,6354
+"Big Data LDN",2023-01-09,6367
+"Big Data LDN",2023-02-13,6474
+"Big Data LDN",2023-02-24,6500
 "Bilisim Academy",2021-05-10,1155
 "Bill & Melinda Gates Foundation",2020-10-25,833834
 "Bill & Melinda Gates Foundation",2020-10-28,834944
@@ -6677,6 +6928,10 @@
 "Bill & Melinda Gates Foundation",2022-12-14,1062484
 "Bill & Melinda Gates Foundation",2022-12-27,1064524
 "Bill & Melinda Gates Foundation",2023-01-01,1065309
+"Bill & Melinda Gates Foundation",2023-01-05,1066170
+"Bill & Melinda Gates Foundation",2023-01-09,1067119
+"Bill & Melinda Gates Foundation",2023-02-13,1076469
+"Bill & Melinda Gates Foundation",2023-02-24,1079141
 "Bissau Analytics",2021-06-02,24
 "Bissau Analytics",2021-06-09,24
 "Bissau Analytics",2021-06-16,24
@@ -6776,6 +7031,11 @@
 "Bissau Analytics",2022-12-14,48
 "Bissau Analytics",2022-12-27,48
 "Bissau Analytics",2023-01-01,48
+"Bissau Analytics",2023-01-05,48
+"Bissau Analytics",2023-01-09,48
+"Bissau Analytics",2023-02-13,52
+"Bissau Analytics",2023-02-24,54
+"Bitergia",2023-02-10,654
 "Black Girls CODE",2020-10-06,19816
 "Black Girls CODE",2020-10-13,19922
 "Black Girls CODE",2020-10-16,19981
@@ -6940,6 +7200,11 @@
 "Black Girls CODE",2022-12-14,42566
 "Black Girls CODE",2022-12-27,42940
 "Black Girls CODE",2023-01-01,43108
+"Black Girls CODE",2023-01-05,43247
+"Black Girls CODE",2023-01-09,43368
+"Black Girls CODE",2023-02-10,44561
+"Black Girls CODE",2023-02-13,44664
+"Black Girls CODE",2023-02-24,45070
 "Black in Data",2021-12-14,838
 "Black in Data",2021-12-20,897
 "Black in Data",2021-12-26,909
@@ -7024,6 +7289,10 @@
 "Black in Data",2022-12-14,2161
 "Black in Data",2022-12-27,2187
 "Black in Data",2023-01-01,2188
+"Black in Data",2023-01-05,2197
+"Black in Data",2023-01-09,2202
+"Black in Data",2023-02-13,2251
+"Black in Data",2023-02-24,2270
 "BlackTIDES",2021-03-30,213
 "BlackTIDES",2021-04-06,215
 "BlackTIDES",2021-04-10,215
@@ -7140,12 +7409,17 @@
 "BlackTIDES",2022-12-14,757
 "BlackTIDES",2022-12-27,768
 "BlackTIDES",2023-01-01,770
+"BlackTIDES",2023-01-05,844
+"BlackTIDES",2023-01-09,854
+"BlackTIDES",2023-02-13,969
+"BlackTIDES",2023-02-24,1009
 "BlewMinds - Believe. Be. Beyond",2020-10-16,15979
 "BlewMinds - Believe. Be. Beyond",2020-10-21,16118
 "BlewMinds - Believe. Be. Beyond",2020-10-24,16168
 "BlewMinds - Believe. Be. Beyond",2020-10-28,16285
 "BlewMinds - Believe. Be. Beyond",2020-11-07,16620
 "BlewMinds - Believe. Be. Beyond",2020-11-21,17210
+"Bloomberg News",2023-02-10,3939049
 "Bloomberg Philanthropies",2020-10-25,36138
 "Bloomberg Philanthropies",2020-10-28,36215
 "Bloomberg Philanthropies",2020-10-30,36491
@@ -7297,10 +7571,19 @@
 "Bloomberg Philanthropies",2022-12-14,66483
 "Bloomberg Philanthropies",2022-12-27,67165
 "Bloomberg Philanthropies",2023-01-01,67362
+"Bloomberg Philanthropies",2023-01-05,67544
+"Bloomberg Philanthropies",2023-01-09,67774
+"Bloomberg Philanthropies",2023-02-13,69822
+"Bloomberg Philanthropies",2023-02-24,70383
 "Blue Cross NC",2021-02-19,29214
 "Blue Cross NC",2021-03-06,29391
 "Blue Cross NC",2021-03-26,29587
+"BLUE ORIGIN",2023-02-10,339181
+"blueStone Staffing",2023-02-10,10447
 "BluzUp",2021-05-10,181
+"BNP Paribas",2023-02-10,1247184
+"BNY Mellon",2023-02-10,483163
+"Boeing",2023-02-10,2934800
 "Booster Box",2020-10-16,2319
 "Booster Box",2020-10-18,2320
 "Booster Box",2020-10-21,2323
@@ -7308,312 +7591,16 @@
 "Booster Box",2020-11-07,2345
 "Booster Box",2020-11-21,2417
 "Booster Box",2020-12-15,2561
+"Booz Allen Hamilton",2023-02-10,571650
 "Bosch",2020-12-27,782940
 "Bosch",2021-02-19,801529
 "Bosch",2021-03-26,813166
-"Boston Consulting Group (BCG)",2020-10-25,2432803
-"Boston Consulting Group (BCG)",2020-10-28,2437885
-"Boston Consulting Group (BCG)",2020-10-30,2442699
-"Boston Consulting Group (BCG)",2020-11-03,2448019
-"Boston Consulting Group (BCG)",2020-11-06,2453224
-"Boston Consulting Group (BCG)",2020-11-10,2459389
-"Boston Consulting Group (BCG)",2020-11-14,2465605
-"Boston Consulting Group (BCG)",2020-11-18,2472326
-"Boston Consulting Group (BCG)",2020-11-23,2484503
-"Boston Consulting Group (BCG)",2020-11-28,2490532
-"Boston Consulting Group (BCG)",2020-12-03,2499087
-"Boston Consulting Group (BCG)",2020-12-05,2503969
-"Boston Consulting Group (BCG)",2020-12-12,2515945
-"Boston Consulting Group (BCG)",2020-12-15,2521289
-"Boston Consulting Group (BCG)",2020-12-20,2529869
-"Boston Consulting Group (BCG)",2020-12-25,2538602
-"Boston Consulting Group (BCG)",2020-12-29,2545014
-"Boston Consulting Group (BCG)",2021-01-03,2551369
-"Boston Consulting Group (BCG)",2021-01-06,2557337
-"Boston Consulting Group (BCG)",2021-01-11,2565556
-"Boston Consulting Group (BCG)",2021-01-15,2573934
-"Boston Consulting Group (BCG)",2021-01-19,2578923
-"Boston Consulting Group (BCG)",2021-01-25,2586934
-"Boston Consulting Group (BCG)",2021-01-30,2592654
-"Boston Consulting Group (BCG)",2021-01-31,2593277
-"Boston Consulting Group (BCG)",2021-02-03,2597364
-"Boston Consulting Group (BCG)",2021-02-07,2603941
-"Boston Consulting Group (BCG)",2021-02-12,2612463
-"Boston Consulting Group (BCG)",2021-02-17,2619234
-"Boston Consulting Group (BCG)",2021-02-21,2627869
-"Boston Consulting Group (BCG)",2021-02-25,2636330
-"Boston Consulting Group (BCG)",2021-03-01,2643674
-"Boston Consulting Group (BCG)",2021-03-06,2653581
-"Boston Consulting Group (BCG)",2021-03-10,2660033
-"Boston Consulting Group (BCG)",2021-03-16,2666430
-"Boston Consulting Group (BCG)",2021-03-20,2672013
-"Boston Consulting Group (BCG)",2021-03-24,2675580
-"Boston Consulting Group (BCG)",2021-03-30,2683354
-"Boston Consulting Group (BCG)",2021-04-06,2690476
-"Boston Consulting Group (BCG)",2021-04-10,2697393
-"Boston Consulting Group (BCG)",2021-04-15,2704249
-"Boston Consulting Group (BCG)",2021-04-20,2711791
-"Boston Consulting Group (BCG)",2021-04-24,2717168
-"Boston Consulting Group (BCG)",2021-04-28,2721852
-"Boston Consulting Group (BCG)",2021-05-03,2727679
-"Boston Consulting Group (BCG)",2021-05-07,2732753
-"Boston Consulting Group (BCG)",2021-05-10,2735784
-"Boston Consulting Group (BCG)",2021-05-14,2741826
-"Boston Consulting Group (BCG)",2021-05-21,2750602
-"Boston Consulting Group (BCG)",2021-05-26,2757676
-"Boston Consulting Group (BCG)",2021-06-02,2769475
-"Boston Consulting Group (BCG)",2021-06-09,2778468
-"Boston Consulting Group (BCG)",2021-06-16,2786454
-"Boston Consulting Group (BCG)",2021-06-21,2792059
-"Boston Consulting Group (BCG)",2021-06-29,2800374
-"Boston Consulting Group (BCG)",2021-07-02,2804500
-"Boston Consulting Group (BCG)",2021-07-04,2806101
-"Boston Consulting Group (BCG)",2021-07-09,2811536
-"Boston Consulting Group (BCG)",2021-07-14,2817121
-"Boston Consulting Group (BCG)",2021-07-18,2821191
-"Boston Consulting Group (BCG)",2021-07-22,2825983
-"Boston Consulting Group (BCG)",2021-08-14,2848941
-"Boston Consulting Group (BCG)",2021-08-26,2860083
-"Boston Consulting Group (BCG)",2021-09-02,2867201
-"Boston Consulting Group (BCG)",2021-09-16,2884969
-"Boston Consulting Group (BCG)",2021-10-17,2924055
-"Boston Consulting Group (BCG)",2021-10-29,2941328
-"Boston Consulting Group (BCG)",2021-11-06,2951941
-"Boston Consulting Group (BCG)",2021-11-20,2967725
-"Boston Consulting Group (BCG)",2021-12-04,2981847
-"Boston Consulting Group (BCG)",2021-12-07,2984502
-"Boston Consulting Group (BCG)",2021-12-14,2991424
-"Boston Consulting Group (BCG)",2021-12-20,2998212
-"Boston Consulting Group (BCG)",2021-12-26,3003648
-"Boston Consulting Group (BCG)",2021-12-30,3006893
-"Boston Consulting Group (BCG)",2021-12-31,3007799
-"Boston Consulting Group (BCG)",2022-01-03,3009305
-"Boston Consulting Group (BCG)",2022-01-04,3010861
-"Boston Consulting Group (BCG)",2022-01-06,3012866
-"Boston Consulting Group (BCG)",2022-01-07,3014555
-"Boston Consulting Group (BCG)",2022-01-10,3017090
-"Boston Consulting Group (BCG)",2022-01-14,3022651
-"Boston Consulting Group (BCG)",2022-01-18,3027448
-"Boston Consulting Group (BCG)",2022-01-27,3038140
-"Boston Consulting Group (BCG)",2022-02-01,3045668
-"Boston Consulting Group (BCG)",2022-02-07,3053830
-"Boston Consulting Group (BCG)",2022-02-10,3057835
-"Boston Consulting Group (BCG)",2022-02-16,3063959
-"Boston Consulting Group (BCG)",2022-02-20,3068319
-"Boston Consulting Group (BCG)",2022-02-23,3072007
-"Boston Consulting Group (BCG)",2022-02-26,3075388
-"Boston Consulting Group (BCG)",2022-03-03,3080677
-"Boston Consulting Group (BCG)",2022-03-07,3084270
-"Boston Consulting Group (BCG)",2022-03-31,3110064
-"Boston Consulting Group (BCG)",2022-04-09,3120998
-"Boston Consulting Group (BCG)",2022-04-11,3123145
-"Boston Consulting Group (BCG)",2022-04-13,3125834
-"Boston Consulting Group (BCG)",2022-04-19,3131756
-"Boston Consulting Group (BCG)",2022-04-25,3137502
-"Boston Consulting Group (BCG)",2022-04-25,3137501
-"Boston Consulting Group (BCG)",2022-04-29,3143100
-"Boston Consulting Group (BCG)",2022-05-05,3149884
-"Boston Consulting Group (BCG)",2022-05-22,3170403
-"Boston Consulting Group (BCG)",2022-05-27,3177378
-"Boston Consulting Group (BCG)",2022-05-30,3181681
-"Boston Consulting Group (BCG)",2022-06-07,3193716
-"Boston Consulting Group (BCG)",2022-06-08,3193716
-"Boston Consulting Group (BCG)",2022-06-11,3199232
-"Boston Consulting Group (BCG)",2022-06-13,3201450
-"Boston Consulting Group (BCG)",2022-06-15,3205120
-"Boston Consulting Group (BCG)",2022-06-16,3207726
-"Boston Consulting Group (BCG)",2022-06-20,3212119
-"Boston Consulting Group (BCG)",2022-06-22,3216223
-"Boston Consulting Group (BCG)",2022-06-26,3222111
-"Boston Consulting Group (BCG)",2022-06-28,3225189
-"Boston Consulting Group (BCG)",2022-06-30,3227566
-"Boston Consulting Group (BCG)",2022-07-01,3229262
-"Boston Consulting Group (BCG)",2022-07-02,3229819
-"Boston Consulting Group (BCG)",2022-07-04,3232169
-"Boston Consulting Group (BCG)",2022-07-05,3234150
-"Boston Consulting Group (BCG)",2022-07-09,3239151
-"Boston Consulting Group (BCG)",2022-07-12,3244087
-"Boston Consulting Group (BCG)",2022-07-18,3250603
-"Boston Consulting Group (BCG)",2022-07-21,3255937
-"Boston Consulting Group (BCG)",2022-07-23,3259135
-"Boston Consulting Group (BCG)",2022-07-25,3261610
-"Boston Consulting Group (BCG)",2022-08-01,3271380
-"Boston Consulting Group (BCG)",2022-08-08,3280302
-"Boston Consulting Group (BCG)",2022-08-16,3291915
-"Boston Consulting Group (BCG)",2022-08-20,3299744
-"Boston Consulting Group (BCG)",2022-08-25,3306989
-"Boston Consulting Group (BCG)",2022-08-28,3312609
-"Boston Consulting Group (BCG)",2022-09-01,3321940
-"Boston Consulting Group (BCG)",2022-09-07,3329668
-"Boston Consulting Group (BCG)",2022-09-10,3334938
-"Boston Consulting Group (BCG)",2022-09-16,3351732
-"Boston Consulting Group (BCG)",2022-09-22,3367347
-"Boston Consulting Group (BCG)",2022-09-29,3381615
-"Boston Consulting Group (BCG)",2022-10-03,3387129
-"Boston Consulting Group (BCG)",2022-10-09,3396565
-"Boston Consulting Group (BCG)",2022-10-12,3402488
-"Boston Consulting Group (BCG)",2022-10-16,3408321
-"Boston Consulting Group (BCG)",2022-10-22,3418178
-"Boston Consulting Group (BCG)",2022-10-28,3427094
-"Boston Consulting Group (BCG)",2022-11-03,3434840
-"Boston Consulting Group (BCG)",2022-11-06,3440658
-"Boston Consulting Group (BCG)",2022-11-14,3451669
-"Boston Consulting Group (BCG)",2022-11-20,3461080
-"Boston Consulting Group (BCG)",2022-11-24,3466144
-"Boston Consulting Group (BCG)",2022-12-01,3475472
-"Boston Consulting Group (BCG)",2022-12-08,3486388
-"Boston Consulting Group (BCG)",2022-12-14,3493285
-"Boston Consulting Group (BCG)",2022-12-27,3509720
-"Boston Consulting Group (BCG)",2023-01-01,3514663
-"Boxfish",2020-10-20,448
-"Boxfish",2020-10-21,449
-"Boxfish",2020-10-23,449
-"Boxfish",2020-10-25,449
-"Boxfish",2020-10-28,449
-"Boxfish",2020-10-30,449
-"Boxfish",2020-11-03,449
-"Boxfish",2020-11-06,449
-"Boxfish",2020-11-10,449
-"Boxfish",2020-11-14,449
-"Boxfish",2020-11-18,449
-"Boxfish",2020-11-23,450
-"Boxfish",2020-11-28,450
-"Boxfish",2020-12-03,451
-"Boxfish",2020-12-05,451
-"Boxfish",2020-12-12,451
-"Boxfish",2020-12-15,451
-"Boxfish",2020-12-20,450
-"Boxfish",2020-12-25,450
-"Boxfish",2020-12-29,450
-"Boxfish",2021-01-03,450
-"Boxfish",2021-01-06,450
-"Boxfish",2021-01-11,450
-"Boxfish",2021-01-15,450
-"Boxfish",2021-01-19,450
-"Boxfish",2021-01-25,450
-"Boxfish",2021-01-30,450
-"Boxfish",2021-01-31,450
-"Boxfish",2021-02-03,450
-"Boxfish",2021-02-07,450
-"Boxfish",2021-02-12,450
-"Boxfish",2021-02-17,450
-"Boxfish",2021-02-21,450
-"Boxfish",2021-02-25,450
-"Boxfish",2021-03-01,450
-"Boxfish",2021-03-06,452
-"Boxfish",2021-03-10,452
-"Boxfish",2021-03-16,452
-"Boxfish",2021-03-20,452
-"Boxfish",2021-03-24,453
-"Boxfish",2021-03-30,453
-"Boxfish",2021-04-06,453
-"Boxfish",2021-04-10,453
-"Boxfish",2021-04-15,454
-"Boxfish",2021-04-20,454
-"Boxfish",2021-04-24,454
-"Boxfish",2021-04-28,454
-"Boxfish",2021-05-03,454
-"Boxfish",2021-05-07,454
-"Boxfish",2021-05-10,454
-"Boxfish",2021-05-14,454
-"Boxfish",2021-05-21,454
-"Boxfish",2021-05-26,454
-"Boxfish",2021-06-02,453
-"Boxfish",2021-06-09,453
-"Boxfish",2021-06-16,453
-"Boxfish",2021-06-21,453
-"Boxfish",2021-06-29,453
-"Boxfish",2021-07-02,453
-"Boxfish",2021-07-04,453
-"Boxfish",2021-07-09,453
-"Boxfish",2021-07-14,452
-"Boxfish",2021-07-18,452
-"Boxfish",2021-07-22,452
-"Boxfish",2021-08-14,452
-"Boxfish",2021-08-26,453
-"Boxfish",2021-09-02,453
-"Boxfish",2021-09-16,452
-"Boxfish",2021-10-17,451
-"Boxfish",2021-10-29,451
-"Boxfish",2021-11-06,450
-"Boxfish",2021-11-20,450
-"Boxfish",2021-12-07,450
-"Boxfish",2021-12-14,451
-"Boxfish",2021-12-20,451
-"Boxfish",2021-12-26,451
-"Boxfish",2021-12-30,451
-"Boxfish",2021-12-31,451
-"Boxfish",2022-01-03,451
-"Boxfish",2022-01-04,451
-"Boxfish",2022-01-06,451
-"Boxfish",2022-01-07,451
-"Boxfish",2022-01-10,451
-"Boxfish",2022-01-14,451
-"Boxfish",2022-01-18,450
-"Boxfish",2022-01-27,450
-"Boxfish",2022-02-01,449
-"Boxfish",2022-02-07,449
-"Boxfish",2022-02-12,449
-"Boxfish",2022-02-20,449
-"Boxfish",2022-02-23,449
-"Boxfish",2022-02-26,448
-"Boxfish",2022-03-03,448
-"Boxfish",2022-03-07,447
-"Boxfish",2022-03-15,447
-"Boxfish",2022-03-31,447
-"Boxfish",2022-04-09,447
-"Boxfish",2022-04-11,447
-"Boxfish",2022-04-13,447
-"Boxfish",2022-04-19,447
-"Boxfish",2022-04-25,447
-"Boxfish",2022-04-29,447
-"Boxfish",2022-05-05,448
-"Boxfish",2022-05-12,447
-"Boxfish",2022-05-22,446
-"Boxfish",2022-05-23,446
-"Boxfish",2022-05-25,446
-"Boxfish",2022-06-01,446
-"Boxfish",2022-06-03,446
-"Boxfish",2022-06-07,445
-"Boxfish",2022-06-08,445
-"Boxfish",2022-06-13,445
-"Boxfish",2022-06-15,445
-"Boxfish",2022-06-16,445
-"Boxfish",2022-06-20,445
-"Boxfish",2022-06-23,445
-"Boxfish",2022-06-24,445
-"Boxfish",2022-06-26,445
-"Boxfish",2022-06-28,445
-"Boxfish",2022-06-30,445
-"Boxfish",2022-07-01,445
-"Boxfish",2022-07-02,445
-"Boxfish",2022-07-04,445
-"Boxfish",2022-07-05,445
-"Boxfish",2022-07-09,445
-"Boxfish",2022-07-12,445
-"Boxfish",2022-07-18,445
-"Boxfish",2022-07-21,445
-"Boxfish",2022-07-23,444
-"Boxfish",2022-07-25,444
-"Boxfish",2022-08-01,444
-"Boxfish",2022-08-08,444
-"Boxfish",2022-08-16,444
-"Boxfish",2022-08-20,444
-"Boxfish",2022-08-25,444
-"Boxfish",2022-08-28,444
-"Boxfish",2022-09-01,444
-"Boxfish",2022-09-07,444
-"Boxfish",2022-09-10,444
-"Boxfish",2022-09-16,443
-"Boxfish",2022-09-22,443
-"Boxfish",2022-09-29,443
-"Boxfish",2022-10-03,443
-"Brand Recruitment",2020-10-16,12836
-"Brand Recruitment",2020-10-20,12846
-"Brand Recruitment",2020-10-22,12875
-"Brand Recruitment",2020-10-28,12906
-"Brand Recruitment",2020-11-07,12951
-"Brand Recruitment",2020-11-12,12975
-"Brand Recruitment",2020-11-21,13014
-"Brand Recruitment",2021-02-19,13423
-"Brand Recruitment",2021-03-26,13536
+"Boston Analytics",2023-02-10,21815
+"Boston Architectural College",2023-02-10,14794
+"Boston Ballet",2023-02-10,11065
+"Boston Baptist College",2023-02-10,6844
+"Boston Biomedical Inc.",2023-02-10,12263
+"Boston Business Journal",2023-02-10,23286
+"Boston Capital",2023-02-10,7208
+"Boston Children's Hospital",2023-02-10,128442
+"Boston College",2023-02-10,190530
