@@ -1,0 +1,11 @@
+Here’s a focused paragraph on each of the featured paintings in the Nasher Museum’s collection:
+
+**Roy Lichtenstein’s *Washington Crossing the Delaware II* (1951)** is a satirical reinterpretation of the iconic American Revolutionary scene. Painted early in Lichtenstein’s career, this oil-on-canvas work subverts traditional history painting with a deadpan, cartoon-like aesthetic that foreshadows his later Pop Art style. By parodying heroic imagery, Lichtenstein critiques the mythologizing of national history and invites viewers to reconsider the visual language of patriotism.
+
+**Hugo McCloud’s *push pull* (2019)** is a striking mixed-media piece composed entirely of repurposed plastic merchandise bags on wood panel. The work depicts two silhouetted figures loading bananas or plantains onto a bicycle, evoking themes of labor, trade, and resilience. McCloud’s use of industrial waste materials challenges conventional notions of beauty and value, while highlighting the inequities of global commerce and the physical toll of survival in developing economies.
+
+**Michelangelo Lovelace’s *You Have the Right to Remain Silent* (2013)** captures a bustling Cleveland street scene layered with social commentary. Through vivid acrylics and deep perspective, Lovelace portrays a diverse urban community alongside symbols of policing and protest. A mural of police cars, phrases like “just-us,” and a Biblical billboard juxtapose the everyday with the systemic, making the painting a poignant reflection on racial injustice and the enduring impact of the Black Lives Matter movement.
+
+**David Burliuk’s *Shame to All but to the Dead* (1933)** is a monumental Social Realist canvas critiquing the devastation of the Great Depression. The painting features a shantytown of unemployed workers, the lifeless body of Diogenes the Cynic, and a desolate New York skyline. Burliuk’s composition blends classical symbolism with political urgency, condemning the waste and neglect of capitalist society. His accompanying manifesto underscores the painting’s radical message: that in a world of abundance and suffering, only the dead escape shame.
+
+Let me know if you’d like these adapted for wall labels, a catalog entry, or a guided tour script!
