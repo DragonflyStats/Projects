@@ -1,0 +1,17 @@
+Stand Classification Project
+
+This program is designed to create a Stand classification database. 
+It utilizes inventory sub compartment information, including subcompartments from the SubCompartment Database and YTGen sources.
+
+📐 It incorporates slope and elevation data.
+
+💾 The SubCompartment Database is housed on the Coillte system.  
+🔎 Check under the PBI con.  
+📁 Review older versions of the Subcompartment Database stored on the shared drive.
+
+📊 The output table should include a snapshot base to support multiple versions of the same subcompartment, timestamped for version control.
+
+📂 This project will be added to the 17-stand classification database.  
+⚙️ Series and yield-related Shiny app scripts will be deprecated.
+
+📌 This is part of the redesign of Panel 4 in the Shiny app and will contribute to the presentation in the SRG.
