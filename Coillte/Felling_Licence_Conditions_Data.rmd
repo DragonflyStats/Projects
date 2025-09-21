@@ -1,0 +1,45 @@
+### **Felling License Applications and AI-Assisted Processing**  
+
+When a stand-up forestry is planned for harvesting—whether as a clear fell or a thinning—a felling license application must be submitted to the Irish Department of Agriculture and Marine. This application contains essential environmental information and serves as a functional equivalent to planning permission for a building.  
+
+Thousands of these applications are submitted annually, each corresponding to a specific forestry site. A submission typically includes:  
+- Locational data  
+- Environmental Assessment reports  
+- Details regarding compliance with the Mature 2000 Impact Statement requirement  
+
+If an application is successful, an approved felling license is issued. This license comes with a set of conditions, many of which are standard, such as compliance with existing regulations. Some conditions, however, are time-sensitive and require immediate attention—such as notifications to national parks or other key environmental bodies.  
+
+At the highest priority level, time-sensitive applications must be detected as soon as possible.  
+
+---
+
+### **Developing an AI-Based Mechanism for Detection**  
+
+We are working on a mechanism to automatically identify high-priority applications.  
+
+1. **Document Processing**  
+   - Felling license applications are submitted in PDF format, which, while structured, varies slightly in formatting.  
+   - These PDFs can be converted into Notepad files to allow for rapid text processing.  
+
+2. **Keyword Parsing**  
+   - Each document is scanned and transformed into a structured impact report.  
+   - Keywords such as *otter* and *Berlin* are used to flag environmental concerns and regulatory requirements.  
+
+3. **Leveraging AI for Enhanced Processing**  
+   - Currently, our AI capability is **Microsoft Copilot**, which excels at handling burst queries.  
+   - However, for this use case, we need to process massive amounts of information—potentially **hundreds of pages per document**.  
+
+---
+
+### **Challenges with Microsoft Copilot and Alternative Strategies**  
+
+Despite its usefulness, Microsoft Copilot has certain limitations:  
+- **Input Constraints:** The dialog box is limited to **8,000 characters**, which is insufficient for processing extensive documents.  
+- **Limited Memory:** Conversations do not persist, meaning previous queries cannot be recalled within a chat.  
+
+To address these limitations, our strategy involves:  
+- Storing felling license text documents in a **central repository** for structured analysis.  
+- Successively reading and processing these documents using AI-driven contextual agents.  
+- Incorporating **specialized jargon, operational lexicons, and reference ID interpretations**, such as county codes linked to specific Irish regions.  
+
+By refining this AI-driven approach, we aim to automate the detection of high-priority felling license applications, ensuring timely responses and regulatory compliance.  
