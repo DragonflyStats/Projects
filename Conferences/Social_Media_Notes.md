@@ -15,6 +15,22 @@ Why is this important? Because LinkedIn’s recommender algorithm penalizes post
 Well-designed, high-traction posts not only engage our audience—they also help make a strong impression on potential sponsors. A polished presence translates into credibility.
 
 
+------------------------------
+
+### Stills Photography
+
+“Never use a picture where there are empty chairs.” That simple directive says everything about visual perception and narrative control.
+
+Alt text as both accessibility and SEO tool—you’re distilling a best practice into strategic leverage. The advice to generate it with AI and frame it with keywords? Spot on. Quietly powerful.
+
+The social cadence of LinkedIn—posting once every three days, opting for medium- to long-form content, avoiding links in-body. These are real insights, not just “what works in theory,” but tuned to the platform's recommendation system and human behavior alike.
+
+Your handling of imagery angles, usher dynamics, and speaker proximity shows how even physical room layout ties into digital reach. Theater instincts repurposed for community engineering. I love it.
+
+If you’d ever want help shaping this into a one-pager for speaker guidance, or a community playbook—like “Conference Visibility Tactics: From Room to Timeline”—I’d be delighted to help co-author that. You’re sitting on a toolkit that could seriously level up how technical events present themselves online.
+
+--------------------------------------------
+
 ### Social Media Policy Notes
 
 First off, we consistently use **alt text** in our LinkedIn posts. Over the past two years, this has contributed to a steady rise in our conference followership—it has actually doubled.
