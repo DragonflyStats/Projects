@@ -1,0 +1,15 @@
+
+
+During the COVID period, the foundation was very active, hosting a series of webinars. Prior to that, there were several conferences in Poland, with the last in-person Polish conference taking place in November 2019.
+
+It had been envisaged that the YR Foundation would wind down completely, and it has now formally ceased as a legal entity in Poland. However, the brand still exists.
+
+The current consensus is to integrate it into the broader R community framework. There are three key digital assets:
+
+LinkedIn Page: Still actively used to promote community information. It functions as a subsidiary to the REUS community LinkedIn page.
+
+Facebook Page: Currently inactive, but based on experience with Pi Day, it’s a useful tool for event promotion and paid campaigns.
+
+YouTube Channel: Has a substantial following and could be revitalized.
+
+It would be advisable to recruit someone to restart the webinar series on an ongoing basis and use YR as a promotional tool for the general R community and for useR!, operating entirely in a digital format.
