@@ -1,16 +1,24 @@
-Sponsors
-Other potential collaborators include:
+### Sponsors
 
-Joy Now Abaddan (works with a sports science company in Galway)
 
-Jumping Rivers
+Regarding sponsorship for useR! 2026:
 
-Coillte Kevin O'Brien's Forestry Company
+* Please contact the Austrian Bank of Raiffeisen, which sponsored in 2024.
 
-GitHub / Wolf
+* Also reach out to David Goel, who may have insights into potential sponsors from Paris.
 
-Posit
+* Additionally, contact David from Catawiki in the Netherlands.
 
-Various pharmaceutical companies
+* Joy Now Abaddan (works with a sports science company in Galway)
 
-VSN International
+* Jumping Rivers
+
+* Coillte Kevin O'Brien's Forestry Company
+
+* GitHub / Wolf
+
+* Posit
+
+* Various pharmaceutical companies
+
+* VSN International
