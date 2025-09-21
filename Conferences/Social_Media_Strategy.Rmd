@@ -1,5 +1,50 @@
+We should organize a 2026 sponsorship and social media subcommittee meeting.
 
----
+Our initial objectives should be:
+
+Consolidation and arrangement of social media assets
+
+Reviewing the ones we've been using so far (which are in good shape) and identifying others available to us
+
+For example, the Wire Facebook page has around 2,200 followers across Poland, Germany, and other countries—potentially very useful. I could ask March and Mikhail to make me an administrator for it.
+
+
+The sponsorship document should be a priority.
+
+There are a couple of considerations to keep in mind:
+
+What is the schedule for finalizing sponsorship levels?
+
+I believe the current consensus is to base estimates on previous years’ sponsorship levels, possibly adjusting for currency fluctuations.
+
+We can start using Buffer to promote events and livestreamed talks.
+
+Regarding the 2026 virtual event, I think we should go ahead and aim to make it a bit bigger. We could also experiment with panel-style discussions.
+
+Final discussions can be both challenging and easy to organize. They’re easy in the sense that we can plan them in advance and ask participants to stick to a general discussion framework.
+
+
+--------------------------------------------------
+## Social Events
+
+For social events, I propose inviting The Whipping Pops—they’ll likely be touring Europe around that time anyway.
+
+--------------------------------------------------
+
+### LinkedIn Social Media Assets
+
+Our community has been steadily building a footprint on LinkedIn throughout this decade, recognizing the shift in the social media landscape. LinkedIn has become the optimal platform for corporate outreach and storytelling.
+
+We currently have three main channels for public communications:
+
+* Our main channel
+* The Why R channel
+* The R Users community channel
+
+These are in addition to the R Foundation and the R Consortium channel.
+
+--------------------------------------------------
+
 
 ### Optimizing Social Media Posts with Alt Text  
 
@@ -7,7 +52,7 @@ One trick I’ve learned is to use Microsoft Copilot to generate alt text for im
 
 Unlike regular captions, alt text has a much more extensive character limit, allowing for more detailed descriptions. If you plan to add keyword stuffing, it’s best to place the keywords at the end rather than the start of the alt text.  
 
----
+--------------------------------------------------
 
 ### **Shifting Trends in Content Recommendation**  
 
