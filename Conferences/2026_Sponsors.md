@@ -22,3 +22,23 @@ Regarding sponsorship for useR! 2026:
 * Various pharmaceutical companies
 
 * VSN International
+
+
+-------------------------
+- Bioconductor
+- Royal Statistical Society
+- Irish Statistical Association
+- Open Source in Pharma
+- Jobs on LinkedIn: Filter the search for companies in North Carolina and adjacent states, and filter for on-site only.
+- Data for SDGs
+- Global Partnership for Sustainable Development Goals
+SDG-related data: potential for integration with global development metrics
+
+💼 Jobs & Sponsorship
+Sponsorship sources under review
+
+LinkedIn job search:
+
+Filter by companies in North Carolina and adjacent states
+
+Apply on-site only filter
