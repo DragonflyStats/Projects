@@ -1,0 +1,20 @@
+
+---
+
+### Optimizing Social Media Posts with Alt Text  
+
+One trick I’ve learned is to use Microsoft Copilot to generate alt text for images before uploading them to platforms like LinkedIn, Twitter, or Buffer. This alt text isn’t just for accessibility—it can function as additional search terms that recommendation engines use when promoting content.  
+
+Unlike regular captions, alt text has a much more extensive character limit, allowing for more detailed descriptions. If you plan to add keyword stuffing, it’s best to place the keywords at the end rather than the start of the alt text.  
+
+---
+
+### **Shifting Trends in Content Recommendation**  
+
+Content recommendation strategies have changed significantly in recent weeks. One major shift is the **downgrading of hashtags** and the **upgrading of AI-driven search optimization**.  
+
+A successful strategy now involves using **graphics** in posts, complemented by **extensive alt text** that includes relevant keywords. Microsoft Copilot can assist in generating detailed alt text, which can be supplemented with additional contextual information about the conference.  
+
+I tested this method during the Medicine in R conference by posting optimized content, and the results were impressive—we received **25 likes in just three hours**.  
+
+---
