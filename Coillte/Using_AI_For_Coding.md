@@ -23,3 +23,42 @@ Of course, AI isn't perfect. One critical issue is **hallucination**—AI tools 
 Tools like Copilot are also helpful for **interpreting error messages** and debugging, especially when they already understand the datasets and code you’re working with. That said, sometimes Copilot may introduce bugs in the first place, so careful validation is essential.
 
 In short: take a patient, iterative approach. When used thoughtfully, these tools can dramatically accelerate your workflow and raise the quality of your work.
+
+
+---
+
+### Good Coding Vocabulary and Evolving Practices
+
+Improving your general knowledge of R packages is essential, and it extends well beyond just working with documents. In the context of document processing, this includes packages that extend **ggplot2**, such as those for working with maps and chart files—*terra*, *sf*, and others.
+
+Additionally, there are R packages dedicated to working with **dates and times**, as well as tools for **image manipulation** and **optical character recognition (OCR)**. One notable example is the *tesseract* package, which enables OCR functionality in R.
+
+When it comes to AI tools, I prefer to focus on those likely to be accessible to most people in the near future. Examples include **Gemini** and **Microsoft Copilot**, which are rapidly becoming integrated into everyday workflows.
+
+---
+
+### Prompt Engineering and AI Use
+
+Prompt engineering—especially when working with AI and large language models (LLMs)—requires discipline. You must ask **clear, specific, and structured questions** to get the best results. While these tools can produce a significant amount of text, that in itself creates a new problem: an **overabundance** of content that needs editing and refinement.
+
+AI tools are particularly useful for revisiting old R script files. They help with **adding comments, reformatting code, and aligning with updated coding conventions**. One interesting consequence is that context files and collaborative work now encourage teams to align on shared coding styles and standards.
+
+---
+
+### Coding Styles and Team Collaboration
+
+Even within frameworks like the **tidyverse**, people develop distinctive coding idioms. While individual style is fine, collaboration highlights the need for consistency. AI tools help reinforce this by making us more mindful of how we **structure code, document functions, and adhere to team conventions**.
+
+In my own case, code reviews weren’t something I practiced historically—if the R script worked, it was considered “good enough.” But as we've moved toward sharing context files and collaborating more deeply, **agreed standards have become increasingly important**.
+
+While this shift may feel natural for software engineers—where code review is standard—it’s a new challenge for many data scientists who come from backgrounds like mathematics or statistics, where team-based coding is more ad hoc.
+
+---
+
+### Personal Style and Visual Communication
+
+A small but personal example: I prefer to **color-code my outputs**. It’s part visual clarity, part personal satisfaction. People can often recognize one of my tables immediately just by the attention I put into palette choices and styling. It might trace back to my upbringing—both of my parents were teachers—so I treat presentation and clarity with a certain level of seriousness.
+
+---
+
+
