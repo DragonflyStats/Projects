@@ -1,0 +1,27 @@
+
+### 🌬️ STICKS Wind Blow Database Overview
+
+The **STICKS Wind Blow Database** contains a series of tables that collectively provide a detailed analysis of wind blow impacts across harvest units. The key components are as follows:
+
+1. **Harvest Unit Geographical and Productivity Data**
+   - This table includes information on the geographic extent and productive area of each harvest unit.
+   - It also identifies the portion of the unit affected by wind blow, along with corresponding percentages.
+
+2. **STICKS Wind Blow Overlap Table**
+   - This table overlays wind blow data with STICKS’s harvest units.
+   - It incorporates data from the **Earth Observation Wind Blast Survey**, conducted in **Spring 2025**, enhancing the spatial resolution of wind impact assessment.
+
+3. **STICKS-LRM Overlap Table**
+   - Provides additional cross-referencing between STICKS and LRM harvest units.
+   - When combined with the two tables above, it delivers a thorough picture of wind blow distribution across the region.
+
+4. **Harvest Unit Details Table**
+   - Includes descriptors for each unit, such as the planned year of harvest, activity type, and completion status.
+
+5. **Log Booking System Forecasts**
+   - Features strategic data including:
+     - **CSO2 Coding Strategy**, used in critical situations.
+     - **CS15 Strategy**, representing the standing sales approach for secondary allocation cases.
+
+---
+
