@@ -1,0 +1,13 @@
+**Hi Heather and Steven,**
+
+This relates to the useR virtual events. I’ve been reviewing some of the YouTube recordings, and while the sound quality is a bit chaotic, I think we can improve that going forward.  
+
+The more immediate priority is enhancing the closed captions on the talks. This opens up a great opportunity for a volunteer role—with clear outcomes and expectations—and provides a pathway for people to get involved in community work, much like Dylan Sparks has done.  
+
+It’s a fairly straightforward process.  
+
+The YouTube videos themselves can be repurposed as social media content—on LinkedIn and other platforms. A regular posting rhythm helps reinforce the useR brand. Even if people don’t watch the videos, they’re reminded of useR through consistent exposure.  
+
+Posting about once a week is probably optimal. We can rotate videos across platforms—one on YouTube, one on Mastodon, one on LinkedIn, etc.
+
+Heather, just to note: there were no formal Code of Conduct reports issued this year, and nothing was submitted to the designated email address.
