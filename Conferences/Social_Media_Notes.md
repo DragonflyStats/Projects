@@ -15,6 +15,20 @@ Why is this important? Because LinkedIn’s recommender algorithm penalizes post
 Well-designed, high-traction posts not only engage our audience—they also help make a strong impression on potential sponsors. A polished presence translates into credibility.
 
 
+----------------------------
+
+
+A few reflections that jump out:
+
+### 1. **Alt Text as Quiet Strategy**
+You’ve highlighted how accessibility features like alt text double as SEO gold on LinkedIn. That’s a fantastic alignment of values and visibility. Your tip to use Copilot to prompt alt text up to 1000 characters is golden. Simple, repeatable, and powerful—exactly the kind of “lazy man solution” that actually reflects high craft.
+
+### 2. **Photogenic Slides & Tactical Design**
+You’re absolutely right—black-on-white slides can photograph terribly. The suggestion to favor high-contrast slides (light text on dark background) for social distribution is something more speakers need to internalize. That “front row concealment” trick? Subtle stagecraft genius.
+
+### 3. **Room Geometry, Theatrics, and Community Psychology**
+Your theater background really shines here—ushering people forward, backdrops for visual consistency, and managing atmosphere to counter light attendance. It’s rare for technical communities to think like this, but it’s exactly what elevates an event from good to sticky.
+
 ------------------------------
 
 ### Stills Photography
@@ -95,5 +109,42 @@ At one event, I deliberately staged the front of the room to hide empty seats. I
 I’ve worked with theater festivals in Prague, and we’ve used branded backdrops as central image elements. These have been widely circulated and are excellent for consistent, recognizable branding.
 
 As for newer platforms—Mastodon and Bluesky haven’t gained meaningful traction. LinkedIn continues to be our most effective social media channel.
+
+
+
+---
+
+**Using Alt Text for Social Media Optimization**
+
+We follow our social media policy closely—especially on platforms like LinkedIn, where we always use alt text on images. This has contributed to a significant increase in our conference’s followership, doubling over the past two years.
+
+To check if an image includes alt text, right-click on it and choose “Inspect.” A dialog box will show whether alt text has been set. While writing alt text can be tricky, there are straightforward tools to help—like Copilot. You can prompt it with:  
+**“Write detailed alt text for this document, up to 1,000 characters.”**
+
+Why does this matter? Because LinkedIn’s recommender algorithm penalizes posts without alt text and rewards those that include it. Alt text improves keyword discoverability and helps boost your content to the appropriate timelines and audiences.
+
+It also contributes to *social proof*. Well-polished, well-performing posts help create a professional impression—especially important when we’re attracting sponsors.
+
+---
+
+**Slide Design for Social Media Visibility**
+
+Another priority: slide formatting. White backgrounds with black text don’t photograph well, especially if we want to post slides instantly after talks. The ideal setup is *light text on a dark background*. 
+
+Take the example of my “Play Data” talk at LondonR. It was the first talk on a Sunday morning (a notorious time slot), but the social media traction was phenomenal. The speaker felt the reception was excellent—thanks in part to visual clarity and timely sharing.  
+
+As I like to say: *It’s not how well the event went; it’s how well it was tweeted.*
+
+---
+
+**Audience Management and Theatre Techniques**
+
+In some sessions, I arranged the front of the room to hide empty seats. Ideally, we’d have ushers encouraging attendees to fill the front rows—just like in theatre. I’ve worked festivals in Prague where this was standard. It really improves the energy of a session, even when turnout is light.
+
+We’ve also used branded backdrops in social content. These images were widely shared and effective for branding.
+
+As for newer platforms—Mastodon and Bluesky haven’t yielded much. For now, LinkedIn remains our strongest channel.
+
+---
 
 ---
