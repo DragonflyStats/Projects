@@ -1,6 +1,3 @@
-Of course! Here’s a more structured version of your text with improved readability and flow:
-
----
 
 On September 12, 2015, the world marked the 30th anniversary of Jeremy Brett’s passing. While it remains unclear whether any official commemorations took place, a likely tribute is the memorial bench in Clapham Common, situated near the bandstand and a small shop just north of it. 
 
