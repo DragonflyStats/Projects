@@ -1,0 +1,5 @@
+Peg Woffington, born Margaret Woffington, was a celebrated Irish actress and socialite of the Georgian era. She was born in Dublin around 1720 and rose from humble beginnings to become one of the most prominent theatrical personalities of her time. Known for her versatility, she excelled in comic roles and breeches parts, where she played male characters, such as Sir Harry Wildair in "The Constant Couple." Her performances captivated audiences in both Dublin and London.
+
+Woffington was also known for her striking figure and lively personality, which made her a favorite among theatergoers and a subject of intrigue in social circles. She had relationships with notable figures, including the actor David Garrick. Despite her fame, she faced challenges, such as a harsh tone in her voice that limited her success in tragic roles.
+
+Her legacy endures as a symbol of talent and determination in the face of adversity. If you'd like to explore more about her life and career, you can find detailed information here.
