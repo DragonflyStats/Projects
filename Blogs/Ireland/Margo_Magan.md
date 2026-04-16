@@ -1,6 +1,4 @@
-Certainly, Kevin. Here's a revised version of the post in the past tense, honoring Margo Magan’s legacy with a respectful and factual tone:
 
----
 
 🏊‍♀️🇮🇪 *Remembering Margo Magan and the Beckett Legacy*
 
