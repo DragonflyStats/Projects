@@ -1,6 +1,3 @@
-Got it—here’s a cleaned-up and organized version of what you seem to be trying to express about John Betjeman:
-
----
 
 ## 📝 John Betjeman's Connection to Ireland
 
