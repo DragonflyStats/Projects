@@ -1,6 +1,4 @@
-Sure, Kevin—here’s a cleaned-up and structured version of your proposal. I’ve preserved your intent while making it more readable and professional, ideal for presenting or sharing with stakeholders:
 
----
 
 ## 🎵 Grant Aid for Live Music in Rural Pubs
 
