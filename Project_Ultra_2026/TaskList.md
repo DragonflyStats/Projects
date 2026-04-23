@@ -14,4 +14,16 @@
 - Prepare for Paris Trip in November 
 - Compute! Paris
 
+### Task 12: DuckCon No. 7 
+- Amsterdam
+
+### Task 13: London Trip in July
+- Soho Fete in London on Sunday 19th July 2026
+
+
 -------------------------------------------------------------------------
+
+## Household in Limerick
+
+### Task 21: Fix Couch
+ - Contact repair shop in Croom and arrange collection
