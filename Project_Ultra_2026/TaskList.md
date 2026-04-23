@@ -17,10 +17,13 @@
 - November Wed 23th – Fri 25th Nov / Paris / 3-day conference
 
 ### Task 12: DuckCon No. 7 
-- Amsterdam
+- Book Flights to Amsterdam
+- Accomodation
 
-### Task 13: London Trip in July
+### Task 13: London Trip in July and August
 - Soho Fete in London on Sunday 19th July 2026
+- Notting Hill Carnival 30th & 31st August 2026
+- Book Accomodation
 
 
 -------------------------------------------------------------------------
