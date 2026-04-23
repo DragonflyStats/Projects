@@ -33,7 +33,11 @@
 ### Task 22: Electrician
  - Organize Electrician to fix plugs in kitchen and bedroom
 
-### Task 23: DVDs to Buy 
+### Task 23: Virgin Media
+ - Cancel Virgin Media and change to Sky
+ - Find out billing date
+
+### Task 24: DVDs to Buy 
 
 #### Italian Cinema
 
@@ -49,8 +53,18 @@
 
 ### Task 31: Buy Equipment: Purchase a scythe.
  - Mullingar Hardware
+ - Clear orchard
    
 ####  Additional to Task 31
  - Invasive Species: Visit the Westmeath County Council office to get official guidance on eradicating Japanese Knotweed.
+
+-------------------------------------------------------------------------
+
+## Professional
+
+#### Task 41: Tax returns for 2025
+
+- 2025 Accounts: Begin gathering documents for the upcoming tax year.
+- Collect up receipts and Youtube income data
  - La Strada – Federico Fellini.
  - Caro Diario – Nanni Moretti.
