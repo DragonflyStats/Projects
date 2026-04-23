@@ -2,7 +2,13 @@
 
 ### Task 01: Buffer Pro
  - X - Get a buffer pro licence and post R posts
- - Scheduled a series of posts on personal account.
+ - X - Scheduled a series of posts on personal account.
+      - X - Lucasfilm documentary posts
+
+### Task 02: Github Blog
+ - X- Set up kobriendublin.github.io
+ - Arrange formatting
+
 
 ### Task 08: Meetup Promotion
 - X - Promote EdinbR April meetup on Luma
