@@ -27,3 +27,14 @@
 
 ### Task 21: Fix Couch
  - Contact repair shop in Croom and arrange collection
+
+### Task 22: Electrician
+ - Organize Electrician to fix plugs in kitchen and bedroom
+
+### Task 23: DVDs to Buy 
+
+#### Italian Cinema
+
+ - Nights of Cabiria (Le notti di Cabiria) – Federico Fellini.
+ - La Strada – Federico Fellini.
+ - Caro Diario – Nanni Moretti.
