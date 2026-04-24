@@ -36,14 +36,20 @@
 ### Task 12: DuckCon No. 7 
 - Book Flights to Amsterdam
 - Accomodation
+- Royal Tropical Institute, Amsterdam
+- 15:00–20:00, Date: 2026-06-24
 
 ### Task 13: London Trip in July and August
 - Soho Fete in London on Sunday 19th July 2026
+- Pandora's Box at Wilton Music Hall Thursday 30th July 2026
 - Notting Hill Carnival 30th & 31st August 2026
-- Book Accomodation
+- Book Accomodation / Earls Court
 
 ### Task 14: Prague 
 - Confirm Flights and Accomodation
+
+### Task 15: useR! Warsaw
+- Confirm Current Bookings
 
 -------------------------------------------------------------------------
 
