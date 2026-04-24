@@ -7,8 +7,14 @@
       - X- Jimmy's Corner
       - X- Friends of Tilling
       - X- Pandora's Box at Wilton Music Hall
+      - Soho Fete - 19th July 2026
       - John Minihan at National Gallery
       - William Blake at National Gallery
+      - The Harlem Hellfighters (Lucasfilm Documentaries).
+      - The Lafayette Escadrille (The American volunteer pilots of WWI).
+      - Scandalize My Name (The story of Paul Robeson – full documentary is available on the Lucasfilm YouTube channel).
+      - The Impressionists (BBC, 2006 – stars Richard Armitage/Julian Glover).
+      - X- Mapp and Lucia (BBC version).
 
 ### Task 02: Github Blog
  - X- Set up kobriendublin.github.io
