@@ -3,7 +3,12 @@
 ### Task 01: Buffer Pro
  - X - Get a buffer pro licence and post R posts
  - X - Scheduled a series of posts on personal account.
-      - X - Lucasfilm documentary posts
+      - X- Lucasfilm documentary posts
+      - X- Jimmy's Corner
+      - X- Friends of Tilling
+      - X- Pandora's Box at Wilton Music Hall
+      - John Minihan at National Gallery
+      - William Blake at National Gallery
 
 ### Task 02: Github Blog
  - X- Set up kobriendublin.github.io
