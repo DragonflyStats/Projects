@@ -31,6 +31,8 @@
 - Notting Hill Carnival 30th & 31st August 2026
 - Book Accomodation
 
+### Task 14: Prague 
+- Confirm Flights and Accomodation
 
 -------------------------------------------------------------------------
 
@@ -67,6 +69,10 @@
 ####  Additional to Task 31
  - Invasive Species: Visit the Westmeath County Council office to get official guidance on eradicating Japanese Knotweed.
 
+
+### Task 32: Transportations
+ - Sanitary Towels
+
 -------------------------------------------------------------------------
 
 ## Professional
@@ -75,5 +81,17 @@
 
 - 2025 Accounts: Begin gathering documents for the upcoming tax year.
 - Collect up receipts and Youtube income data
- - La Strada – Federico Fellini.
- - Caro Diario – Nanni Moretti.
+
+
+-----------------------------------------------------------------------
+
+## Personal & Family
+
+### Task 51 - Correspondence 
+ - DNA Research: Call a family member regarding the MyHeritage DNA test results.
+ - Molly Gagne
+ - Tara McPherson (Census)
+ - Idoia Alberdi
+ - Deborah Ruoss Romero
+
+
