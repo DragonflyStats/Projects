@@ -70,8 +70,11 @@
 ### Task 23: Virgin Media
  - Cancel Virgin Media and change to Sky
  - Find out billing date
-
-### Task 24: DVDs to Buy 
+   
+### Task 24: Limerick House Painting
+ - Start with Sitting Room
+   
+### Task 25: DVDs to Buy 
 
 #### Italian Cinema
 
@@ -81,6 +84,9 @@
 
 #### Paraguayan Cinema
  - See Beto's List
+
+#### Poster
+ - Julie Neymar Poster
    
 -------------------------------------------------------------------------
 
