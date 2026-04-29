@@ -49,7 +49,13 @@
 - Confirm Flights and Accomodation
 
 ### Task 15: useR! Warsaw
-- Confirm Current Bookings
+- Confirm Current Bookings for flights and hotel
+
+### Task 16: Barcelona
+
+- October 2026
+- Terminal 2, Dublin Airport (DUB) to Terminal 2, Barcelona Airport (BCN)
+- Thu, 22 Oct 2026 to Sun, 25 Oct 2026
 
 -------------------------------------------------------------------------
 
@@ -73,6 +79,9 @@
  - La Strada – Federico Fellini.
  - Caro Diario – Nanni Moretti.
 
+#### Paraguayan Cinema
+ - See Beto's List
+   
 -------------------------------------------------------------------------
 
 ## Household in Westmeath
@@ -106,7 +115,7 @@
 
 ### Task 51 - Correspondence 
  - DNA Research: Call a family member regarding the MyHeritage DNA test results.
- - Molly Gagne
+ - X - Molly Gagne
  - Tara McPherson (Census)
  - Idoia Alberdi
  - Deborah Ruoss Romero
