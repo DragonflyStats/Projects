@@ -18,8 +18,8 @@
 
 ### Task 02: Github Blog
  - X- Set up kobriendublin.github.io
- - Arrange formatting
-
+ - X- Arrange formatting
+ - Collate Posts
 
 ### Task 08: Meetup Promotion
 - X - Promote EdinbR April meetup on Luma
@@ -41,12 +41,19 @@
 
 ### Task 13: London Trip in July and August
 - Soho Fete in London on Sunday 19th July 2026
+- X- Bankside House
+  - Check-in: Fri 17 Jul 2026
+  - Check-out: Mon 20 Jul 2026
 - Pandora's Box at Wilton Music Hall Thursday 30th July 2026
+  - Book Accomodation / Earls Court
 - Notting Hill Carnival 30th & 31st August 2026
-- Book Accomodation / Earls Court
+- X- Dover Street
+
 
 ### Task 14: Prague 
 - Confirm Flights and Accomodation
+- Thursday 28th May to Mon 1st June
+- Accomodation: Nerudovna
 
 ### Task 15: useR! Warsaw
 - Confirm Current Bookings for flights and hotel
@@ -73,7 +80,10 @@
    
 ### Task 24: Limerick House Painting
  - Start with Sitting Room
-   
+
+### Task 25: Car Service
+ - Ring Chris
+  
 ### Task 25: DVDs to Buy 
 
 #### Italian Cinema
@@ -112,6 +122,8 @@
 #### Task 41: Tax returns for 2025
 
 - 2025 Accounts: Begin gathering documents for the upcoming tax year.
+- X- Virgin Media Receipts
+- X- ARP data for 2025
 - Collect up receipts and Youtube income data
 
 
