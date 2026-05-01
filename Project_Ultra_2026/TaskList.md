@@ -57,6 +57,12 @@
 
 ### Task 15: useR! Warsaw
 - Confirm Current Bookings for flights and hotel
+- X- Accomodation:
+ - **Warsaw** Planet Hostel 5 Jul – 11 Jul
+ - **Schönefeld** Pension Schwalbenweg 11 Jul – 12 Jul
+- X- Flight Home
+  - Aer Lingus Confirmation - Booking Ref: 25BUP6
+  - Brandenburg to Dublin Sun 12 Jul • 10:40 – 12:05
 
 ### Task 16: Barcelona
 
