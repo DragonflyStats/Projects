@@ -1,0 +1,18 @@
+The **Forwards Package Development Workshop 2026** is a free, short-course series designed to teach participants how to build their own R packages from scratch. Sponsored by **Forwards**, the R Foundation taskforce for underrepresented groups in the R community, this hands-on program helps users transition from writing standalone R scripts to developing robust, documented, and shareable software tools.
+
+Led by expert R community instructors **Ella Kaye** and **Pao Corrales**, the workshop is structured into five 2-hour modules delivered every other week. To accommodate different schedules and time zones, participants can choose between two bi-weekly cohorts:
+
+* **Cohort 1:** Mondays, starting May 18 (10:00–12:00 UTC)
+* **Cohort 2:** Wednesdays, starting May 20 (14:00–16:00 UTC)
+
+### Curriculum Breakdown
+
+The course walks through the full lifecycle of open-source development:
+
+* **Module 1 (Package foundations):** Setting up the environment, understanding basic package architecture, and writing your first package functions.
+* **Module 2 (Function documentation and dependencies):** Learning how to write clear help files using `roxygen2` and properly manage external package imports.
+* **Module 3 (Packaging data; Testing):** Safely embedding datasets within a package and implementing automated testing routines to ensure code reliability.
+* **Module 4 (Package check and documentation):** Running formal diagnostic checks to ensure compliance with CRAN standards and creating user-friendly documentation websites.
+* **Module 5 (Publication and maintenance):** Navigating the distribution process, version control, and long-term package upkeep.
+
+This workshop is ideal for data analysts, researchers, and data scientists looking to streamline their internal workflows, improve reproducibility, or make their first formal contributions to the open-source **#RStats** ecosystem.

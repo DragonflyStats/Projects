@@ -1,0 +1,46 @@
+The R/Pharma 2026 conference is scheduled for October 20–21, 2026. It will be held online.
+
+### R/Pharma
+R/Pharma is a scientifically & industry oriented, collegial online conference focused on the use of R in the development of pharmaceuticals, with breakout in-person and APAC satellite events.
+
+R/Pharma 2026 Workshops run September 28 - October 1. R/Pharma Conference runs October 20 - 21.
+
+------------------------
+
+Welcome to R/Pharma 2026
+
+This is a free event put on by volunteers who are passionate about the use of R and other open source tools in the Pharma and biotech industries.
+
+If you, or your organization, would like to support R/Pharma you can do so following this link.
+
+Be sure to follow our blog, LinkedIn, twitter/X, Mastodon or Bluesky for conference details.
+
+Note: R/Pharma will run across two periods. 
+Workshops will be September 28th to October 1st, and main conference will be October 20th to October 21st.
+
+
+------------------------------------
+
+
+
+### Our mission:
+
+* Promote the use of open source, and collaboration between companies
+* Put on fantastic, vendor free, community events like R/Pharma, R/Pharma APAC and R/Pharma Summit
+* Encourage seminars, discussion and facilitate collaboration between companies
+
+### 1. Detailed Alt Text
+
+The provided alt text describes a textured, mosaic-style digital illustration for the upcoming online R/Pharma conference scheduled for October 20–21, 2026. The description details the visual layout, featuring a prominent blue and green R logo, four data professionals in lab coats, relevant scientific imagery (such as DNA strands, molecular structures, and graphs), and specific text callouts including the open/close deadlines for speaker submissions and the conference website.
+
+### 2. R in the Pharmaceutical Industry
+
+The discussion outlines five critical areas where R drives modern drug development and medical research:
+
+* **Clinical Trial Analysis:** Utilizing specialized packages to process patient data and generate reproducible statistical reports for regulatory bodies like the FDA.
+* **Bioinformatics and Genomics:** Leveraging tools like Bioconductor to analyze massive genetic datasets and discover potential drug targets.
+* **Pharmacometrics:** Modeling pharmacokinetics and pharmacodynamics to simulate how a drug moves through and impacts the human body, helping determine optimal dosages.
+* **Machine Learning:** Deploying advanced algorithms to predict patient outcomes and streamline trial recruitment.
+* **Interactive Visualizations:** Using R Shiny to build interactive dashboards, allowing non-technical stakeholders to explore complex clinical data for faster decision-making.
+
+Would you like to expand on any specific application of R in pharma, or do you need help preparing a submission for the conference?
